@@ -1,0 +1,110 @@
+{
+  "number": 144,
+  "title": "144. Chang kasbiy xavf sifatida, changning fizik va kimyoviy xossalari.",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Chang deyarli barcha ishlab chiqarish tarmoqlarida uchraydigan zararli omil bo'lib, uzoq muddat yuqori konsentratsiyada ta'sir etganda nafas a'zolarining og'ir kasb kasalliklari, ya'ni pnevmokoniozlar va chang bronxitiga olib keladi [1, 2].",
+        "Ushbu mavzuda changning tushunchasi, tarqalishi, tasnifi, fizik va kimyoviy xossalari, organizmga ta'sirini belgilovchi shartlar va gigiyenik normalash tamoyillari bayon etiladi [1, 2, 3]."
+      ]
+    },
+    {
+      "heading": "Chang tushunchasi",
+      "content": [
+        "Zararli ishlab chiqarish omili sifatida chang ishlab chiqarish jarayonida hosil bo'ladigan va havoda uzoq vaqt muallaq holatda bo'ladigan qattiq moddaning mayda dispers zarrachalari yig'indisidir [1].",
+        "Chang aerozol, ya'ni aerodinamik tizim bo'lib, unda dispers muhit havo, dispers faza esa chang zarrachalari. Zararli omil sifatida o'lchami 1000 dan 0,0001 mkm gacha bo'lgan zarrachalar hisobga olinadi [1]."
+      ]
+    },
+    {
+      "heading": "Chang tarqalishi",
+      "content": [
+        "Chang tabiatda va ishlab chiqarishda keng tarqalgan, chunki u ko'pincha yer po'sti yuzasini ishlash natijasida hosil bo'ladi va tarkibida kremniy bor. Kremniy yer po'sti massasining 27,6 % ni tashkil etadi va tarqalishi bo'yicha kisloroddan keyin ikkinchi o'rinda [1].",
+        "Chang konchilik va ko'mir sanoati, metallurgiya, mashinasozlik, to'qimachilik, qishloq xo'jaligi ishlari, qurilish materiallari ishlab chiqarish va qurilish, kimyoviy ishlab chiqarish va boshqa tarmoqlarda yetakchi zararli omil hisoblanadi. Un tortish, paxta tozalash, sement va g'isht ishlab chiqarish, chinni va sopol buyumlar tayyorlashda ham chang hosil bo'ladi [1, 3]."
+      ]
+    },
+    {
+      "heading": "Changning tasnifi",
+      "content": [
+        "Kelib chiqishi bo'yicha chang noorganik, organik va aralash turlarga ajratiladi. Hosil bo'lish usuliga qarab kondensatsiya aerozoli va dezintegratsiya aerozoli farqlanadi [1].",
+        "Dispersligi bo'yicha ko'rinadigan (10 mkm dan katta), mikroskopik (0,25-10 mkm) va ultramikroskopik (0,25 mkm dan kichik) chang bo'ladi [1]."
+      ]
+    },
+    {
+      "heading": "Organizmga ta'siri bo'yicha tasnif",
+      "content": [
+        "Ta'sir xarakteriga qarab chang fibrogen (asosan fibrogen ta'sirli aerozol, ATFA), toksik, fotosensibilizatsiyalovchi, kantserogen, bezovta qiluvchi va ionlovchi turlarga bo'linadi [1].",
+        "Bu tasnif gigiyenist uchun eng muhim, chunki normalash tamoyillari va profilaktika choralari changning ta'sir xarakteriga bog'liq. Fibrogen chang o'pkada biriktiruvchi to'qima rivojlanishiga olib keladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Organizmga ta'sir shartlari",
+      "content": [
+        "Changning organizmga ta'siri uning fizik-kimyoviy xossalari, chang yuklamasi (konsentratsiya va ta'sir davomiyligi) hamda organizmning individual xususiyatlari bilan belgilanadi [1].",
+        "Changning zararli ta'siri uning kimyoviy tarkibi, zarrachalarining kattaligi, shakli, havo hajmi birligidagi zarrachalar soni va kishining changli havoda nafas olish muddatiga bog'liq [3]."
+      ]
+    },
+    {
+      "heading": "Chang yuklamasi",
+      "content": [
+        "Changning ta'sirini baholashda chang yuklamasi (CHY) ko'rsatkichi qo'llanadi: u havodagi chang konsentratsiyasi va ta'sir davomiyligining ko'paytmasidan iborat. Shu sababli gigiyenist chang yuklamasini kamaytirishga alohida e'tibor beradi [1].",
+        "Qishloq xo'jaligida yerga ishlov berish va hosilni yig'ish, hosilga dastlabki ishlov berish ishlarida, asbest to'qimachilik korxonalarida va tola olishda chang yetakchi omillardan biri hisoblanadi [1]."
+      ]
+    },
+    {
+      "heading": "Dispersligi",
+      "content": [
+        "Zarrachalar dispersligi nafas a'zolariga kirish chuqurligini, ushlanish darajasini va havoda cho'kish tezligini belgilaydi. Nafas olishga kirish bo'yicha respirabel fraksiya 5 mkm, fibrogenlik bo'yicha 1-2 mkm [1].",
+        "O'lchami 100 mkm va undan katta zarrachalar Nyuton qonuni bo'yicha, 0,1-100 mkm zarrachalar Stoks qonuni bo'yicha cho'kadi, 0,1 mkm dan kichiklari Broun harakatida bo'ladi. Mayda zarrachalar alveolalargacha kirib, u yerda to'planishi mumkin [1, 3]."
+      ]
+    },
+    {
+      "heading": "Solishtirma sirt va sorbsiya",
+      "content": [
+        "Maydalanganda zarrachalar umumiy sirti keskin ortadi: 1 sm³ modda 0,1 mkm gacha maydalansa, sirt 100 000 marta ortadi. Bu gaz, bug', zaharli va radioaktiv moddalar hamda mikroorganizmlarning sorbsiyasini kuchaytiradi [1].",
+        "Natijada portlash va yong'in xavfi bor chang-gaz aralashmalari hosil bo'lishi mumkin. Shu sababli changni gigiyenik baholashda dispers tarkib birinchi navbatda aniqlanadi [1]."
+      ]
+    },
+    {
+      "heading": "Kimyoviy tarkib",
+      "content": [
+        "Changning ta'sir kuchi va xarakteri asosan undagi kremniy dioksidi (SiO2), ya'ni erkin kvars va bog'langan silikat miqdoriga bog'liq. Erkin kremniy dioksidi qancha ko'p bo'lsa, o'pkada fibroz shunchalik tez rivojlanadi [1, 3].",
+        "Kremniy dioksididan tashqari boshqa tarkibiy qismlari (minerallar, metallar, organik qism) bor aralash changlar odatda kamroq xavfli. Tarkibida 10 % dan ortiq erkin kremniy dioksidi bo'lgan changlar silikozni keltirib chiqaradi [1, 3]."
+      ]
+    },
+    {
+      "heading": "Boshqa xossalari",
+      "content": [
+        "Eruvchanlik ikki xil ahamiyatga ega: toksik chang uchun salbiy, fibrogen chang uchun ijobiy. Elektr zaryadlanganlik changning havoda cho'kish tezligiga va nafas a'zolariga kirish chuqurligiga ta'sir qiladi [1].",
+        "Zarrachalarning shakli, yuzasi va solishtirma og'irligi katta gigiyenik ahamiyatga ega emas. Radioaktivlik salbiy va xavfli xossa bo'lib, tabiiy yoki sun'iy kelib chiqishi mumkin [1]."
+      ]
+    },
+    {
+      "heading": "Organizmga kirish yo'llari",
+      "content": [
+        "Chang havo bilan teriga, ko'z shilliq qavatiga tushadi va nafas yo'llariga kiradi. Teriga tushganda ter bezlari chiqish yo'llari berkilib, terining yog' ajratish funksiyasi buziladi, bu organizmning qizib ketishiga sabab bo'ladi [3].",
+        "Yuqori nafas yo'llarida chang burun shilliq pardasini yallig'lantiradi, uzoq ta'sirda shilliq qavat atrofiyasi kuzatiladi. Chang bronxlarga ta'sir qilib, chang bronxitiga sabab bo'lishi mumkin [3]."
+      ]
+    },
+    {
+      "heading": "Gigiyenik normalash",
+      "content": [
+        "Chang kimyoviy tarkibiga qarab normalanadi. Bir necha moddadan iborat changlar eng zararli qismi bo'yicha baholanadi, tarkibida SiO2 bo'lgan changlar fibrogen deb ataladi va shu miqdori bo'yicha normalanadi [2].",
+        "Ishchi zona havosida kristall SiO2 miqdori 70 % dan ortiq changlarda o'rtacha smenaviy konsentratsiya 1 mg/m³, 10-70 % da 2 mg/m³, 2-10 % da 4 mg/m³, 2 % dan kam bo'lsa 6 mg/m³ dan oshmasligi kerak [2, 4].",
+        "Chang xavfini baholashda uning konsentratsiyasi, dispersligi va kimyoviy tarkibi birga ko'riladi, chunki ularning har biri alohida emas, majmua sifatida organizmga ta'sir qiladi [1, 3]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "Chang barcha ishlab chiqarish tarmoqlarida keng tarqalgan zararli omil. Uning xavfi dispersligi, kimyoviy tarkibi (ayniqsa erkin SiO2), konsentratsiyasi va ta'sir davomiyligi bilan belgilanadi. Fibrogen chang eng xavfli bo'lib, pnevmokonioz va chang bronxitiga olib keladi, shu sababli changni gigiyenik tavsiflash va me'yorlash tamoyillarini bilish zarur [1, 2, 3, 4]."
+      ]
+    }
+  ],
+  "references": [
+    "Iskandarova G.T. (tahrir) Mehnat gigiyenasi bo'yicha ma'ruzalar matni (rus tilida). Toshkent tibbiyot akademiyasi Kommunal gigiyena va mehnat gigiyenasi kafedrasi. Toshkent. xayrullokomilov.uz/kutubxona, material ID 2348. 2009.",
+    "Mehnat gigiyenasi fanidan amaliy mashg'ulotlar uchun o'quv qo'llanma (o'zbek tilida, kirill yozuvida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 1309. 2009.",
+    "Do'schanov B.A., Iskandarova Sh.T. Umumiy gigiyena: tibbiyot oliy o'quv yurtlari talabalari uchun darslik, 4-nashr. Toshkent: Yangi asr avlodi. xayrullokomilov.uz/kutubxona, material ID 2767. 2008.",
+    "O'zbekiston Respublikasi Bosh davlat sanitariya vrachi. Ishchi zona havosidagi zararli moddalarning chegaraviy ruxsat etilgan konsentratsiyalari (REK): gigiyenik normativlar, SanPiN № 0294-11 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 697. 2011."
+  ]
+}

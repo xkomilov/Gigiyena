@@ -1,0 +1,123 @@
+{
+  "number": 146,
+  "title": "146. Changning salbiy ta'sirini oldini olish uchun qanday choralar ko'rish kerak?",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Changga qarshi kurash katta gigiyenik, iqtisodiy va texnologik ahamiyatga ega. Kasb patologiyasining mavjudligi, chang chiqaradigan korxonalarning ko'pligi, atmosfera havosining ifloslanishi gigiyenik ahamiyatini, qimmatli mahsulotlarning chang sifatida yo'qolishi iqtisodiy ahamiyatini belgilaydi [1, 2].",
+        "Ushbu mavzuda changning salbiy ta'sirini oldini olish choralari: texnologik, sanitariya-texnik, tibbiy-profilaktik, shaxsiy himoya va atrof muhitni muhofaza qilish tadbirlari bayon etiladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Profilaktikaning ahamiyati",
+      "content": [
+        "Mamlakatda mehnat sharoitlarini sog'lomlashtirish bo'yicha olib borilgan katta amaliy ish natijasida changli kasb kasalliklari, asosan silikoz kamaydi. Shu bilan birga surunkali bronxit o'sha darajada qolmoqda [1].",
+        "Changning zararli ta'sirini kamaytirish nafaqat sanitariya va gigiyena xodimlarining, balki iqtisodchilar va ishlab chiqarish xodimlarining ham vazifasi hisoblanadi [2]."
+      ]
+    },
+    {
+      "heading": "Choralar tizimi",
+      "content": [
+        "Profilaktika choralari to'rt guruhga bo'linadi: texnologik tadbirlar (eng tub), sanitariya-texnik tadbirlar, tibbiy-profilaktik choralar va atrof muhitni muhofaza qilish. Ularning umumiy maqsadi chang yuklamasini, ya'ni konsentratsiya va ta'sir davomiyligini kamaytirish [1].",
+        "Chang chiqarishga qarshi umumiy tadbirlar bilan birga shaxsiy gigiyena va shaxsiy himoya choralarini qo'llash ham muhim [2]."
+      ]
+    },
+    {
+      "heading": "Texnologik tadbirlar",
+      "content": [
+        "Texnologik tadbirlar eng tub chora, chunki texnologik jarayonni o'zgartirish bilan zararli omilni kamaytirish va amalda butunlay yo'qotish mumkin. Bunga masofadan boshqariladigan avtomatik payvandlash joriy etish kiradi [1].",
+        "Qum purkash o'rniga dyuza bilan (zarra purkash) ishlov berish, kokilga quyish yoki bosim ostida quyish, metallarga elektrokimyoviy ishlov berish, foydali qazilmalarni gidravlik usulda qazib olish ham shunday tadbirlar [1]."
+      ]
+    },
+    {
+      "heading": "Xom ashyo va jarayon",
+      "content": [
+        "Kukunsimon xom ashyo o'rniga donador, pastasimon yoki kapsulalangan xom ashyodan foydalanish chang hosil bo'lishini kamaytiradi. Ko'mir qizdirish o'rniga yuqori chastotali qizdirish keng qo'llanishi lozim [1].",
+        "Uskunalarni germetiklash va texnologik jarayonning uzluksizligi, ishlab chiqarish jarayonlarini kompleks mexanizatsiyalash va avtomatlashtirish ham chang hosil bo'lishini kamaytiradi [1]."
+      ]
+    },
+    {
+      "heading": "Konchilikda tadbirlar",
+      "content": [
+        "Tog' jinslarini suv bilan burg'ilash, qo'porilgan tog' jinslariga suv sepish va yetarli shamollatish natijasida kon havosidagi chang miqdori asosan yirik zarrachalar hisobiga kamayadi. Suv berish miqdori qo'l perforatorida daqiqasiga 3 litr, teleskopik perforatorda 5 litr bo'ladi [1, 2].",
+        "Barcha turdagi tog'-kon uskunalarini (kombayn, burg'ilash qurilmalari) yuklash va tushirish joylarida purkagichlar bilan sug'orish, portlatish ishlaridan oldin suv pardalari qo'llanadi. Suv bilan namlanmaydigan mayda zarrachalar uchun quruq changsizlantirish ham qo'llanadi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Namlash vositalari",
+      "content": [
+        "Suvning namlash xususiyatini oshirish uchun unga neft chiqindilari va maxsus sintetik moddalar qo'shiladi. OP-7, OP-8 namlagichlar kichik diametrli changlarni namlashda ishlatiladi [2].",
+        "Yer osti ishlarida changga qarshi kurash faqat namlab qazish bilan cheklanmaydi: suv berish imkoni bo'lmasa, quruq changsizlantirish usuli qo'llanadi. Chang tutgichli maxsus tizimlar havoni 97-98 % changsizlantirishi mumkin [2]."
+      ]
+    },
+    {
+      "heading": "Sanitariya-texnik tadbirlar",
+      "content": [
+        "Changlovchi uskunalar ustiga mahalliy berkitmalar o'rnatilib, ularning ostidan havo so'riladi. Mexanik ventilyatsiya (mahalliy so'rish, 1,5-4 m/s tezlikda, va umumiy havo berish) chiqariladigan havoni tozalash bilan birga o'rnatiladi [1].",
+        "Xonalar nam usulda tozalanadi. Ventilyatsiyaning ish tartibi ishlab chiqarish xonalari havosidagi chang va zararli moddalar miqdorini chegaraviy qiymatlardan yuqori bo'lmasligini ta'minlashi kerak [1, 2]."
+      ]
+    },
+    {
+      "heading": "Kon ventilyatsiyasi",
+      "content": [
+        "Yer osti konlarini sun'iy shamollatish changga qarshi kurash shartlaridan biri. Yetarli shamollatishsiz ish joylarida chang miqdorini talab etilgan darajaga tushirib bo'lmaydi [2].",
+        "Shamollatishda havo oqimi tezligi soniyasiga 0,6-0,8 m dan kam bo'lmasligi va 1,5-1,8 m dan oshmasligi kerak. Oqim tezligi juda sekin bo'lsa aerozol tez chiqib ketmaydi, oshib ketsa yoyilib ketadi [2]."
+      ]
+    },
+    {
+      "heading": "Shaxsiy himoya vositalari",
+      "content": [
+        "Respiratorlar, maxsus kiyim va chang himoya ko'zoynaklari shaxsiy himoya vositalari sifatida majburiy qo'llanadi [1].",
+        "Yer ostida ishlovchilar shaxsiy himoya asboblari, korjomalar bilan ta'minlanadi, yer osti qazish joylari yetarli sun'iy yoritishga ega bo'ladi. Changdan himoya uchun respiratorlarning samarali turlari qo'llanadi [2]."
+      ]
+    },
+    {
+      "heading": "Tibbiy-profilaktik choralar",
+      "content": [
+        "Ish sharoitlari muntazam nazorat qilinadi, ishchilar dastlabki va davriy tibbiy ko'rikdan o'tadi. Sanitariya-maishiy xonalar majmuasi, shu jumladan fotariylar qurilishi, sanitariya-ma'rifiy ish olib boriladi [1].",
+        "Changli kasbda ishlovchilarning ish kunini qisqartirish, qo'shimcha mehnat ta'tillari berish, ovqatlanishini yaxshilash, dam olish uylari, profilaktoriylar va sanatoriylarga yo'llanma berish choralari ko'zda tutilgan [2]."
+      ]
+    },
+    {
+      "heading": "Fotariylar",
+      "content": [
+        "Kon sanoati tarmoqlarida tashqi muhit omillarining noxush ta'siriga qarshilikni oshirish uchun ultrabinafsha va infraqizil nurlar bilan nurlantirish, ya'ni fotariylar qurish tavsiya etiladi. Nurlantirishdan oldin ishchilar shifokor ko'rigidan o'tadi [2].",
+        "Fotariylarni ishchilar dushdan chiqib, kiyinadigan toza joy o'rtasidagi dahlizda o'rnatish tavsiya etiladi. Bu choralar changli kasbdagi ishchilarning salomatligini mustahkamlash majmuasining tarkibiy qismi [2]."
+      ]
+    },
+    {
+      "heading": "Gigiyenik normalash",
+      "content": [
+        "Chang miqdori kimyoviy tarkibiga qarab normalanadi. Fibrogen changlarda kremniy dioksidi 70 % dan ortiq bo'lsa 1 mg/m³, 10-70 % da 2 mg/m³, 2-10 % da 4 mg/m³; asbest uchun 2 mg/m³. Changning eng yuqori chegaraviy konsentratsiyasi 10 mg/m³ [1, 3].",
+        "Ishchi zona havosidagi zararli moddalar normalari 0294-11-son SanPiN bilan tartibga solinadi. Kristall kremniy dioksidi 70 % dan ortiq changlar uchun eng ko'pi bilan bir martalik 3 mg/m³ va smena bo'yicha 1 mg/m³ ruxsat etiladi [3]."
+      ]
+    },
+    {
+      "heading": "Atrof muhitni muhofaza qilish",
+      "content": [
+        "Ventilyatsiya havosini atmosferaga chiqarishdan oldin majburiy tozalash (chang cho'ktirish kameralari, siklonlar, multisiklonlar, skrubberlar, qopli filtrlar) o'tkaziladi [1].",
+        "Yetarli sanitariya-himoya zonasi, ko'kalamzorlashtirish va hududni sug'orish ham tavsiya etiladi."
+      ]
+    },
+    {
+      "heading": "Ishlab chiqarish nazorati",
+      "content": [
+        "Chang bilan kurashishda alohida e'tibor korxonalarni loyihalash bosqichidagi ogohlantiruvchi sanitariya nazoratiga qaratiladi. Ayniqsa chang yuklamasini kamaytirish muhim [1].",
+        "Chang miqdori muntazam o'lchanib, normalar bilan taqqoslanadi. Bunda tortish usuli qo'llanadi: havo namunasi filtrdan o'tkaziladi va filtr og'irligining farqi bo'yicha chang konsentratsiyasi mg/m³ da hisoblanadi [4]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "Changning salbiy ta'sirini oldini olish uchun texnologik (sanoat jarayonlarini avtomatlashtirish, namlab ishlov berish, germetiklash), sanitariya-texnik (mahalliy so'rish, ventilyatsiya, nam tozalash), tibbiy-profilaktik (nazorat, normalash, tibbiy ko'rik), shaxsiy himoya (respirator, maxsus kiyim) va atrof muhitni muhofaza qilish choralari majmuasini qo'llash zarur. Eng samarali chora texnologik jarayonni o'zgartirishdir [1, 2, 3, 4]."
+      ]
+    }
+  ],
+  "references": [
+    "Iskandarova G.T. (tahrir) Mehnat gigiyenasi bo'yicha ma'ruzalar matni (rus tilida). Toshkent tibbiyot akademiyasi Kommunal gigiyena va mehnat gigiyenasi kafedrasi. Toshkent. xayrullokomilov.uz/kutubxona, material ID 2348. 2009.",
+    "Do'schanov B.A., Iskandarova Sh.T. Umumiy gigiyena: tibbiyot oliy o'quv yurtlari talabalari uchun darslik, 4-nashr. Toshkent: Yangi asr avlodi. xayrullokomilov.uz/kutubxona, material ID 2767. 2008.",
+    "O'zbekiston Respublikasi Bosh davlat sanitariya vrachi. Ishchi zona havosidagi zararli moddalarning chegaraviy ruxsat etilgan konsentratsiyalari (REK): gigiyenik normativlar, SanPiN № 0294-11 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 697. 2011.",
+    "Mehnat gigiyenasi fanidan amaliy mashg'ulotlar uchun o'quv qo'llanma (o'zbek tilida, kirill yozuvida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 1309. 2009."
+  ]
+}
