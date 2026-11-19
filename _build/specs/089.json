@@ -1,0 +1,87 @@
+{
+  "number": 89,
+  "title": "89. Siz texnologik jarayoni qanday bosqichlarini bilasiz?",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Go'sht mahsulotlarini ishlab chiqarishning texnologik jarayoni xom ashyoni qabul qilishdan tayyor mahsulotni tashishgacha bo'lgan izchil bosqichlardan iborat. Sanitariya vrachi uchun har bir bosqich xavf manbai bo'lishi mumkin, shuning uchun bosqichlar bo'yicha nazorat nuqtalari aniqlanadi [1, 2].",
+        "Ushbu mavzuda go'sht va kolbasa ishlab chiqarish korxonalaridagi asosiy bosqichlar: qabul qilish, sovutish, bo'laklash va suyagidan ajratish, tuzlash, maydalash, to'ldirish, termik ishlov, sovutish, qadoqlash, saqlash va tashish ketma-ket bayon etiladi [1, 2, 3]."
+      ]
+    },
+    {
+      "heading": "Xom ashyoni qabul qilish va kirish nazorati",
+      "content": [
+        "Birinchi bosqichda xom ashyo va ingredientlar xavfsizlik talablari hisobga olinib qabul qilinadi. Zarurat bo'lganda vizual ko'rik, qadoq butunligi va yaroqlilik muddati tekshiriladi, sovitilgan va muzlatilgan mahsulot harorati o'lchanadi, qayta ishlangach ham yaroqsiz bo'ladigan xom ashyo qabul qilinmaydi [2].",
+        "Kiruvchi materiallar hisobotida partiya raqami, ishlab chiqaruvchi va yetkazib beruvchi nomi, manzili va yetkazib berish sanasi qayd etiladi. Kolbasa ishlab chiqarishga veterinariya-sanitariya ekspertizasida yaroqli deb topilgan, tamg'ali go'sht qabul qilinadi, mog'orlagan va shilimshiq go'sht ishlatilmaydi [2, 3]."
+      ]
+    },
+    {
+      "heading": "Sovutish va saqlash",
+      "content": [
+        "Har bir turdagi mahsulot uchun alohida sovutish rejimiga rioya qilinadi. Cho'chqa go'shtida mushak qalinligi hisobga olinadi va harorat chanoq-son bo'g'imida 7-10 sm chuqurlikda o'lchanadi, boshqa turdagi go'sht belgilangan haroratgacha sovutiladi yoki saqlash kamerasida kamida 24 soat ushlab turiladi [1]. Kolbasa yoki go'sht konservasi ishlab chiqarishda uskunalardan ajralgan issiqlik tufayli mahsulot buzilmasligi uchun muz yordamida sovutib turiladi [1].",
+        "Sovutgichlarda yuklar polidan kamida 8 sm balandlikdagi taglikda, devor va sovutish moslamalaridan 30 sm masofada joylashtiriladi. Tez buziladigan mahsulotlarni saqlashda harorat va namlik nazorat qilinadi, past haroratda saqlanadigan mahsulot issiqlik ishlovidan keyin imkon qadar tezroq xavfsiz haroratgacha sovutiladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Bo'laklash va suyagidan ajratish",
+      "content": [
+        "Xom ashyo sexida tana go'shti, yarim tana yoki chorak qismlar belgilangan kesish sxemasi bo'yicha bo'laklanadi, mushak, yog' va biriktiruvchi to'qima suyakdan ajratiladi, so'ng yog', tog'ay, pay, yirik qon va limfa tomirlari, qon laxtalari hamda mayda suyaklar olib tashlanadi [1].",
+        "Suyakdan ajratish bo'limida veterinariya eksperti mushak to'qimasining chuqur qatlamlarini ko'zdan kechiradi va yiringli o'choqlar, infiltrat, gematoma yoki sistitserkoz bilan zararlangan joylarni chiqarib tashlaydi. Ishlar qattiq yog'ochdan tayyorlangan taxtakachlarda bajariladi [1, 3]."
+      ]
+    },
+    {
+      "heading": "Tuzlash",
+      "content": [
+        "Cho'chqa go'shti mahsulotlari asosan go'shtni namakob bilan aralashtirish, so'ng tuzli aralashma bilan ishqalab bir necha kun ushlab turish yo'li bilan tuzlanadi. Tuzlashda yoki qiyma tayyorlashda natriy nitritning 2,5 foizdan oshmagan eritmasi qo'shiladi [1].",
+        "Quruq nitrit ishlatilmaydi, u alohida yopiq xonada yoki qulflangan temir shkafda saqlanadi, eritma laboratoriyada tayyorlanadi. Tayyor mahsulotda natriy nitrit 100 g da 3-5 mg bo'lishi kerak, laboratoriyada qabul qilish va sexda hisobga olish jurnallari yuritiladi [1]."
+      ]
+    },
+    {
+      "heading": "Maydalash va aralashtirish",
+      "content": [
+        "Maydalangan mahsulotlar korxona tasdiqlagan retsept bo'yicha tuzlanadi va kesiladi, bunda mexanik ishlov natijasida haroratning ko'tarilishini oldini olish uchun sovituvchi generatorlar ishlatiladi. Kesish oxirida qiymaning harorati 18 °C, sexdagi harorat 12 °C bo'lishi lozim [1].",
+        "Kolbasa batonlariga havo kamroq tushishi va saqlash muddatini uzaytirish uchun vakuumli shpritslar ishlatiladi, sexda harorat 12 °C, nisbiy namlik 70 foiz. Pishirilgan kolbasa uchun tuzlangan maydalangan go'sht 20-40 °C da idishlarda yoki uzluksiz pishirish qurilmalarida saqlanadi [1]."
+      ]
+    },
+    {
+      "heading": "Termik ishlov",
+      "content": [
+        "Termik ishlov stasionar qovurish va pishirish kameralarida, aralash kameralarda yoki havo namligi va haroratini avtomatik boshqaradigan termoagregatlarda amalga oshiriladi. Kameralar harorat va namlikni boshqaruvchi moslamalar bilan jihozlanadi, rejim jurnalga yoziladi, ish joylarida harorat 35-45 °C bo'ladi [1].",
+        "Qaynatiladigan kolbasa, sosiska va sardelkalar 75-85 °C da, batonning ichi 70-72 °C ga yetguncha pishiriladi. Yarim dudlangan mahsulotlar 68-72 °C, qaynatilgan-dudlanganlari 68 °C, jigarli kolbasalar 72 °C gacha haroratda pishiriladi. Qovurish diametrga qarab 80-110 °C da 60-140 daqiqa davom etadi [1]."
+      ]
+    },
+    {
+      "heading": "Sovutish, dudlash va muzdan eritish",
+      "content": [
+        "Pishgan mahsulot buridishi va qoldiq mikroflora ko'payishining oldini olish uchun tezda sovuq suvli dush ostida, so'ngra kameralarda +10 °C da sovutiladi. Xom dudlangan kolbasa 75-78 foiz namlikda 18-22 °C da 2-3 kun, 10-12 °C da esa 25-30 kun dudlanadi [1].",
+        "Muzdan eritish patogen mikroorganizmlar ko'payishi va toksin hosil bo'lishi xavfini kamaytiradigan tarzda amalga oshiriladi, hosil bo'lgan suyuqlik xavfsiz usulda to'kib tashlanadi. Sovutilgan yoki muzdan eritilgan mahsulot xavfsiz haroratda saqlanadi [2]."
+      ]
+    },
+    {
+      "heading": "Zararsizlantirish va shartli yaroqli go'sht",
+      "content": [
+        "Go'sht va go'sht mahsulotlari 2 kg dan ortiq bo'lmagan, qalinligi 8 sm gacha bo'laklarga bo'linib zararsizlantiriladi: ochiq qozonlarda 3 soat, yopiq qozonlarda 0,5 MPa dan yuqori bug' bosimida 2,5 soat. Bo'lak ichidagi harorat kamida 80 °C bo'lsa, go'sht zararsizlantirilgan hisoblanadi [1].",
+        "Suyilgan go'sht mahsulotini dastlabki qayta ishlovsiz keyingi bosqichga o'tkazish mumkin emas. Kolbasa, pazandalik va konserva ishlab chiqarish xonalarida shartli yaroqli go'sht va subproduktlarni qaynatish yo'li bilan zararsizlantirish taqiqlanadi [1, 3]."
+      ]
+    },
+    {
+      "heading": "Qadoqlash, saqlash va tashish",
+      "content": [
+        "Qadoqlash materiallari ifloslanish manbai bo'lmasligi, oson tozalanishi va kerak bo'lsa dezinfeksiya qilinishi shart. Qadoqlash materiallari qadoqlash joyida bir smenadagi ehtiyojdan ko'p bo'lmagan miqdorda saqlanadi [1, 2]. Qadoqlash jarayoni mahsulot ifloslanishi va qadoq butunligining buzilishiga yo'l qo'ymaydi, tashish uchun faqat ruxsat etilgan, toza transport vositalari va konteynerlar qo'llanadi [2].",
+        "Go'sht va go'sht mahsulotlari sovitish tizimi mavjud avtorefrijeratorlarda tashiladi, xom ashyo tayyor mahsulotdan alohida konteynerda olib boriladi. Xom ashyo tashilganda avtomobil har reysdan keyin yuvish vositalari bilan tozalanadi, ish tugagach sanitariya ishlovi beriladi [1]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "Texnologik jarayon xom ashyoni qabul qilish, sovutish, bo'laklash, tuzlash, maydalash, termik ishlov, sovutish va dudlash, qadoqlash va tashish bosqichlaridan iborat. Har bir bosqich uchun harorat, vaqt va nitrit kabi o'lchanadigan mezonlar belgilangan, ular ishlab chiqarish nazorati dasturida qayd etiladi [1, 2]."
+      ]
+    }
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi xizmati. Go'sht va go'sht mahsulotlarini qayta ishlash korxonalariga qo'yiladigan sanitariya-gigiyena talablari: № 0036-22 SanQvaN. Toshkent (lex.uz/docs/6309222). xayrullokomilov.uz/kutubxona, material ID 896. 2022.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi huzuridagi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi qo'mitasi. Oziq-ovqat mahsuloti xavfsizligining umumiy sanitariya qoidalari, normalari va gigiyena normativlari: № 0079-24 SanQvaN. Toshkent. xayrullokomilov.uz/kutubxona, material ID 650. 2024.",
+    "Korolev A.A. Ovqatlanish gigiyenasi: oliy ta'lim uchun darslik (rus tilida), 4-nashr. Moskva: Akademiya nashriyot markazi. xayrullokomilov.uz/kutubxona, material ID 2367. 2014."
+  ]
+}

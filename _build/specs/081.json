@@ -1,50 +1,83 @@
 {
   "number": 81,
-  "title": "81. Gusht sanoati korxonlarini ustidan sanitariya nazoratini utkazishda ovkatlanish gigiyenasi buyicha vrachning asosiy vazifalari.",
+  "title": "81. Go'sht sanoati korxonalari ustidan sanitariya nazoratini o'tkazishda ovqatlanish gigiyenasi bo'yicha vrachning asosiy vazifalari.",
   "sections": [
-    { "heading": "Kirish", "content": [
-      "Go'sht sanoati korxonalari aholiga xavfsiz va sifati kafolatlangan oziq-ovqat yetkazishning muhim bo'g'ini hisoblanadi. Bu korxonalar ustidan davlat sanitariya nazoratini ovqatlanish gigiyenasi bo'yicha sanitariya vrachi amalga oshiradi va uning faoliyati xavfsizlikni xom ashyodan tayyor mahsulotgacha bo'lgan barcha bosqichlarda ta'minlashga qaratilgan [1, 2].",
-      "Ushbu mavzuda vrachning huquqiy asosi, loyiha va joylashuvni ko'rib chiqishdagi vazifalari, nazorat ob'ektlari, texnologik jarayon, natriy nitrit, saqlash, xodimlar gigiyenasi va laboratoriya nazorati ketma-ket bayon etiladi [1, 2, 3]."
-    ]},
-    { "heading": "Asosiy vazifalar va huquqiy asos", "content": [
-      "Ovqatlanish gigiyenasi bo'limining vazifalari aholiga xavfsiz va sifati kafolatlangan mahsulot yetkazishda sanitariya-epidemiologik osoyishtalik talablariga amal qilinishini nazorat qilish, oziq-ovqat ishlab chiqarish korxonalarida davlat sanitariya nazoratini tashkil etish, shuningdek ovqatdan zaharlanishning oldini olishdir [1].",
-      "Vrach yuridik va jismoniy shaxslar tomonidan sanitariya-gigiyena va epidemiyaga qarshi talablarga rioya qilinishini nazorat qiladi. Shuningdek ishlab chiqarish va tashishga oid texnologik yo'riqnomalarni ekspertizadan o'tkazadi va muvofiqlashtiradi, mahsulotlarni sanitariya-kimyoviy va bakteriologik tekshirishning yangi usullarini joriy etishda qatnashadi [1]."
-    ]},
-    { "heading": "Loyihalash va joylashuvni ko'rib chiqish", "content": [
-      "Vrachning vazifasi korxonalarni loyihalash, qurish, joylashtirish va foydalanishga topshirishda amaldagi sanitariya va qurilish talablariga rioya etilishini hamda ularning atrof-muhitga zararli ta'sirini oldini olishni ta'minlashdir. Go'sht korxonalarining sanitariya himoya mintaqasi atmosfera havosini muhofaza qilish qoidalari bo'yicha belgilanadi [1, 2].",
-      "Kirish va chiqish joylarida dezinfeksiyalovchi gilamchalar, nobarqaror epizootik vaziyatda esa dezinfeksiya eritmasi to'ldirilgan maxsus to'siqlar tashkil etilishi shart. Ishlab chiqarish va saqlash joylariga hasharot va kemiruvchilar kirishini oldini oluvchi choralar ko'rilgani ham tekshiriladi [2]."
-    ]},
-    { "heading": "Nazorat ob'ektlari va tekshirish bandlari", "content": [
-      "Tekshiruvda korxona hududi va binolari, sanitariya himoya zonasi, ishlab chiqarish quvvati va texnologik jarayon ketma-ketligi, suv ta'minoti va kanalizatsiya, isitish, yoritish, shamollatish, harorat va namlik baholanadi. Tayyor mahsulotni ishlab chiqarish texnologik yo'riqnoma va retseptura bo'yicha olib borilishi ham tekshiriladi [3].",
-      "Yetkazib berilgan xom ashyo va tayyor mahsulotning sifati va xavfsizligini tasdiqlovchi yozuvlar, ichki laboratoriyaning mavjudligi, kiyim bilan ta'minlanganlik, tibbiy ko'rik va sanitariya minimumi o'qitilishi, dezinfeksiya, dezinseksiya va deratizatsiya shartnomasi hamda ularning bajarilishi alohida bandlar hisoblanadi [3]."
-    ]},
-    { "heading": "Texnologik jarayon nazorati", "content": [
-      "Xom ashyo va yarim tayyor mahsulot yo'llari kesishmasligi uchun go'shtni tozalash, qobiq tayyorlash, un qabul qilish, ziravorlarni qadoqlash alohida sexlarda bajariladi. Kolbasa mahsulotlari xom va yarim tayyor mahsulotlardan alohida sexlarda ishlab chiqariladi, xom ashyo sexida havo harorati 12 °C, nisbiy namlik 70 foiz bo'lishi lozim [2].",
-      "Termik ishlov stasionar kameralarda o'tkaziladi, kameralar harorat va namlikni boshqaruvchi moslamalar bilan jihozlanadi, rejim jurnalga yoziladi. Qaynatiladigan kolbasa 75-85 °C da pishiriladi, batonning ichida harorat 70-72 °C ga yetishi kerak, pishgan mahsulot esa zudlik bilan sovutiladi [2]."
-    ]},
-    { "heading": "Natriy nitrit ustidan nazorat", "content": [
-      "Go'sht mahsulotlariga quruq nitrit ishlatish mumkin emas. Quruq nitrit boshqa materiallardan alohida yopiq xonada yoki qulflangan temir shkafda saqlanadi, eritma esa korxona laboratoriyasida tayyorlanadi va ishlab chiqarish sexida «natriy nitrit» yozuvli maxsus idishda qulflangan holda turadi [2].",
-      "Eritma kontsentratsiyasi 2,5 foizdan oshmaydi, tayyor mahsulotda natriy nitrit miqdori 100 g da 3-5 mg bo'lishi kerak. Laboratoriyada qabul qilish va iste'mol jurnali, sexda esa hisobga olish jurnali yuritiladi, sexda mas'ul shaxs belgilanadi. Tekshiruvda nitrit uchun alohida seyf va ishlatilishini qayd etuvchi muhrlangan jurnal tashkil etilganligi hamda mas'ul shaxs biriktirilganligi ham baholanadi [2, 3]."
-    ]},
-    { "heading": "Sovutish, saqlash va tashish", "content": [
-      "Vrach sovutgich kameralari uchun mahsulotlar taglikda polidan 8 sm balandlikda, devordan 30 sm masofada joylashtirilishini, kamerada mog'or yo'qligini va ularning mikrobiologik nazoratini tekshiradi. Omborxonalar toza, xom ashyo va yordamchi materiallar stellajlarda saqlanishi kerak [2].",
-      "Go'sht va go'sht mahsulotlari sovitish tizimi mavjud avtorefrijeratorlarda tashiladi, xom ashyo tayyor mahsulotdan alohida konteynerda olib boriladi. Xom ashyo tashigan avtomobil har reysdan keyin tozalanadi, qaytariladigan idish toza holda qabul qilinadi va korxonada qayta tozalanadi [2]."
-    ]},
-    { "heading": "Xodimlar gigiyenasi va tibbiy ko'rik", "content": [
-      "Korxona xodimlari belgilangan tartibda tibbiy ko'rik va tekshiruvlardan o'tadi. Ishlab chiqarish binosiga kirishdan oldin toza sanitariya kiyimi kiyiladi, sochlar yopiladi, maxsus poyabzal kiyiladi, hojatxonaga kirishdan oldin maxsus kiyim echiladi [2].",
-      "Qo'llar ishdan oldin, har tanaffusdan keyin, bir jarayondan ikkinchisiga o'tishda, ifloslangan buyum bilan aloqadan keyin va hojatxonadan so'ng ikki marta yuviladi va dezinfeksiya qilinadi. Pichoqni etik ustida yoki kamar orqasida olib yurish, pichoqni stol ustida saqlash taqiqlanadi [2]."
-    ]},
-    { "heading": "Ishlab chiqarish nazorati va laboratoriya", "content": [
-      "Korxonada ichki nazorat dasturi xom ashyo, idish, jihoz va texnologik jarayonlarni ifloslantirishi mumkin bo'lgan xavflarni nazorat qilishni, ishlab chiqarishning muhim nuqtalarini aniqlashni va profilaktik choralarni ishlab chiqishni o'z ichiga oladi. Nazorat jarayonga tayyorgarlik, texnologik ishlov va qadoqlash hamda yetkazib berish bosqichlarida tashkil etiladi [2].",
-      "Vrach nazoratining vazifasi korxona dasturining mavjudligi va amalda bajarilishini baholash, monitoring natijalari va tuzatish choralari qayd etilganini tekshirishdir. Xavfsizlik buzilishi aniqlanganda mahsulotlar ajratib qo'yiladi, yaroqsizlari utilizatsiya qilinadi, buzilish sabablari aniqlanadi [2, 4]."
-    ]},
-    { "heading": "Ovqatdan zaharlanishni tahlil qilish", "content": [
-      "Bo'lim hududlardan ovqatdan zaharlanish holatlari bo'yicha ma'lumot qabul qilib tahlil etadi, zaharlanish sabablarini aniqlaydi va profilaktik tadbirlarni maqsadli tashkil etishda mutaxassislarga amaliy-uslubiy yordam beradi [1].",
-      "Bo'lim aholi orasida ratsional ovqatlanish va oziq-ovqat xavfsizligi bo'yicha targ'ibot ishlarini olib boradi, ilmiy-amaliy konferensiya va seminarlarda qatnashadi, ommaviy axborot vositalarida chiqishlar tashkil etadi [1]."
-    ]},
-    { "heading": "Xulosa", "content": [
-      "Go'sht sanoati korxonalarida ovqatlanish gigiyenasi vrachining vazifalari loyihani ko'rib chiqishdan boshlab texnologik jarayon, natriy nitrit, sovutish zanjiri, xodimlar gigiyenasi va ichki nazorat dasturigacha bo'lgan keng doirani qamrab oladi. Bu vazifalar mahsulot xavfsizligini bir butun tizim sifatida ta'minlaydi [1, 2, 3]."
-    ]}
+    {
+      "heading": "Kirish",
+      "content": [
+        "Go'sht sanoati korxonalari aholiga xavfsiz va sifati kafolatlangan oziq-ovqat yetkazishning muhim bo'g'ini hisoblanadi. Bu korxonalar ustidan davlat sanitariya nazoratini ovqatlanish gigiyenasi bo'yicha sanitariya vrachi amalga oshiradi va uning faoliyati xavfsizlikni xom ashyodan tayyor mahsulotgacha bo'lgan barcha bosqichlarda ta'minlashga qaratilgan [1, 2].",
+        "Ushbu mavzuda vrachning huquqiy asosi, loyiha va joylashuvni ko'rib chiqishdagi vazifalari, nazorat ob'ektlari, texnologik jarayon, natriy nitrit, saqlash, xodimlar gigiyenasi va laboratoriya nazorati ketma-ket bayon etiladi [1, 2, 3]."
+      ]
+    },
+    {
+      "heading": "Asosiy vazifalar va huquqiy asos",
+      "content": [
+        "Ovqatlanish gigiyenasi bo'limining vazifalari aholiga xavfsiz va sifati kafolatlangan mahsulot yetkazishda sanitariya-epidemiologik osoyishtalik talablariga amal qilinishini nazorat qilish, oziq-ovqat ishlab chiqarish korxonalarida davlat sanitariya nazoratini tashkil etish, shuningdek ovqatdan zaharlanishning oldini olishdir [1].",
+        "Vrach yuridik va jismoniy shaxslar tomonidan sanitariya-gigiyena va epidemiyaga qarshi talablarga rioya qilinishini nazorat qiladi. Shuningdek ishlab chiqarish va tashishga oid texnologik yo'riqnomalarni ekspertizadan o'tkazadi va muvofiqlashtiradi, mahsulotlarni sanitariya-kimyoviy va bakteriologik tekshirishning yangi usullarini joriy etishda qatnashadi [1]."
+      ]
+    },
+    {
+      "heading": "Loyihalash va joylashuvni ko'rib chiqish",
+      "content": [
+        "Vrachning vazifasi korxonalarni loyihalash, qurish, joylashtirish va foydalanishga topshirishda amaldagi sanitariya va qurilish talablariga rioya etilishini hamda ularning atrof-muhitga zararli ta'sirini oldini olishni ta'minlashdir. Go'sht korxonalarining sanitariya himoya mintaqasi atmosfera havosini muhofaza qilish qoidalari bo'yicha belgilanadi [1, 2].",
+        "Kirish va chiqish joylarida dezinfeksiyalovchi gilamchalar, nobarqaror epizootik vaziyatda esa dezinfeksiya eritmasi to'ldirilgan maxsus to'siqlar tashkil etilishi shart. Ishlab chiqarish va saqlash joylariga hasharot va kemiruvchilar kirishini oldini oluvchi choralar ko'rilgani ham tekshiriladi [2]."
+      ]
+    },
+    {
+      "heading": "Nazorat ob'ektlari va tekshirish bandlari",
+      "content": [
+        "Tekshiruvda korxona hududi va binolari, sanitariya himoya zonasi, ishlab chiqarish quvvati va texnologik jarayon ketma-ketligi, suv ta'minoti va kanalizatsiya, isitish, yoritish, shamollatish, harorat va namlik baholanadi. Tayyor mahsulotni ishlab chiqarish texnologik yo'riqnoma va retseptura bo'yicha olib borilishi ham tekshiriladi [3].",
+        "Yetkazib berilgan xom ashyo va tayyor mahsulotning sifati va xavfsizligini tasdiqlovchi yozuvlar, ichki laboratoriyaning mavjudligi, kiyim bilan ta'minlanganlik, tibbiy ko'rik va sanitariya minimumi o'qitilishi, dezinfeksiya, dezinseksiya va deratizatsiya shartnomasi hamda ularning bajarilishi alohida bandlar hisoblanadi [3]."
+      ]
+    },
+    {
+      "heading": "Texnologik jarayon nazorati",
+      "content": [
+        "Xom ashyo va yarim tayyor mahsulot yo'llari kesishmasligi uchun go'shtni tozalash, qobiq tayyorlash, un qabul qilish, ziravorlarni qadoqlash alohida sexlarda bajariladi. Kolbasa mahsulotlari xom va yarim tayyor mahsulotlardan alohida sexlarda ishlab chiqariladi, xom ashyo sexida havo harorati 12 °C, nisbiy namlik 70 foiz bo'lishi lozim [2].",
+        "Termik ishlov stasionar kameralarda o'tkaziladi, kameralar harorat va namlikni boshqaruvchi moslamalar bilan jihozlanadi, rejim jurnalga yoziladi. Qaynatiladigan kolbasa 75-85 °C da pishiriladi, batonning ichida harorat 70-72 °C ga yetishi kerak, pishgan mahsulot esa zudlik bilan sovutiladi [2]."
+      ]
+    },
+    {
+      "heading": "Natriy nitrit ustidan nazorat",
+      "content": [
+        "Go'sht mahsulotlariga quruq nitrit ishlatish mumkin emas. Quruq nitrit boshqa materiallardan alohida yopiq xonada yoki qulflangan temir shkafda saqlanadi, eritma esa korxona laboratoriyasida tayyorlanadi va ishlab chiqarish sexida «natriy nitrit» yozuvli maxsus idishda qulflangan holda turadi [2].",
+        "Eritma kontsentratsiyasi 2,5 foizdan oshmaydi, tayyor mahsulotda natriy nitrit miqdori 100 g da 3-5 mg bo'lishi kerak. Laboratoriyada qabul qilish va iste'mol jurnali, sexda esa hisobga olish jurnali yuritiladi, sexda mas'ul shaxs belgilanadi. Tekshiruvda nitrit uchun alohida seyf va ishlatilishini qayd etuvchi muhrlangan jurnal tashkil etilganligi hamda mas'ul shaxs biriktirilganligi ham baholanadi [2, 3]."
+      ]
+    },
+    {
+      "heading": "Sovutish, saqlash va tashish",
+      "content": [
+        "Vrach sovutgich kameralari uchun mahsulotlar taglikda polidan 8 sm balandlikda, devordan 30 sm masofada joylashtirilishini, kamerada mog'or yo'qligini va ularning mikrobiologik nazoratini tekshiradi. Omborxonalar toza, xom ashyo va yordamchi materiallar stellajlarda saqlanishi kerak [2].",
+        "Go'sht va go'sht mahsulotlari sovitish tizimi mavjud avtorefrijeratorlarda tashiladi, xom ashyo tayyor mahsulotdan alohida konteynerda olib boriladi. Xom ashyo tashigan avtomobil har reysdan keyin tozalanadi, qaytariladigan idish toza holda qabul qilinadi va korxonada qayta tozalanadi [2]."
+      ]
+    },
+    {
+      "heading": "Xodimlar gigiyenasi va tibbiy ko'rik",
+      "content": [
+        "Korxona xodimlari belgilangan tartibda tibbiy ko'rik va tekshiruvlardan o'tadi. Ishlab chiqarish binosiga kirishdan oldin toza sanitariya kiyimi kiyiladi, sochlar yopiladi, maxsus poyabzal kiyiladi, hojatxonaga kirishdan oldin maxsus kiyim echiladi [2].",
+        "Qo'llar ishdan oldin, har tanaffusdan keyin, bir jarayondan ikkinchisiga o'tishda, ifloslangan buyum bilan aloqadan keyin va hojatxonadan so'ng ikki marta yuviladi va dezinfeksiya qilinadi. Pichoqni etik ustida yoki kamar orqasida olib yurish, pichoqni stol ustida saqlash taqiqlanadi [2]."
+      ]
+    },
+    {
+      "heading": "Ishlab chiqarish nazorati va laboratoriya",
+      "content": [
+        "Korxonada ichki nazorat dasturi xom ashyo, idish, jihoz va texnologik jarayonlarni ifloslantirishi mumkin bo'lgan xavflarni nazorat qilishni, ishlab chiqarishning muhim nuqtalarini aniqlashni va profilaktik choralarni ishlab chiqishni o'z ichiga oladi. Nazorat jarayonga tayyorgarlik, texnologik ishlov va qadoqlash hamda yetkazib berish bosqichlarida tashkil etiladi [2].",
+        "Vrach nazoratining vazifasi korxona dasturining mavjudligi va amalda bajarilishini baholash, monitoring natijalari va tuzatish choralari qayd etilganini tekshirishdir. Xavfsizlik buzilishi aniqlanganda mahsulotlar ajratib qo'yiladi, yaroqsizlari utilizatsiya qilinadi, buzilish sabablari aniqlanadi [2, 4]."
+      ]
+    },
+    {
+      "heading": "Ovqatdan zaharlanishni tahlil qilish",
+      "content": [
+        "Bo'lim hududlardan ovqatdan zaharlanish holatlari bo'yicha ma'lumot qabul qilib tahlil etadi, zaharlanish sabablarini aniqlaydi va profilaktik tadbirlarni maqsadli tashkil etishda mutaxassislarga amaliy-uslubiy yordam beradi [1].",
+        "Bo'lim aholi orasida ratsional ovqatlanish va oziq-ovqat xavfsizligi bo'yicha targ'ibot ishlarini olib boradi, ilmiy-amaliy konferensiya va seminarlarda qatnashadi, ommaviy axborot vositalarida chiqishlar tashkil etadi [1]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "Go'sht sanoati korxonalarida ovqatlanish gigiyenasi vrachining vazifalari loyihani ko'rib chiqishdan boshlab texnologik jarayon, natriy nitrit, sovutish zanjiri, xodimlar gigiyenasi va ichki nazorat dasturigacha bo'lgan keng doirani qamrab oladi. Bu vazifalar mahsulot xavfsizligini bir butun tizim sifatida ta'minlaydi [1, 2, 3]."
+      ]
+    }
   ],
   "references": [
     "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi huzuridagi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi qo'mitasi. Qoraqalpog'iston Respublikasi, viloyatlar va Toshkent shahar boshqarmalarining Ovqatlanish gigiyenasi bo'limi to'g'risida namunaviy nizom: 2023-yil 23-dekabrdagi 79-son buyruqning 12-ilovasi. Toshkent. xayrullokomilov.uz/kutubxona, material ID 305. 2023.",

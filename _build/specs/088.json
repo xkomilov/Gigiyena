@@ -1,0 +1,89 @@
+{
+  "number": 88,
+  "title": "88. Go'sht va go'sht mahsulotlarining gigiyenik ahamiyati.",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Go'sht va go'sht mahsulotlari aholi ovqatlanishining muhim qismi bo'lib, to'laqonli oqsil, vitaminlar va oson o'zlashtiriladigan temir manbaidir. Shu bilan birga ular zoonoz infeksiyalar, gijja invaziyalari va mikrobli zaharlanishlar yuqishi mumkin bo'lgan mahsulotlar hisoblanadi, shuning uchun gigiyenik ahamiyati ikki tomonlama baholanadi [1, 2].",
+        "Ushbu mavzuda go'shtning ozuqaviy qiymati, tasnifi, epidemiologik xavfi, mikrobiologik nazorati va sanitariya talablari bayon etiladi. Sanitariya vrachi uchun asosiy e'tibor mahsulotning xavfsizligini ta'minlovchi omillarga qaratiladi [1, 2, 3]."
+      ]
+    },
+    {
+      "heading": "Go'sht mahsulotlari tasnifi",
+      "content": [
+        "Ovqatlanishda ishlatiladigan go'sht mahsulotlari shartli ravishda to'rt guruhga bo'linadi: go'sht (mol, cho'chqa, qo'y, ot, quyon), parranda go'shti (tovuq, kurka, o'rdak, g'oz), ichki a'zo mahsulotlari hamda qayta ishlangan go'sht mahsulotlari (kolbasa, konserva, muzlatilgan yarim tayyor mahsulotlar, pazandalik mahsulotlari) [1].",
+        "Ichki a'zolar ikki toifaga ajratiladi: I toifaga jigar, til, yurak va buyrak, II toifaga miya, o'pka, qora taloq va dum kiradi. Go'sht mahsulotlarini kundalik ratsionga umumiy miqdorda 170 g (energiya sarfi 2800 kkal bo'lganda) kiritish mo'ljallanadi [1]."
+      ]
+    },
+    {
+      "heading": "Oqsillarning biologik qiymati",
+      "content": [
+        "Mushak to'qimasida yuqori biologik qiymatga ega miozin, miogen, aktin va X globulin oqsillari bor, ular barcha almashtirilmas aminokislotalarning tanqissiz to'plamini beradi. I toifa ichki a'zolarining oqsillari ham yuqori biologik qiymatga ega [1, 2].",
+        "Biriktiruvchi to'qima oqsillari kollagen va elastinda triptofan va oltingugurtli aminokislotalar tanqis, shuning uchun ularning qiymati past. Oqsil sifati triptofan va oksiprolin nisbati bilan baholanadi, optimal nisbat 4,5-5,5 bo'lib, biriktiruvchi to'qima oqsili 3,5 foizdan oshgan go'shtda 2,5 va undan past bo'ladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Yog', uglevod va go'shtning yetilishi",
+      "content": [
+        "Go'sht yog'i hayvon yog'lariga kiradi va o'rta hamda uzun zanjirli to'yingan yog' kislotalarining ko'pligi bilan ajralib turadi. Mol go'shtida ko'rinmas mushak ichi yog' miqdori ancha kam, cho'chqa go'shtida esa yuqori bo'ladi [1, 2].",
+        "Sanoatda ishlab chiqarilgan kolbasa va yarim tayyor mahsulotlarda ko'rinmas yog' ko'p bo'lib, uni tashqaridan ajratib bo'lmaydi. Tarkibida 25 foizdan ortiq ko'rinmas yog' bo'lgan mahsulotlar ratsiondagi yashirin yog' manbalari hisoblanadi [1].",
+        "Go'shtdagi glikogen miqdori juda kam va ozuqaviy ahamiyatga ega emas. Yetilish jarayonida to'qimalarda sut va fosfor kislotalari to'planib, pH nordon tomonga siljiydi, bu mahsulotning ta'mi va ozuqaviy qiymatini oshiradi hamda keyingi saqlashda bakteriostatik samara beradi [1]."
+      ]
+    },
+    {
+      "heading": "Vitaminlar va minerallar",
+      "content": [
+        "Go'sht B guruhi vitaminlari va retinolning yaxshi manbai hisoblanadi, unda biologik hammabop organik temir bor. Gemli temirning so'rilishi o'simlik manbalaridagi noorganik temirdan farqli o'laroq aktivatorlarni talab qilmaydi [1].",
+        "Go'sht mahsulotlari bilan salmoqli miqdorda fosfor, kaliy va natriy tushadi, natriy ayniqsa kolbasa va yarim tayyor mahsulotlarda ko'p. Kalsiy va fosfor nisbati noqulay bo'lib o'rtacha 0,05 ni tashkil etadi. Jigarda vitaminlar, temir, rux, mis va selen go'shtga nisbatan ko'proq [1]."
+      ]
+    },
+    {
+      "heading": "Ekstraktiv moddalar",
+      "content": [
+        "Go'sht mahsulotlarining muhim qismi ekstraktiv moddalar bo'lib, ular taomlarga ta'm va hid beradi hamda oshqozon-ichak sekretsiyasini kuchaytiradi. Ekstraktiv moddalar azotli (99 foiz) va azotsiz (1 foiz) guruhlarga bo'linadi [1].",
+        "Azotli ekstraktiv moddalarga purin va pirimidin asoslari, karnozin, kreatin, anserin kiradi, azotsizlarga glikogen, sut kislotasi va glukoza qoldiqlari kiradi [1]."
+      ]
+    },
+    {
+      "heading": "Zoonoz infeksiyalar xavfi",
+      "content": [
+        "So'yiladigan hayvonlar go'shti oqsim, sil va brutsellyoz kabi xavfli infeksiyalarni yuqtirishi mumkin. Kuydirgi yoki umumlashgan sil aniqlansa, butun tana go'shti va a'zolar yo'q qilinadi, mahalliy silda esa faqat zararlangan a'zolar yo'q qilinadi [2].",
+        "Oqsim, brutsellyoz va cho'chqa vabosi bilan kasallangan hayvonlar go'shti odatda sanoat sharoitida qat'iy issiqlik ishlovidan keyin ishlatilishi mumkin. Shu sababli go'sht korxonalarida veterinariya ko'rigi va tamg'a qo'yish talab qilinadi [2]."
+      ]
+    },
+    {
+      "heading": "Gijja invaziyalari",
+      "content": [
+        "Tenioz cho'chqa va qoramol tasmasimon chuvalchangining lichinkalari (finnalar) bilan zararlangan go'sht iste'mol qilinganda rivojlanadi. Maydoni 40 sm2 da uchtadan ortiq finna bo'lsa go'sht texnik utilizatsiyaga yuboriladi, kam bo'lsa issiqlik ishlovi, -18 °C gacha muzlatish yoki tuzlashdan keyin ishlatiladi [2].",
+        "Trixinellyoz zararlangan cho'chqa va yovvoyi hayvonlar go'shti orqali yuqadi, lichinkalar ko'pincha diafragma va qovurg'alararo mushaklarda joylashadi va kompressorium bilan aniqlanadi. Trixinellalar bilan zararlangan go'sht oziq uchun yaroqsiz. Exinokokk, alveokokk va fastsiolyozda faqat zararlangan a'zolar ishlatilmaydi [2]."
+      ]
+    },
+    {
+      "heading": "Mikrobli zaharlanishlar va mikrobiologik nazorat",
+      "content": [
+        "Veterinariya va sanitariya qoidalari buzilsa, texnologiya noto'g'ri bo'lsa, bakteriya tashuvchilar aniqlanmasa yoki saqlash muddati buzilsa, go'sht orqali salmonella, listeriya va shartli patogen mikroorganizmlar keltirib chiqargan toksikoinfeksiyalar yuzaga keladi [2].",
+        "Mikrobiologik xavfsizlik bo'yicha umumiy mikrob soni, ichak tayoqchasi guruhi bakteriyalari, salmonella, listeriya, kolbasada stafilokokk, uzoq saqlanadigan kolbasalarda sulfitredutsiya qiluvchi klostridiyalar nazorat qilinadi. Pestitsidlar va hayvonlar uchun ozuqa qo'shimchalarining qoldig'i ham tekshiriladi [2]."
+      ]
+    },
+    {
+      "heading": "Sanitariya talablari va profilaktika",
+      "content": [
+        "Go'sht korxonalarida xom ashyo va tayyor mahsulot alohida sexlarda qayta ishlanadi, sovitish rejimiga amal qilinadi, nitrit ishlatish qat'iy nazorat qilinadi, xodimlar tibbiy ko'rikdan o'tadi. Tayyor go'sht mahsulotlarida natriy nitrit miqdori 100 g da 3-5 mg bo'lishi kerak [3].",
+        "Gigiyenik jihatdan tana go'shti va mahsulotlar sovutilgan holatda osilgan va sovutgichli transportda tashiladi, shubhali go'sht ishlatilmaydi, to'liq issiqlik ishlovi ta'minlanadi. Bunday choralar xavfsizlikni ta'minlaydi va infeksiya yuqish yo'llarini to'sadi [2, 3].",
+        "Korxonalarning kirish va chiqish joylarida dezinfeksiyalovchi gilamchalar yotqiziladi, nobarqaror epizootik vaziyatda esa dezinfeksiyalovchi eritmali maxsus to'siqlar tashkil etiladi. Ishlab chiqarish va saqlash joylariga hasharot va kemiruvchilar kirishining oldi olinadi [3]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "Go'sht va go'sht mahsulotlari to'laqonli oqsil, temir va vitaminlar manbai sifatida katta ozuqaviy ahamiyatga ega, biroq zoonozlar, gijjalar va mikrobli zaharlanishlar manbai bo'lishi mumkin. Veterinariya-sanitariya nazorati, issiqlik ishlovi va texnologik intizom bu xavflarni kamaytiradi [1, 2, 3]."
+      ]
+    }
+  ],
+  "references": [
+    "Shayxova G.I. (tahr.). Ovqatlanish gigiyenasi. Toshkent. xayrullokomilov.uz/kutubxona, material ID 2360. 2012.",
+    "Korolev A.A. Ovqatlanish gigiyenasi: oliy ta'lim uchun darslik (rus tilida), 4-nashr. Moskva: Akademiya nashriyot markazi. xayrullokomilov.uz/kutubxona, material ID 2367. 2014.",
+    "O'zbekiston Respublikasi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi xizmati. Go'sht va go'sht mahsulotlarini qayta ishlash korxonalariga qo'yiladigan sanitariya-gigiyena talablari: № 0036-22 SanQvaN. Toshkent (lex.uz/docs/6309222). xayrullokomilov.uz/kutubxona, material ID 896. 2022."
+  ]
+}

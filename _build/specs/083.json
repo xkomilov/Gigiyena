@@ -1,54 +1,90 @@
 {
   "number": 83,
-  "title": "83. Maxsulot ishlab chikarish va xom ashega ishlov berishga kaysi talablar kursatilgan.",
+  "title": "83. Mahsulot ishlab chiqarish va xom ashyoga ishlov berishga qaysi talablar ko'rsatilgan.",
   "sections": [
-    { "heading": "Kirish", "content": [
-      "Go'sht va go'sht mahsulotlarini ishlab chiqarishda xavfsizlik xom ashyoni qabul qilishdan boshlab texnologik ishlov, termik ishlov, sovutish va saqlashgacha bo'lgan har bir bosqichda ta'minlanadi. Sanitariya talablari bu bosqichlarning har biriga alohida qo'yiladi [1, 2].",
-      "Ushbu mavzuda xom ashyoni qabul qilish, xom ashyo sexi, alohida sexlarda bajariladigan ishlar, tuzlash va nitritdan foydalanish, termik ishlov, sovutish, subproduktlar bilan ishlash hamda ishlab chiqarish nazorati ketma-ket bayon etiladi [1, 2, 3]."
-    ]},
-    { "heading": "Xom ashyoni qabul qilish", "content": [
-      "Kiruvchi xom ashyo va ingredientlar xavfsizlik talablarini hisobga olgan holda sotib olinadi va ularga mos kelishi tekshiriladi. Zarurat bo'lganda vizual ko'rik, qadoq butunligi, yaroqlilik muddati va qayd etilgan allergenlarni tekshirish, sovitilgan va muzlatilgan mahsulot haroratini o'lchash hamda laboratoriya tekshiruvi o'tkaziladi [2].",
-      "Qayta ishlangandan keyin ham inson iste'moli uchun yaroqsiz bo'ladigan xom ashyoni qabul qilish taqiqlanadi. Kiruvchi materiallar hisobotida tavsif, miqdor, partiya raqami, ishlab chiqaruvchi va yetkazib beruvchining nomi va manzili hamda yetkazib berish sanasi qayd etiladi [2]."
-    ]},
-    { "heading": "Veterinariya-sanitariya ekspertizasi", "content": [
-      "Kolbasa ishlab chiqarishga veterinariya-sanitariya ekspertizasida yaroqli deb topilgan, tanasida veterinariya nazorati tamg'asi bor go'sht va cho'chqa yog'i qo'yiladi. Mog'orlagan, shilimshiq, qon laxtali, ifloslangan yoki kuygan go'shtni ishlatish mumkin emas [3].",
-      "Suyakdan ajratish bo'limida veterinariya nazorati eksperti mushak to'qimasining chuqur qatlamlarini ko'rib chiqadi va yiringlik, infiltrat, gematoma hamda sistitserkoz bilan zararlangan to'qima bo'laklarini ishlab chiqarishdan chiqaradi [3]."
-    ]},
-    { "heading": "Xom ashyo sexi", "content": [
-      "Xom ashyo sexida go'sht belgilangan kesish sxemasi bo'yicha bo'laklarga bo'linadi, suyakdan ajratiladi va yog', tog'ay, pay, yirik qon va limfa tomirlari, qon laxtalari hamda mayda suyaklar olib tashlanadi. Suyakdan ajratish uchun qattiq yog'ochdan tayyorlangan taxtakachlardan foydalaniladi [1].",
-      "Xom ashyo sexida havo harorati 12 °C, nisbiy namlik 70 foiz bo'lishi, ishchilarning sog'lig'ini saqlash uchun ish joylarida polga panjara qo'yilishi lozim. Muzlatilgan, muzdan tushirilgan va sovitilgan go'shtni saralash joylarida qo'llarni isitish moslamalari bo'ladi [1]."
-    ]},
-    { "heading": "Alohida sexlarda bajariladigan ishlar", "content": [
-      "Xom ashyo va yarim tayyor mahsulot yo'llari kesishmasligi uchun go'shtni tozalash, qonli kolbasa xom ashyosini muzdan tozalash va yuvish, qobiqlarni tayyorlash, unni qabul qilish va elash, ziravor, soya oqsili va sut kukunini tayyorlash hamda qadoqlash alohida sexlarda yoki xonalarda bajariladi [1].",
-      "Kolbasa va konserva mahsulotlari alohida xonalarda yoki alohida smenada ishlab chiqariladi, xom ashyo qayta ishlangach binolar, jihozlar va idishlar yuviladi va dezinfeksiya qilinadi. Shu tariqa infeksiya tarqalishi va tayyor mahsulotga patogen mikroblar tushishi xavfi kamayadi [1]."
-    ]},
-    { "heading": "Tuzlash va natriy nitritdan foydalanish", "content": [
-      "Cho'chqa go'shti mahsulotlari asosan go'shtni namakob bilan aralashtirish orqali tuzlanadi, so'ng bir necha kun ushlab turiladi. Tuzlash va qiyma tayyorlashda natriy nitritning 2,5 foizdan oshmagan eritmasi qo'shiladi, quruq nitrit esa ishlatilmaydi [1].",
-      "Tayyor go'sht mahsulotlarida natriy nitrit miqdori 100 g da 3-5 mg bo'lishi lozim. Nitrit eritmasi korxona laboratoriyasida tayyorlanadi, sexda maxsus belgilangan idishda qulflangan holda saqlanadi va uning to'g'ri ishlatilishi uchun mas'ul shaxs belgilanadi [1]."
-    ]},
-    { "heading": "Maydalash va to'ldirish", "content": [
-      "Maydalangan kolbasa mahsulotlari tuzlanadi va retseptda ko'rsatilgan tartibda kesiladi, mexanik ishlov natijasida haroratning ko'tarilishini oldini olish uchun sovituvchi generatorlar ishlatiladi. Kesish oxirida qiymaning harorati 18 °C, sexdagi harorat esa 12 °C bo'lishi kerak [1].",
-      "Kolbasa batonlariga havo kamroq tushishi va saqlash xususiyatini uzaytirish uchun vakuumli shpritslar qo'llanadi, sexda harorat 12 °C, nisbiy namlik 70 foiz bo'ladi. Qo'l bilan ishlashda pichoqlarni etik yoki kamar orqasida olib yurish, bo'laklarni pichoq bilan uzatish mumkin emas [1]."
-    ]},
-    { "heading": "Termik ishlov", "content": [
-      "Qaynatiladigan kolbasa, sosiska va sardelkalar 75-85 °C da pishiriladi, batonning ichida harorat 70-72 °C ga yetishi kerak. Yarim dudlangan mahsulotlar 68-72 °C, qaynatilgan-dudlanganlar 68 °C, jigarli kolbasalar 72 °C gacha haroratda pishiriladi [1].",
-      "Termik ishlov rejimlari, ya'ni harorat va vaqt, maxsus jurnalga yoziladi, ish joylaridagi issiqlik harorati 35-45 °C bo'ladi. Kameralar harorat va nisbiy namlikni boshqaruvchi moslamalar bilan jihozlanadi. Ishlov berilmagan mahsulotning har bir qismi belgilangan vaqt davomida belgilangan haroratgacha isitiladi [1, 2]."
-    ]},
-    { "heading": "Sovutish, dudlash va muzdan eritish", "content": [
-      "Pishgan mahsulot buridishi va qoldiq mikroflora ko'payishining oldini olish uchun tezda sovuq suvli dush ostida, so'ngra kameralarda +10 °C da sovutiladi. Xom dudlangan kolbasa 75-78 foiz namlikda 18-22 °C da 2-3 kun, 10-12 °C da esa 25-30 kun davomida dudlanadi [1].",
-      "Past haroratda saqlanadigan mahsulotlar issiqlik ishlovidan keyin imkon qadar tezroq xavfsiz haroratgacha sovutiladi. Muzdan eritish patogen mikroorganizmlar ko'payishi va toksin hosil bo'lishi xavfini kamaytiradigan tarzda o'tkaziladi, hosil bo'lgan suyuqlik esa xavfsiz usulda to'kib tashlanadi [2]."
-    ]},
-    { "heading": "Subproduktlar bilan ishlash", "content": [
-      "Hayvon subproduktlarining har bir turi (ichak-chovoq, kalla-poycha, jigar, suyak, ichki yog', teri) alohida joyda saqlanadi, chiqindilar markirovkalangan idishlarda yig'iladi. Subproduktlar birlamchi ishlov sexidan suv o'tkazmaydigan konteynerlarda o'tkaziladi [1].",
-      "Xom ashyoni oqartirish qaynoq suvda 15-20 daqiqa qaynatish va ochiq qozonlarda 3-5 soat yoki yopiq qozonlarda 1,5-2,5 soat pishirish orqali amalga oshiriladi. Yog' eritish sexlari har kuni tozalanadi, ishqoriy eritma bilan yuviladi, yog' quvurlari bug' bilan sterilizatsiya qilinadi [1]."
-    ]},
-    { "heading": "Ishlab chiqarish nazorati", "content": [
-      "Kolbasa ishlab chiqarishda xavfli nuqtalarga xom ashyo sifati, veterinariya-sanitariya nazoratining tashkil etilishi, nitrit va fosfat qo'shimchalarining qo'llanish tartibi, qiyma tayyorlash, termik ishlov va sovutish bosqichlari kiradi. Korxona sanitariya-epidemiologiya xizmati bilan kelishilgan ishlab chiqarish nazorati dasturi va attestatsiyadan o'tgan laboratoriyalarga ega bo'lishi shart [3].",
-      "Tayyor mahsulot korxona mikrobiologik laboratoriyasi tomonidan kamida besh kunda, jigarli kolbasa, pashtet, kholodets va zelsga o'xshash mahsulotlar kamida uch kunda bir marta tekshiriladi. Jihozlar sanitariya ishlovining sifati har bir birlik bo'yicha o'n kunda kamida bir marta baholanadi [3]."
-    ]},
-    { "heading": "Xulosa", "content": [
-      "Go'sht mahsulotlarini ishlab chiqarishga qo'yiladigan talablar xom ashyoni qabul qilish va veterinariya-sanitariya ekspertizasidan boshlab alohida sexlar, nitrit nazorati, termik ishlov rejimlari, tezkor sovutish va ishlab chiqarish nazorati dasturigacha bo'lgan zanjirni qamrab oladi [1, 2, 3]."
-    ]}
+    {
+      "heading": "Kirish",
+      "content": [
+        "Go'sht va go'sht mahsulotlarini ishlab chiqarishda xavfsizlik xom ashyoni qabul qilishdan boshlab texnologik ishlov, termik ishlov, sovutish va saqlashgacha bo'lgan har bir bosqichda ta'minlanadi. Sanitariya talablari bu bosqichlarning har biriga alohida qo'yiladi [1, 2].",
+        "Ushbu mavzuda xom ashyoni qabul qilish, xom ashyo sexi, alohida sexlarda bajariladigan ishlar, tuzlash va nitritdan foydalanish, termik ishlov, sovutish, subproduktlar bilan ishlash hamda ishlab chiqarish nazorati ketma-ket bayon etiladi [1, 2, 3]."
+      ]
+    },
+    {
+      "heading": "Xom ashyoni qabul qilish",
+      "content": [
+        "Kiruvchi xom ashyo va ingredientlar xavfsizlik talablarini hisobga olgan holda sotib olinadi va ularga mos kelishi tekshiriladi. Zarurat bo'lganda vizual ko'rik, qadoq butunligi, yaroqlilik muddati va qayd etilgan allergenlarni tekshirish, sovitilgan va muzlatilgan mahsulot haroratini o'lchash hamda laboratoriya tekshiruvi o'tkaziladi [2].",
+        "Qayta ishlangandan keyin ham inson iste'moli uchun yaroqsiz bo'ladigan xom ashyoni qabul qilish taqiqlanadi. Kiruvchi materiallar hisobotida tavsif, miqdor, partiya raqami, ishlab chiqaruvchi va yetkazib beruvchining nomi va manzili hamda yetkazib berish sanasi qayd etiladi [2]."
+      ]
+    },
+    {
+      "heading": "Veterinariya-sanitariya ekspertizasi",
+      "content": [
+        "Kolbasa ishlab chiqarishga veterinariya-sanitariya ekspertizasida yaroqli deb topilgan, tanasida veterinariya nazorati tamg'asi bor go'sht va cho'chqa yog'i qo'yiladi. Mog'orlagan, shilimshiq, qon laxtali, ifloslangan yoki kuygan go'shtni ishlatish mumkin emas [3].",
+        "Suyakdan ajratish bo'limida veterinariya nazorati eksperti mushak to'qimasining chuqur qatlamlarini ko'rib chiqadi va yiringlik, infiltrat, gematoma hamda sistitserkoz bilan zararlangan to'qima bo'laklarini ishlab chiqarishdan chiqaradi [3]."
+      ]
+    },
+    {
+      "heading": "Xom ashyo sexi",
+      "content": [
+        "Xom ashyo sexida go'sht belgilangan kesish sxemasi bo'yicha bo'laklarga bo'linadi, suyakdan ajratiladi va yog', tog'ay, pay, yirik qon va limfa tomirlari, qon laxtalari hamda mayda suyaklar olib tashlanadi. Suyakdan ajratish uchun qattiq yog'ochdan tayyorlangan taxtakachlardan foydalaniladi [1].",
+        "Xom ashyo sexida havo harorati 12 °C, nisbiy namlik 70 foiz bo'lishi, ishchilarning sog'lig'ini saqlash uchun ish joylarida polga panjara qo'yilishi lozim. Muzlatilgan, muzdan tushirilgan va sovitilgan go'shtni saralash joylarida qo'llarni isitish moslamalari bo'ladi [1]."
+      ]
+    },
+    {
+      "heading": "Alohida sexlarda bajariladigan ishlar",
+      "content": [
+        "Xom ashyo va yarim tayyor mahsulot yo'llari kesishmasligi uchun go'shtni tozalash, qonli kolbasa xom ashyosini muzdan tozalash va yuvish, qobiqlarni tayyorlash, unni qabul qilish va elash, ziravor, soya oqsili va sut kukunini tayyorlash hamda qadoqlash alohida sexlarda yoki xonalarda bajariladi [1].",
+        "Kolbasa va konserva mahsulotlari alohida xonalarda yoki alohida smenada ishlab chiqariladi, xom ashyo qayta ishlangach binolar, jihozlar va idishlar yuviladi va dezinfeksiya qilinadi. Shu tariqa infeksiya tarqalishi va tayyor mahsulotga patogen mikroblar tushishi xavfi kamayadi [1]."
+      ]
+    },
+    {
+      "heading": "Tuzlash va natriy nitritdan foydalanish",
+      "content": [
+        "Cho'chqa go'shti mahsulotlari asosan go'shtni namakob bilan aralashtirish orqali tuzlanadi, so'ng bir necha kun ushlab turiladi. Tuzlash va qiyma tayyorlashda natriy nitritning 2,5 foizdan oshmagan eritmasi qo'shiladi, quruq nitrit esa ishlatilmaydi [1].",
+        "Tayyor go'sht mahsulotlarida natriy nitrit miqdori 100 g da 3-5 mg bo'lishi lozim. Nitrit eritmasi korxona laboratoriyasida tayyorlanadi, sexda maxsus belgilangan idishda qulflangan holda saqlanadi va uning to'g'ri ishlatilishi uchun mas'ul shaxs belgilanadi [1]."
+      ]
+    },
+    {
+      "heading": "Maydalash va to'ldirish",
+      "content": [
+        "Maydalangan kolbasa mahsulotlari tuzlanadi va retseptda ko'rsatilgan tartibda kesiladi, mexanik ishlov natijasida haroratning ko'tarilishini oldini olish uchun sovituvchi generatorlar ishlatiladi. Kesish oxirida qiymaning harorati 18 °C, sexdagi harorat esa 12 °C bo'lishi kerak [1].",
+        "Kolbasa batonlariga havo kamroq tushishi va saqlash xususiyatini uzaytirish uchun vakuumli shpritslar qo'llanadi, sexda harorat 12 °C, nisbiy namlik 70 foiz bo'ladi. Qo'l bilan ishlashda pichoqlarni etik yoki kamar orqasida olib yurish, bo'laklarni pichoq bilan uzatish mumkin emas [1]."
+      ]
+    },
+    {
+      "heading": "Termik ishlov",
+      "content": [
+        "Qaynatiladigan kolbasa, sosiska va sardelkalar 75-85 °C da pishiriladi, batonning ichida harorat 70-72 °C ga yetishi kerak. Yarim dudlangan mahsulotlar 68-72 °C, qaynatilgan-dudlanganlar 68 °C, jigarli kolbasalar 72 °C gacha haroratda pishiriladi [1].",
+        "Termik ishlov rejimlari, ya'ni harorat va vaqt, maxsus jurnalga yoziladi, ish joylaridagi issiqlik harorati 35-45 °C bo'ladi. Kameralar harorat va nisbiy namlikni boshqaruvchi moslamalar bilan jihozlanadi. Ishlov berilmagan mahsulotning har bir qismi belgilangan vaqt davomida belgilangan haroratgacha isitiladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Sovutish, dudlash va muzdan eritish",
+      "content": [
+        "Pishgan mahsulot buridishi va qoldiq mikroflora ko'payishining oldini olish uchun tezda sovuq suvli dush ostida, so'ngra kameralarda +10 °C da sovutiladi. Xom dudlangan kolbasa 75-78 foiz namlikda 18-22 °C da 2-3 kun, 10-12 °C da esa 25-30 kun davomida dudlanadi [1].",
+        "Past haroratda saqlanadigan mahsulotlar issiqlik ishlovidan keyin imkon qadar tezroq xavfsiz haroratgacha sovutiladi. Muzdan eritish patogen mikroorganizmlar ko'payishi va toksin hosil bo'lishi xavfini kamaytiradigan tarzda o'tkaziladi, hosil bo'lgan suyuqlik esa xavfsiz usulda to'kib tashlanadi [2]."
+      ]
+    },
+    {
+      "heading": "Subproduktlar bilan ishlash",
+      "content": [
+        "Hayvon subproduktlarining har bir turi (ichak-chovoq, kalla-poycha, jigar, suyak, ichki yog', teri) alohida joyda saqlanadi, chiqindilar markirovkalangan idishlarda yig'iladi. Subproduktlar birlamchi ishlov sexidan suv o'tkazmaydigan konteynerlarda o'tkaziladi [1].",
+        "Xom ashyoni oqartirish qaynoq suvda 15-20 daqiqa qaynatish va ochiq qozonlarda 3-5 soat yoki yopiq qozonlarda 1,5-2,5 soat pishirish orqali amalga oshiriladi. Yog' eritish sexlari har kuni tozalanadi, ishqoriy eritma bilan yuviladi, yog' quvurlari bug' bilan sterilizatsiya qilinadi [1]."
+      ]
+    },
+    {
+      "heading": "Ishlab chiqarish nazorati",
+      "content": [
+        "Kolbasa ishlab chiqarishda xavfli nuqtalarga xom ashyo sifati, veterinariya-sanitariya nazoratining tashkil etilishi, nitrit va fosfat qo'shimchalarining qo'llanish tartibi, qiyma tayyorlash, termik ishlov va sovutish bosqichlari kiradi. Korxona sanitariya-epidemiologiya xizmati bilan kelishilgan ishlab chiqarish nazorati dasturi va attestatsiyadan o'tgan laboratoriyalarga ega bo'lishi shart [3].",
+        "Tayyor mahsulot korxona mikrobiologik laboratoriyasi tomonidan kamida besh kunda, jigarli kolbasa, pashtet, kholodets va zelsga o'xshash mahsulotlar kamida uch kunda bir marta tekshiriladi. Jihozlar sanitariya ishlovining sifati har bir birlik bo'yicha o'n kunda kamida bir marta baholanadi [3]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "Go'sht mahsulotlarini ishlab chiqarishga qo'yiladigan talablar xom ashyoni qabul qilish va veterinariya-sanitariya ekspertizasidan boshlab alohida sexlar, nitrit nazorati, termik ishlov rejimlari, tezkor sovutish va ishlab chiqarish nazorati dasturigacha bo'lgan zanjirni qamrab oladi [1, 2, 3]."
+      ]
+    }
   ],
   "references": [
     "O'zbekiston Respublikasi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi xizmati. Go'sht va go'sht mahsulotlarini qayta ishlash korxonalariga qo'yiladigan sanitariya-gigiyena talablari: № 0036-22 SanQvaN. Toshkent (lex.uz/docs/6309222). xayrullokomilov.uz/kutubxona, material ID 896. 2022.",

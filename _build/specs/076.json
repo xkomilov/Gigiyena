@@ -1,54 +1,90 @@
 {
   "number": 76,
-  "title": "76. Biologik aktiv ovkat kushimchalari.",
+  "title": "76. Biologik aktiv ovqat qo'shimchalari.",
   "sections": [
-    { "heading": "Kirish", "content": [
-      "Ovqatga biologik faol qo'shimchalar tabiiy yoki tabiiyga aynan o'xshash biologik faol moddalar bo'lib, ovqat bilan birga iste'mol qilish yoki oziq-ovqat mahsulotlari tarkibiga kiritish uchun mo'ljallangan. Ular dori vositasi emas, ratsiondagi tanqis nutriyentlarni to'ldiradigan qo'shimcha manbadir [1, 2].",
-      "Ushbu mavzuda qo'shimchalarning ta'rifi, tasnifi, ovqatlanishdagi o'rni, sifat va xavfsizlikka qo'yiladigan talablar, yorliq, ishlab chiqarish, saqlash va ishlab chiqarish nazorati bayon etiladi [1, 2]."
-    ]},
-    { "heading": "Dolzarbligi", "content": [
-      "Urbanizatsiya va turmush tarzining o'zgarishi bilan ratsional bo'lmagan ovqatlanishga bog'liq kasalliklar ko'paydi. 2014-yilgi tadqiqotda kattalarning taxminan 67,2 foizi sabzavot va mevani Jahon sog'liqni saqlash tashkiloti tavsiya etgan miqdordan kam, 37 foizi esa tuzni ortiqcha iste'mol qilgani aniqlangan [1].",
-      "Shu sababli sog'lom ovqatlanish bo'yicha chora-tadbirlar boyitilgan mahsulotlar, bolalar ovqatlanishi uchun maxsus mahsulotlar va biologik faol qo'shimchalar ishlab chiqarishni kengaytirishni ko'zda tutadi. Qo'shimchalar ratsionni uzil-kesil to'g'rilash vositasi sifatida qaraladi [1, 2]."
-    ]},
-    { "heading": "Tushuncha va maqsad", "content": [
-      "Qo'shimchalar oziq va biologik faol moddalarning qo'shimcha manbai sifatida uglevod, yog', oqsil, vitamin va boshqa almashinuvlarni optimallashtirish, organ va tizimlarning funksional holatini yaxshilash, kasallik xavfini kamaytirish, ichak mikroflorasini normallashtirish va enterosorbent sifatida ishlatiladi [1].",
-      "Ularning asosiy vazifasi sog'lom odam ovqatlanishidagi muvozanat buzilishini bartaraf etishdir. An'anaviy mahsulotlar hisobiga tanqisligini to'ldirib bo'lmaydigan tarkibiy qismlar, asosan mikronutriyentlar, qo'shimcha yordamida ratsionga kiritiladi [2]."
-    ]},
-    { "heading": "Tasnifi", "content": [
-      "Vazifasiga qarab probiotiklar, nutritsevtiklar, parafarmatsevtiklar va sitaminlar farqlanadi. Probiotiklar tarkibida tirik mikroorganizmlar yoki ularning metabolitlari bo'lib, ovqat hazm qilish yo'li mikroflorasi tarkibi va faolligini normallashtiradi. Nutritsevtiklar oziq tarkibini to'g'rilovchi qo'shimcha nutriyent manbalaridir [1].",
-      "Parafarmatsevtiklar fiziologik chegarada organ va tizimlar faolligini qo'llab-quvvatlash, profilaktika va yordamchi terapiya uchun ishlatiladi. Sitaminlar hayvon organ va to'qimalaridan ajratilgan peptid bioregulyatorlarni saqlaydi. Kelib chiqishiga ko'ra qo'shimchalar o'simlik, hayvon, mineral, dengiz mahsulotlari, prebiotik mikroorganizmlar, suv o'tlari va achitqilar asosidagi guruhlarga bo'linadi [1, 2]."
-    ]},
-    { "heading": "Parhez ovqatlanishdagi o'rni", "content": [
-      "Biologik faol qo'shimchalar parhez, ya'ni davolash ovqatlanishi doirasida ham qo'llanishi mumkin. Bunda parhez mahsulotlarining tibbiy-biologik tekshiruvlari va klinik sinovlari tartibida parhezlik samarasi qo'shimcha tasdiqlanishi lozim [2].",
-      "Davolash-profilaktik ovqatlanishda ham iqtisodiy imkoniyat bo'lganda Sog'liqni saqlash vazirligi tavsiya etgan qo'shimchalardan qo'shimcha oziq va biologik faol moddalar manbai sifatida foydalanishga ruxsat beriladi [3]."
-    ]},
-    { "heading": "Sifat va xavfsizlikka qo'yiladigan talablar", "content": [
-      "Qo'shimchalar organoleptik, fizik-kimyoviy ko'rsatkichlar, mikrobiologik va radiologik xavfsizlik mezonlari hamda ruxsat etilgan kimyoviy va biologik moddalar miqdori bo'yicha amaldagi tartibga mos kelishi shart. Tarkibda to'liq ingredientlar ro'yxati va faol moddalar miqdori fiziologik ehtiyojga mos chegarada ko'rsatiladi [1].",
-      "Yangi turlar ishlab chiqilganda yoki tarkib o'zgartirilganda e'lon qilingan biologik ta'sir, yaroqlilik muddati, sifat va xavfsizlik ko'rsatkichlari asoslab beriladi. Har bir partiyaning sifati ishlab chiqaruvchining sifat va xavfsizlik guvohnomasi bilan tasdiqlanadi, talabga javob bermaydigan qo'shimchalarni ishlab chiqarish va muomalaga chiqarish taqiqlanadi [1]."
-    ]},
-    { "heading": "Yorliqqa qo'yiladigan talablar", "content": [
-      "Yorliqda nomi, ishlab chiqaruvchining tovar belgisi, kamayish tartibida to'liq ingredient tarkibi, qadoq hajmi, bir qadoqdagi miqdor, qo'llash mumkin bo'lmagan kasalliklar, ishlab chiqarilgan sana, yaroqlilik muddati, saqlash shartlari va ro'yxatdan o'tganlik raqami hamda sanasi bo'lishi kerak [1].",
-      "Yorliqda mahsulot dori vositasi emasligi yozilishi shart, davolovchi yoki profilaktik xususiyatlar haqidagi axborot esa taqiqlanadi. Qonuniy va ilmiy asosga ega bo'lmagan atamalar, masalan «ekologik toza mahsulot», ishlatilmaydi [1]."
-    ]},
-    { "heading": "Ishlab chiqarish korxonasiga qo'yiladigan talablar", "content": [
-      "Korxonalar alohida yer uchastkalarida joylashadi, ishlab chiqarish sexlarini yerto'la va tsokol qavatlarida joylashtirish tavsiya etilmaydi. Tirik mikroorganizmlar bilan ishlash uchun alohida xonalar ajratiladi, ularning derazalari germetik, devor, shift va pol birikmalari yopiq, sirtlari yuvish va dezinfeksiyaga yaroqli bo'ladi [1].",
-      "Probiotik qo'shimchalar saqlanadigan xonalarda devorlar butun balandligi bo'yicha sirlangan plitka bilan qoplanadi. Boshqa oziq-ovqat korxonalari bilan blokirovka qilish faqat ishlab chiqarishga sanitariya-epidemiologiya xulosasi mavjud bo'lganda ruxsat etiladi [1]."
-    ]},
-    { "heading": "Saqlash va tashish", "content": [
-      "Saqlash joylari javonlar, taglik va shkaflar, termolabil qo'shimchalar uchun sovutish kameralari hamda harorat va namlikni qayd etadigan asboblar bilan jihozlanadi. Termometr va psixrometrlar isitish asboblaridan uzoqda, polidan 1,5-1,7 m balandlikda va eshikdan kamida 3 m masofada osiladi, ko'rsatkichlar har kuni jurnalga yoziladi [1].",
-      "Har bir nom va partiya alohida taglikda saqlanadi, javonga nomi, partiyasi, yaroqlilik muddati va soni yozilgan karta qo'yiladi. Termolabil qo'shimchalar maxsus sovutgichli yoki izotermik transportda tashiladi, saqlash va tashishda sifat yo'qolgan bo'lsa, ular muomaladan chiqarilib ekspertizaga yuboriladi [1]."
-    ]},
-    { "heading": "Ishlab chiqarish nazorati", "content": [
-      "Nazorat ob'ektlariga ishlab chiqarish va maishiy xonalar, suv ta'minoti, xom ashyo va qadoqlash materiallari, uskunalar, tayyor mahsulot, mehnat sharoitlari, xodimlarning tibbiy ko'rigi va shaxsiy gigiyenasi kiradi. Nazorat kirish, texnologik jarayon davomidagi va qabul-topshirish bosqichlarida o'tkaziladi [1].",
-      "Nazorat dasturida har bir mahsulot turi uchun ifloslanish xavfi, kritik nazorat nuqtalari va ularda qo'llaniladigan tekshiruv usullari aniqlanadi. Shu tariqa qo'shimchalarning xavfsizligi ishlab chiqarishning barcha bosqichlarida ta'minlanadi [1]."
-    ]},
-    { "heading": "Ruxsat berish va falsifikatsiyaga qarshi nazorat", "content": [
-      "Qo'shimchalarni ishlab chiqarish va olib kirishga ruxsat berish Vazirlar Mahkamasining 2016-yil 30-apreldagi 131-son qaroriga muvofiq sanitariya-epidemiologiya xizmatidagi ruxsat berish tartib-taomillari orqali amalga oshiriladi. Vitamin va mikroelementlarning xavfsiz miqdori hamda qo'shimchani dori vositalari guruhiga kiritish masalalari dori vositalari sifatini nazorat qiluvchi organ vakolatiga kiradi [1].",
-      "Qasddan o'zgartirilgan yoki xususiyati va sifati haqidagi axborot to'liq bo'lmagan yoki ishonchsiz qo'shimcha falsifikatsiya qilingan hisoblanadi. Identifikatsiya mahsulotning texnik tavsifi va yorliqdagi axborotga mosligini aniqlaydi, xavfsizlik esa noklinik toksikologik tadqiqotlar bilan baholanadi [1]."
-    ]},
-    { "heading": "Xulosa", "content": [
-      "Biologik faol qo'shimchalar ratsiondagi tanqis nutriyentlarni to'ldiruvchi vosita bo'lib, dori vositasi o'rnini bosmaydi. Ularning xavfsizligi ro'yxatdan o'tkazish, yorliq talablari, ishlab chiqarish va saqlash sharoitlari hamda ishlab chiqarish nazorati bilan ta'minlanadi [1, 2]."
-    ]}
+    {
+      "heading": "Kirish",
+      "content": [
+        "Ovqatga biologik faol qo'shimchalar tabiiy yoki tabiiyga aynan o'xshash biologik faol moddalar bo'lib, ovqat bilan birga iste'mol qilish yoki oziq-ovqat mahsulotlari tarkibiga kiritish uchun mo'ljallangan. Ular dori vositasi emas, ratsiondagi tanqis nutriyentlarni to'ldiradigan qo'shimcha manbadir [1, 2].",
+        "Ushbu mavzuda qo'shimchalarning ta'rifi, tasnifi, ovqatlanishdagi o'rni, sifat va xavfsizlikka qo'yiladigan talablar, yorliq, ishlab chiqarish, saqlash va ishlab chiqarish nazorati bayon etiladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Dolzarbligi",
+      "content": [
+        "Urbanizatsiya va turmush tarzining o'zgarishi bilan ratsional bo'lmagan ovqatlanishga bog'liq kasalliklar ko'paydi. 2014-yilgi tadqiqotda kattalarning taxminan 67,2 foizi sabzavot va mevani Jahon sog'liqni saqlash tashkiloti tavsiya etgan miqdordan kam, 37 foizi esa tuzni ortiqcha iste'mol qilgani aniqlangan [1].",
+        "Shu sababli sog'lom ovqatlanish bo'yicha chora-tadbirlar boyitilgan mahsulotlar, bolalar ovqatlanishi uchun maxsus mahsulotlar va biologik faol qo'shimchalar ishlab chiqarishni kengaytirishni ko'zda tutadi. Qo'shimchalar ratsionni uzil-kesil to'g'rilash vositasi sifatida qaraladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Tushuncha va maqsad",
+      "content": [
+        "Qo'shimchalar oziq va biologik faol moddalarning qo'shimcha manbai sifatida uglevod, yog', oqsil, vitamin va boshqa almashinuvlarni optimallashtirish, organ va tizimlarning funksional holatini yaxshilash, kasallik xavfini kamaytirish, ichak mikroflorasini normallashtirish va enterosorbent sifatida ishlatiladi [1].",
+        "Ularning asosiy vazifasi sog'lom odam ovqatlanishidagi muvozanat buzilishini bartaraf etishdir. An'anaviy mahsulotlar hisobiga tanqisligini to'ldirib bo'lmaydigan tarkibiy qismlar, asosan mikronutriyentlar, qo'shimcha yordamida ratsionga kiritiladi [2]."
+      ]
+    },
+    {
+      "heading": "Tasnifi",
+      "content": [
+        "Vazifasiga qarab probiotiklar, nutritsevtiklar, parafarmatsevtiklar va sitaminlar farqlanadi. Probiotiklar tarkibida tirik mikroorganizmlar yoki ularning metabolitlari bo'lib, ovqat hazm qilish yo'li mikroflorasi tarkibi va faolligini normallashtiradi. Nutritsevtiklar oziq tarkibini to'g'rilovchi qo'shimcha nutriyent manbalaridir [1].",
+        "Parafarmatsevtiklar fiziologik chegarada organ va tizimlar faolligini qo'llab-quvvatlash, profilaktika va yordamchi terapiya uchun ishlatiladi. Sitaminlar hayvon organ va to'qimalaridan ajratilgan peptid bioregulyatorlarni saqlaydi. Kelib chiqishiga ko'ra qo'shimchalar o'simlik, hayvon, mineral, dengiz mahsulotlari, prebiotik mikroorganizmlar, suv o'tlari va achitqilar asosidagi guruhlarga bo'linadi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Parhez ovqatlanishdagi o'rni",
+      "content": [
+        "Biologik faol qo'shimchalar parhez, ya'ni davolash ovqatlanishi doirasida ham qo'llanishi mumkin. Bunda parhez mahsulotlarining tibbiy-biologik tekshiruvlari va klinik sinovlari tartibida parhezlik samarasi qo'shimcha tasdiqlanishi lozim [2].",
+        "Davolash-profilaktik ovqatlanishda ham iqtisodiy imkoniyat bo'lganda Sog'liqni saqlash vazirligi tavsiya etgan qo'shimchalardan qo'shimcha oziq va biologik faol moddalar manbai sifatida foydalanishga ruxsat beriladi [3]."
+      ]
+    },
+    {
+      "heading": "Sifat va xavfsizlikka qo'yiladigan talablar",
+      "content": [
+        "Qo'shimchalar organoleptik, fizik-kimyoviy ko'rsatkichlar, mikrobiologik va radiologik xavfsizlik mezonlari hamda ruxsat etilgan kimyoviy va biologik moddalar miqdori bo'yicha amaldagi tartibga mos kelishi shart. Tarkibda to'liq ingredientlar ro'yxati va faol moddalar miqdori fiziologik ehtiyojga mos chegarada ko'rsatiladi [1].",
+        "Yangi turlar ishlab chiqilganda yoki tarkib o'zgartirilganda e'lon qilingan biologik ta'sir, yaroqlilik muddati, sifat va xavfsizlik ko'rsatkichlari asoslab beriladi. Har bir partiyaning sifati ishlab chiqaruvchining sifat va xavfsizlik guvohnomasi bilan tasdiqlanadi, talabga javob bermaydigan qo'shimchalarni ishlab chiqarish va muomalaga chiqarish taqiqlanadi [1]."
+      ]
+    },
+    {
+      "heading": "Yorliqqa qo'yiladigan talablar",
+      "content": [
+        "Yorliqda nomi, ishlab chiqaruvchining tovar belgisi, kamayish tartibida to'liq ingredient tarkibi, qadoq hajmi, bir qadoqdagi miqdor, qo'llash mumkin bo'lmagan kasalliklar, ishlab chiqarilgan sana, yaroqlilik muddati, saqlash shartlari va ro'yxatdan o'tganlik raqami hamda sanasi bo'lishi kerak [1].",
+        "Yorliqda mahsulot dori vositasi emasligi yozilishi shart, davolovchi yoki profilaktik xususiyatlar haqidagi axborot esa taqiqlanadi. Qonuniy va ilmiy asosga ega bo'lmagan atamalar, masalan «ekologik toza mahsulot», ishlatilmaydi [1]."
+      ]
+    },
+    {
+      "heading": "Ishlab chiqarish korxonasiga qo'yiladigan talablar",
+      "content": [
+        "Korxonalar alohida yer uchastkalarida joylashadi, ishlab chiqarish sexlarini yerto'la va tsokol qavatlarida joylashtirish tavsiya etilmaydi. Tirik mikroorganizmlar bilan ishlash uchun alohida xonalar ajratiladi, ularning derazalari germetik, devor, shift va pol birikmalari yopiq, sirtlari yuvish va dezinfeksiyaga yaroqli bo'ladi [1].",
+        "Probiotik qo'shimchalar saqlanadigan xonalarda devorlar butun balandligi bo'yicha sirlangan plitka bilan qoplanadi. Boshqa oziq-ovqat korxonalari bilan blokirovka qilish faqat ishlab chiqarishga sanitariya-epidemiologiya xulosasi mavjud bo'lganda ruxsat etiladi [1]."
+      ]
+    },
+    {
+      "heading": "Saqlash va tashish",
+      "content": [
+        "Saqlash joylari javonlar, taglik va shkaflar, termolabil qo'shimchalar uchun sovutish kameralari hamda harorat va namlikni qayd etadigan asboblar bilan jihozlanadi. Termometr va psixrometrlar isitish asboblaridan uzoqda, polidan 1,5-1,7 m balandlikda va eshikdan kamida 3 m masofada osiladi, ko'rsatkichlar har kuni jurnalga yoziladi [1].",
+        "Har bir nom va partiya alohida taglikda saqlanadi, javonga nomi, partiyasi, yaroqlilik muddati va soni yozilgan karta qo'yiladi. Termolabil qo'shimchalar maxsus sovutgichli yoki izotermik transportda tashiladi, saqlash va tashishda sifat yo'qolgan bo'lsa, ular muomaladan chiqarilib ekspertizaga yuboriladi [1]."
+      ]
+    },
+    {
+      "heading": "Ishlab chiqarish nazorati",
+      "content": [
+        "Nazorat ob'ektlariga ishlab chiqarish va maishiy xonalar, suv ta'minoti, xom ashyo va qadoqlash materiallari, uskunalar, tayyor mahsulot, mehnat sharoitlari, xodimlarning tibbiy ko'rigi va shaxsiy gigiyenasi kiradi. Nazorat kirish, texnologik jarayon davomidagi va qabul-topshirish bosqichlarida o'tkaziladi [1].",
+        "Nazorat dasturida har bir mahsulot turi uchun ifloslanish xavfi, kritik nazorat nuqtalari va ularda qo'llaniladigan tekshiruv usullari aniqlanadi. Shu tariqa qo'shimchalarning xavfsizligi ishlab chiqarishning barcha bosqichlarida ta'minlanadi [1]."
+      ]
+    },
+    {
+      "heading": "Ruxsat berish va falsifikatsiyaga qarshi nazorat",
+      "content": [
+        "Qo'shimchalarni ishlab chiqarish va olib kirishga ruxsat berish Vazirlar Mahkamasining 2016-yil 30-apreldagi 131-son qaroriga muvofiq sanitariya-epidemiologiya xizmatidagi ruxsat berish tartib-taomillari orqali amalga oshiriladi. Vitamin va mikroelementlarning xavfsiz miqdori hamda qo'shimchani dori vositalari guruhiga kiritish masalalari dori vositalari sifatini nazorat qiluvchi organ vakolatiga kiradi [1].",
+        "Qasddan o'zgartirilgan yoki xususiyati va sifati haqidagi axborot to'liq bo'lmagan yoki ishonchsiz qo'shimcha falsifikatsiya qilingan hisoblanadi. Identifikatsiya mahsulotning texnik tavsifi va yorliqdagi axborotga mosligini aniqlaydi, xavfsizlik esa noklinik toksikologik tadqiqotlar bilan baholanadi [1]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "Biologik faol qo'shimchalar ratsiondagi tanqis nutriyentlarni to'ldiruvchi vosita bo'lib, dori vositasi o'rnini bosmaydi. Ularning xavfsizligi ro'yxatdan o'tkazish, yorliq talablari, ishlab chiqarish va saqlash sharoitlari hamda ishlab chiqarish nazorati bilan ta'minlanadi [1, 2]."
+      ]
+    }
   ],
   "references": [
     "O'zbekiston Respublikasi Bosh davlat sanitariya vrachi. Oziq-ovqatga biologik faol qo'shimchalarni (BFQ) ishlab chiqarish va muomalasiga qo'yiladigan gigienik talablar: SanPiN RUz № 0338-16 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 738. 2016.",

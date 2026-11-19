@@ -1,50 +1,83 @@
 {
   "number": 75,
-  "title": "75. Davolash profilaktik ovkatlanish ,asosiy tamoyillar,turlari va ishlatish soxasi.DP ovkatlanish ratsionlari.",
+  "title": "75. Davolash-profilaktik ovqatlanish, asosiy tamoyillar, turlari va ishlatish sohasi. DP ovqatlanish ratsionlari.",
   "sections": [
-    { "heading": "Kirish", "content": [
-      "Davolash-profilaktik ovqatlanish zararli va noqulay ishlab chiqarish omillari ta'siridan inson organlari va tizimlarini himoya qilishga qaratilgan maxsus ovqatlanishdir. U ishchining umumiy ratsionini almashtirmaydi. Aksincha, ratsionni zararli omilning xususiyatiga mos nutriyentlar bilan to'ldirib, kasbiy kasalliklarning alimentar profilaktikasini ta'minlaydi [1, 2].",
-      "Ushbu mavzuda davolash-profilaktik ovqatlanishning maqsadi, asosiy tamoyillari, turlari, ratsionlarning tarkibi, qo'llanish sohalari va berish tartibi ketma-ket bayon etiladi. Sanitariya vrachining nazorat vazifalari ham ko'rib chiqiladi [1]."
-    ]},
-    { "heading": "Tushuncha va huquqiy asos", "content": [
-      "Davolash-profilaktik ovqatlanish zararli va noqulay mehnat omillaridan organlar va tizimlarni himoya qiladigan maxsus ovqatlanish hisoblanadi. Uni berish Mehnat kodeksining 217-moddasi, «Mehnatni muhofaza qilish to'g'risida»gi qonunning 13-moddasi va Vazirlar Mahkamasining 1999-yil 5-fevraldagi 54-son qaroriga asoslanadi [1].",
-      "Bepul beriladigan ovqatlanishga huquq beradigan ishlab chiqarish, kasb va lavozimlar ro'yxati jamoa kelishuvi yoki jamoa shartnomasi bilan, ular bo'lmasa ish beruvchi tomonidan ishchilar vakillik organi bilan kelishilgan holda belgilanadi. Tayinlashning asosi mehnat sharoitlarini baholash va ish o'rinlarini attestatsiyadan o'tkazish natijalaridir [1]."
-    ]},
-    { "heading": "Maqsad va asosiy tamoyillar", "content": [
-      "Davolash-profilaktik ovqatlanishning asosini ksenobiotiklar almashinuvini va oziq tarkibiy qismlarining himoya ta'sirini hisobga olib tuzilgan ratsional ovqatlanish tashkil etadi. Maqsad umumiy va kasbiy kasallanishni kamaytirishdir. Ovqatlanish teri, oshqozon-ichak shilliq qavati va yuqori nafas yo'llari kabi fiziologik to'siqlarning himoya funksiyasini oshiradi [1, 2].",
-      "Birinchi tamoyil sanoat zaharlarining biotransformatsiyasini (oksidlanish, metillanish, dezaminlanish) toksikligi past mahsulotlar hosil bo'ladigan tomonga yo'naltirishdir. Ikkinchi tamoyil zaharlarning bog'lanishi va chiqarilishini kuchaytirish, jigarning antitoksik funksiyasini oshirish hamda zararli omil sabab yuzaga kelgan oziq moddalar tanqisligini qoplashdir [1, 2]."
-    ]},
-    { "heading": "Ratsionlarning turlari: № 1 va № 2", "content": [
-      "O'zbekistonda davolash-profilaktik ovqatlanishning № 1, 2, 2A, 3, 4 va 5 ratsionlari qo'llanadi. Ratsion № 1 radiatsion himoya xususiyatiga ega. Sistin va metioninga boy mahsulotlar (tvorog, pishloq, jigar, tuxum) jigarda yog' almashinuvini rag'batlantiradi, pektinli mahsulotlar (lavlagi, olma, olxo'ri, o'rik, sabzi) esa zararli moddalarni bog'laydi [1].",
-      "Ratsion № 2 zaharli birikmalarning metabolik faollashuvining oldini oladi va jigarning antitoksik funksiyasini oshiradi. Buning uchun lipotrop moddalarga boy pishloq, nordon sut mahsulotlari, jigar va tuxum, shuningdek zaharlarning so'rilishini kamaytiruvchi go'sht, baliq, sabzavot, soya va loviya beriladi [1]."
-    ]},
-    { "heading": "Ratsionlarning turlari: № 2A, 3, 4 va 5", "content": [
-      "Ratsion № 2A giposensibilizatsiyaga yo'naltirilgan: miya, buyrak, o'pka, pomidor, tuzlangan va achitilgan mahsulotlar chiqarib tashlanadi, shakar va osh tuzi cheklanadi. Ratsion № 3 qo'rg'oshin birikmalaridan himoya qiladi, unda to'laqonli oqsil, ishqoriy elementlar, vitaminlar va qo'rg'oshinni bog'laydigan pektinli mahsulotlar ko'paytiriladi [1].",
-      "Ratsion № 4 qon yaratish tizimi va jigarni himoya qiladi: lipotrop moddalarga boy go'sht, baliq, jigar, tvorog va tuxum beriladi, jigarga yuk bo'ladigan qovurilgan go'sht, baliq sho'rvasi va sousli taomlar cheklanadi. Ratsion № 5 asab tizimini himoya qiladi va tuxum, smetana, tvorog, o'simlik yog'i hamda vitaminli sabzavotlarga tayanadi [1]."
-    ]},
-    { "heading": "Mahsulot to'plamlari va energiya qiymati", "content": [
-      "Sutkalik tavsiya etiladigan to'plamda ratsion № 1 uchun 130 g, ratsion № 2 uchun 150 g go'sht, har ikkisida 100 g bug'doy va 100 g javdar noni, 150 g kartoshka, 150 g sabzavot, 200 g kefir yoki sut va 100 g meva yoki sharbat (brutto) ko'zda tutilgan. Ratsion № 2A da go'sht 100 g, sabzavot esa 250 g [1].",
-      "Yulduzcha bilan belgilangan mahsulotlar (baliq, jigar, tuxum, tvorog, pishloq, o'simlik yog'i) haftalik o'rtacha sutkalik miqdorda hisoblanadi. Ratsionning energiya qiymati ishchilar sutkalik energiya sarfining kamida 40 foizini qoplashi lozim. Menyu-tartibni korxona oshxonasi tibbiy-sanitariya qismi nazoratida mahsulotlarning o'rnini bosish jadvali asosida tuzadi [1]."
-    ]},
-    { "heading": "Berish tartibi", "content": [
-      "Taom zararli sharoitda haqiqatda ishlangan kunlari, shuningdek kasbiy kasallik sabab vaqtincha mehnat qobiliyatini yo'qotgan, ammo kasalxonaga yotqizilmagan kunlari beriladi. Uskunani tozalash va ta'mirga tayyorlash bilan band ishchilar, kasbiy kasallikdan nogiron bo'lgan shaxslar va homiladorlik hamda tug'ruq ta'tilidan oldin shunday kasblarda ishlagan ayollar ham huquqqa ega [1].",
-      "Dam olish, ta'til, xizmat safari va ishlab chiqarishdan ajralgan holda o'qish kunlarida taom berilmaydi. Pulli kompensatsiya va o'tgan davr uchun berish taqiqlanadi, taom maxsus talon bo'yicha beriladi. Bepul sut davolash-profilaktik ovqatlanish bilan birga qo'shimcha berilmaydi [1]."
-    ]},
-    { "heading": "Qo'llanish sohalari", "content": [
-      "Ratsion № 1 uran va toriy radioaktiv tuzlarini hamda lopaprit konsentratini ishlab chiqarishda, ratsion № 2 kuchli nitrat va sulfat kislota ishlab chiqarishda hamda mis konsentratlarini eritishda beriladi. Ratsion № 2A xrom angidridi, xrompik va xromli bo'yoqlar ishlab chiqarishga, ratsion № 3 qo'rg'oshin nitrati, qo'rg'oshin peroksidi va keramik bo'yoqlar ishlab chiqarishga tegishli [1].",
-      "Ratsion № 4 fosfor kislotasi va monoxlorsirka kislotasi ishlab chiqarish, ishlatilgan kislotani denitratsiyalash kabi ishlarda qo'llanadi. Iqtisodiy imkoniyat bo'lsa, ratsionga Sog'liqni saqlash vazirligi tavsiya etgan biologik faol qo'shimchalar qo'shimcha oziq va biologik faol moddalar manbai sifatida kiritilishi mumkin [1]."
-    ]},
-    { "heading": "Profilaktik oziq-ovqat mahsulotlariga qo'yiladigan talablar", "content": [
-      "Funksional, shifobaxsh (parhez) va profilaktik ovqatlanish mahsulotlarini ishlab chiqarishda sintetik bo'yoqlar, xushbo'y moddalar va konservantlardan, shuningdek genetik muhandislik usulida olingan komponentlardan foydalanish mumkin emas. Mahsulot yorlig'ida to'liq ingredient tarkibi va faol moddalar haqida axborot bo'lishi shart [3].",
-      "Mahsulotning yangi turlari ishlab chiqilganda yoki tarkibi o'zgartirilganda yaroqlilik muddati, sifat va xavfsizlik ko'rsatkichlari asoslab beriladi. Mahsulotning e'lon qilingan xususiyatlari samaradorligi Sog'liqni saqlash vazirligi belgilagan tartibdagi tajriba, kimyoviy-biologik yoki klinik sinovlar bilan tasdiqlanadi [3]."
-    ]},
-    { "heading": "Sanitariya nazorati", "content": [
-      "Davlat sanitariya nazoratini amalga oshiradigan ovqatlanish gigiyenasi vrachlari tavsiya etilgan ratsionlarning qo'llanishini, ularning oziq va energetik qiymatini tekshirishi mumkin. Berish tartibi mehnat muhofazasi bo'yicha yo'riqnomalar o'tkazish dasturiga kiritiladi, tibbiy xodimlar ishchilar orasida tushuntirish ishlarini olib boradi [1].",
-      "Zararli omil bartaraf etilgan ish o'rinlarida taom berishni to'xtatish masalasi tuman yoki shahar markazining xulosasi asosida vakolatli sanitariya-epidemiologiya organi tomonidan ko'rib chiqiladi. Shu sababli ish o'rinlarining mehnat sharoitlari muntazam baholanib turishi zarur [1]."
-    ]},
-    { "heading": "Xulosa", "content": [
-      "Davolash-profilaktik ovqatlanish zararli omilning ta'sir nishoniga mos ratsion tanlash, energiya qiymatini ta'minlash va berish tartibiga qat'iy rioya qilishga tayanadi. Ratsionlar № 1, 2, 2A, 3, 4 va 5 turli kimyoviy va fizik omillar uchun mo'ljallangan bo'lib, ularning to'g'ri qo'llanishi kasbiy kasallanishni kamaytirishda muhim vosita bo'ladi [1, 2]."
-    ]}
+    {
+      "heading": "Kirish",
+      "content": [
+        "Davolash-profilaktik ovqatlanish zararli va noqulay ishlab chiqarish omillari ta'siridan inson organlari va tizimlarini himoya qilishga qaratilgan maxsus ovqatlanishdir. U ishchining umumiy ratsionini almashtirmaydi. Aksincha, ratsionni zararli omilning xususiyatiga mos nutriyentlar bilan to'ldirib, kasbiy kasalliklarning alimentar profilaktikasini ta'minlaydi [1, 2].",
+        "Ushbu mavzuda davolash-profilaktik ovqatlanishning maqsadi, asosiy tamoyillari, turlari, ratsionlarning tarkibi, qo'llanish sohalari va berish tartibi ketma-ket bayon etiladi. Sanitariya vrachining nazorat vazifalari ham ko'rib chiqiladi [1]."
+      ]
+    },
+    {
+      "heading": "Tushuncha va huquqiy asos",
+      "content": [
+        "Davolash-profilaktik ovqatlanish zararli va noqulay mehnat omillaridan organlar va tizimlarni himoya qiladigan maxsus ovqatlanish hisoblanadi. Uni berish Mehnat kodeksining 217-moddasi, «Mehnatni muhofaza qilish to'g'risida»gi qonunning 13-moddasi va Vazirlar Mahkamasining 1999-yil 5-fevraldagi 54-son qaroriga asoslanadi [1].",
+        "Bepul beriladigan ovqatlanishga huquq beradigan ishlab chiqarish, kasb va lavozimlar ro'yxati jamoa kelishuvi yoki jamoa shartnomasi bilan, ular bo'lmasa ish beruvchi tomonidan ishchilar vakillik organi bilan kelishilgan holda belgilanadi. Tayinlashning asosi mehnat sharoitlarini baholash va ish o'rinlarini attestatsiyadan o'tkazish natijalaridir [1]."
+      ]
+    },
+    {
+      "heading": "Maqsad va asosiy tamoyillar",
+      "content": [
+        "Davolash-profilaktik ovqatlanishning asosini ksenobiotiklar almashinuvini va oziq tarkibiy qismlarining himoya ta'sirini hisobga olib tuzilgan ratsional ovqatlanish tashkil etadi. Maqsad umumiy va kasbiy kasallanishni kamaytirishdir. Ovqatlanish teri, oshqozon-ichak shilliq qavati va yuqori nafas yo'llari kabi fiziologik to'siqlarning himoya funksiyasini oshiradi [1, 2].",
+        "Birinchi tamoyil sanoat zaharlarining biotransformatsiyasini (oksidlanish, metillanish, dezaminlanish) toksikligi past mahsulotlar hosil bo'ladigan tomonga yo'naltirishdir. Ikkinchi tamoyil zaharlarning bog'lanishi va chiqarilishini kuchaytirish, jigarning antitoksik funksiyasini oshirish hamda zararli omil sabab yuzaga kelgan oziq moddalar tanqisligini qoplashdir [1, 2]."
+      ]
+    },
+    {
+      "heading": "Ratsionlarning turlari: № 1 va № 2",
+      "content": [
+        "O'zbekistonda davolash-profilaktik ovqatlanishning № 1, 2, 2A, 3, 4 va 5 ratsionlari qo'llanadi. Ratsion № 1 radiatsion himoya xususiyatiga ega. Sistin va metioninga boy mahsulotlar (tvorog, pishloq, jigar, tuxum) jigarda yog' almashinuvini rag'batlantiradi, pektinli mahsulotlar (lavlagi, olma, olxo'ri, o'rik, sabzi) esa zararli moddalarni bog'laydi [1].",
+        "Ratsion № 2 zaharli birikmalarning metabolik faollashuvining oldini oladi va jigarning antitoksik funksiyasini oshiradi. Buning uchun lipotrop moddalarga boy pishloq, nordon sut mahsulotlari, jigar va tuxum, shuningdek zaharlarning so'rilishini kamaytiruvchi go'sht, baliq, sabzavot, soya va loviya beriladi [1]."
+      ]
+    },
+    {
+      "heading": "Ratsionlarning turlari: № 2A, 3, 4 va 5",
+      "content": [
+        "Ratsion № 2A giposensibilizatsiyaga yo'naltirilgan: miya, buyrak, o'pka, pomidor, tuzlangan va achitilgan mahsulotlar chiqarib tashlanadi, shakar va osh tuzi cheklanadi. Ratsion № 3 qo'rg'oshin birikmalaridan himoya qiladi, unda to'laqonli oqsil, ishqoriy elementlar, vitaminlar va qo'rg'oshinni bog'laydigan pektinli mahsulotlar ko'paytiriladi [1].",
+        "Ratsion № 4 qon yaratish tizimi va jigarni himoya qiladi: lipotrop moddalarga boy go'sht, baliq, jigar, tvorog va tuxum beriladi, jigarga yuk bo'ladigan qovurilgan go'sht, baliq sho'rvasi va sousli taomlar cheklanadi. Ratsion № 5 asab tizimini himoya qiladi va tuxum, smetana, tvorog, o'simlik yog'i hamda vitaminli sabzavotlarga tayanadi [1]."
+      ]
+    },
+    {
+      "heading": "Mahsulot to'plamlari va energiya qiymati",
+      "content": [
+        "Sutkalik tavsiya etiladigan to'plamda ratsion № 1 uchun 130 g, ratsion № 2 uchun 150 g go'sht, har ikkisida 100 g bug'doy va 100 g javdar noni, 150 g kartoshka, 150 g sabzavot, 200 g kefir yoki sut va 100 g meva yoki sharbat (brutto) ko'zda tutilgan. Ratsion № 2A da go'sht 100 g, sabzavot esa 250 g [1].",
+        "Yulduzcha bilan belgilangan mahsulotlar (baliq, jigar, tuxum, tvorog, pishloq, o'simlik yog'i) haftalik o'rtacha sutkalik miqdorda hisoblanadi. Ratsionning energiya qiymati ishchilar sutkalik energiya sarfining kamida 40 foizini qoplashi lozim. Menyu-tartibni korxona oshxonasi tibbiy-sanitariya qismi nazoratida mahsulotlarning o'rnini bosish jadvali asosida tuzadi [1]."
+      ]
+    },
+    {
+      "heading": "Berish tartibi",
+      "content": [
+        "Taom zararli sharoitda haqiqatda ishlangan kunlari, shuningdek kasbiy kasallik sabab vaqtincha mehnat qobiliyatini yo'qotgan, ammo kasalxonaga yotqizilmagan kunlari beriladi. Uskunani tozalash va ta'mirga tayyorlash bilan band ishchilar, kasbiy kasallikdan nogiron bo'lgan shaxslar va homiladorlik hamda tug'ruq ta'tilidan oldin shunday kasblarda ishlagan ayollar ham huquqqa ega [1].",
+        "Dam olish, ta'til, xizmat safari va ishlab chiqarishdan ajralgan holda o'qish kunlarida taom berilmaydi. Pulli kompensatsiya va o'tgan davr uchun berish taqiqlanadi, taom maxsus talon bo'yicha beriladi. Bepul sut davolash-profilaktik ovqatlanish bilan birga qo'shimcha berilmaydi [1]."
+      ]
+    },
+    {
+      "heading": "Qo'llanish sohalari",
+      "content": [
+        "Ratsion № 1 uran va toriy radioaktiv tuzlarini hamda lopaprit konsentratini ishlab chiqarishda, ratsion № 2 kuchli nitrat va sulfat kislota ishlab chiqarishda hamda mis konsentratlarini eritishda beriladi. Ratsion № 2A xrom angidridi, xrompik va xromli bo'yoqlar ishlab chiqarishga, ratsion № 3 qo'rg'oshin nitrati, qo'rg'oshin peroksidi va keramik bo'yoqlar ishlab chiqarishga tegishli [1].",
+        "Ratsion № 4 fosfor kislotasi va monoxlorsirka kislotasi ishlab chiqarish, ishlatilgan kislotani denitratsiyalash kabi ishlarda qo'llanadi. Iqtisodiy imkoniyat bo'lsa, ratsionga Sog'liqni saqlash vazirligi tavsiya etgan biologik faol qo'shimchalar qo'shimcha oziq va biologik faol moddalar manbai sifatida kiritilishi mumkin [1]."
+      ]
+    },
+    {
+      "heading": "Profilaktik oziq-ovqat mahsulotlariga qo'yiladigan talablar",
+      "content": [
+        "Funksional, shifobaxsh (parhez) va profilaktik ovqatlanish mahsulotlarini ishlab chiqarishda sintetik bo'yoqlar, xushbo'y moddalar va konservantlardan, shuningdek genetik muhandislik usulida olingan komponentlardan foydalanish mumkin emas. Mahsulot yorlig'ida to'liq ingredient tarkibi va faol moddalar haqida axborot bo'lishi shart [3].",
+        "Mahsulotning yangi turlari ishlab chiqilganda yoki tarkibi o'zgartirilganda yaroqlilik muddati, sifat va xavfsizlik ko'rsatkichlari asoslab beriladi. Mahsulotning e'lon qilingan xususiyatlari samaradorligi Sog'liqni saqlash vazirligi belgilagan tartibdagi tajriba, kimyoviy-biologik yoki klinik sinovlar bilan tasdiqlanadi [3]."
+      ]
+    },
+    {
+      "heading": "Sanitariya nazorati",
+      "content": [
+        "Davlat sanitariya nazoratini amalga oshiradigan ovqatlanish gigiyenasi vrachlari tavsiya etilgan ratsionlarning qo'llanishini, ularning oziq va energetik qiymatini tekshirishi mumkin. Berish tartibi mehnat muhofazasi bo'yicha yo'riqnomalar o'tkazish dasturiga kiritiladi, tibbiy xodimlar ishchilar orasida tushuntirish ishlarini olib boradi [1].",
+        "Zararli omil bartaraf etilgan ish o'rinlarida taom berishni to'xtatish masalasi tuman yoki shahar markazining xulosasi asosida vakolatli sanitariya-epidemiologiya organi tomonidan ko'rib chiqiladi. Shu sababli ish o'rinlarining mehnat sharoitlari muntazam baholanib turishi zarur [1]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "Davolash-profilaktik ovqatlanish zararli omilning ta'sir nishoniga mos ratsion tanlash, energiya qiymatini ta'minlash va berish tartibiga qat'iy rioya qilishga tayanadi. Ratsionlar № 1, 2, 2A, 3, 4 va 5 turli kimyoviy va fizik omillar uchun mo'ljallangan bo'lib, ularning to'g'ri qo'llanishi kasbiy kasallanishni kamaytirishda muhim vosita bo'ladi [1, 2]."
+      ]
+    }
   ],
   "references": [
     "O'zbekiston Respublikasi Bosh davlat sanitariya vrachi. Zararli va noqulay mehnat sharoitida ishlovchilar uchun davolash-profilaktik ovqatlanishni qo'llash va berish tartibi: SanPiN RUz № 0184-05 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 780. 2005.",
