@@ -1,0 +1,115 @@
+{
+  "number": 140,
+  "title": "140. O'yinchoqlarni toksikologik tekshiruv usullari nimadan iborat?",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Toksikologik tekshiruv o'yinchoq materiallaridan ajraladigan moddalarning tirik organizmga ta'sirini aniqlaydi. U kimyoviy tahlil bilan to'ldiriladi, chunki ajraladigan moddalarning hammasini kimyoviy usul bilan aniqlab bo'lmaydi [1, 2].",
+        "Ushbu mavzuda toksikologik tekshiruvning o'rni, ko'rsatkichlari, ajratmalar tayyorlash, toksiklik indeksi, shilliq qavat va teriga bezovta qiluvchi ta'sirni baholash, yangi materiallar uchun tartib va natijalarni talqin qilish bayon etiladi [1, 2, 3]."
+      ]
+    },
+    {
+      "heading": "Toksikologik tekshiruvning o'rni",
+      "content": [
+        "Gigiyenik baholash organoleptik, sanitariya-kimyoviy va toksikologik tadqiqotlar natijalariga asoslanadi. Toksikologik tadqiqot o'yinchoq materiallarining kimyoviy moddalar migratsiyasi tufayli yuzaga keladigan umumiy zaharli ta'sirini aniqlaydi [2].",
+        "Toksikologik-gigiyenik ko'rsatkichlar o'yinchoq gigiyenik xavfsizlik talablarining tarkibiy qismi. Ular shilliq qavatga bezovta qiluvchi ta'sir, mahalliy teri bezovta qiluvchi ta'sir va toksiklik indeksini o'z ichiga oladi [1]."
+      ]
+    },
+    {
+      "heading": "Yangi materiallar uchun tartib",
+      "content": [
+        "Ilgari o'rganilmagan yangi turdagi materiallardan tayyorlangan o'yinchoqlar uchun toksikologik tekshiruv majburiy. Unga organoleptik va sanitariya-kimyoviy tadqiqotlar oldin o'tkaziladi [2].",
+        "Toksikologik tekshiruv uchun namunalardan ajratmalar tayyorlash sharoitlari sanitariya-kimyoviy tadqiqot sharoitlari bilan bir xil bo'lishi shart. Tadqiqot hajmi amaldagi usullar asosida belgilanadi [2]."
+      ]
+    },
+    {
+      "heading": "Ajratmalar tayyorlash",
+      "content": [
+        "Suvli ajratma 37 °C haroratda, namunani 3 soat ushlab turib, namuna massasi va suv hajmi nisbati 1:10 bo'lganda tayyorlanadi. Modelli muhit sifatida distillangan suv qo'llanadi [1, 2].",
+        "Uch yoshdan katta bolalar uchun yumshoq va yog'och o'yinchoqlar, qo'g'irchoq kiyimlari va yirik o'yinchoqlarda migratsiya havo muhitiga aniqlanadi. Havo muhiti uchun namuna shisha kamerada 20 va 37 °C da 24-48 soat ushlanadi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Toksiklik indeksi",
+      "content": [
+        "Toksiklik indeksi o'yinchoq materiallaridan ajralgan moddalarning tirik test-obyektga ta'sirini sinov muhitiga nisbatan foizda ifodalaydi. Indeks suv (distillangan) muhitida 70 dan 120 % gacha, havo muhitida 80 dan 120 % gacha bo'lishi kerak [1].",
+        "Test-obyekt sifatida yirik shoxli mol urug'i qo'llangan, indeks qiymati kamida 80 va ko'pi bilan 120 % bo'lishi lozim, deb hisoblangan. Hozirgi talablarda suv muhiti uchun pastki chegara 70 % ga tushirilgan [1, 3]."
+      ]
+    },
+    {
+      "heading": "Shilliq qavatga bezovta qiluvchi ta'sir",
+      "content": [
+        "Uch yoshgacha bo'lgan bolalar o'yinchoqlari hamda og'iz bo'shlig'i bilan funksional tegadigan o'yinchoqlar shilliq qavatga bezovta qiluvchi ta'sir ko'rsatmasligi kerak.",
+        "Shaqildoq va og'iz bilan tegadigan o'yinchoqlarning sirtini bo'yash va rasm solish taqiqlanadi. Bunday o'yinchoqlarda ta'm intensivligi 1 balldan oshmasligi shart [1]."
+      ]
+    },
+    {
+      "heading": "Mahalliy teri bezovta qiluvchi ta'sir",
+      "content": [
+        "O'yinchoqlar teriga mahalliy bezovta qiluvchi ta'sir ko'rsatmasligi kerak. Talab shunday ifodalanadi: mahalliy teri bezovta qiluvchi ta'sir bo'lmasligi yoki toksiklik indeksi chegara ichida bo'lishi lozim [1].",
+        "O'yinchoqlarning mikrobiologik xavfsizligi va teriga bezovta qiluvchi ta'siri parfyumeriya-kosmetika mahsulotlariga qo'yiladigan gigiyenik talablarga muvofiq baholanadi [3]."
+      ]
+    },
+    {
+      "heading": "Kimyoviy moddalarning xavf sinflari",
+      "content": [
+        "Polimer materiallar destruksiyasida turli xavf sinfiga mansub kimyoviy moddalar ajraladi. Formaldegid, stirol, akrilonitril va benzol 2-xavf sinfiga, ftalatlar va ksilollar 3-xavf sinfiga kiradi [2].",
+        "Uch yoshgacha bo'lgan bolalar o'yinchoqlarida 1-xavf sinfiga mansub moddalar migratsiyasiga yo'l qo'yilmaydi. Bu talab toksikologik tekshiruv natijalarini talqin qilishda hisobga olinadi [1]."
+      ]
+    },
+    {
+      "heading": "Monomerlar va plastifikatorlar",
+      "content": [
+        "Monomerlar, plastifikatorlar, rezina ingredientlari va ularning o'zgarish mahsulotlari ajralishi oziq-ovqat bilan tegadigan polimer va boshqa materiallardan ajraladigan kimyoviy moddalarning ruxsat etilgan migratsiya miqdorlari (RMM) bilan baholanadi [2].",
+        "Migratsiyani aniqlashda materialning retsepturasi asos bo'ladi. Polivinilxlorid o'yinchoqlarda dibutilftalat bo'lmasligi, sink 1,0 va qalay 2,0 mg/dm³ dan oshmasligi kerak [1, 2]."
+      ]
+    },
+    {
+      "heading": "Mikrobiologik va qo'shimcha toksikologik ko'rsatkichlar",
+      "content": [
+        "Bir yoshgacha bo'lgan bolalar o'yinchoqlari, shakllanadigan massalar va barmoq bilan chiziladigan bo'yoqlar uchun mikrobiologik talablar qattiq: mezofil aerob bakteriyalar 1·10² KOE/g dan ko'p emas, ichak tayoqchalari, patogen stafilokokklar va ko'k yiring tayoqchasi bo'lmaydi [1].",
+        "Zararli elementlar (bariy, kadmiy, margimush, simob, qo'rg'oshin, xrom) tuz kislotasi muhitiga ajralish bo'yicha baholanadi va natijalar kimyoviy tahlil bilan birgalikda talqin qilinadi [1]."
+      ]
+    },
+    {
+      "heading": "Tekshiruvga topshiriladigan namunalar",
+      "content": [
+        "Toksikologik tekshiruv uchun namunalar gigiyenik baholash arizasi bilan birga topshiriladi. Namunalar soni eng kamida 3 ta bo'lib, ular seriyali ishlab chiqarish texnologiyasi bo'yicha tayyorlanadi va tipik vakil bo'ladi [2].",
+        "Namunalar tayyorlanganidan keyin 10 kundan oldin, 30 kundan kechikmay topshiriladi. Korxona material retsepturasini va zarur bo'lsa texnologik jarayon tavsifini taqdim etadi, chunki migratsiya shu ma'lumotlardan kelib chiqib baholanadi [2]."
+      ]
+    },
+    {
+      "heading": "Kimyoviy tahlil bilan bog'liqlik",
+      "content": [
+        "Toksikologik tadqiqot sanitariya-kimyoviy tadqiqotlar bilan bir xil ajratmalar asosida o'tkaziladi, shu sababli kimyoviy tahlil natijalari (formaldegid, stirol, og'ir metallar) toksikologik natija bilan birga talqin qilinadi [1, 2].",
+        "Formaldegid uchun suv muhitida 0,1 mg/dm³, havoda 0,003 mg/m³, stirol uchun 0,01 mg/dm³ va 0,002 mg/m³ chegaralari qo'llanadi. Toksiklik indeksi chegaradan chiqsa, kimyoviy ko'rsatkichlar normada bo'lsa ham o'yinchoq nomuvofiq hisoblanadi [1]."
+      ]
+    },
+    {
+      "heading": "Natijani talqin qilish",
+      "content": [
+        "Agar toksiklik indeksi chegaradan tashqarida bo'lsa yoki shilliq qavat va teriga bezovta qiluvchi ta'sir aniqlansa, o'yinchoq nomuvofiq deb topiladi va keyingi tadqiqotlar to'xtatiladi [1].",
+        "Salbiy natija olinganda o'yinchoq sotuvdan olinadi yoki ishlab chiqarish to'xtatiladi. Natijalar yozma rasmiylashtiriladi, unda o'yinchoq va material turi, qo'llangan usul va sinov sanasi ko'rsatiladi [2]."
+      ]
+    },
+    {
+      "heading": "Sanitariya vrachining ishi",
+      "content": [
+        "Sanitariya vrachi toksikologik tekshiruv uchun namunalarni to'g'ri tanlashi, ajratmalar tayyorlash sharoitlarini sanitariya-kimyoviy tadqiqotlar bilan bir xil saqlashi va natijalarni talablar bilan taqqoslashi kerak [2].",
+        "Vrach uchun asosiy chegaralar: toksiklik indeksi 70-120 % (suv) va 80-120 % (havo), 3 yoshgacha va og'iz bilan tegadigan o'yinchoqlarda shilliq qavatga ta'sir yo'qligi, 1-xavf sinfidagi moddalar migratsiyasining yo'qligi [1]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "O'yinchoqlarning toksikologik tekshiruvi toksiklik indeksini aniqlash, shilliq qavat va teriga bezovta qiluvchi ta'sirni baholashdan iborat. Yangi materiallar uchun u majburiy va organoleptik hamda sanitariya-kimyoviy tahlildan keyin o'tkaziladi. Natija suv muhitida 70-120 %, havo muhitida 80-120 % chegarasida bo'lishi kerak [1, 2, 3]."
+      ]
+    }
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. Bolalar uchun o'yinchoqlar (o'yinlar) xavfsizligiga qo'yiladigan gigiyenik talablar: SanPiN № 0354-18 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 752. 2018.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. O'yinchoqlar (o'yinlar) xavfsizligiga qo'yiladigan sanitariya-gigiyenik talablar: SanPiN № 0287-10 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 686. 2010.",
+    "Kuchma V.R. Bolalar va o'smirlar gigiyenasi: o'quv qo'llanma (rus tilida). xayrullokomilov.uz/kutubxona, material ID 2301. 2010."
+  ]
+}

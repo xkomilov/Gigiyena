@@ -1,0 +1,115 @@
+{
+  "number": 132,
+  "title": "132. O'yinchoqlar ishlab chiqarishda qaysi xom ashyoni ishlatishga ruxsat berilmaydi?",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "O'yinchoq xom ashyosiga qo'yiladigan taqiqlar bola organizmini zararli ta'sirlardan himoya qilishga qaratilgan. Taqiqlar bolaning yoshiga bog'liq: uch yoshgacha bo'lgan bolalar o'yinchoqlariga eng qattiq cheklovlar qo'llanadi [1, 2].",
+        "Ushbu mavzuda o'yinchoq tayyorlashda taqiqlangan materiallar, yosh bo'yicha cheklovlar, xom ashyo tozaligiga talablar va tarkibiy qismlarda ruxsat etilmaydigan kimyoviy moddalar bayon etiladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Taqiqlarning umumiy tamoyili",
+      "content": [
+        "O'yinchoq shunday ishlab chiqilgan va tayyorlangan bo'lishi kerakki, uni vazifasi bo'yicha ishlatishda bola va unga qarovchilar hayoti hamda sog'lig'iga xavf tug'dirmasin. Xavf konstruksiyadan ham, ishlatilgan materiallardan ham kelib chiqishi mumkin [1].",
+        "Konstruksiyani o'zgartirib yoki materialni almashtirib bartaraf etib bo'lmaydigan xavf kam bo'lishi lozim. Shu tamoyil asosida ba'zi materiallar bolalar o'yinchoqlarida to'liq yoki yosh bo'yicha cheklab taqiqlanadi [1]."
+      ]
+    },
+    {
+      "heading": "Ikkilamchi xom ashyo",
+      "content": [
+        "O'yinchoq tayyorlashda ikkilamchi xom ashyoni, ya'ni ishlatilgan materiallarni qayta ishlash natijasida olingan xom ashyoni qo'llash taqiqlanadi.",
+        "Faqat korxonaning o'zida hosil bo'lgan ishlab chiqarish chiqindilaridan foydalanishga ruxsat beriladi."
+      ]
+    },
+    {
+      "heading": "Uch yoshgacha bolalar o'yinchoqlarida taqiqlangan materiallar",
+      "content": [
+        "Uch yoshgacha bo'lgan bolalar o'yinchoqlarida tabiiy mo'yna, tabiiy teri, shisha, chinni, tuklangan rezina, karton va qog'oz ishlatish taqiqlanadi [1].",
+        "Shuningdek o'lchami 3 mm va undan kichik to'ldiruvchi granulalar ichki g'ilofsiz hamda shaqildoqqa o'xshash to'ldirgichlar, ya'ni nam muhitda hajmi 5 % dan ortiq kattalashadigan to'ldirgichlar ishlatilmaydi [1]."
+      ]
+    },
+    {
+      "heading": "Taqiqlangan kimyoviy moddalar",
+      "content": [
+        "Uch yoshgacha bo'lgan bolalar o'yinchoqlarida 1-xavf sinfiga mansub kimyoviy moddalar migratsiyasi taqiqlanadi. Boshqa o'yinchoqlar uchun zararli moddalar ajralishining chegaraviy miqdorlari jadvallarda berilgan [1].",
+        "Polivinilxlorid materiallarida dibutilftalat ishlatilmaydi, ya'ni uning ajralishi aniqlash chegarasidan yuqori bo'lmasligi kerak. [1]."
+      ]
+    },
+    {
+      "heading": "Og'zi bilan tegadigan o'yinchoqlarga cheklovlar",
+      "content": [
+        "Shaqildoq o'yinchoqlari va bola og'zi bilan tegadigan o'yinchoqlarning sirtini bo'yash va rasm solish taqiqlanadi.",
+        "Uch yoshgacha bo'lgan bolalar o'yinchoqlari hamda og'iz bo'shlig'i bilan funksional tegadigan o'yinchoqlar shilliq qavatga bezovta qiluvchi ta'sir ko'rsatmasligi, ta'mi esa 1 balldan oshmasligi kerak [1]."
+      ]
+    },
+    {
+      "heading": "Lazer va xavfli konstruksiyalar",
+      "content": [
+        "O'yinchoqlarda barcha turdagi lazer nurlanishi tizimlaridan foydalanish taqiqlanadi. Yorug'lik diodlari ishlatilgan o'yinchoqlar bola ko'ziga salbiy ta'sir ko'rsatmasligi va zararli nurlanish hosil qilmasligi kerak [1].",
+        "10 yoshgacha bo'lgan bolalar yig'adigan konstruktorlar va modellarda kavsharlash taqiqlanadi. Elektr o'yinchoqda nominal kuchlanish 24 V dan oshmasligi kerak, shuningdek uchuvchi o'yinchoqlar uchun iplar metalldan bo'lmasligi shart [1]."
+      ]
+    },
+    {
+      "heading": "Xavfli to'ldiruvchilar",
+      "content": [
+        "Yumshoq to'ldirilgan o'yinchoq to'ldiruvchisida qattiq yoki o'tkir begona jismlar bo'lmasligi kerak. Bunday jismlarga mix, ignalar, metall qirindilar, yog'och parchalari, shisha yoki plastmassa siniqlari kiradi [1, 3].",
+        "Kimyoviy o'yin to'plamlarida aralashtirilganda yonib ketadigan yoki zararli bug' va gazlar hosil qiladigan moddalar va reaktivlar bo'lmasligi kerak. O'yinchoq portlash xavfi bo'lgan yoki portlovchi aralashmalar hosil qiladigan qismlarni o'z ichiga olmasligi shart [1]."
+      ]
+    },
+    {
+      "heading": "Mexanik xavf tug'diradigan materiallar",
+      "content": [
+        "Uch yoshgacha bo'lgan bolalar o'yinchoqlarining metall, yog'och yoki boshqa qattiq materiallardan yasalgan detallari o'yinchoqqa shunday mahkamlanishi kerakki, ularni ajratib yoki uzib bo'lmasin. Bunday o'yinchoqlarda sirtda zadiralar, yoriqlar va uvalangan joylar bo'lmasligi shart [3].",
+        "Funksional bo'lmagan o'tkir qirralar va burchaklar to'mtoqlashtiriladi yoki yashiriladi. Sirt va tashqi detallar bolani jarohatlash xavfini istisno qilishi kerak, shuning uchun qattiq va o'tkir qirrali materiallar mexanik nazoratdan o'tkaziladi [1, 3]."
+      ]
+    },
+    {
+      "heading": "Xavfsiz o'lchamlar",
+      "content": [
+        "Uch yoshgacha bo'lgan bolalar uchun yig'iladigan-ajraladigan o'yinchoqlarda (piramida, halqa va sharcha to'plamlari) diametri 32 mm dan kichik detallar bo'lmasligi kerak. Shaqildoq to'ldirgichlari diametri kamida 5 mm bo'ladi [3].",
+        "O'yinchoq va uning ajraladigan detallari uch yoshgacha bo'lgan bolalar uchun yuqori nafas yo'llariga tushmaydigan o'lchamda bo'lishi shart. Mo'ljallangan yuklama ostida detallarning uzilib tushishi mumkin emas: ular 10 kg kuchga bardosh berishi kerak [1, 3]."
+      ]
+    },
+    {
+      "heading": "Yonuvchan va portlovchi materiallar",
+      "content": [
+        "Yumshoq to'ldirilgan o'yinchoqlar, karnaval kostyumlari va buyumlari (soqol, mo'ylov, parik, niqob, tojlar), shuningdek ichiga bola sig'adigan o'yinchoqlar yong'in jihatidan xavfsiz materiallardan tayyorlanadi [1].",
+        "Kimyoviy o'yinchoqlarda reaktivlar faqat har bir modda uchun belgilangan eng yuqori miqdordan oshmaydigan hajmda ishlatilishi mumkin. Isitish elementli o'yinchoqlarda tegib turiladigan sirt harorati kuyishga olib kelmasligi kerak [1]."
+      ]
+    },
+    {
+      "heading": "Ruxsat etilmagan materiallarni aniqlash",
+      "content": [
+        "Ruxsat etilmagan xom ashyo tayyor o'yinchoqdan organoleptik, sanitariya-kimyoviy va toksikologik tekshiruv orqali aniqlanadi. Hid intensivligi normadan oshgan, zararli moddalar migratsiyasi yuqori yoki toksiklik indeksi chegaradan tashqarida bo'lgan material taqiqlanadi [1].",
+        "Toksiklik indeksi suv muhitida 70-120 %, havo muhitida 80-120 % oralig'ida bo'lishi kerak. Chegaradan tashqari qiymat o'yinchoqni nomuvofiq deb topishga asos bo'ladi va keyingi tadqiqotlar to'xtatiladi [1]."
+      ]
+    },
+    {
+      "heading": "Ishlab chiqaruvchining mas'uliyati",
+      "content": [
+        "Korxona retseptura va xom ashyo tarkibini sanitariya xizmati organlariga taqdim etishi kerak. O'yinchoq ishlab chiqarishda ruxsat etilmagan material aniqlansa, ishlab chiqarish yoki sotish to'xtatiladi yoki taqiqlanadi [2].",
+        "Birorta salbiy ko'rsatkich olinganda ham o'yinchoq namunasi kelishuvdan chetlatiladi yoki sotuvdan olib tashlanadi. Bu qoida bolalar salomatligi uchun xavfli xom ashyo bozorga tushishini oldini oladi [2]."
+      ]
+    },
+    {
+      "heading": "Amaliy ahamiyati",
+      "content": [
+        "Sanitariya vrachi o'yinchoq ishlab chiqaruvchi korxonada xom ashyoni qabul qilish, saqlash va ishlatishni tekshirishda yuqoridagi ro'yxatlarga tayanadi. U ikkilamchi xom ashyo ishlatilmayotganini, yosh bo'yicha cheklovlarga amal qilinayotganini nazorat qiladi [1, 2].",
+        "Savdo korxonalarida esa o'yinchoqning yoshga mosligi va xavfsizlikni tasdiqlovchi sertifikat borligi tekshiriladi. Chet eldan olib kirilgan mahsulot uchun bolalar salomatligiga zararsizligini tasdiqlovchi sertifikat talab etiladi [2]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "O'yinchoq ishlab chiqarishda ikkilamchi xom ashyo, uch yoshgacha bo'lgan bolalar uchun tabiiy mo'yna, teri, shisha, chinni, tuklangan rezina, karton va qog'oz hamda kichik to'ldiruvchi granulalar ruxsat etilmaydi. 1-xavf sinfi moddalari, dibutilftalat, lazer tizimlari va xavfli to'ldiruvchilar ham taqiqlangan. Bu cheklovlar bola organizmini zaharli va mexanik zararlardan himoya qiladi [1, 2, 3]."
+      ]
+    }
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. Bolalar uchun o'yinchoqlar (o'yinlar) xavfsizligiga qo'yiladigan gigiyenik talablar: SanPiN № 0354-18 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 752. 2018.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. O'yinchoqlar (o'yinlar) xavfsizligiga qo'yiladigan sanitariya-gigiyenik talablar: SanPiN № 0287-10 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 686. 2010.",
+    "Kuchma V.R. Bolalar va o'smirlar gigiyenasi: o'quv qo'llanma (rus tilida). xayrullokomilov.uz/kutubxona, material ID 2301. 2010."
+  ]
+}

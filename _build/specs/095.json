@@ -1,0 +1,88 @@
+{
+  "number": 95,
+  "title": "95. Kolbasa mahsulotlarini ishlab chiqarishning qaysi bosqichlarini bilasiz?",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Kolbasa mahsulotlari go'sht xom ashyosini maydalash, tuzlash, qobiqqa to'ldirish va termik ishlov berish orqali olinadigan keng tarqalgan mahsulotlardir. Ular tez buziladigan mahsulotlar qatoriga kiradi, shuning uchun ishlab chiqarishning har bir bosqichi sanitariya jihatidan nazorat qilinadi [1, 2].",
+        "Ushbu mavzuda kolbasa mahsulotlarining tasnifi va ozuqaviy xususiyatlari, ishlab chiqarish bosqichlari: xom ashyo sexi, tuzlash, maydalash, to'ldirish, termik ishlov, dudlash, sovutish hamda laboratoriya nazorati ketma-ket bayon etiladi [1, 2, 3]."
+      ]
+    },
+    {
+      "heading": "Kolbasa mahsulotlari tasnifi",
+      "content": [
+        "Kolbasa mahsulotlariga qaynatilgan kolbasalar, sardelka, sosiska, go'shtli nonlar, qaynatib-dudlangan, yarim dudlangan hamda xomligicha dudlangan va quritilgan kolbasalar kiradi. Alohida guruhni cho'chqa go'shti mahsulotlari va ichki a'zo qo'shimchali mahsulotlar (jigarli kolbasa, zelse, ilvira, qonli kolbasa) tashkil etadi [2].",
+        "Qaynatilgan kolbasa, sardelka, sosiska, go'shtli non va ichki a'zodan tayyorlangan mahsulotlarning namligi 60 foizdan oshadi, shu sababli ular tez ayniydigan mahsulotlar hisoblanadi. Milliy qoidalarda kolbasa mahsulotlari go'sht mahsulotlari tarkibida qiymalangan, qaynatilgan, yarim dudlangan, dudlangan, o'pka-jigarli va qonli kolbasalar sifatida sanaladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Ozuqaviy xususiyatlari va gigiyenik baho",
+      "content": [
+        "Kolbasalarda oqsil o'rtacha 18,5 foiz, yog' 38,5 foiz bo'lib, oqsil va yog' nisbati zararli, aminogrammasi esa muvozanatlanmagan: triptofan va oksiprolin nisbati optimaldan ancha past (0,9-2,2). Ularda fosfor, osh tuzi, nitrit va fosfat ko'p [2].",
+        "Shu sababli kattalar ratsioniga kolbasa haftasiga ko'pi bilan ikki-uch marta kiritilishi kerak, maktabgacha yoshdagi bolalar ovqatida go'shtni kolbasa bilan almashtirish tavsiya etilmaydi [2]. Qaynatilgan kolbasa va sosiskalar tez buziladigan mahsulotlar bo'lgani uchun ularni saqlash va sotishda harorat rejimi qat'iy nazorat qilinadi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Xom ashyo sexi",
+      "content": [
+        "Kolbasa mahsulotlari xom va yarim tayyor mahsulotlardan alohida sexlarda ishlab chiqariladi, shunda infeksiya tarqalishi va tayyor mahsulotga patogen mikroblar tushishi xavfi kamayadi. Xom ashyo sexida go'sht bo'laklarga bo'linadi, suyagidan ajratiladi va yog', tog'ay, pay, qon tomirlari hamda mayda suyaklardan tozalanadi [1].",
+        "Bu sexda havo harorati 12 °C, nisbiy namlik 70 foiz bo'lishi, ishchilar uchun polga panjara yoki tirgaklar o'rnatilishi kerak. Muzlatilgan, muzdan tushirilgan va sovitilgan go'shtni saralash joylarida qo'llarni isitish moslamalari bo'ladi [1]."
+      ]
+    },
+    {
+      "heading": "Xom ashyoga qo'yiladigan talablar",
+      "content": [
+        "Kolbasa ishlab chiqarishga veterinariya-sanitariya ekspertizasida yaroqli deb topilgan, tanasida veterinariya nazorati tamg'asi bor go'sht va cho'chqa yog'i qabul qilinadi. Mog'orlangan, shilimshiq, qon laxtali, ifloslangan yoki kuygan go'sht ishlatilmaydi [3].",
+        "Oqartirishdan o'tkaziladigan subproduktlar qaynoq suvda 15-20 daqiqa qaynatiladi, ochiq qozonlarda 3-5 soat yoki yopiq qozonlarda 1,5-2,5 soat pishiriladi. Ular stol yoki javonlarga yupqa qatlam qilib yoyilib sovutiladi, bo'laklarga ajratiladi va suyagi olinadi [1]."
+      ]
+    },
+    {
+      "heading": "Tuzlash va nitrit",
+      "content": [
+        "Pishirilgan kolbasa uchun tuzlangan maydalangan go'sht 20-40 °C da saqlanadi. Cho'chqa go'shti mahsulotlari go'shtni namakob bilan aralashtirib, tuzli aralashma bilan ishqalash va bir necha kun ushlab turish yo'li bilan tuzlanadi, bunda natriy nitritning 2,5 foizdan oshmagan eritmasi qo'shiladi [1].",
+        "Quruq nitrit ishlatilmaydi, u qulflangan joyda saqlanadi, eritma korxona laboratoriyasida tayyorlanadi. Tayyor mahsulotda natriy nitrit 100 g da 3-5 mg bo'lishi kerak, hisobga olish jurnallari yuritilib mas'ul shaxs belgilanadi [1]."
+      ]
+    },
+    {
+      "heading": "Maydalash va to'ldirish",
+      "content": [
+        "Qiymalangan mahsulotlar retsept bo'yicha tuzlanadi va bir vaqtda maydalanadi va aralashtiriladi. Mexanik ishlov natijasida harorat ko'tarilmasligi uchun sovituvchi generatorlar ishlatiladi, kesish oxirida qiymaning harorati 18 °C, sexda 12 °C bo'ladi [1].",
+        "Batonlarga havo kamroq tushishi va saqlash xususiyatini uzaytirish uchun vakuumli shpritslar qo'llanadi, bunda sexda harorat 12 °C va nisbiy namlik 70 foiz bo'ladi. Pichoqlarni etik yoki kamar orqasida olib yurish, bo'laklarni pichoq bilan uzatish mumkin emas [1]."
+      ]
+    },
+    {
+      "heading": "Termik ishlov",
+      "content": [
+        "Termik ishlov stasionar kameralarda o'tkaziladi, kameralar harorat va namlikni boshqaruvchi moslamalar bilan jihozlanadi, rejim jurnalda qayd etiladi. Qovurish diametrga qarab 80-110 °C da 60-140 daqiqa davom etadi, bunda baton ichidagi harorat 40-45 °C ga yetadi [1].",
+        "Qaynatiladigan kolbasa, sosiska va sardelkalar 75-85 °C da pishiriladi va baton ichida harorat 70-72 °C ga yetadi. Yarim dudlangan mahsulotlar 68-72 °C, qaynatilgan-dudlanganlar 68 °C, jigarli kolbasalar 72 °C gacha pishiriladi [1]."
+      ]
+    },
+    {
+      "heading": "Dudlash va sovutish",
+      "content": [
+        "Xom dudlangan kolbasa 75-78 foiz namlikda 18-22 °C da 2-3 kun, 10-12 °C da 25-30 kun dudlanadi. Yarim dudlangan va qaynatilgan-dudlangan mahsulotlar uchun yuqori issiqlik rejimlari (35-50 °C da 24 soatgacha) qo'llanadi [1].",
+        "Pishgan mahsulot buridishi, namlik yo'qotishi va qoldiq mikroflora ko'payishining oldini olish uchun tezda sovuq suvli dush ostida, so'ngra kameralarda +10 °C da sovutiladi. Tutunni tozalash uchun tutun generatorlari va termokameralar ishlatiladi [1]. Namlikni kamaytirish va zararli mikroblar ko'payishini oldini olish uchun kolbasalar kameralarda sovutiladi yoki mahalliy sovuq havo haydovchi uskuna bilan jihozlanadi [1]."
+      ]
+    },
+    {
+      "heading": "Laboratoriya va ishlab chiqarish nazorati",
+      "content": [
+        "Kolbasa ishlab chiqarishning kritik nuqtalari xom ashyo sifati, veterinariya-sanitariya nazorati, nitrit va fosfat qo'llash tartibi, qiyma tayyorlash, termik ishlov va sovutish bosqichlaridir. Korxona ishlab chiqarish nazorati dasturi va attestatsiyadan o'tgan kimyoviy va mikrobiologik laboratoriyalarga ega bo'lishi shart [3].",
+        "Tayyor mahsulot korxona laboratoriyasi tomonidan kamida besh kunda, jigarli kolbasa, pashtet, kholodets va zels kamida uch kunda bir marta tekshiriladi. Jihozlar sanitariya ishlovi sifati har bir birlik bo'yicha o'n kunda kamida bir marta baholanadi. Qaynatilgan kolbasa 6 °C gacha haroratda 2-5 sutka saqlanadi [3].",
+        "Mikrobiologik xavfsizlik bo'yicha umumiy mikrob soni, ichak tayoqchasi guruhi bakteriyalari, salmonella, listeriya, stafilokokk va uzoq saqlanadigan kolbasalarda sulfitredutsiya qiluvchi klostridiyalar nazorat qilinadi. Dudlangan mahsulotlarda benz(a)piren va nitrozaminlar ham tekshiriladi [2]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "Kolbasa ishlab chiqarish xom ashyoni tanlash, tuzlash, maydalash va to'ldirish, termik ishlov, dudlash va sovutish bosqichlaridan iborat. Har bir bosqich harorat, vaqt va nitrit miqdori kabi aniq mezonlar bilan nazorat qilinadi, bu tayyor mahsulot xavfsizligini ta'minlaydi [1, 2, 3]."
+      ]
+    }
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi xizmati. Go'sht va go'sht mahsulotlarini qayta ishlash korxonalariga qo'yiladigan sanitariya-gigiyena talablari: № 0036-22 SanQvaN. Toshkent (lex.uz/docs/6309222). xayrullokomilov.uz/kutubxona, material ID 896. 2022.",
+    "Shayxova G.I. (tahr.). Ovqatlanish gigiyenasi. Toshkent. xayrullokomilov.uz/kutubxona, material ID 2360. 2012.",
+    "Korolev A.A. Ovqatlanish gigiyenasi: oliy ta'lim uchun darslik (rus tilida), 4-nashr. Moskva: Akademiya nashriyot markazi. xayrullokomilov.uz/kutubxona, material ID 2367. 2014."
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "number": 136,
+  "title": "136. O'yin va o'yinchoqlar markirovkasi qanday o'tkazilishi kerak?",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Markirovka o'yinchoq haqidagi ma'lumotni iste'molchiga yetkazadi va bolaga yoshiga mos o'yinchoq tanlashga imkon beradi. Gigiyenik talablar o'yinchoqning mo'ljallangan yoshiga bog'liq, shu sababli markirovka xavfsiz foydalanish shartlaridan biri hisoblanadi [1, 2].",
+        "Ushbu mavzuda markirovkaning vazifasi, yosh ko'rsatkichi, iste'mol qadog'i va yorliqdagi ma'lumotlar, sertifikatlash bilan bog'liqligi, savdoda nazorat va sanitariya vrachining vazifalari bayon etiladi [1, 2, 3]."
+      ]
+    },
+    {
+      "heading": "Markirovkaning vazifasi",
+      "content": [
+        "O'yinchoqning xavfsizligi bolaning yosh xususiyatlariga bog'liq. Bir yoshgacha, uch yoshgacha va uch yoshdan katta bolalar uchun talablar farq qiladi, shuning uchun markirovkada mo'ljallangan yosh doirasi aniq ko'rinishi kerak [1].",
+        "O'yinchoqning tipik namunasi bir xil yosh manziliga ega o'yinchoqlar guruhidan tanlanadi: uch yoshgacha va uch yoshdan katta bolalar uchun. Demak, yosh ko'rsatkichi gigiyenik baholashning tarkibiy qismidir [1]."
+      ]
+    },
+    {
+      "heading": "Yosh guruhlari",
+      "content": [
+        "O'yin va o'yinchoqlar bolalarning morfofunksional xususiyatlari, bilish va aqliy qobiliyatlari rivojlanishiga qarab beshta guruhga bo'linadi: bir yoshgacha (erta), 1-3 yosh (yasli), 3-6 yosh (maktabgacha), 6-10 yosh (kichik maktab) va 10-14 yosh (o'rta maktab) [2].",
+        "Yosh bo'yicha o'yinchoq turi ham farq qiladi. Birinchi yilda ko'rish va eshitish idrokini, harakatlarni rivojlantiradigan yirik, yorqin, tovush chiqaradigan o'yinchoqlar (shaqildoq, halqa) kerak, maktabgacha yoshda rolli o'yinlar va jamoaviy o'yinchoqlar ahamiyat kasb etadi [2]."
+      ]
+    },
+    {
+      "heading": "Iste'mol qadog'ida yosh",
+      "content": [
+        "Iste'mol qadog'ida yoki qo'shimcha varaqchada konkret o'yin yoki o'yinchoq mo'ljallangan bolalar yoshi ko'rsatilishi shart. Bu talab o'yin va o'yinchoqlarni ishlab chiqaruvchi korxonalar uchun majburiy [2].",
+        "Yosh ko'rsatkichi ota-onalar va tarbiyachilarga o'yinchoqni to'g'ri tanlashga yordam beradi. Masalan, uch yoshgacha bo'lgan bolalarga mayda va ajraladigan detallari bor o'yinchoqlar berilmasligi kerak [1, 2]."
+      ]
+    },
+    {
+      "heading": "Grafik belgi",
+      "content": [
+        "O'yinchoqlarda yoshni grafik shartli belgi bilan ko'rsatish xalqaro amaliyotda qo'llanadi. Bunday belgi uchun alohida davlatlararo standart (GOST 30782-2001) mavjud, u o'yinchoqlarning xavfsizlik talablari va sinov usullarini yoshni grafik belgilash bilan birga ko'rib chiqadi [1].",
+        "Markirovka, qadoqlash, tashish va saqlash qoidalari GOST 24972-93 da berilgan. Bu standart o'yinchoqlar sifatini baholash va ularni aylanmaga chiqarishda sanitariya vrachi tayanadigan texnik asoslardan biridir [1]."
+      ]
+    },
+    {
+      "heading": "Yorliq va qadoqdagi ma'lumotlar",
+      "content": [
+        "Iste'mol qadog'idagi ma'lumotlar bilan o'yinchoq tipik namunaga mosligi, ya'ni sertifikatlangan mahsulot ekani tekshiriladi. Bu nomuvofiq mahsulotni sotuvdan olishda ham zarur [3].",
+        "Chet eldan olib kirilgan o'yinchoqlar va materiallar uchun ularning bolalar salomatligiga zararsizligini tasdiqlovchi sertifikatlar taqdim etilishi shart."
+      ]
+    },
+    {
+      "heading": "Sertifikatlash bilan bog'liqlik",
+      "content": [
+        "Respublikada ishlab chiqariladigan va olib kiriladigan o'yinchoqlar gigiyenik sertifikatlashga tortiladi. Ishlab chiqarishga qo'yishda gigiyenik baholash o'tkaziladi va uning natijasi bo'yicha gigiyenik sertifikat yoki sanitariya-epidemiologik xulosa beriladi [3].",
+        "O'yinchoqlar va o'yinlarni sertifikatlash tartibi davlatlararo standartlar bilan ham tartibga solinadi. Markirovka sertifikatlangan mahsulotni tanishda va inspeksiya nazorati paytida ishlatiladi [1, 3]."
+      ]
+    },
+    {
+      "heading": "Oziq-ovqat bilan sotiladigan o'yinchoqlar",
+      "content": [
+        "Oziq-ovqat mahsulotida joylashgan yoki chakana savdoga oziq-ovqat bilan birga tushadigan o'yinchoq o'zining alohida qadog'iga ega bo'lishi kerak. Bu qadoq o'lchami bolani bo'g'ilish xavfiga solmasligi shart [1].",
+        "Plastmassa o'yinchoqni oziq-ovqat qadog'ining tashqi tomoniga qadoqsiz joylashtirishga ruxsat beriladi. Oziq-ovqatga bevosita mahkamlanadigan o'yinchoq yuqori nafas yo'llariga tushmaydigan o'lchamda bo'ladi [1]."
+      ]
+    },
+    {
+      "heading": "Ogohlantirish va xavfsizlik belgisi",
+      "content": [
+        "Uch yoshgacha bo'lgan bolalar uchun mo'ljallanmagan o'yinchoqlar mayda detallar va yuqori nafas yo'llariga tushish xavfi sababli ajratib belgilanishi muhim. Bunday ajratish yosh bo'yicha sanitariya talablariga muvofiq o'tkaziladi [1].",
+        "Shu sababli yosh ko'rsatkichi sanitariya vrachi tekshiradigan ko'rsatkichlardan biri hisoblanadi, uning to'g'riligi bolalar xavfsizligiga bevosita ta'sir qiladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Yoshga bog'liq gigiyenik talablar",
+      "content": [
+        "Markirovkadagi yosh talablar darajasini belgilaydi. Hid intensivligi bir yoshgacha bo'lgan bolalar o'yinchoqlarida 1 balldan, undan katta bolalar uchun 2 balldan oshmasligi kerak, uch yoshgacha bo'lgan bolalar o'yinchoqlarida ta'm 1 balldan ko'p bo'lmaydi [1].",
+        "Ovozli o'yinchoqning ekvivalent tovush darajasi uch yoshgacha bo'lgan bolalar uchun 60 dBA, 3-6 yoshda 65 dBA, 6 yoshdan katta bolalar uchun 70 dBA dan oshmasligi shart. Maksimal daraja mos ravishda 70, 75 va 80 dBA [1].",
+        "Bir yoshgacha bo'lgan bolalarning to'ldirgichli o'yinchoqlari uchun mikrobiologik ko'rsatkichlar qattiqroq: mezofil aerob bakteriyalar 1·10² KOE/g dan ko'p bo'lmaydi, patogen stafilokokklar va ko'k yiring tayoqchasi aniqlanmaydi [1]."
+      ]
+    },
+    {
+      "heading": "O'yinchoq turlari",
+      "content": [
+        "Gigiyenik jihatdan o'yinchoqlar chaqaloq va yasli yoshdagi bolalar o'yinchoqlari, obrazli, musiqali, optik, elektromexanik (24 V gacha), stol o'yinlari, ijod buyumlari, tajriba to'plamlari, o'yin-maishiy buyumlar va yirik o'yinchoqlar kabi turlarga bo'linadi [2].",
+        "Har bir turning xavfsizlik talablari alohida. Masalan, yirik o'yinchoqlar (bola sig'adigan, bolani ko'taradigan, arg'imchoq va og'ir qo'zg'almas o'yinchoqlar) mustahkam va turg'un bo'lishi kerak, bu yosh belgisi bilan birga ko'rib chiqiladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Savdoda nazorat",
+      "content": [
+        "Savdoda o'yinchoq sotuvchida namuna bo'lishi kerak. Mahsulotni namoyish qilish paytida og'iz bilan tegishi mo'ljallangan o'yinchoqlarni lablarga tegizish taqiqlanadi [2].",
+        "Savdo korxonalarida o'yinchoqlar yosh guruhlari bo'yicha ajratib joylashtirilishi mahsulotni to'g'ri tanlashga yordam beradi, shu bilan birga sanitariya vrachi savdoda namunalar borligi va ularning sertifikatlangan mahsulotga mosligini tekshiradi [2, 3]."
+      ]
+    },
+    {
+      "heading": "Sanitariya vrachining vazifasi",
+      "content": [
+        "Sanitariya vrachi o'yinchoq ishlab chiqaruvchi korxonalarda va savdoda markirovka va qadoqlashning talablarga muvofiqligini tekshiradi. Bu nazorat tanlab tekshirish va sertifikatlangan mahsulotni inspeksiya nazorati sifatida amalga oshiriladi [3].",
+        "Talablarga javob bermagan o'yinchoqlarning ishlab chiqarilishi yoki sotilishi to'xtatiladi yoki taqiqlanadi. Birorta salbiy ko'rsatkich bo'lsa ham o'yinchoq sotuvdan olib tashlanadi [3]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "O'yin va o'yinchoqlar markirovkasi iste'mol qadog'ida yoki qo'shimcha varaqchada bolalarning mo'ljallangan yoshini ko'rsatishni, ishlab chiqaruvchi va sertifikat ma'lumotlarini aks ettirishni o'z ichiga oladi. Yosh belgisi o'yinchoq gigiyenik xavfsizligi talablarini (3 yoshgacha va undan katta) aniqlaydi, shu sababli u sanitariya nazoratining muhim ko'rsatkichi hisoblanadi [1, 2, 3]."
+      ]
+    }
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. Bolalar uchun o'yinchoqlar (o'yinlar) xavfsizligiga qo'yiladigan gigiyenik talablar: SanPiN № 0354-18 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 752. 2018.",
+    "Kuchma V.R. Bolalar va o'smirlar gigiyenasi: o'quv qo'llanma (rus tilida). xayrullokomilov.uz/kutubxona, material ID 2301. 2010.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. O'yinchoqlar (o'yinlar) xavfsizligiga qo'yiladigan sanitariya-gigiyenik talablar: SanPiN № 0287-10 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 686. 2010."
+  ]
+}

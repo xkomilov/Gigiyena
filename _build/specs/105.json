@@ -1,0 +1,57 @@
+{
+  "number": 105,
+  "title": "105. Gigiyenik ratsional bo'lgan maktab jadvalini tavsiflab bering.",
+  "sections": [
+    { "heading": "Kirish", "content": [
+      "Gigiyenik jihatdan ratsional maktab jadvali o'quvchilarning kunlik va haftalik aqliy ish qobiliyatini hisobga olib tuziladi va charchash, ko'rish va qomatning buzilishining oldini oladi. U darslarning boshlanish vaqti, haftalik va kunlik yuklama, fanlarning murakkabligi bo'yicha navbatlashishi, tanaffuslar va jismoniy faollikni tartibga soladi [1].",
+      "Ushbu mavzuda sinflarning to'lish darajasi, smena tartibi, haftalik va kunlik yuklama, fanlarni navbatlash qoidalari, dars va tanaffus davomiyligi, birinchi sinf rejimi, jismoniy tarbiya, uy vazifasi va portfel vazni bo'yicha gigiyenik talablar bayon etiladi [1, 2]."
+    ]},
+    { "heading": "Sinf to'lishi va smena tartibi", "content": [
+      "Sinfdagi o'quvchilar soni kompensatsiyalovchi sinflardan tashqari 25 nafardan oshmasligi kerak, kompensatsiyalovchi sinflarda 20 nafargacha. Olti yosh olti oyga to'lmagan bolalar maktabgacha ta'lim sharoitida yoki maktabda maktabgacha yoshga xos talablar bilan o'qitiladi [1].",
+      "Darslar soat 8.00 dan oldin boshlanmaydi, nolinchi darslar o'tkazilmaydi. Chuqurlashtirilgan o'qitiladigan maktablarda dars faqat birinchi smenada, ikki smenali maktabda esa 1-, 5- va bitiruvchi sinflar hamda kompensatsiyalovchi sinflar birinchi smenada o'qiydi. Uch smenada o'qitish mumkin emas [1, 2]."
+    ]},
+    { "heading": "Haftalik yuklama", "content": [
+      "Olti kunlik haftada eng ko'p ruxsat etilgan haftalik o'quv yuklamasi akademik soatlarda: 1-sinfda 22, 2- va 3-sinflarda 24, 4-sinfda 26, 5-sinfda 32, 6-sinfda 34, 7-sinfda 35, 8-sinfda 36, 9-sinfda 37. Yuklama dars va darsdan tashqari faoliyatni qamrab oladi [1].",
+      "O'quv yilini bir tekis taqsimlash va charchashning oldini olish uchun o'quv davrlari va ta'tillar tekis rejalashtiriladi. Yuklama hafta davomida bir tekis taqsimlanadi, 2023-yildagi o'zgartirishlardan keyin 5-11-sinflar uchun ham bir xil qoidalar qo'llanadi [1, 2]."
+    ]},
+    { "heading": "Kunlik yuklama", "content": [
+      "Birinchi sinf o'quvchilari uchun kuniga 4 darsdan oshmasligi, haftada bir marta jismoniy tarbiya hisobiga 5 dars bo'lishi mumkin. 2-4-sinflarda kuniga 5 dars, haftada bir marta jismoniy tarbiya hisobiga 6 dars, 5-6-sinflarda 6 darsdan ko'p emas [1].",
+      "Shu bilan birga olti kunlik haftada boshlang'ich sinflarda (birinchisidan tashqari) kuniga 5 darsdan ko'p o'tkazilmaydi. Jadvalda majburiy va fakultativ mashg'ulotlar alohida rejalashtiriladi, fakultativ darslar eng kam majburiy darsli kunlarga qo'yiladi, ular orasidagi tanaffus kamida 45 daqiqa bo'ladi [1]."
+    ]},
+    { "heading": "Fanlarning murakkabligiga qarab navbatlash", "content": [
+      "Jadval o'quvchilarning kunlik va haftalik aqliy ish qobiliyatini hamda fanlar qiyinligi shkalasini hisobga olib tuziladi. Kun va hafta davomida murakkabligi har xil fanlar navbatlashtiriladi: boshlang'ich sinflarda asosiy fanlar (matematika, ona tili, chet tili, tabiatshunoslik, informatika) musiqa, tasviriy san'at, mehnat va jismoniy tarbiya bilan, yuqori sinflarda tabiiy-matematik fanlar gumanitar fanlar bilan almashinadi [1].",
+      "Eng qiyin fanlar birinchi sinfda 2-darsga, 2-4-sinflarda 2-3-darsga, 5-sinf va undan yuqorida 2-4-darslarga qo'yiladi. Boshlang'ich sinflarda juft darslar o'tkazilmaydi, bir kunda bittadan ortiq nazorat ishi bo'lmaydi va u 2-4-darslarda o'tkaziladi [1, 2]."
+    ]},
+    { "heading": "Dars va tanaffus davomiyligi", "content": [
+      "Darsning davomiyligi (akademik soat) 45 daqiqadan oshmaydi, kompensatsiyalovchi sinflarda 40 daqiqa. Asosiy fanlar bo'yicha darsda o'quv ishining zichligi 60-80 foiz bo'lishi kerak. Dars davomida faoliyat turlari almashtiriladi, o'qish, yozish, tinglash kabi bir turdagi ish 1-4-sinflarda 7-10 daqiqadan, yuqori sinflarda 10-15 daqiqadan uzoq davom etmaydi [1].",
+      "Tanaffuslar kamida 10 daqiqa, katta tanaffus (2- yoki 3-darsdan keyin) 20-30 daqiqa bo'ladi, bitta katta tanaffus o'rniga 2- va 3-darsdan keyin 20 daqiqalik ikkita tanaffus qo'yish mumkin. Dinamik pauza o'tkazilganda katta tanaffus 45 daqiqagacha uzaytiriladi, shundan kamida 30 daqiqa harakatli faoliyatga ajratiladi [1]."
+    ]},
+    { "heading": "Birinchi sinf rejimi", "content": [
+      "Birinchi sinfda mashg'ulotlar faqat birinchi smenada, olti kunlik hafta bilan o'tkaziladi. Birinchi yarim yillikda zinapoyasimon rejim qo'llanadi: sentyabr-oktyabrda kuniga 3 ta 35 daqiqalik dars, noyabr-dekabrda 4 ta 35 daqiqalik dars, yanvar-mayda 4 ta 45 daqiqalik dars. Kun o'rtasida kamida 40 daqiqalik dinamik pauza tashkil etiladi [1].",
+      "Uzaytirilgan kun guruhiga qatnaydigan bolalar uchun kamida 1 soatlik kunduzgi uyqu, uch mahal ovqat va sayr ta'minlanadi. Ta'lim ballik baholashsiz va uy vazifasisiz olib boriladi, uchinchi chorak o'rtasida qo'shimcha haftalik ta'til beriladi [1]."
+    ]},
+    { "heading": "Jismoniy tarbiya va harakat faolligi", "content": [
+      "Harakatga bo'lgan biologik ehtiyojni qondirish uchun yoshidan qat'i nazar haftada kamida 3 jismoniy tarbiya darsi tavsiya etiladi, ular maksimal haftalik yuklama hajmiga kiritilgan. Jismoniy tarbiya darslarini boshqa fanlar bilan almashtirish mumkin emas [1].",
+      "Jismoniy tarbiya darsining motor zichligi kamida 70 foiz bo'lishi lozim. Dars ochiq havoda o'tkazilishi ma'qul, yomg'irli, shamolli va sovuq kunlarda sport zalida. Qo'shimcha harakat faolligi jismoniy daqiqalar, tanaffuslardagi harakatli o'yinlar, sport soati, sport musobaqalari va sog'liq kunlari bilan ta'minlanadi [1]."
+    ]},
+    { "heading": "Texnik vositalar va ko'rish yuklamasi", "content": [
+      "Texnik o'qitish vositalarini uzluksiz qo'llash davomiyligi sinfga qarab belgilangan: 1-2-sinflarda statik tasvirni ko'rish 10 daqiqagacha, shaxsiy kompyuter monitori va klaviaturada ishlash 15 daqiqagacha; 3-4-sinflarda 15 va 20; 5-7-sinflarda 20 va 25; 8-9-sinflarda 25 va 30 daqiqa [1].",
+      "Ko'rishga yuklama bilan bog'liq texnik vositalardan keyin ko'z charchog'ini oldini oluvchi mashqlar, dars oxirida esa umumiy charchoqni oldini oluvchi jismoniy mashqlar o'tkaziladi. Ko'zdan daftar yoki kitobgacha masofa 1-4-sinflarda kamida 25-35 sm, 5-9-sinflarda kamida 30-45 sm bo'lishi kerak [1]."
+    ]},
+    { "heading": "Uy vazifasi va portfel vazni", "content": [
+      "Uy vazifasining hajmi shunday bo'lishi kerakki, uni bajarishga ketadigan vaqt astronomik soatda 2-3-sinflarda 1,5 soat, 4-5-sinflarda 2 soat, 6-8-sinflarda 2,5 soat, 9-sinfda 3,5 soatgacha bo'lsin. 2023-yildagi o'zgartirish bu talabni 9-11-sinflarga ham tatbiq etadi [1, 2].",
+      "Kunlik darslik va yozuv buyumlari to'plamining vazni 1-2-sinflarda 1,5 kg, 3-4-sinflarda 2 kg, 5-6-sinflarda 2,5 kg, 7-8-sinflarda 3,5 kg, 9-sinflarda 4,0 kg dan oshmasligi kerak. Qomat buzilishining oldini olish uchun boshlang'ich sinflarda maktab va uy uchun alohida ikki to'plam o'quv kitoblari bo'lishi maqsadga muvofiq [1, 2]."
+    ]},
+    { "heading": "Yengillashtirilgan kun va yakuniy attestatsiya tartibi", "content": [
+      "Charchashning oldini olish va hafta davomida optimal ish qobiliyatini saqlash uchun o'quvchilar uchun payshanba yoki juma kuni yengillashtirilgan o'quv kuni tashkil etiladi. Smenalar orasidagi tanaffus kamida 30 daqiqa bo'lib, nam tozalash va shamollatish uchun xizmat qiladi, noqulay epidemiologik vaziyatda esa 60 daqiqagacha oshiriladi [1].",
+      "Yakuniy attestatsiyada bir kunda bittadan ortiq sinov o'tkazilmaydi, sinovlar orasidagi tanaffus kamida 2 kun bo'ladi, sinov 4 soat va undan uzoq davom etsa o'quvchilarning ovqatlanishi tashkil etiladi [1]."
+    ]},
+    { "heading": "Xulosa", "content": [
+      "Ratsional maktab jadvali sinf to'lishi, smena, haftalik va kunlik yuklama, fanlar murakkabligi bo'yicha navbatlash, dars va tanaffus davomiyligi, harakat faolligi, ko'rish yuklamasi, uy vazifasi va portfel vazni bo'yicha gigiyenik talablarning birligidan iborat. Bu talablar o'quvchilarning ish qobiliyati va salomatligini saqlaydi [1, 2]."
+    ]}
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Bosh davlat sanitariya vrachi. Umumta'lim maktablarida o'qitish sharoitlari va tashkil etilishiga qo'yiladigan sanitariya-epidemiologik talablar: SanPiN № 0341-16 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 742. 2016.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi huzuridagi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi qo'mitasi. Umumta'lim maktablarida ta'lim sharoitlari va tashkil etilishiga qo'yiladigan sanitariya-epidemiologik talablarga (0341-16-son SanQvaN) o'zgartirishlar kiritish to'g'risida: 2023-yil 15-sentyabrdagi 22-son qaror. Toshkent. xayrullokomilov.uz/kutubxona, material ID 632. 2023."
+  ]
+}

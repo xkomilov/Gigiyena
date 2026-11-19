@@ -1,0 +1,108 @@
+{
+  "number": 154,
+  "title": "154. Shovqin va tebranish patologiyasining oldini olish.",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Shovqin va tebranish ta'sirida rivojlanadigan kasalliklarning oldini olish choralar majmuasini talab qiladi: texnik, tashkiliy, davolash-profilaktika va shaxsiy himoya tadbirlari. Doimiy eshitish buzilishlarida davolash samarasiz bo'lgani uchun profilaktika yetakchi o'rinni egallaydi [1, 2].",
+        "Ushbu mavzuda shovqin, tebranish, infratovush va ultratovush ta'sirini kamaytirish choralari, ish va dam olish tartibi, shaxsiy himoya vositalari, tibbiy ko'riklar va nazorat bayon etiladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Profilaktika tamoyillari",
+      "content": [
+        "Shovqin ta'sirida eshitish a'zosida qaytmas degenerativ o'zgarishlar rivojlangan bosqichlarda davolash tadbirlaridan yaxshilanish kutish qiyin, shu sababli kasbiy karlikni cheklashda asosiy o'rin profilaktikaga tegishli [1].",
+        "Tebranish bo'yicha ham kompleks choralar: tebranishni kamaytirishning texnik usullari, tashkiliy (mehnat va dam olish rejimi), davolash-profilaktika choralari va hamroh noqulay omillarni cheklash [1]."
+      ]
+    },
+    {
+      "heading": "Shovqinni kamaytirishning texnik choralari",
+      "content": [
+        "Xodimlarning shovqin darajasi belgilangan normadan oshadigan hududlarga kirishiga yo'l qo'ymaslik, kam shovqin hosil qiluvchi asbob-uskunalar va ish jihozlarini tanlash va minimal shovqin darajasini ta'minlaydigan asbob-uskunalar bilan ishlash haqida xodimlarni xabardor qilish zarur [2].",
+        "Odamlar bo'ladigan joylarga akustik to'lqinlar kirishini ruxsat etilgan darajagacha kamaytirish uchun himoya ekranlari, qurilish materiallari va boshqa qo'shimcha vositalardan foydalaniladi [2]."
+      ]
+    },
+    {
+      "heading": "Ogohlantirish va cheklash",
+      "content": [
+        "Shovqin darajasi ruxsat etilgan qiymatdan yuqori bo'lgan hududlarda ogohlantiruvchi belgilar va to'siqlar qo'llanadi. Har qanday oktava diapazonida oktava tovush bosimi darajasi 135 dB va undan yuqori bo'lgan ish o'rinlarida ishlash yoki qisqa vaqt bo'lishga yo'l qo'yilmaydi [2].",
+        "Shovqin yuklamasining oshib ketish ko'rsatkichi aniqlanib, ish vaqtini cheklash orqali ham kamaytiriladi [2]."
+      ]
+    },
+    {
+      "heading": "Shaxsiy himoya vositalari",
+      "content": [
+        "Xodimlarni shaxsiy himoya vositalari bilan ta'minlash shovqinga qarshi profilaktikaning zarur tarkibiy qismi. Shovqinga qarshi qistirmalar, quloqchinlar yoki dubulg'alar qo'llanadi [2].",
+        "Shovqin yuklamasining oshib ketishi baholanganda bu vositalarning samaradorligi hisobga olinishi mumkin. Tebranishga qarshi tebranish chastotasi va darajasiga mos maxsus poyabzal va qo'lqoplar tanlanadi [2]."
+      ]
+    },
+    {
+      "heading": "Tebranishning texnik choralari",
+      "content": [
+        "Texnikada asosiy yo'l mavjud uskunalarni, tebranish hosil bo'lish manbasida va tarqalish yo'lida tebranishni maksimal kamaytirishni hisobga olgan holda yangilash. Konstruktorlar tebranishni so'ndiruvchi tutqichlar, yengillashtirilgan zarbli qismlar yaratgan, prujinalarni hisoblagan, puxta balanslashtirish va qo'shimcha podshipniklar o'rnatish choralari ko'rilgan [1].",
+        "Tebranishni kamaytirishning texnik choralariga tebranishni muvozanatga keltirish, rezonansning oldini olish, tebranish so'ndiruvchi (dempfer) yoki izolyatsiya qiluvchi tizimlarni joriy etish kiradi [2]."
+      ]
+    },
+    {
+      "heading": "Mehnat va dam olish tartibi",
+      "content": [
+        "Ruxsat etilgan darajadan yuqori tebranishli uskunalar bilan ishlaganda ratsional mehnat va dam olish rejimi tashkil etiladi. Tebranishning uzluksiz ta'siri (mikropauzalar bilan birga) 15-20 daqiqadan oshmasligi tavsiya etiladi [1].",
+        "Tushlik tanaffusi kamida 40 daqiqa, bundan tashqari smena boshlanganidan 1-2 soat keyin 20 daqiqalik va tushlikdan 2 soat keyin 30 daqiqalik reglamentlangan tanaffuslar beriladi [1]."
+      ]
+    },
+    {
+      "heading": "Tebranish ta'sirini cheklash",
+      "content": [
+        "Tebranish darajasi ruxsat etilgan darajadan mahalliy tebranishda 12 dB (4 baravar), umumiy tebranishda 24 dB (8 baravar) ko'p bo'lsa, ishlashga yo'l qo'yilmaydi. Daraja ortgan sari ish vaqti qisqartiriladi [2].",
+        "Mehnat jarayonida asbobga bosim kuchi 200 N (20 kg) dan, qo'l bilan ushlab turiladigan asbob vazni 10 kg dan oshmasligi kerak. Bu qo'l-yelka mushaklarining statik zo'riqishini kamaytiradi [1]."
+      ]
+    },
+    {
+      "heading": "Hamroh omillarni cheklash",
+      "content": [
+        "Ishlar isitiladigan xonalarda (16 °C dan past bo'lmagan harorat), 40-60 % namlik va 0,3 m/s havo harakatida o'tkazilishi, ochiq havoda ishlaganda davriy isinish uchun isitiladigan xona (22 °C) ko'zda tutilishi kerak. Ish joylarida mahalliy isitish bo'lishi lozim [1].",
+        "Tebranishga qarshi profilaktika choralariga shovqinga qarshi barcha choralar ham kiradi, chunki shovqin tebranish ta'sirini kuchaytiruvchi omillardan. Ishchilar tebranishga va shovqinga qarshi qo'lqop, qo'lqopcha, tebranishni so'ndiruvchi poyabzal bilan ta'minlanadi [1]."
+      ]
+    },
+    {
+      "heading": "Tibbiy-profilaktik choralar",
+      "content": [
+        "Eshitish sezgirligi yo'qolishining dastlabki belgilarini o'z vaqtida aniqlash uchun 80 dB dan yuqori shovqinda ishlovchi xodimlar davriy tibbiy ko'rikdan o'tkaziladi. Tebranish ta'siridagi xodimlar dastlabki va davriy majburiy tibbiy ko'riklardan o'tadi [2].",
+        "Ko'rik nevropatolog, terapevt va otorinolaringolog bilan, sovuq sinamasi, tebranish sezgirligi va dinamometriya tahlillari bilan yiliga bir marta o'tkaziladi. Fizioterapiya, qo'l-oyoq massaji, issiqlik va suv muolajalari qo'llanadi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Organizm chidamliligini oshirish",
+      "content": [
+        "Organizm qarshiligini oshirish, o'z-o'zini massaj qilish, suv muolajalari, ishlab chiqarish gimnastikasi va vitaminlash (2-3 hafta davomida 2 mg B1 va 50 mg C vitamini) katta ahamiyatga ega [1].",
+        "Shovqin kasalligida o'zgarishlar eshitish buzilishidan oldin boshlangani uchun ular erta qo'llanadi [1]."
+      ]
+    },
+    {
+      "heading": "Infratovush va ultratovush",
+      "content": [
+        "Infratovush manbalarini loyihalash, qurish va rejalashtirish bosqichlarida kamaytirish yoki izolyatsiya qilish, ularni alohida xonalarda joylashtirish, jarayonni masofadan boshqariladigan kuzatuv kabinalaridan olib borish, infratovush energiyasini yuqori chastotalarga o'tkazuvchi maxsus dempferlovchi qurilmalarni joriy etish lozim [2].",
+        "Ultratovush manbalari bilan bevosita aloqani istisno qilish, ularni masofadan boshqarish, ekran va g'ilof bilan ajratish, yuklash va tushirishda avtomatik o'chirish, kontakt ultratovushda rezina qo'lqop va yengchalardan foydalanishni nazorat qilish zarur [2]."
+      ]
+    },
+    {
+      "heading": "Nazorat va rejalashtirish",
+      "content": [
+        "Shovqin va tebranish darajalari muntazam o'lchanadi, natijalar ruxsat etilgan darajalar bilan taqqoslanadi. Ogohlantiruvchi sanitariya nazorati korxonalarni loyihalash bosqichida o'tkaziladi [1, 2].",
+        "Tebranish yuklamasining oshib ketish ko'rsatkichi hisoblab chiqiladi: tebranish spektrining oktava chastotalaridagi qiymatlari, chastota bo'yicha tuzatilgan ekvivalent darajalar va har bir tebranish turining ta'sir vaqti hisobga olinadi [2].",
+        "Shovqinning ta'sirini baholashda uning ekvivalent darajasi ish vaqti davomida, ya'ni ta'sir davomiyligi bilan birga hisoblanadi. Shu sababli ish vaqtini qisqartirish va ish joylarini almashtirish ham yuklamani kamaytiradigan tashkiliy chora hisoblanadi [2]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "Shovqin va tebranish patologiyasining oldini olish texnik choralar (manbada kamaytirish, ekranlash, tebranishni so'ndirish), tashkiliy choralar (ish va dam olish rejimi, ta'sir vaqtini cheklash), shaxsiy himoya vositalari, majburiy tibbiy ko'riklar va organizm chidamliligini oshirishni o'z ichiga oladi. Eng samarali yo'l shovqin va tebranishni manbada kamaytirish [1, 2]."
+      ]
+    }
+  ],
+  "references": [
+    "Iskandarova G.T. (tahrir) Mehnat gigiyenasi bo'yicha ma'ruzalar matni (rus tilida). Toshkent tibbiyot akademiyasi Kommunal gigiyena va mehnat gigiyenasi kafedrasi. Toshkent. xayrullokomilov.uz/kutubxona, material ID 2348. 2009.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi huzuridagi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi qo'mitasi. Ish joylaridagi shovqin, tebranish, infratovush va ultratovush darajalariga doir sanitariya qoidalari, normalari va gigiyena normativlari: 0111-26-son SanQvaN (2026-yil 24-martdagi 5-son qaror, o'zbek tilida, kirill yozuvida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 683. 2026."
+  ]
+}

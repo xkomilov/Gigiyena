@@ -1,0 +1,58 @@
+{
+  "number": 100,
+  "title": "100. Siz amaliy ishingizda bolalar va o'smirlarning jismoniy rivojlanishini baholash usullaridan foydalanib, sentil jadvali va regressiya shkalasi, shuningdek jismoniy rivojlanishning qaysi asosiy ko'rsatkichlarini ko'zda tutasiz?",
+  "sections": [
+    { "heading": "Kirish", "content": [
+      "Jismoniy rivojlanishni baholash sanitariya vrachining bolalar muassasalaridagi ishida asosiy vositalardan biri. Baholash natijasi bolaning individual holatini ham, butun jamoaning ahvolini ham aks ettiradi, shu sababli usul to'g'ri tanlanishi va ko'rsatkichlar bir xil tartibda o'lchanishi zarur [1, 2].",
+      "Ushbu mavzuda antropometrik tekshiruv shartlari, o'lchanadigan asosiy ko'rsatkichlar, sigmal og'ishlar, sentil va regressiya shkalasi usullari hamda kompleks baholash tartibi bayon etiladi [1, 2, 3]."
+    ]},
+    { "heading": "Antropometrik tekshiruv sharoiti", "content": [
+      "Antropometrik tekshiruvni kunning birinchi yarmida, yorug' xonada, qulay mikroiqlim sharoitida, bolani yalang'och holatda asboblar yordamida o'tkazish lozim. Bu shartlar o'lchov natijalarining solishtiriladigan bo'lishini ta'minlaydi [2].",
+      "Tekshiruv chastotasi bolalik davriga bog'liq. Chaqaloqlar har oyda bir marta, ilk bolalik davrida har 3 oyda, maktabgacha yoshda har 3-6 oyda, maktab yoshida yilda bir marta tibbiy ko'rikdan o'tadi va jismoniy rivojlanishi antropometrik usulda tekshiriladi [2]."
+    ]},
+    { "heading": "Asosiy somatometrik ko'rsatkichlar", "content": [
+      "Baholashda eng ko'p ishlatiladigan somatometrik ko'rsatkichlar bo'y uzunligi, tana vazni va ko'krak qafasi aylanasi hisoblanadi. Bo'y tik va o'tirgan holatda o'lchanadi [1, 2].",
+      "Bo'y uzunligi va uning yillik qo'shilishi biologik rivojlanishni ko'rsatadi, vazn va ko'krak qafasi aylanasi esa morfofunksional holatni ifodalaydi. O'zbekiston bolalari uchun tuzilgan baholash jadvallariga esa aynan bo'y va vazn nisbati asos qilib olingan [3]."
+    ]},
+    { "heading": "Biologik va funksional ko'rsatkichlar", "content": [
+      "Biologik rivojlanishni baholash uchun doimiy tishlar soni va jinsiy yetilish darajasi aniqlanadi. Bu belgilar baholashga bo'y o'sishining yillik qo'shilishi bilan birgalikda kiritiladi. Bu ko'rsatkichlar bo'y o'sishi bilan birga bolaning biologik yoshi pasport yoshiga mosligini ko'rsatadi [1, 2].",
+      "Funksional ko'rsatkichlarga o'pkaning tiriklik sig'imi, qo'l kafti va bel mushaklarining kuchi kiradi. Somatoskopik belgilardan qomat, ko'krak qafasi va oyoq tovoni shakli, mushak rivojlanishi hamda teri osti yog' qatlami e'tiborga olinadi. Ularsiz baholash to'liq bo'lmaydi [1, 2]."
+    ]},
+    { "heading": "Sigmal og'ishlar usuli", "content": [
+      "Sigmal og'ishlar usulida bolaning har bir ko'rsatkichi o'z yoshi va jinsiga mos o'rtacha arifmetik qiymat (M) bilan solishtiriladi, farq o'rtacha kvadratik og'ish (sigma) birligida ifodalanadi. Natija asosida jismoniy rivojlanish profili chiziladi [2, 3].",
+      "Bu usulning kamchiligi shundaki, somatometrik ko'rsatkichlar bir-biriga bog'lanmagan holda alohida baholanadi. Bo'y bilan vazn va ko'krak qafasi o'rtasidagi o'zaro bog'liqlik hisobga olinmaydi, shu sababli garmoniklik haqida to'liq xulosa chiqarish qiyin [2]."
+    ]},
+    { "heading": "Sentil usuli", "content": [
+      "Sentil usulida baholash jadvallar yordamida o'tkaziladi. Har bir jismoniy rivojlanish ko'rsatkichi jadvalda 3 dan 97 gacha sentilni qamrab oluvchi oltita ustunda beriladi. Ustunlar ma'lum yosh va jinsdagi bolalarda eng ko'p uchraydigan qiymatlar chegarasini ko'rsatadi [2].",
+      "Bolaning har bir ko'rsatkichi jadvaldagi qaysi ustunga tushishiga qarab uning jismoniy rivojlanishi va garmonikligi baholanadi. Kompleks sxemada 25-75 sentil oralig'i yoshga mos qiymat sifatida qabul qilinadi, 25-sentildan pastga tushish esa vazn yetishmovchiligi yoki funksional ko'rsatkichlar pasayishi belgisi hisoblanadi [1, 2]."
+    ]},
+    { "heading": "Regressiya shkalasi usuli", "content": [
+      "Regressiya shkalasi usulida har bir somatometrik ko'rsatkich shu bolaning bo'y uzunligi bilan taqqoslanadi. Usul nafaqat jismoniy rivojlanishni ifodalaydi, balki ko'rsatkichlarning bir-biri bilan korrelyatsion bog'liqligini ko'rsatib, garmonik rivojlanish haqida ham ma'lumot beradi [2].",
+      "Bo'y o'rtacha arifmetik qiymatga nisbatan besh guruhga bo'linadi: o'rtacha (M ± 1σ), o'rtachadan yuqori (M + 1σ dan M + 2σ gacha), yuqori (M + 2σ va undan yuqori), o'rtachadan past (M - 1σ dan M - 2σ gacha) va past (M - 2σ va undan past) [2]."
+    ]},
+    { "heading": "Skrining jadvallari", "content": [
+      "Regressiya tahlili asosida O'zbekiston bolalari uchun individual baholash skrining jadvallari tuzilgan. Ular 7-17 yoshdagi o'g'il va qiz bolalar uchun, Toshkent shahri, viloyat shaharlari va qishloq joylari bo'yicha alohida beriladi [3].",
+      "Jadvalda bolaning bo'yi topiladi, so'ng aynan shu bo'yga to'g'ri keladigan tana vaznining normal oralig'i aniqlanadi. Haqiqiy vazn bu oraliqdan past yoki yuqori bo'lsa, vazn tanqisligi yoki ortiqchaligi baholanadi. Bo'y jadvaldagi eng past qiymatdan kam bo'lsa, past bo'ylilik aniqlanadi [3]."
+    ]},
+    { "heading": "Natijalarni talqin qilish", "content": [
+      "Normal jismoniy rivojlanishda vazn bo'yga mos oraliqda bo'ladi. Og'ishlar uch turga bo'linadi: vazn tanqisligi, vazn ortiqchaligi va past bo'ylilik. Past bo'yli bolalarda umumiy rivojlanish kechikishi bo'lishi mumkin, shu sababli ular endokrinologga yo'naltiriladi [3].",
+      "Vazni ortiqcha bolalar ham endokrinolog maslahatiga yuboriladi, chunki ularning ko'pchiligi semizlik bilan kasallangan. Vazn tanqisligi bor bolalar oilaviy shifokor kuzatuvida qoladi. Baholash natijasi o'rta tibbiyot xodimlari tomonidan ham jadval yordamida aniqlanishi mumkin [3]."
+    ]},
+    { "heading": "Kompleks baholash usuli", "content": [
+      "Kompleks baholash usuli eng zamonaviy, aniq va ma'lumotga boy usul sanaladi. Bir tomondan morfofunksional rivojlanish grafik va jadval orqali baholanadi, ikkinchi tomondan biologik rivojlanish taqvim yoshiga nisbatan aniqlanadi [2].",
+      "Natijada bola biologik rivojlanish darajasi (yoshga mos, ilgarilagan, orqada qolgan) va morfofunksional holati (garmonik, disgarmonik, keskin disgarmonik) bo'yicha tavsiflanadi. Shu asosda kasallanish xavfi guruhi aniqlanadi va profilaktik tadbirlar rejalashtiriladi [1]."
+    ]},
+    { "heading": "Amaliy qo'llanilishi", "content": [
+      "Antropometrik ma'lumotlar bolalar gigiyenasida keng ishlatiladi. Ular maktab va ustaxonalarni standart jihozlar bilan ta'minlashda (soni va raqamlarini aniqlashda), bolalar kiyimi va poyabzali o'lchamlarini belgilashda hamda boshqa buyumlarni tanlashda asos bo'ladi [2].",
+      "Ijtimoiy sharoit o'zgarib turgani uchun jismoniy rivojlanishning mintaqaviy etalonlari vaqti-vaqti bilan qayta aniqlanadi. Shu sababli sanitariya vrachi eng yangi jadvallardan foydalanishi, o'z hududidagi bolalar uchun tuzilgan etalonni qo'llashi lozim [2, 3]."
+    ]},
+    { "heading": "Xulosa", "content": [
+      "Amaliyotda bo'y, vazn va ko'krak qafasi aylanasi asosiy ko'rsatkichlar hisoblanadi, ularga doimiy tishlar soni, jinsiy yetilish, o'pka tiriklik sig'imi va mushak kuchi qo'shiladi. Baholash sigmal og'ishlar, sentil jadvallari, regressiya shkalasi va O'zbekiston uchun tuzilgan skrining jadvallari yordamida o'tkaziladi, eng to'liq natijani esa kompleks usul beradi [1, 2, 3]."
+    ]}
+  ],
+  "references": [
+    "Kuchma V.R. Bolalar va o'smirlar gigiyenasi: o'quv qo'llanma (rus tilida). xayrullokomilov.uz/kutubxona, material ID 2301. 2010.",
+    "Do'schanov B.A., Iskandarova Sh.T. Umumiy gigiyena: tibbiyot oliy o'quv yurtlari talabalari uchun darslik, 4-nashr. Toshkent: Yangi asr avlodi. xayrullokomilov.uz/kutubxona, material ID 2767. 2008.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi, Sanitariya, gigiyena va kasb kasalliklari ilmiy-tadqiqot instituti. O'zbekiston Respublikasi 7-17 yoshli bolalar jismoniy rivojlanishining normativ baholash jadvallari: uslubiy tavsiyanoma № 012-3/0300 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 1307. 2016."
+  ]
+}

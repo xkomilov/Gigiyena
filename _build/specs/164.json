@@ -1,0 +1,118 @@
+{
+  "number": 164,
+  "title": "164. Havo namligini tavsiflash uchun qanday tushunchalar qo'llaniladi va ular qanday birliklarda ifodalanadi.",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Havo namligi havodagi suv bug'ining miqdorini ifodalaydi. Suv bug'lari suv havzalari, tuproq yuzasi va o'simliklardan muntazam havoga chiqib turadi. Namlikni tavsiflash uchun bir necha tushuncha qo'llanadi, ularning har biri o'z birligida ifodalanadi [1, 2].",
+        "Ushbu mavzuda absolyut, maksimal va nisbiy namlik tushunchalari, ularning o'lchov birliklari, hisoblash formulalari, namlikni aniqlash asboblari va gigiyenik normalar bayon etiladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Namlik tushunchasi",
+      "content": [
+        "Namlik 1 m³ havodagi suv bug'larining grammlardagi miqdori sifatida ifodalanadi. Havo namligining uch turi farqlanadi: absolyut, maksimal va nisbiy [1, 2].",
+        "Bu tushunchalar havoning suv bug'i bilan to'yinish darajasini aniqlaydi va mikroiqlimni gigiyenik baholashda ishlatiladi [1]."
+      ]
+    },
+    {
+      "heading": "Absolyut namlik",
+      "content": [
+        "1 m³ havodagi suv bug'larining miqdori (gramm hisobida) absolyut havo namligi deyiladi. Uning birligi g/m³ [2].",
+        "Absolyut namlik psixrometr ko'rsatkichlari bo'yicha ham hisoblanadi va bu holda simob ustuni millimetrida (mm sim. ust.) ifodalanadi [2]."
+      ]
+    },
+    {
+      "heading": "Maksimal namlik",
+      "content": [
+        "Maksimal havo namligi deb havoning ma'lum haroratda suv bug'i bilan to'liq to'yinishi uchun zarur bo'lgan suv miqdoriga aytiladi. Havo harorati ko'tarilib borgan sari havoning maksimal namligi ortadi [2].",
+        "Maksimal namlik ham g/m³ yoki mm sim. ust. da ifodalanadi va jadvaldan nam va quruq termometr ko'rsatkichlari bo'yicha olinadi [2]."
+      ]
+    },
+    {
+      "heading": "Nisbiy namlik",
+      "content": [
+        "Nisbiy havo namligi absolyut namlikning maksimal namlikka foizlardagi nisbati. Birligi foiz (%). U havoning suv bug'lari bilan to'yinish darajasini belgilaydi [2].",
+        "Nisbiy namlik K₁ = (K : F₁) × 100 % formulasi bilan topiladi, bunda K absolyut namlik (mm sim. ust.), F₁ quruq termometr harorati bo'yicha maksimal namlik [2]."
+      ]
+    },
+    {
+      "heading": "Absolyut namlik formulasi",
+      "content": [
+        "Psixrometr yordamida absolyut namlik K = F - 0,5 (T - T₁) · B/755 formulasi bilan hisoblanadi. Bunda F nam termometr ko'rsatishi bo'yicha maksimal namlik (jadvaldan), T quruq termometr ko'rsatishi (gradus), T₁ nam termometr ko'rsatishi (gradus), B tekshirish vaqtidagi barometrik bosim (mm sim. ust.) [2].",
+        "Nisbiy namlikni formula bilan aniqlashdan tashqari aspiratsion psixrometr ko'rsatkichlari bo'yicha maxsus jadval yordamida ham topish mumkin [2]."
+      ]
+    },
+    {
+      "heading": "Psixrometrlar",
+      "content": [
+        "Havo namligini aniqlashda aspiratsion va statik psixrometrlardan hamda gigrograflardan foydalaniladi. Psixrometr quruq va nam termometrdan iborat [2].",
+        "Aspiratsion psixrometr statik psixrometrdan shu bilan farq qiladiki, unga o'rnatilgan moslama orqali termometr ko'rsatkichlarini aniqlashdan oldin havo yo'nalishi bir tekis tashkil etiladi va termometrlar radiatsion nur ta'siridan himoyalanadi [2]."
+      ]
+    },
+    {
+      "heading": "Gigrograf",
+      "content": [
+        "Gigrograf havo namligini uzluksiz qayd qiluvchi asbob. Uning asosiy qismi yog'sizlantirilgan ayol sochi yoki ot yoli bo'lib, uzatgich mexanizmi orqali chizuvchi ko'rsatkichga ulangan [2].",
+        "Namlik o'zgarganda soch tolasi uzayadi yoki qisqaradi. O'zgarish soat mexanizmi bilan aylanuvchi barabanga o'ralgan qog'oz lentada uzluksiz chiziladi. Barabanning aylanish davriga ko'ra gigrograflar sutkalik va haftalik bo'ladi [2]."
+      ]
+    },
+    {
+      "heading": "Namlik normalari",
+      "content": [
+        "Aholi yashaydigan xonalarda nisbiy namlik 40-60 % bo'lishi kerak [2]. Ta'lim tashkilotlarining axborot-kommunikatsiya texnologiyalari xonalarida ham nisbiy namlik 40-60 % [3].",
+        "Akademik litseylarda binolardagi nisbiy namlik 30-45 % oralig'ida bo'lishi talab etiladi. Davolash muassasalarida qishda nisbiy namligi 30-50 % li palatalarda harorat 20 °C ga teng [2]."
+      ]
+    },
+    {
+      "heading": "Ishlab chiqarish mikroiqlimida",
+      "content": [
+        "Ishlab chiqarish mikroiqlimining asosiy parametrlari: havo harorati (°C), ish zonasi havosining nisbiy namligi (%), havo harakati tezligi (m/s) va infraqizil nurlanish (Vt/m²) [1].",
+        "Namlik bo'yicha «nam» ishlab chiqarishlar (shaxtalar, kessonli va g'avvoslik ishlari, bo'yoq, yigiruv va to'quv sexlari, teri ishlab chiqarish) ajratiladi, ularda namlik mikroiqlimning yetakchi omili [1]."
+      ]
+    },
+    {
+      "heading": "Mikroiqlim turlari",
+      "content": [
+        "Ishlab chiqarish mikroiqlimining turlari orasida namligi yuqori mikroiqlim, normal va past haroratli mikroiqlim (baliq qayta ishlash sexlari), yuqori haroratli mikroiqlim (bo'yoq sexlari), o'zgaruvchan mikroiqlim (ochiq havoda ishlash) va qulay mikroiqlim (operator xonalari, yig'ish sexlari) farqlanadi [1].",
+        "Nam sharoit odatda issiq yoki sovuq mikroiqlim bilan birga uchraydi, shu sababli namlik doimo harorat va havo harakati bilan birga baholanadi [1]."
+      ]
+    },
+    {
+      "heading": "Namlik va issiqlik almashinuvi",
+      "content": [
+        "Namlik ko'rsatkichi issiqlik almashinuvini baholashda ishlatiladi. Havodagi namlik miqdori ko'payishi fiziologik to'yinish tanqisligini kamaytiradi va bug'lanish bilan issiqlik yo'qotishni cheklaydi [1].",
+        "Havo harorati ortganda organizm issiqlik almashinuviga havo namligi va kiyimning nam o'tkazuvchanligi ta'siri kuchayadi. Past haroratlarda yuqori namlik issiqlik yo'qotishni oshiradi [1]."
+      ]
+    },
+    {
+      "heading": "Boshqa birliklar",
+      "content": [
+        "Havo harakati tezligi m/s da, harorat °C da, havoning sovitish kuchi (kata-termometr bilan) mkal/sm²·s da ifodalanadi. Bu ko'rsatkichlar namlik bilan birgalikda mikroiqlim parametrlari tizimini hosil qiladi [1, 2].",
+        "Havo harakati tezligi qanotli va kosachali anemometrlar bilan, kichik tezliklar (0,1-0,2 m/s gacha) kata-termometr bilan o'lchanadi [2].",
+        "Kata-termometr bilan o'lchanganda kiyingan odam o'zini yaxshi his etadigan sovish tezligi 5,5-7 mkal/sm²·s. 7 dan yuqori bo'lsa sovuqlik, 5,5 dan past bo'lsa issiqlik hissi paydo bo'ladi. Havoning sovitish xususiyati H = F : a formulasi bilan hisoblanadi, bunda F kata-termometr omili [2]."
+      ]
+    },
+    {
+      "heading": "Amaliy hisoblash tartibi",
+      "content": [
+        "Tekshiruvda psixrometrning quruq va nam termometr ko'rsatkichlari yoziladi, barometrik bosim aniqlanadi, maksimal namlik jadvaldan olinadi va absolyut hamda nisbiy namlik hisoblanadi [2].",
+        "Natija foizda ifodalanadi va tegishli xonaning ruxsat etilgan nisbiy namligi bilan taqqoslanadi: 40-60 % (turar-joy va AKT xonalari), 30-45 % (akademik litseylar), 30-50 % (davolash muassasalari palatalari) [2, 3, 4].",
+        "Namlikni aniqlashda barometrik bosim ham hisobga olinadi, chunki absolyut namlik formulasida u bevosita ishtirok etadi. Shu sababli o'lchov sharoiti (harorat, bosim) har doim qayd qilinadi [2]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "Havo namligi absolyut (g/m³ yoki mm sim. ust.), maksimal (haroratga bog'liq, g/m³ yoki mm sim. ust.) va nisbiy (%) tushunchalar bilan tavsiflanadi. Nisbiy namlik absolyut namlikning maksimal namlikka nisbati bo'lib, psixrometr va gigrograf bilan aniqlanadi. Yashash va o'quv xonalarida u odatda 40-60 % bo'lishi talab etiladi [1, 2, 3, 4]."
+      ]
+    }
+  ],
+  "references": [
+    "Iskandarova G.T. (tahrir) Mehnat gigiyenasi bo'yicha ma'ruzalar matni (rus tilida). Toshkent tibbiyot akademiyasi Kommunal gigiyena va mehnat gigiyenasi kafedrasi. Toshkent. xayrullokomilov.uz/kutubxona, material ID 2348. 2009.",
+    "Solihojayev S.S. Gigiyenadan praktikum (o'zbek tilida, kirill yozuvida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 2344. Nashr yili ko'rsatilmagan.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi huzuridagi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi qo'mitasi. Ta'lim tashkilotlari va bolalar sog'lomlashtirish oromgohlaridagi axborot-kommunikatsiya texnologiyalari o'quv xonalari, ularning jihozlanishi va axborot-kommunikatsiya texnologiyalaridan foydalanish tartibiga qo'yiladigan sanitariya-gigiyena talablari: 0063-24-son SanQvaN. Toshkent. xayrullokomilov.uz/kutubxona, material ID 638. 2024.",
+    "O'zbekiston Respublikasi Bosh davlat sanitariya vrachi. Akademik litseylar va kasb-hunar kollejlarini qurish, tutish, o'qitish tartibini tashkil etish va mehnat muhofazasi bo'yicha sanitariya qoidalari: SanPiN № 0145-03 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 917. 2003."
+  ]
+}

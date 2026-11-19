@@ -1,0 +1,57 @@
+{
+  "number": 121,
+  "title": "121. Sun'iy mo'yna bolalar poyabzalini yasash uchun ishlatishga ruxsat etiladimi?",
+  "sections": [
+    { "heading": "Kirish", "content": [
+      "Bolalar poyabzali oyoq panjasini sovuq, namlik, shamol, chang va mexanik shikastlanishdan himoya qiladi. Poyabzal ichidagi harorat va namlik rejimi qulay bo'lishi kerak, shu sababli astar va issiqlik saqlagich materiallariga, jumladan sun'iy mo'ynaga gigiyenik talablar qo'yiladi [1, 2].",
+      "Ushbu mavzuda sun'iy mo'ynaning bolalar poyabzalida qo'llanishi, ruxsat etilgan turlari, tarkibiga qo'yiladigan talablar, ishlatish sharoitlari va sanitariya baholash tartibi bayon etiladi [1, 2]."
+    ]},
+    { "heading": "Umumiy javob", "content": [
+      "Sun'iy mo'ynani bolalar poyabzali uchun ishlatishga ruxsat etiladi. U bolalar poyabzali, shu jumladan gusarik, maktabgacha va maktab poyabzali uchun astar sifatida, ayrim turlari esa qo'njlar va issiqlik saqlagich sifatida qo'llanadi [1].",
+      "Bu ruxsat tarkibi aniq ko'rsatilgan mo'yna turlariga tegishli. Poliuretan, flover-lak va boshqa polimer materiallar kabi sun'iy mo'yna ham faqat gigiyenik baho olgan va Sog'liqni saqlash vazirligi ruxsat bergan taqdirda ishlatiladi [1, 2]."
+    ]},
+    { "heading": "Astar uchun sun'iy mo'yna turlari", "content": [
+      "Astar uchun sun'iy mo'yna ikki asosiy tarkibda ruxsat etiladi. Birinchisida jun qismi polivinilxlorid (PVX, 33 %) va poliakrilonitril (PAN, 67 %) aralash ipidan, arqoq esa 100 % paxta ipidan iborat. Ikkinchisida jun qismi lavsan va nitron aralash ipidan, arqoq 100 % paxtadan bo'ladi [1].",
+      "Ikkala turda asosiy ip 100 % paxta yoki lavsan-viskoza ipi (67 % lavsan va 33 % viskoza) bo'lishi mumkin. Shunday tuzilish mo'ynaning teriga tegib turuvchi qismida paxta ulushini saqlab, gigroskopiklik va havo almashinuvini yaxshilaydi [1]."
+    ]},
+    { "heading": "Qo'n va issiqlik saqlagich uchun mo'yna", "content": [
+      "Bolalar poyabzalining qo'njlari uchun jun gazlamali bayka bilan dublyajlangan sun'iy mo'yna ruxsat etiladi. Uning tuki poliamid kompleks iplardan, karkasi esa 100 % paxta yoki lavsan-viskoza (67 % va 33 %) ipidan bo'ladi, gusarik va maktabgacha yoshdagilar uchun ham qo'llanadi [1].",
+      "Jun tolasi bor trikotaj sun'iy mo'yna ham qo'llanadi. Tukida jun toza holda yoki nitron bilan birga (50 % jun va 50 % nitron) bo'ladi. Paxta asosli sun'iy mo'yna (30 % PVX, 70 % PAN) issiqlik saqlagich sifatida ishlatilishi mumkin [1]."
+    ]},
+    { "heading": "Mamlakatda ishlab chiqarilgan mo'yna", "content": [
+      "Poyabzal qo'njlari uchun to'qima-tikma (tkane-proshivnoy) sun'iy mo'yna ham ruxsat etiladi. Unga GOST 28755 asosida ishlab chiqarilgan turlar va dublyajlangan sun'iy teri kiradi. Poyabzalning yoz turlarida astar sifatida amidoelastoteri ishlatiladi [1].",
+      "Sun'iy mo'yna bilan birga dublyajlangan flover-lak qo'nj uchun ruxsat etiladi, bunda astar tabiiy materialdan bo'lishi shart. Qo'njlar uchun mahalliy ishlab chiqarilgan uretan sun'iy teri ham sun'iy mo'yna yoki trikotaj polotno bilan dublyajlanib qo'llanadi [1]."
+    ]},
+    { "heading": "Tabiiy materiallarning afzalligi", "content": [
+      "Bolalar poyabzalining ustki qismi uchun gigiyenik jihatdan tabiiy teri eng yaxshi hisoblanadi, u butun yil davomida ishlatiladigan poyabzal uchun tavsiya etiladi. Astar uchun tabiiy teri va paxta materiallari tavsiya etiladi, ular yumshoq, elastik va qulay bo'lishi kerak [2].",
+      "Maktab poyabzalida, ayniqsa katta yoshdagi o'quvchilar uchun, astarda sintetik tolalardan qisman (50 % dan ko'p bo'lmagan) foydalanish maqsadga muvofiq. Qishki poyabzal ustki qismi uchun movut, drap, yarim junli va junli materiallar, kigiz, namat tavsiya etiladi [2]."
+    ]},
+    { "heading": "Ikkinchi darajali detallar", "content": [
+      "Poyabzalning ikkinchi darajali detallari (klapan, manjet, bezak) uchun tashqi ko'rinish va ishlatish xususiyatlarini yaxshilash maqsadida turli sintetik materiallar, sun'iy teri va mo'yna ishlatishga ruxsat beriladi. Bunday materiallar Sog'liqni saqlash vazirligi tomonidan ruxsat etilgan bo'lishi kerak [2].",
+      "Ayrim sun'iy teri (vinilteri, uretanteri) faqat ahamiyatsiz va bezak detallari uchun ishlatiladi. Bunday materiallar poyabzalning asosiy detallari uchun emas, balki ikkinchi darajali qismlari uchun mo'ljallangan [1, 2]."
+    ]},
+    { "heading": "Poyabzal ichidagi mikroiqlim", "content": [
+      "Poyabzal qo'shimcha kiyim sifatida organizmni noqulay meteorologik ta'sirlardan (past va yuqori harorat, yomg'ir, shamol, chang) hamda mexanik shikastlanishdan saqlaydi. Materiallarning fizik-gigiyenik xususiyatlari har qanday tashqi sharoitda poyabzal ichida kerakli harorat-namlik rejimini ta'minlashi kerak [2].",
+      "Namlik oshganda tabiiy teri va junning issiqlik yo'qotishi ortadi, g'ovak rezinaning issiqlik saqlash xususiyati esa o'zgarmaydi. Shu sababli sun'iy mo'yna va g'ovak taglik kombinatsiyasi sovuq mavsum poyabzali uchun qulay bo'lishi mumkin [2]."
+    ]},
+    { "heading": "Qishki poyabzal xususiyatlari", "content": [
+      "Qishda keng tarqalgan kigiz etik faqat ko'chada kiyish uchun yaroqli, ularda uzoq vaqt bo'lish mumkin emas. Burun qismining simmetrik shakli o'sayotgan bola oyog'iga salbiy ta'sir qiladi, issiq xonada kiyilsa oyoq qizib ketadi, terlaydi va bog'lam apparati bo'shashadi [2].",
+      "Shu sababli qishda xonalar uchun almashtiriladigan poyabzal bo'lishi lozim. Sportiv poyabzal (kedi, krossovka) faqat sport mashg'ulotlari uchun mo'ljallangan bo'lib, uni doimiy kiyish, ayniqsa xonada kiyish mumkin emas va u jun paypoq yoki qo'shimcha poyabzal ichi bilan kiyiladi [2]."
+    ]},
+    { "heading": "Almashtiriladigan poyabzal", "content": [
+      "Maktab va bolalar muassasalarida almashtiriladigan poyabzal to'liq qimmatli bo'lishi va barcha gigiyenik talablarga javob berishi kerak. Eski, yeyilgan, torlik qilib qolgan poyabzalni almashtiriladigan poyabzal sifatida ishlatish mumkin emas [2].",
+      "Bunday poyabzalda 6-8 soat bo'lish bolaning oyog'iga tuzatib bo'lmaydigan zarar yetkazishi mumkin. Shu sababli sanitariya vrachi maktab va bog'chalarda almashtiriladigan poyabzalning mavjudligi va sifatini joriy sanitariya nazoratida tekshiradi [2]."
+    ]},
+    { "heading": "Ruxsat berish tartibi", "content": [
+      "Ro'yxatda yo'q har qanday yangi sun'iy mo'yna yoki boshqa material bolalar poyabzali ishlab chiqarish uchun faqat sanitariya-gigiyenik baholashdan keyin ruxsat oladi. Buning uchun tadqiqot muassasasiga materialdagi kimyoviy tola ulushi va texnologik jarayon haqida ma'lumot beriladi [1].",
+      "Tekshiruv uchun 3 m² material taqdim etiladi va u sanitariya-kimyoviy, fizik-gigiyenik hamda toksikologik tadqiqotlardan o'tkaziladi. Natija ijobiy bo'lsa, hududiy sanitariya-epidemiologiya xizmati organlari belgilangan tartibda ruxsat beradi [1]."
+    ]},
+    { "heading": "Xulosa", "content": [
+      "Sun'iy mo'ynani bolalar poyabzali ishlab chiqarish uchun ishlatishga ruxsat etiladi, lekin faqat tarkibi ruxsat etilgan turlar bo'yicha: paxta asosli, tukida PVX-PAN, lavsan-nitron yoki jun aralashmali mo'yna. Tabiiy teri va paxta materiallari afzal, sintetik astar maktab poyabzalida 50 % dan oshmasligi kerak. Yangi turlar sanitariya-gigiyenik baholashdan keyin qo'llanadi [1, 2]."
+    ]}
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Bosh davlat sanitariya vrachi. Bolalar kiyimi va poyabzali materiallariga kimyoviy tolalarni ularning gigiyenik ko'rsatkichlariga muvofiq qo'shish: SanPiN № 0238-07 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 616. 2007.",
+    "O'zbekiston Respublikasi Bosh davlat sanitariya vrachi. Bolalar poyabzaliga qo'yiladigan gigiyenik talablar: SanPiN № 0237-07 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 615. 2007."
+  ]
+}

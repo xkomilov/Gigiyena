@@ -1,0 +1,100 @@
+{
+  "number": 149,
+  "title": "149. Eshitiladigan tebranishlar zonasining chegaralari, sezish va og'riq chegarasi qanday?",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Inson qulog'i barcha mexanik tebranishlarni emas, faqat ma'lum chastota va kuch oralig'idagi tebranishlarni tovush sifatida qabul qiladi. Bu oraliq eshitiladigan tebranishlar zonasi deyiladi, uning quyi va yuqori chegaralarini bilish shovqinni gigiyenik baholash uchun zarur [1, 2].",
+        "Ushbu mavzuda eshitish zonasining chastota chegaralari, infratovush va ultratovush, eshitish va og'riq bo'sag'alari, logarifmik shkala, bir xil balandlik tushunchasi va ruxsat etilgan shovqin darajalari bayon etiladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Chastota chegaralari",
+      "content": [
+        "Inson qulog'i havo tebranishlarini faqat 16-20 Gts dan 20 000 Gts gacha chastotada tovush sifatida qabul qiladi (1 Gts sekundiga 1 tebranish). Yosh o'tgan sari qabul qilinadigan chastotalar diapazoni qisqaradi [1].",
+        "Zonaning quyi chegarasidan past chastotali tebranishlar infratovush, yuqorisidan yuqorilar ultratovush deb ataladi. Infratovush chastotasi 20 Gts dan past, ultratovush chastotasi 20 kGts dan yuqori [2]."
+      ]
+    },
+    {
+      "heading": "Infratovush",
+      "content": [
+        "Infratovush inson qulog'i eshita olmaydigan, chastotasi 20 Gts dan past bo'lgan tovush to'lqinlaridir. Doimiy infratovushda tovush darajasi 1 daqiqa o'lchanganda 10 dBA dan ortiq o'zgarmaydi [2].",
+        "Infratovush manbalari quvvatli sekin aylanuvchi uskunalar, katta hajmdagi yoki og'ir xom ashyoni qayta ishlash jarayonlari, gaz va suyuqlik oqimi tebranishlari, katta dvigatellar, operator kabinalari va og'ir texnika harakati. 2, 4, 8 va 16 Gts oktava polosalari nazorat qilinadi [2]."
+      ]
+    },
+    {
+      "heading": "Ultratovush",
+      "content": [
+        "Ultratovush inson qulog'i idrok eta oladigan chastotadan (20 kGts) yuqori bo'lgan tovush to'lqinlari. Kontakt ultratovush tana ultratovush manbai bilan bevosita aloqada bo'lganda yuzaga keladi [2].",
+        "Havo ultratovushi 12,5-100 kGts oktava chastotalarida o'lchanadi. Ba'zi hayvonlar (itlar, boyqushlar) 100 kGts gacha, delfinlar va ko'rshapalaklar 120-170 kGts oralig'ida exolokatsiya uchun foydalanadi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Eshitish bo'sag'asi",
+      "content": [
+        "Tovush eshitilishi uchun ma'lum tovush bosimi va energiyasi kerak. Eng past eshitish bo'sag'asi 1000 Gts chastotali tovush uchun aniqlanadi va bu chastota ikki nisbiy birlik, tovush intensivligi va balandligini baholashda standart ton sifatida qabul qilingan [1].",
+        "Quloq turli chastotalarga turlicha sezgir: yuqori tonlarga past tonlarga nisbatan sezgirroq. Shu sababli shovqinga qarshi chora-tadbirlarni ishlab chiqishda birinchi navbatda yuqori chastotali shovqinlarni bartaraf etishga e'tibor qaratiladi [1]."
+      ]
+    },
+    {
+      "heading": "Og'riq bo'sag'asi",
+      "content": [
+        "Tovush bosimi va energiyasi ortgan sari eshitish hissi bilan birga bosim va og'riq sezgisi paydo bo'ladi. Bu sezgi tegish yoki og'riq bo'sag'asi deyiladi [1].",
+        "Eshitish va og'riq bo'sag'alari o'rtasidagi farq mutlaq fizik birliklarda millionlab marta. Eksperimental tekshiruvlarda tovush bosimi ortgan sari shovqinning mexanik, hatto travmatik zararlovchi ta'siri, Korti a'zosi tukli hujayralarining halok bo'lishigacha kuzatiladi [1]."
+      ]
+    },
+    {
+      "heading": "Logarifmik shkala",
+      "content": [
+        "Quloq bosimlar orasidagi farqni emas, balki ularning karraligini ajratadi. Shu sababli tovush intensivligi mutlaq bosim bilan emas, bo'sag'a qiymatiga nisbatan darajasi bilan baholanadi [1].",
+        "Tovush energiyasi mutlaq birliklarda 10, 100, 1000 marta ortganda, balandlik hissi 1, 2, 3 marta ortadi. Shu sababli 14 ta katta (bel) yoki 140 ta kichik (detsibel) pog'onali logarifmik shkala qabul qilingan va u nisbiy qiymatni ifodalaydi [1]."
+      ]
+    },
+    {
+      "heading": "Bir xil balandlik va fon",
+      "content": [
+        "Teng intensivlikdagi turli chastotali tovushlar bir xil baland eshitilmaydi. Shu sababli tovush balandligini baholash uchun nisbiy birlik «fon» kiritilgan: tovushning balandligi 1000 Gts li standart ton bilan solishtiriladi [1].",
+        "Fon 1000 Gts chastotali va 1 dB kuchga ega tovush balandligi. Balandlik darajasi bir xil balandlik egri chiziqlari yordamida aniqlanadi, ular tajribada olingan [1]."
+      ]
+    },
+    {
+      "heading": "Juda yuqori shovqinning ta'siri",
+      "content": [
+        "Intensivligi 125-126 dB dan boshlangan doimiy shovqinda quloq bilan birga teri organizmga akustik energiya kirishining ikkinchi «kirish darvozasi» bo'ladi. Ya'ni juda yuqori intensivlikdagi shovqin faqat eshitish a'zosi orqali emas, boshqa yo'llar bilan ham ta'sir qiladi [1].",
+        "Ish joylarida har qanday oktava diapazonida oktava tovush bosimi darajasi 135 dB va undan yuqori bo'lgan ish o'rinlarida ishlash yoki qisqa vaqt bo'lishga yo'l qo'yilmaydi. Vaznlangan tovush bosimining eng yuqori darajasi 137 dBC dan oshmasligi kerak [2]."
+      ]
+    },
+    {
+      "heading": "Ruxsat etilgan darajalar",
+      "content": [
+        "Ish joylaridagi shovqinning ruxsat etilgan darajalari mehnat og'irligi va zo'riqishiga qarab 50 dan 80 dBA gacha. Yengil mehnatda 65 (past zo'riqish), 60, 55 va 50 dBA (juda yuqori zo'riqish) [2].",
+        "O'rtacha og'irlikdagi jismoniy mehnatda 70, 65, 60 va 55 dBA, og'ir mehnatda 75, 70, 65 va 60 dBA, juda og'ir mehnatda 80, 75, 70 va 65 dBA. S va I rejimida A tovushning maksimal darajalari 110 va 125 dBA dan oshmasligi kerak [2]."
+      ]
+    },
+    {
+      "heading": "Eshitishning shikastlanishi",
+      "content": [
+        "Ish stajining o'sishi bilan shovqin sabab bo'lgan eshitish shikastlanishi foizi ortadi. Ekvivalent shovqin darajasi 80 dBA gacha bo'lganda shikastlanish kuzatilmaydi, 85 dBA da 5 yilda 1 %, 30 yilda 8 %, 90 dBA da 4 % dan 18 % gacha [1].",
+        "Shovqin 100 dBA bo'lganda shikastlanish 5 yilda 12 %, 30 yilda 44 %, 110 dBA da 26 % va 72-78 %, 115 dBA da 36 % dan 87 % gacha. Shikastlanish mezoni sifatida 500, 1000 va 2000 Gts da eshitish bo'sag'asining o'rtacha 25 dB va undan ko'proq ko'tarilishi qabul qilingan [1]."
+      ]
+    },
+    {
+      "heading": "Tibbiy nazorat",
+      "content": [
+        "Eshitish sezgirligi yo'qolishining dastlabki belgilarini o'z vaqtida aniqlash maqsadida 80 dB dan yuqori shovqin ta'sirida ishlovchi xodimlar davriy tibbiy ko'rikdan o'tkaziladi [2].",
+        "Ilk belgilarni aniqlash uchun dinamik audiometriya, shovqin yuklamasidan keyin differensial bo'sag'alarni aniqlash va eshitish bo'sag'asining vaqtinchalik siljishini baholash usullari qo'llanadi [1]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "Eshitiladigan tebranishlar zonasi 16-20 Gts dan 20 000 Gts gacha chastotani qamrab oladi, undan pasti infratovush, yuqorisi ultratovush. Eshitish va og'riq bo'sag'alari orasidagi farq millionlab marta bo'lgani uchun tovush logarifmik shkalada, 14 bel yoki 140 dB pog'onasida baholanadi. Ish joylarida ruxsat etilgan shovqin 50-80 dBA bo'lib, 135 dB dan yuqori oktava darajasida ishlash taqiqlanadi [1, 2]."
+      ]
+    }
+  ],
+  "references": [
+    "Iskandarova G.T. (tahrir) Mehnat gigiyenasi bo'yicha ma'ruzalar matni (rus tilida). Toshkent tibbiyot akademiyasi Kommunal gigiyena va mehnat gigiyenasi kafedrasi. Toshkent. xayrullokomilov.uz/kutubxona, material ID 2348. 2009.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi huzuridagi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi qo'mitasi. Ish joylaridagi shovqin, tebranish, infratovush va ultratovush darajalariga doir sanitariya qoidalari, normalari va gigiyena normativlari: 0111-26-son SanQvaN (2026-yil 24-martdagi 5-son qaror, o'zbek tilida, kirill yozuvida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 683. 2026."
+  ]
+}

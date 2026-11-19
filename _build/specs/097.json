@@ -1,0 +1,62 @@
+{
+  "number": 97,
+  "title": "97. Bolalar va o'smirlar jismoniy rivojlanishini kompleks baholashda qaysi ko'rsatkichlarga amal qilasiz?",
+  "sections": [
+    { "heading": "Kirish", "content": [
+      "Jismoniy rivojlanish bola salomatligining muhim ko'rsatkichi bo'lib, yashash sharoiti, ovqatlanish, kun tartibi va tarbiya ta'sirini aks ettiradi. Shu sababli sanitariya vrachi bolalar jamoasining ahvolini baholashda uni albatta o'rganadi va natijani ayrim ko'rsatkichlar bo'yicha emas, balki kompleks tarzda talqin qiladi [1, 2].",
+      "Ushbu mavzuda jismoniy rivojlanish tushunchasi, kompleks baholash sxemasi, biologik rivojlanish va morfofunksional holat ko'rsatkichlari, tekshirish usullari hamda O'zbekiston sharoitida qo'llaniladigan baholash jadvallari bayon etiladi [1, 2, 3]."
+    ]},
+    { "heading": "Jismoniy rivojlanish tushunchasi", "content": [
+      "Jismoniy rivojlanish deganda biologik rivojlanishning yosh darajasini belgilaydigan morfologik belgilar majmuasi tushuniladi. U o'sish va rivojlanishning umumiy biologik qonuniyatlariga bo'ysunadi va bolaning yoshi, jinsi, yashash joyiga bog'liq holda o'zgaradi [2].",
+      "Bolalar va o'smirlar jismoniy rivojlanishi ko'rsatkichlari aholining sanitariya holatini ifodalovchi ma'lumotlardan biri hisoblanadi. Ular salomatlik darajasi bilan birga o'sish davrida tashqi muhitning ijobiy yoki salbiy ta'sirini va sog'lomlashtirish choralarining samarasini ob'ektiv baholashga yordam beradi [2]."
+    ]},
+    { "heading": "Kompleks baholash sxemasi", "content": [
+      "Kompleks baholash ikki yo'nalishni birlashtiradi. Birinchisi biologik rivojlanish darajasi, ya'ni bolaning biologik yoshi taqvim yoshiga qanchalik mosligi. Ikkinchisi morfofunksional holat, ya'ni tana vazni, ko'krak qafasi aylanasi, o'pkaning tiriklik sig'imi va mushak kuchi bo'yicha rivojlanishning uyg'unligi [1].",
+      "Faqat yoshga mosligini aniqlash yetarli emas. Bolaning biologik darajasi yoshiga mos bo'lsa ham, vazn, ko'krak qafasi yoki funksional ko'rsatkichlar bir-biriga nomuvofiq bo'lishi mumkin. Shu sababli har ikkala yo'nalish birgalikda ko'rib chiqiladi va xulosa shu asosda chiqariladi [1]."
+    ]},
+    { "heading": "Biologik rivojlanish darajasi", "content": [
+      "Biologik rivojlanish darajasi bo'y uzunligi va uning yillik o'sishi, doimiy tishlar soni, jinsiy yetilish darajasi hamda tana proporsiyalarining o'zgarishi bilan aniqlanadi. Shifokor bolaning biologik yoshi pasport yoshiga mosligini, undan ilgarilab ketganini yoki orqada qolganini belgilaydi [1, 2].",
+      "Bo'yning yillik qo'shilishi biologik yoshni aniqlashning asosiy ko'rsatkichi sanaladi. O'zbekiston bolalarida o'sish sur'ati o'g'il bolalarda 13-16 yoshda, qizlarda 11-14 yoshda eng yuqori bo'ladi. Shu davrlarda yillik o'sishning keskin o'zgarishi biologik rivojlanish darajasini baholashda e'tiborga olinadi [3]."
+    ]},
+    { "heading": "Morfofunksional holat ko'rsatkichlari", "content": [
+      "Morfofunksional holat tana vazni, ko'krak qafasi aylanasi, o'pkaning tiriklik sig'imi va qo'l mushaklari kuchi bilan aniqlanadi. Ular bola organizmining zaxira imkoniyatlari va rivojlanish uyg'unligini ko'rsatadi [1].",
+      "Natijaga qarab morfofunksional holat garmonik, disgarmonik yoki keskin disgarmonik deb baholanadi. Vazn yetishmasligi yoki ortiqchaligi, ko'krak qafasi o'lchamlarining orqada qolishi, o'pka sig'imi va mushak kuchining pastligi bolaning salomatlik holati bo'yicha qo'shimcha tekshiruv zarurligini bildiradi [1]."
+    ]},
+    { "heading": "Somatometrik ko'rsatkichlar", "content": [
+      "Somatometrik ko'rsatkichlarga tik va o'tirgan holatdagi bo'y uzunligi, tana vazni, ko'krak qafasi aylanasi kiradi. Amaliy ishda ko'pincha faqat asosiy uch o'lchov, ya'ni bo'y, vazn va ko'krak qafasi aylanasi qo'llaniladi [1, 2].",
+      "Antropometrik tekshiruv dasturi bolaning yoshiga bog'liq holda tuziladi. Tibbiyotda antropometrik ko'rsatkichlarning faqat bir nechtasi qabul qilingan. Maktabgacha yoshdagi bolalarda qo'shimcha ravishda harakat faoliyati va nutq rivojlanishiga e'tibor beriladi [2]."
+    ]},
+    { "heading": "Somatoskopik ko'rsatkichlar", "content": [
+      "Somatoskopik ko'rsatkichlar ko'z bilan baholanadi va tananing sifat xususiyatlarini ifodalaydi. Ularga ko'krak qafasi, orqa va tovon shakli, qad-qomat, mushaklar rivojlanishi, teri osti yog' qatlami miqdori, teri elastikligi va jinsiy yetilish belgilari kiradi [1, 2].",
+      "Bu ko'rsatkichlar umurtqa pog'onasi egriligi, yassi tovon, ko'krak qafasi deformatsiyasi kabi o'zgarishlarni erta aniqlashga yordam beradi. Jinsiy yetilish belgilari bolaning biologik yoshini aniqlashda yordamchi ahamiyatga ega [1, 2]."
+    ]},
+    { "heading": "Fiziometrik ko'rsatkichlar", "content": [
+      "Fiziometrik, ya'ni funksional ko'rsatkichlarga o'pkaning tiriklik sig'imi, qo'l kaftini siqish kuchi, bel mushaklari kuchi kiradi. Ular o'sish bilan birga nafas va mushak tizimlarining qanchalik rivojlanganini ko'rsatadi [1, 2].",
+      "Funksional ko'rsatkichlar rivojlanish dinamikasini kuzatishda zarur. Rossiya maktab o'quvchilarida funksional ko'rsatkichlarning kamayishi 1980-yillardan, morfologik ko'rsatkichlar o'sishining sekinlashuvi esa 1990-yillardan qayd etilgan, ya'ni funksional pasayish ertaroq namoyon bo'lgan [1]."
+    ]},
+    { "heading": "Tekshirish usullari", "content": [
+      "Jismoniy rivojlanish ikki usulda aniqlanadi. Individual usulda har bir bola muntazam va alohida kuzatiladi, uning o'sishi haqida aniq ma'lumot to'planadi. Yoppasiga, ya'ni generalizatsiyalashgan usulda esa qisqa muddatda ko'p bolalar tekshirilib, yosh, jins va mintaqa bo'yicha o'rtacha ko'rsatkichlar hisoblanadi [2].",
+      "Yoppasiga tekshiruv natijasi ma'lum yosh, jins va mintaqa uchun shartli etalon bo'lib xizmat qiladi. Shifokor tibbiy ko'rikda har bir bolaning ko'rsatkichini shu etalon bilan taqqoslab, uning rivojlanishiga baho beradi. Ijtimoiy sharoit o'zgargani sari bu etalon vaqti-vaqti bilan qayta aniqlanadi [2]."
+    ]},
+    { "heading": "Sigmal va regression usullar", "content": [
+      "Baholashda statistik tahlil usullari qo'llanadi. Sigmal og'ishlar usulida bolaning antropometrik ko'rsatkichlari o'z yosh-jins guruhining o'rtacha qiymati (M) bilan solishtiriladi va og'ish sigma birligida ifodalanadi. Og'ish darajasiga qarab o'rtacha, o'rtachadan yuqori, yuqori, o'rtachadan past va past rivojlanish ajratiladi [3].",
+      "Sentil usulida har bir ko'rsatkich jadvalda 3 dan 97 gacha sentilni qamrab oluvchi oltita ustunda beriladi va ma'lum yosh hamda jinsdagi bolalarda eng ko'p uchraydigan qiymatlar chegarasi aniqlanadi. Regressiya usulida bo'yning har bir qiymatiga tana vaznining normal tebranish oralig'i belgilanadi [2, 3]."
+    ]},
+    { "heading": "Mintaqaviy xususiyatlarni hisobga olish", "content": [
+      "O'zbekistonda 7-17 yoshdagi 6500 dan ortiq bolani tekshirish natijasida jismoniy rivojlanishning mintaqaviy normativ jadvallari yaratilgan. Tekshiruv Toshkent shahri, Qoraqalpog'iston, Samarqand, Sirdaryo, Qashqadaryo va Xorazm viloyatlarini qamrab olgan [3].",
+      "Toshkent bolalarining ko'pchilik ko'rsatkichlari viloyat shaharlaridagi tengdoshlariga nisbatan yuqori, o'sish sur'ati tezroq. Shu sababli baholash jadvallari Toshkent shahri, viloyat shaharlari va qishloq joylari uchun alohida tuzilgan. Yakuniy tana o'lchamlari 15-17 yoshda deyarli bir xil bo'ladi [3]."
+    ]},
+    { "heading": "Natijalarni talqin qilish", "content": [
+      "Baholash natijasida bolalar uch asosiy guruhga bo'linadi: rivojlanishi yoshga mos va garmonik rivojlangan bolalar, yoshdan ilgarilab ketgan bolalar hamda orqada qolgan bolalar. Orqada qolganlar orasida tana vazni yetishmovchiligi yoki ortiqchaligi, past bo'yli bolalar alohida e'tibor talab qiladi [1, 3].",
+      "Vazni ortiqcha bolalar endokrinologga yo'naltiriladi, chunki ularning ko'pchiligida semizlik uchraydi. Vazni yetishmaydigan bolalar oilaviy shifokor nazoratiga olinadi. Past bo'yli bolalar umumiy rivojlanish kechikishi yoki irsiy past bo'ylilikni ajratish uchun endokrinolog ko'rigidan o'tadi [3]."
+    ]},
+    { "heading": "Xulosa", "content": [
+      "Jismoniy rivojlanishni kompleks baholashda biologik rivojlanish darajasi (bo'y va uning yillik o'sishi, doimiy tishlar soni, jinsiy yetilish) hamda morfofunksional holat (vazn, ko'krak qafasi aylanasi, o'pka tiriklik sig'imi, mushak kuchi) birgalikda ko'rib chiqiladi. Natija mintaqaviy jadvallar bilan taqqoslanadi va garmoniklik darajasi aniqlanadi. Bu usul sanitariya vrachiga bolalar jamoasi salomatligi va muhit ta'sirini baholash imkonini beradi [1, 2, 3]."
+    ]}
+  ],
+  "references": [
+    "Kuchma V.R. Bolalar va o'smirlar gigiyenasi: o'quv qo'llanma (rus tilida). xayrullokomilov.uz/kutubxona, material ID 2301. 2010.",
+    "Do'schanov B.A., Iskandarova Sh.T. Umumiy gigiyena: tibbiyot oliy o'quv yurtlari talabalari uchun darslik, 4-nashr. Toshkent: Yangi asr avlodi. xayrullokomilov.uz/kutubxona, material ID 2767. 2008.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi, Sanitariya, gigiyena va kasb kasalliklari ilmiy-tadqiqot instituti. O'zbekiston Respublikasi 7-17 yoshli bolalar jismoniy rivojlanishining normativ baholash jadvallari: uslubiy tavsiyanoma № 012-3/0300 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 1307. 2016."
+  ]
+}

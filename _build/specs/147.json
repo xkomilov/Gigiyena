@@ -1,0 +1,111 @@
+{
+  "number": 147,
+  "title": "147. Sanoat binolari havosining changliligini tadqiq etish usullari. Aspiratsion usuli. Priborlar.",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Chang ishlab chiqarish binolarida zararli omil bo'lib, uning havodagi miqdori gigiyenik tadqiqotlarda asosan mg/m³ birligida aniqlanadi, chunki amaldagi me'yorlarda chang miqdori aynan shu birlikda berilgan [1].",
+        "Ushbu mavzuda changliligini tadqiq etish usullari, aspiratsion (tortish) usulining mohiyati, ishlatiladigan asbob-uskunalar, aniqlash tartibi, hisoblash, natijalarni baholash va chang dispersligini aniqlash bayon etiladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Usullar tasnifi",
+      "content": [
+        "Havodagi chang miqdorini aniqlashning asosiy usuli tortish (vazn) usuli bo'lib, u aspiratsion usulga asoslangan. Qo'shimcha sifatida sanash usuli ham mavjud [1].",
+        "Tortish usulida havoning ma'lum hajmi oldindan og'irligi aniq filtr orqali o'tkazilib, filtr sirtida ushlangan chang miqdori bo'yicha mg/m³ da hisoblanadi. Sanash usuli 1 sm³ havodagi chang zarrachalari sonini aniqlaydi [1]."
+      ]
+    },
+    {
+      "heading": "Aspiratsion usul tushunchasi",
+      "content": [
+        "Aspiratsion usul havo namunalarini olish va tekshirishning bir usuli bo'lib, belgilangan havo hajmi filtr yoki kimyoviy yutgich orqali so'rib o'tkaziladi [3].",
+        "Chang uchun filtr usuli qo'llanadi: chang filtr yuzasida ushlanadi, so'ng filtr og'irligi o'lchanadi. Bu usul ishlab chiqarish xonalarida chang konsentratsiyasini miqdoriy aniqlashning asosiy usuli hisoblanadi [1, 3]."
+      ]
+    },
+    {
+      "heading": "Asbob-uskunalar",
+      "content": [
+        "Aspiratsion usul uchun quyidagilar kerak: chang ushlab qolish uchun filtrlar, filtrni ushlab turuvchi moslama (allonj), havo tortgich (aspirator), o'tayotgan havo hajmini ko'rsatuvchi asbob (reometr) va analitik tarozi [1].",
+        "Sanoatda ishlab chiqarilgan elektr zaryadlangan matodan tayyorlangan AFA filtrlari keng qo'llanadi. Shuningdek oddiy filtr qog'ozlari va yog'sizlantirilgan paxtadan ham foydalanish mumkin [1]."
+      ]
+    },
+    {
+      "heading": "Aniqlash tartibi",
+      "content": [
+        "Aniqlash oltita bosqichdan iborat: filtrlarni analitik tarozida tortish, asbob-uskunalarni ish joyiga joylashtirish (havo namunasi olinadigan joyni belgilash va allonjlarni o'rnatish), kerakli havo tezligini o'rnatish, namuna olish, filtrlarni qayta tortish va hisoblash [1].",
+        "Chang uchun filtr orqali o'tadigan havo tezligi 10 l/min dan kam bo'lmasligi tavsiya etiladi."
+      ]
+    },
+    {
+      "heading": "Amaliy algoritm",
+      "content": [
+        "Toza filtr tortiladi va uning massasi filtr tutgichiga yoziladi (m1). Havo namunasini tortish uchun tizim yig'iladi, so'ng tekshiriladigan havo filtr orqali 15-20 l/daq tezlikda 3-5 daqiqa o'tkaziladi [1].",
+        "Filtr orqali o'tgan havo hajmi aniqlanadi, changlangan filtr qayta tortiladi (m2). Changlilik X = (m2 - m1) : V × 1000 mg/m³ formula bilan hisoblanadi [1]."
+      ]
+    },
+    {
+      "heading": "Hajmni normal sharoitga keltirish",
+      "content": [
+        "Filtrdan o'tkazilgan havo hajmi normal sharoitga keltiriladi. Buning uchun havo sarfi namuna olish vaqtiga ko'paytirilib, tuzatish koeffitsientiga ko'paytiriladi: V20 = Vt × K, bu yerda T namuna olish vaqti [1].",
+        "Hisoblash formulasida m1 filtrning namuna olinmasdan oldingi og'irligi (mg), m2 namuna olingandan keyingi og'irligi, V20 normal sharoitga keltirib hisoblangan havo hajmi. Natija mg/m³ da beriladi [1]."
+      ]
+    },
+    {
+      "heading": "Natijani baholash",
+      "content": [
+        "Olingan natija gigiyenik me'yor bilan taqqoslab baholanadi. Changning me'yori GOST 12.1.005-88 da berilgan va kimyoviy tarkibga qarab belgilanadi. Bir necha moddadan iborat changlar eng zararli qismi bo'yicha me'yorlanadi [1].",
+        "Tarkibida SiO2 bor changlar fibrogen deyiladi va shu miqdor bo'yicha normalanadi: 70 % dan ortiq bo'lsa 1 mg/m³, 10-70 % da 2 mg/m³, 2-10 % da 4 mg/m³, 2 % gacha 6 mg/m³ [1, 2].",
+        "Boshqa changlar uchun ham chegaralar bor: asbest changi uchun 2 mg/m³, changning eng yuqori chegaraviy miqdori 10 mg/m³. Ishchi zona havosidagi changlar uchun milliy normativlar (0294-11-son SanPiN) kremniy dioksidi miqdoriga qarab bir martalik va smena bo'yicha o'rtacha chegaralarni beradi [2, 4]."
+      ]
+    },
+    {
+      "heading": "Misol bo'yicha baholash",
+      "content": [
+        "Metall quyish sexida ish joyida tortish usuli bilan chang miqdori 30 mg/m³ aniqlanib, chang tarkibida 6-8 % SiO2 bo'lsa, ruxsat etilgan konsentratsiya 4 mg/m³ ni tashkil etadi. Ish joyidagi chang normadan taxminan 7 marta ortiq [1].",
+        "Bunday holatda texnik-texnologik (avtomatlashtirish, mexanizatsiya, masofadan boshqarish), sanitariya-texnik (mahalliy so'rish va umumiy havo berish ventilyatsiyasi, manbada namlash) va tibbiy-profilaktik tadbirlar ko'zda tutiladi [1].",
+        "Chang tarkibida SiO2 bo'lgan hollarda kimyoviy tarkib alohida aniqlanadi, chunki chegaraviy konsentratsiya aynan shu ko'rsatkichga bog'liq. Shuning uchun filtrdan ajratilgan chang namunasi kimyoviy tahlilga ham yuboriladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Sanash usuli",
+      "content": [
+        "Sanash usulida 1 sm³ havodagi chang zarrachalari soni maxsus usullar yoki A3-5 asbobi yordamida aniqlanadi. Amalda bu usul juda kam qo'llanadi, chunki natijani baholash uchun tasdiqlangan norma yo'q [1].",
+        "Shu sababli asosiy ko'rsatkich sifatida massa konsentratsiyasi (mg/m³) ishlatiladi [1]."
+      ]
+    },
+    {
+      "heading": "Chang dispersligini aniqlash",
+      "content": [
+        "Chang zarrachalarining kattaligi haqidagi ma'lumot muhim, chunki zarrachalarning havoda muallaq turish muddati va nafas yo'llaridan o'pka sirtigacha yetib borishi shu xususiyatga bog'liq [1].",
+        "Dispersligini aniqlash uchun chang miqdori aniqlanganda olingan filtrlardan chang preparatlari tayyorlanadi. Filtrning chang o'tirgan tomoni predmet oynasi bilan yopiladi va filtrning toza qismi qaynayotgan aseton idishidan chiqayotgan bug' yo'nalishiga tutiladi [1]."
+      ]
+    },
+    {
+      "heading": "Preparat tayyorlash va o'lchash",
+      "content": [
+        "Aseton bug'ida filtr qog'oz eriydi va chang zarrachalari shisha sirtida yelimlanib qoladi, bu chang preparatidir. Preparat mikroskop stoliga qo'yilib, okulyarga joylashtirilgan okulyar chizg'ich yordamida 100 ta zarrachaning kattaligi o'lchanadi [1].",
+        "Zarrachalar kattaligiga qarab uch guruhga bo'linadi: 5 mkm gacha, 5-10 mkm va 10 mkm dan ortiq. Natija foizda ifodalanib, xulosa yoziladi [1]."
+      ]
+    },
+    {
+      "heading": "Chang miqdorini baholashning jihatlari",
+      "content": [
+        "Changning ta'sirini baholashda faqat konsentratsiya emas, balki chang yuklamasi, ya'ni konsentratsiya va ta'sir davomiyligining ko'paytmasi ham hisobga olinadi. Shu sababli chang yuklamasini kamaytirishga alohida e'tibor beriladi [2].",
+        "Changning organizmga ta'siri o'pka va yuqori nafas yo'llari kasalliklari, teri va ko'z zararlanishlari bilan namoyon bo'ladi [1]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "Sanoat binolari havosi changliligi asosan aspiratsion (tortish) usulida aniqlanadi. Bunda havo filtr orqali so'rib o'tkaziladi, filtr og'irligining farqi bo'yicha chang konsentratsiyasi mg/m³ da hisoblanadi va kimyoviy tarkibga mos me'yor bilan taqqoslanadi. Sanash usuli va dispersligini mikroskopik aniqlash qo'shimcha ma'lumot beradi. Natija chang yuklamasini baholash va profilaktika choralarini tanlash uchun asos bo'ladi [1, 2, 3]."
+      ]
+    }
+  ],
+  "references": [
+    "Mehnat gigiyenasi fanidan amaliy mashg'ulotlar uchun o'quv qo'llanma (o'zbek tilida, kirill yozuvida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 1309. 2009.",
+    "Iskandarova G.T. (tahrir) Mehnat gigiyenasi bo'yicha ma'ruzalar matni (rus tilida). Toshkent tibbiyot akademiyasi Kommunal gigiyena va mehnat gigiyenasi kafedrasi. Toshkent. xayrullokomilov.uz/kutubxona, material ID 2348. 2009.",
+    "Mehnat gigiyenasi. Majmua (o'zbek tilida, kirill yozuvida; atamalar lug'ati bilan). Toshkent. xayrullokomilov.uz/kutubxona, material ID 2322. Nashr yili ko'rsatilmagan.",
+    "O'zbekiston Respublikasi Bosh davlat sanitariya vrachi. Ishchi zona havosidagi zararli moddalarning chegaraviy ruxsat etilgan konsentratsiyalari (REK): gigiyenik normativlar, SanPiN № 0294-11 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 697. 2011."
+  ]
+}

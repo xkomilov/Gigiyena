@@ -1,0 +1,83 @@
+{
+  "number": 94,
+  "title": "94. Insonga zararlangan hayvondan o'tuvchi kasalliklar.",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Zoonozlar kasal hayvonlardan, shuningdek chorvachilik va parrandachilik mahsulotlari orqali odamga yuqadigan yuqumli kasalliklardir. Bu guruhga kuydirgi, brutsellyoz, oqsim, sil, qoramolning gubkasimon ensefalopatiyasi, listerioz va yersinioz kabi xavfli infeksiyalar kiradi [1].",
+        "Ushbu mavzuda asosiy zoonozlarning qo'zg'atuvchisi, manbai, yuqish yo'llari va profilaktikasi, shuningdek zararlangan hayvonlardan olingan go'sht va sutdan foydalanish tartibi bayon etiladi. Gijja invaziyalari ham zoonozlar sifatida ko'rib chiqiladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Kuydirgi",
+      "content": [
+        "Kuydirgi Bacillus anthracis qo'zg'atadigan o'tkir bakterial zoonoz infeksiya bo'lib, terida, limfa tugunlarida va ichki a'zolarda seroz-gemorragik yallig'lanish bilan kechadi va teri yoki septik shaklda uchraydi. Qo'zg'atuvchi sporalar hosil qiladi, shu sababli issiqlik, quritish va dezinfeksiyalovchi vositalarga chidamli [1].",
+        "Infeksiya manbai kasal uy hayvonlari: qoramol, ot, eshak, qo'y, echki, buyvol, tuya, cho'chqa. Odam teri yaralari orqali so'yish, teri ishlash vaqtida, shuningdek sporalar bilan ifloslangan mahsulotlarni iste'mol qilishda, suv va tuproq orqali zararlanadi. Hayvonlarda kasallik odatda dastlabki 2-3 sutkada o'lim bilan tugaydi [1].",
+        "Kuydirgi sporalari avtoklavda 110 °C da 40 daqiqada, quruq issiqda 140 °C da 2,5-3 soatda o'ladi, to'g'ridan-to'g'ri quyosh nuriga 10-15 sutka chidaydi. Vegetativ shakllar qaynatishda va oddiy dezinfektantlar ta'sirida tez nobud bo'ladi. Epizootiyalar tuproqdagi birlamchi va ikkilamchi o'choqlarga bog'liq [1]."
+      ]
+    },
+    {
+      "heading": "Oqsim",
+      "content": [
+        "Oqsim virusli infeksiya bo'lib, teri va shilliq qavatlar zararlanadi. Kasal hayvonlar virusni so'lak, sut, axlat va siydik bilan chiqaradi, so'yilgan hayvonlarning qoni va go'shti ham yuqumli bo'ladi. Virus tashqi muhitda chidamli, sovuq va quritish uni o'ldirmaydi, ultrabinafsha nur va dezinfeksiyalovchi eritmalar tez yo'q qiladi [1].",
+        "Odam asosan xom sut, sut mahsulotlari va go'sht iste'mol qilganda zararlanadi, kamdan-kam kasal hayvon bilan to'g'ridan-to'g'ri aloqada. Oqsimga bolalar ko'proq moyil, odamdan odamga yuqmaydi. Sut va go'sht qayta ishlash korxonalari tarqalishida rol o'ynashi mumkin, shuning uchun xo'jalikda karantin joriy etiladi [1].",
+        "Virus xom mahsulotlarda va go'ngda uzoq saqlanadi, hayvon junida 4 haftagacha, kiyimda 3,5 haftagacha turadi. Oqsim aniqlangan xo'jalik yoki aholi punktiga karantin joylashtiriladi, xavf zonasi belgilanadi, hayvonlar va qishloq xo'jaligi mahsulotlarini olib chiqishga cheklovlar kiritiladi [1]."
+      ]
+    },
+    {
+      "heading": "Brutsellyoz",
+      "content": [
+        "Brutsellyoz zoonoz yuqumli-allergik kasallik bo'lib, umumiy intoksikatsiya hamda tayanch-harakat, asab va jinsiy tizimlarning zararlanishi bilan kechadi. Qo'zg'atuvchisi spora hosil qilmaydigan brutsellalar bo'lib, eng muhimlari echki va qo'y, so'ngra qoramol va cho'chqa brutsellalaridir [1].",
+        "Odam ozuqa yo'li bilan, terining shikastlanishida, tuqqan paytda yordam ko'rsatganda, shuningdek abort qilingan homila, kasal hayvonlarning go'shti yoki sutini iste'mol qilganda zararlanadi. Epidemiologik ahamiyatga ega mahsulotlar xom sut, sut mahsulotlari va ayniqsa qo'y suti pishlog'i (brinza) hisoblanadi [1]."
+      ]
+    },
+    {
+      "heading": "Brutsellyozning profilaktikasi",
+      "content": [
+        "Brutsellalar pasterizatsiyada (70 °C, 30 daqiqa) yoki qaynatishda o'ladi. Brutsellyoz bo'yicha nohush xo'jaliklardan olingan sut majburiy pasterizatsiya yoki qaynatishdan o'tadi, xom qaymoq faqat pasterizatsiyadan keyin ishlatiladi [1].",
+        "Qo'y suti pishlog'i uchun kamida 60 kunlik yetilish muddati belgilangan, chunki brutsellalar ikkinchi oyning oxirida o'ladi. Brutsellyozli hayvonlar go'shti faqat sinchkov qaynatish yoki qovurishdan keyin ishlatiladi, muzlatish va tuzlash brutsellalarning saqlanish muddatini kamaytirmaydi [1]."
+      ]
+    },
+    {
+      "heading": "Sil",
+      "content": [
+        "Silning qo'zg'atuvchilari mikobakteriyalardir. Odamda sil Mycobacterium tuberculosis, Mycobacterium bovis va Mycobacterium africanum keltirib chiqaradi, qoramol silini M. bovis qo'zg'atadi. Mikobakteriyalar tashqi muhitda chidamli, suvda 5 oygacha saqlanadi, to'g'ridan-to'g'ri quyosh nuri ularni 1,5 soatda, ultrabinafsha nur 2-3 daqiqada o'ldiradi [1].",
+        "Sil bilan kasallangan hayvonlar sutini ishlatish taqiqlanadi, tuberkulinga ijobiy reaksiya bergan sigirlar suti qaynatilib xo'jalik ichida ishlatiladi. Umumlashgan silda go'sht utilizatsiya qilinadi, mahalliy shaklda zararlangan a'zolar yo'q qilinadi, qolgan go'sht oziq-ovqatga yaroqli hisoblanadi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Listerioz va yersinioz",
+      "content": [
+        "Listerioz Listeria monocytogenes qo'zg'atadigan zoonoz bo'lib, tabiiy rezervuari kemiruvchilar. Asosiy yuqish yo'li ozuqa orqali, ifloslangan mahsulot iste'molidir. Ko'proq bir yoshgacha bolalar va 55 yoshdan katta, immuniteti susaygan kishilar kasallanadi, tashxis laboratoriya tasdig'ini talab qiladi [1].",
+        "Eng xavfli mahsulotlar sho'r suvli pishloqlar, sut, muzlatilgan xom sabzavotlar, sovuq dudlangan go'sht va baliq. Yersiniyalar past haroratga chidamli: 4 °C da suvda 250 kungacha yashaydi, sabzavotlarda 2 oygacha saqlanadi, 60 °C dan yuqorida 30 daqiqada o'ladi [1].",
+        "Listerioz bilan kasallanish nisbatan kam, yiliga bir million aholiga 2-3 holat, ko'proq shahar aholisi va yoz oylarida uchraydi. Sanitariya normalariga muvofiq mahsulotning 25 g da listeriyalar bo'lmasligi kerak, sovutgichdagi mahsulotlardan ham ular ajratib olinadi [1]."
+      ]
+    },
+    {
+      "heading": "Go'sht orqali yuqadigan gijja zoonozlari",
+      "content": [
+        "Tenioz qoramol yoki cho'chqa tasmasimon chuvalchangining lichinkalari (finnalar) bilan zararlangan go'shtni iste'mol qilganda rivojlanadi. Tananing 40 sm2 maydonida uchtadan ortiq finna bo'lsa, go'sht texnik utilizatsiyaga yuboriladi, kam bo'lsa issiqlik ishlovi, -18 °C gacha muzlatish yoki tuzlashdan keyin ishlatiladi [2].",
+        "Trixinellyoz cho'chqa, yovvoyi cho'chqa va boshqa yovvoyi hayvonlar go'shti orqali yuqadi. Lichinkalar diafragma va qovurg'alararo mushaklarda joylashadi, kompressorium bilan topiladi, zararlangan go'sht ishlatilmaydi. Exinokokkoz, alveokokkoz va fastsiolyozda zararlangan a'zolar ishlatilmaydi, tananing qolgan qismi esa cheklanmagan miqdorda ishlatilishi mumkin [2]."
+      ]
+    },
+    {
+      "heading": "Sanitariya vrachining nazorat tadbirlari",
+      "content": [
+        "Zoonozlarni oldini olishda xom ashyoning tamg'asi tekshiriladi, sovitish zanjiri nazorat qilinadi, issiqlik ishlovi rejimiga rioya etilishi tekshiriladi: go'sht mahsulotlari qalinligigacha to'liq qizdirilishi, sut esa pasterizatsiya yoki qaynatishdan o'tishi kerak. Yarim tayyor mahsulot va tayyor taomlarning realizatsiya muddatlari qat'iy kuzatiladi [1].",
+        "Veterinariya nazorati, xodimlarning tibbiy ko'rigi va hayvonot mahsulotlarini xavfsiz qayta ishlash birgalikda zoonozlarning tarqalishini cheklaydi. Birlamchi ishlab chiqarishda odamga yuqishi mumkin bo'lgan kasalliklar aniqlansa, bu haqda vakolatli davlat organlariga xabar beriladi [1, 3]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "Zoonozlarning asosiy manbai kasal uy hayvonlari, yuqish yo'llari esa go'sht, sut, teri va ifloslangan tashqi muhitdir. Veterinariya-sanitariya ekspertizasi, issiqlik ishlovi, pasterizatsiya va kasal hayvonlarni ajratish zoonozlarning oldini olishning asosiy choralaridir [1, 2, 3]."
+      ]
+    }
+  ],
+  "references": [
+    "Stepanova I.V. Sanitariya va ovqatlanish gigiyenasi: o'quv qo'llanma (rus tilida). Sankt-Peterburg: Troitskiy most. xayrullokomilov.uz/kutubxona, material ID 2760. 2010.",
+    "Korolev A.A. Ovqatlanish gigiyenasi: oliy ta'lim uchun darslik (rus tilida), 4-nashr. Moskva: Akademiya nashriyot markazi. xayrullokomilov.uz/kutubxona, material ID 2367. 2014.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi huzuridagi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi qo'mitasi. Oziq-ovqat mahsuloti xavfsizligining umumiy sanitariya qoidalari, normalari va gigiyena normativlari: № 0079-24 SanQvaN. Toshkent. xayrullokomilov.uz/kutubxona, material ID 650. 2024."
+  ]
+}

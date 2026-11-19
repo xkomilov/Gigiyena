@@ -1,0 +1,88 @@
+{
+  "number": 82,
+  "title": "82. So'yishga mo'ljallangan mollarni saqlashda qanday veterinariya-sanitariya qoidalari qo'llaniladi.",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "So'yishdan oldin chorva mollarini saqlash go'sht xavfsizligini belgilaydigan dastlabki bosqichdir. Bu bosqichda hayvonlarning sog'lig'i veterinariya ko'rigi bilan aniqlanadi, kasal va shubhali hayvonlar sog'lom podadan ajratiladi, saqlash joylari va transport vositalari doimiy tozalanib dezinfeksiya qilinadi [1, 2].",
+        "Ushbu mavzuda so'yishdan oldingi bazaning tuzilishi, hayvonlarni qabul qilish va ko'rikdan o'tkazish, karantin, izolyator va sanitariya so'yish joyi, molxonalarni saqlash, transport, suv va go'ngni yig'ish tartibi hamda zoonoz xavfi ko'rib chiqiladi [1, 3, 4]."
+      ]
+    },
+    {
+      "heading": "So'yishdan oldingi bazaning tuzilishi",
+      "content": [
+        "Korxona hududi so'yishgacha saqlash, ishlab chiqarish, maishiy va omborxona zonalariga aniq bo'linadi. So'yishdan oldingi chorvachilik bazasi hududida balandligi 2 m bo'lgan mustahkam panjara va yashil maydonlar bilan o'ralgan alohida uchastkada karantin bo'limi, izolyator va sanitariya so'yish xonasi jihozlanadi [1].",
+        "Bazaga chorva mollarini qabul qiluvchi va bo'luvchi soyabonli maydon, veterinariya ko'rigi va termometriya uchun bo'linmali temir yo'l va avtomobil platformalari, so'yishdan oldin saqlash binolari, yo'lboshchilar va chorvadorlar uchun xonalar, kiyim-kechakni dezinfeksiya qiluvchi kamera, go'ng maydonchasi hamda transportni sanitariya ishlovidan o'tkazish punkti kiradi [1]."
+      ]
+    },
+    {
+      "heading": "Qabul qilish va veterinariya ko'rigi",
+      "content": [
+        "Sog'lom qoramollar veterinariya tekshiruvidan keyin so'yishdan oldin saqlash uchun yuboriladi, kasal yoki kasallikka gumon qilinganlari esa karantin, izolyator yoki sanitariya so'yish joyiga o'tkaziladi. Shunday ajratish sog'lom podaga infeksiya tushishini oldini oladi [1].",
+        "Sanitariya qushxonasida kasal hayvonlarni olib kirish joyi, shuningdek ularni qabul qilish, veterinariya ko'rigi va termometriya uchun maydoncha bo'ladi. Birlamchi ishlab chiqarishda hayvonlarning veterinariya ko'rigidan o'tkazilganligi, ozuqa turi va manbasi, veterinariya dori vositalarini qo'llash sanasi va usuli hamda kasalliklar mavjudligi qayd etib boriladi [1, 3]."
+      ]
+    },
+    {
+      "heading": "Karantin bo'limi va izolyator",
+      "content": [
+        "Karantin bo'limi va izolyator bir blokda joylashganda ular orasida vestibyul bo'ladi: unda ishchilarning kiyimlari uchun shkaflar, qo'l yuvish moslamasi, zararsizlantiruvchi eritmali idish va poyabzal uchun dezinfeksiya gilamchasi o'rnatiladi [1].",
+        "Karantin va izolyator xonalarining pollari, devorlari, ozuqa tarnovlari va suyuqlik yig'gichlari dezinfeksiya qilish oson materiallardan tayyorlanadi, hayvonlardan bo'shagandan keyin dezinfeksiya o'tkaziladi. Izolyatorda nobud bo'lgan hayvonlarni yorish uchun alohida xona va maxsus jihozlangan transport bo'lishi kerak [1]."
+      ]
+    },
+    {
+      "heading": "Sanitariya so'yish joyi",
+      "content": [
+        "Bir smenada 20 t gacha go'sht ishlab chiqaradigan korxonalarda sanitariya so'yish joyi o'rniga boshqa sexlardan ajratilgan sanitariya kamerasi tashkil etishga ruxsat beriladi. Kamera go'sht-yog' binosida joylashishi mumkin. Sanitariya qushxonasi binolari va jihozlari ish kuni davomida tozalanadi, dezinfeksiya esa ish oxirida amalga oshiriladi [1].",
+        "Sanitariya so'yish joyi yoki kamera bo'lmasa, kasal hayvonlar birlamchi ishlov sexida maxsus ajratilgan kunlarda yoki smena oxirida, sog'lom hayvonlar so'yilib barcha tana go'shtlari olib chiqilgandan so'ng so'yiladi. Ishlov tugagach sex, asbob-uskunalar, inventar, idishlar va avtomashinalar sanitariya ishlovidan o'tib dezinfeksiya qilinadi [1]."
+      ]
+    },
+    {
+      "heading": "Molxonalarni saqlash",
+      "content": [
+        "So'yish uchun olib kelingan mollar tushiriladigan joyning sig'imi bitta avtotransport yoki bitta temir yo'l vagonida yetkazilgan miqdorga mos bo'lishi kerak. Haydab olib kelingan mollar uchun mo'ljallangan molxonaga o'rtacha kattalikdagi bitta partiya joylashtiriladi [1].",
+        "Iqlim sharoitiga qarab mollar yopiq joylarda yoki ochiq molxonalarda bostirma ostida saqlanadi, har bir maydonchada qattiq sirtli pol, suv ta'minoti bilan sug'oriladigan oluklar bo'ladi. Molxonalar har kuni go'ngdan tozalanadi, go'ng go'ng yig'ish maydoniga olib chiqiladi [1]."
+      ]
+    },
+    {
+      "heading": "Transport vositalari va go'ng",
+      "content": [
+        "Korxonaga so'yiladigan mollarni olib kelgan transport hayvonlarni tushirib, go'ngdan tozalagandan keyin yuvish joyida yoki bazadan chiqishda maxsus joyda majburiy yuviladi va dezinfeksiya qilinadi. Go'ng va ichak chiqindilarini tashiydigan transport har kuni yuviladi va dezinfeksiya qilinadi [1].",
+        "Ko'p qavatli so'yish joyida go'ngni chiqarish uchun har qavatda yuklash lyuklari bo'lgan bunker tashkil etiladi, bunker va uning ostidagi suv o'tkazmaydigan maydon har kuni tozalanadi va dezinfeksiya qilinadi. Go'ngni biotermik zararsizlantirish davlat veterinariya nazorati va sanitariya-epidemiologiya xizmati bilan kelishilgan joylarda o'tkaziladi [1]."
+      ]
+    },
+    {
+      "heading": "Suv ta'minoti",
+      "content": [
+        "Texnik suv ta'minoti ichimlik suvi ta'minotidan alohida bo'lib, ikkala tizim orasida aloqa bo'lmasligi, quvurlar belgilangan rangga bo'yalishi va suv olish nuqtalarida «ichish», «texnik» yozuvlari turishi shart. Suv kirish joyi izolyatsiyalangan yopiq xonada bo'lib, manometrlar, namuna olish kranlari va suvning faqat bir yo'nalishda harakatlanishini ta'minlovchi nazorat klapanlari bilan jihozlanadi [1].",
+        "Shahar suv ta'minotidan foydalanilganda suv choraklik tartibda kamida bir marta, o'z manbasidan foydalanilganda oyiga bir marta kimyoviy va bakteriologik tahlilga yuboriladi. Ochiq suv havzalaridan foydalanilsa, bakteriologik tahlil kamida o'n kunda bir marta o'tkaziladi [1]."
+      ]
+    },
+    {
+      "heading": "Birlamchi ishlab chiqarish talablari",
+      "content": [
+        "Hayvonot mahsulotlarini birlamchi ishlab chiqarishda veterinariya dori vositalari yoki ozuqa qo'shimchalari qo'llanganda so'yish yoki sut sog'ishdan oldingi kutish davriga rioya qilinadi. So'yiladigan hayvonlarning tozaligi ta'minlanadi, hayvonlar ozuqasini saqlash binolari, uskunalar va transport tozalanib dezinfeksiya qilinadi [3].",
+        "Birlamchi mahsulot orqali odamga yuqishi mumkin bo'lgan kasalliklar aniqlanganda ularni oldini olish maqsadida vakolatli davlat organlariga xabar beriladi. Hayvonlardan olingan namunalar tahlil natijalari ham qayd etiladi [3]."
+      ]
+    },
+    {
+      "heading": "Zoonoz xavfi va mahsulotdan foydalanish",
+      "content": [
+        "So'yiladigan hayvonlar go'shti oqsim, sil va brutsellyoz kabi xavfli infeksiyalarni yuqtirishi mumkin. Kuydirgi yoki umumlashgan sil aniqlansa, butun tana go'shti va a'zolar oziq uchun yaroqsiz bo'lib yo'q qilinadi, mahalliy silda esa faqat zararlangan a'zolar yo'q qilinadi [4].",
+        "Oqsim, brutsellyoz yoki cho'chqa vabosi bilan kasallangan hayvon go'shti qat'iy issiqlik ishlovidan keyin, odatda sanoat sharoitida oziq maqsadlarida ishlatilishi mumkin. Shuning uchun so'yishdan oldingi saqlash bosqichida kasal hayvonlarni ajratish bu xavfning oldini oladi [4]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "So'yishga mo'ljallangan mollarni saqlashda veterinariya-sanitariya talablari hayvonlarni ko'rikdan o'tkazish va kasallarini ajratish, karantin va izolyatorni dezinfeksiya qilish, molxona, transport va go'ngni tartibli saqlash hamda suv sifatini nazorat qilishga qaratilgan. Ularning bajarilishi go'shtning xavfsizligini ta'minlaydi [1, 3, 4]."
+      ]
+    }
+  ],
+  "references": [
+    "Mirzoyev O.M. Qushxona, go'sht va go'sht mahsulotlarini qayta ishlash va realizatsiya qilish korxonalari xodimlarining gigienik savodxonligini oshirish bo'yicha uslubiy qo'llanma. Buxoro shahar Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi bo'limi. xayrullokomilov.uz/kutubxona, material ID 1787. 2022.",
+    "O'zbekiston Respublikasi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi xizmati. Go'sht va go'sht mahsulotlarini qayta ishlash korxonalariga qo'yiladigan sanitariya-gigiyena talablari: № 0036-22 SanQvaN. Toshkent (lex.uz/docs/6309222). xayrullokomilov.uz/kutubxona, material ID 896. 2022.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi huzuridagi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi qo'mitasi. Oziq-ovqat mahsuloti xavfsizligining umumiy sanitariya qoidalari, normalari va gigiyena normativlari: № 0079-24 SanQvaN. Toshkent. xayrullokomilov.uz/kutubxona, material ID 650. 2024.",
+    "Korolev A.A. Ovqatlanish gigiyenasi: oliy ta'lim uchun darslik (rus tilida), 4-nashr. Moskva: Akademiya nashriyot markazi. xayrullokomilov.uz/kutubxona, material ID 2367. 2014."
+  ]
+}

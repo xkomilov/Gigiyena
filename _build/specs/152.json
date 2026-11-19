@@ -1,0 +1,107 @@
+{
+  "number": 152,
+  "title": "152. Tebranish nima? Ish joyidagi tebranish manbalari.",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Ishlab chiqarish tebranishi (vibratsiya) mehnat sharoitining keng tarqalgan zararli omillaridan biri. Vibratsion texnikaning turli tarmoqlarga joriy etilishi bilan tebranish ta'siriga uchraydigan ishchilar soni ortgan [1].",
+        "Ushbu mavzuda tebranish tushunchasi, uning fizik xarakteristikalari, turlari, ish joylarida paydo bo'lish joylari, kasblar, ta'sirni kuchaytiruvchi omillar va baholash ko'rsatkichlari bayon etiladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Tebranish tushunchasi",
+      "content": [
+        "Texnikada tebranish deb mexanik tizimlarda moddiy jism ma'lum vaqt oralig'idan keyin bir xil muvozanat holatidan o'tadigan tebranish jarayonlariga aytiladi. Uni mexanik tebranishlar ham deyiladi [1].",
+        "Sanitariya qoidalarida tebranish jismlarning muvozanat holati atrofida ma'lum davriylik bilan takrorlanib turadigan mexanik harakati sifatida ta'riflanadi [2]."
+      ]
+    },
+    {
+      "heading": "Tebranishning xarakteristikalari",
+      "content": [
+        "Tebranish murakkab tebranish jarayoni bo'lib, keng chastota diapazoni va tebranma energiyaning tebranuvchi zarrachalardan qo'shni zarrachalarga o'tishi bilan tavsiflanadi. Eng oddiy shakli garmonik (sinusoidal) tebranish [1].",
+        "U davr (bitta to'liq tebranish vaqti, sekund), chastota (1 sekunddagi tebranishlar soni, Gts), amplituda (muvozanat holatidan to'lqin balandligi, mm), tezlanish, tebranish energiyasi va detsibelda ifodalanadigan ton intensivligi bilan xarakterlanadi [1]."
+      ]
+    },
+    {
+      "heading": "Gigiyenik baholash ko'rsatkichlari",
+      "content": [
+        "Tebranishning gigiyenik ta'siri uning barcha tarkibiy qismlariga bog'liq. Asosiy chastota va amplituda bo'yicha baholash keng chastota diapazonidagi o'zgarishlarni to'liq ko'rsatmaydi, shu sababli tebranishni spektrogramma bo'yicha baholash katta ahamiyatga ega [1].",
+        "Fizik mezon sifatida tebranma tezlik (m/s), tebranma tezlanish (m/s²) va chastota hisobga olingan holda daraja (dB) qabul qilingan. Tebranma energiya tebranma tezlik kvadratiga proporsional, shu sababli tezlik tebranish jadalligining ko'rsatkichi [1]."
+      ]
+    },
+    {
+      "heading": "Normallanadigan ko'rsatkich",
+      "content": [
+        "Ish joylarida tebranishning normallanadigan ko'rsatkichi sifatida ish kuni (smena) uchun ekvivalent tuzatilgan tebranma tezlanish qiymati A(8 soat), m/s² yoki daraja La(8 soat), dB olinadi [2].",
+        "Umumiy tebranishlar past (2 va 4 Gts), o'rta (8 va 16 Gts) va yuqori (31,5 va 63 Gts) chastotali oktava diapazonlarida, mahalliy tebranishlar past (8 va 16 Gts), o'rta (31,5 va 63 Gts) va yuqori (125, 250, 500, 1000 Gts) chastota diapazonlarida aniqlanadi [2]."
+      ]
+    },
+    {
+      "heading": "Tebranish turlari",
+      "content": [
+        "Mahalliy tebranish inson tanasining ayrim yuzalariga (qo'l, oyoq yoki bilak) bevosita o'tadigan tebranish. Umumiy tebranish tanaga tayanch yuzalar orqali uzatiladi [2].",
+        "Umumiy tebranish jismni tebranuvchi ob'ekt bilan birga fazoda siljitadi. Ishlab chiqarishda u ko'pincha infratovush va past chastotali tovush sohasida bo'lib, «turtkilar» deb ham ataladi. Tana o'qiga nisbatan vertikal, gorizontal, burchakli va kombinatsiyalashgan bo'lishi mumkin [1]."
+      ]
+    },
+    {
+      "heading": "Umumiy tebranish toifalari",
+      "content": [
+        "Umumiy tebranish sanitariya normalarida toifalarga bo'linadi: 1-toifa, 2-toifa va 3-toifaning «a», «b», «v» turlari. Har bir toifa uchun tebranish yo'nalishi (X, Y, Z o'qlari) bo'yicha ruxsat etilgan darajalar belgilangan [2].",
+        "Mahalliy tebranish uchun ruxsat etilgan daraja tebranma tezlanish bo'yicha 126 dB, tebranma tezlik bo'yicha 118 dB. 8 soatlik ta'sir uchun ruxsat etilgan darajalar sanitariya qoidalarining 8-ilovasida berilgan [2]."
+      ]
+    },
+    {
+      "heading": "Ish joylaridagi manbalar",
+      "content": [
+        "Tebranish ko'mir, tog'-kon, mashinasozlik, metallurgiya, o'rmon xo'jaligi, transport, qurilish ishlari, kema va samolyotsozlik hamda temir-beton ishlab chiqarishda hosil bo'ladi [1].",
+        "Tebranish manbalari mexanizatsiyalashgan qo'l asboblari (zarbli, zarbli-aylanma harakatli, 100 dan ortiq nomdagi), tebranuvchi ish joylari, pol va maydonchalar. Bu asboblar qurilish, mashinasozlik, aviatsiya, o'rmon va tog'-kon sanoatida kichik mexanizatsiya bo'g'ini [1]."
+      ]
+    },
+    {
+      "heading": "Qo'l asboblari",
+      "content": [
+        "Ishchilar og'irligi 1 dan 15 kg gacha bo'lgan mexanizatsiyalashgan asboblarni ushlab turadi va tutqichga 5-40 kg qo'shimcha bosim qo'llaydi. Noqulay ish holati va bosim kuchi yelka va yelka kamari mushaklarida sezilarli statik zo'riqish hosil qiladi [1].",
+        "Ishchilarga ta'sir qiluvchi tebranish 10 dan 2000 Gts gacha deyarli uzluksiz chastota spektriga ega. Ishlab chiqarishda ko'pincha 50, 100, 500 va 1000 Gts chastotalar uchraydi. Parametrlar ish tartibi, ishlov beriladigan material va asbobning texnik holatiga qarab o'zgaradi [1]."
+      ]
+    },
+    {
+      "heading": "Hamroh omillar",
+      "content": [
+        "Tebranish ta'sirini kuchaytiruvchi omillar: statik va jismoniy zo'riqish, majburiy ish holati, bir xil harakatlarning tez-tez takrorlanishi, kontakt sovish (umumiy yoki mahalliy), noqulay mikroiqlim (past harorat, yuqori namlik, havo tezligi) va shovqin [1].",
+        "Tebranish va sovuqning birgalikdagi ta'siri alohida xavfli: sovuq ta'sirida tebranish sezgirligi bo'sag'alari tebranishning o'zida bo'lganiga qaraganda ko'proq o'zgaradi. Yuqori harorat esa tebranishning salbiy ta'sirini susaytiradi [1]."
+      ]
+    },
+    {
+      "heading": "Tebranishning tanada tarqalishi",
+      "content": [
+        "Tebranish asboblar bilan aloqada ishchiga uzatiladi va tana bo'ylab katta masofalarga tarqaladi. Eng ko'p tarqalish past chastotali tebranishlarda kuzatiladi, chastota ortgan sari to'qimalar tebranishni so'ndirib, tarqalish zonasi kichrayadi [1].",
+        "Qo'lga uzatilgan tebranish suyakning qattiq tuzilmalaridan qaytib, yumshoq to'qimalarda energiya zichligini oshiradi. 10 Gts gacha past chastotalarda tebranish qo'zg'alish joyidan qat'i nazar, bosh bilan butun tana bo'ylab juda kam so'nish bilan tarqaladi [1]."
+      ]
+    },
+    {
+      "heading": "Rezonans va tana holati",
+      "content": [
+        "Tana yoki uning qismlarining xususiy tebranish chastotalariga yaqin chastotalarda tebranish kuchayadi (rezonans). Qo'l mushaklari zo'riqishi ortganda tebranish o'tkazuvchanligi 30-60 Gts da eng katta bo'ladi, bu qo'lning xususiy tebranishlar chastotasiga mos keladi [1].",
+        "Umumiy tebranishning ichki a'zolarga ta'siri chastota va amplitudadan tashqari tana holatiga bog'liq: oyoq uchida va tizzalari biroz bukilgan holda ta'sir qulayroq, qattiq tik turganda va o'tirganda yomonroq [1]."
+      ]
+    },
+    {
+      "heading": "Tebranishni o'lchash",
+      "content": [
+        "Ish joylaridagi tebranishning ruxsat etilgan darajalari tegishli xalqaro standartlarga (GOST 31319-2006 va GOST 31192.2-2005) muvofiq aniqlanadi. Tebranish yo'nalishi koordinata o'qlari bo'yicha tekshiriladi [2].",
+        "Ekvivalent tebranma tezlanish ish kunining davomiyligi (8 soat) va har bir ta'sir oralig'ining davomiyligi bo'yicha hisoblanadi. Agar ish kuni 8 soatdan qisqa bo'lsa, hisob haftasiga 40 soatga nisbatan olinadi [2]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "Tebranish jismlarning muvozanat holati atrofida takrorlanuvchi mexanik harakati bo'lib, mahalliy va umumiy turlarga bo'linadi. Ish joylarida uning manbalari mexanizatsiyalashgan qo'l asboblari, tebranuvchi ish joylari va transport. Gigiyenik baholash tebranma tezlik va tezlanish, chastota spektri hamda ta'sir davomiyligiga asoslanadi [1, 2]."
+      ]
+    }
+  ],
+  "references": [
+    "Iskandarova G.T. (tahrir) Mehnat gigiyenasi bo'yicha ma'ruzalar matni (rus tilida). Toshkent tibbiyot akademiyasi Kommunal gigiyena va mehnat gigiyenasi kafedrasi. Toshkent. xayrullokomilov.uz/kutubxona, material ID 2348. 2009.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi huzuridagi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi qo'mitasi. Ish joylaridagi shovqin, tebranish, infratovush va ultratovush darajalariga doir sanitariya qoidalari, normalari va gigiyena normativlari: 0111-26-son SanQvaN (2026-yil 24-martdagi 5-son qaror, o'zbek tilida, kirill yozuvida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 683. 2026."
+  ]
+}

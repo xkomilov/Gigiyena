@@ -1,0 +1,56 @@
+{
+  "number": 107,
+  "title": "107. O'quv xonalar tabiiy va sun'iy yoritishiga bo'lgan talablar va maktab xonalarida havo-issiqlik rejimiga qanday talablar qo'yiladi?",
+  "sections": [
+    { "heading": "Kirish", "content": [
+      "O'quv xonalarida yoritish va havo-issiqlik rejimi o'quvchilarning ko'rish va umumiy ish qobiliyatiga bevosita ta'sir qiladi. Yetarli bo'lmagan yoritish ko'z charchog'i va ko'rish buzilishiga, noqulay mikroiqlim esa tezroq charchash va shamollash kasalliklariga olib keladi [1].",
+      "Ushbu mavzuda tabiiy va sun'iy yoritishning asosiy ko'rsatkichlari, xonalarning orientatsiyasi, yorug'likdan to'g'ri foydalanish tartibi, isitish va shamollatish tizimlariga qo'yiladigan talablar, harorat va namlik normalari, shamollatish davomiyligi bayon etiladi [1]."
+    ]},
+    { "heading": "Tabiiy yoritish: umumiy talablar", "content": [
+      "Barcha o'quv xonalarida tabiiy yoritish bo'lishi shart. Snaryad xonasi, yuvinish xonalari, sport zali dushlari va hojatxonalari, kladovoy va ombor, kitob saqlash, bo'yler va nasos xonalari kabi yordamchi xonalar tabiiy yorug'liksiz loyihalanishi mumkin [1].",
+      "O'quv xonalarida yon tomonlama chap tomonli tabiiy yoritish loyihalanadi. Xona chuqurligi 6 m dan oshsa, balandligi polidan kamida 2,2 m bo'lgan o'ng tomonli qo'shimcha yoritish bo'lishi shart. Asosiy yorug'lik oqimining o'quvchiga oldidan va orqasidan yo'nalishiga yo'l qo'yilmaydi [1]."
+    ]},
+    { "heading": "Tabiiy yoritilganlik ko'rsatkichlari", "content": [
+      "Bir tomonlama yon yoritishda partalar ish yuzasida xonaning derazadan eng uzoq nuqtasida tabiiy yoritilganlik koeffitsienti (TYoK) kamida 1,5 foiz bo'lishi kerak. Ikki tomonlama yon yoritishda TYoK o'rta qatorlarda hisoblanadi va 1,5 foizni tashkil etadi. Yorug'lik koeffitsienti, ya'ni oyna maydonining pol maydoniga nisbati kamida 1:6 bo'ladi [1].",
+      "O'quv xonalarining derazalari janub, janubi-sharq va sharq tomonga qaratilishi kerak. Chizmachilik va rasm kabinetlari hamda oshxona derazalari shimol tomonga qaratilishi mumkin, informatika kabineti derazalari esa shimol va shimoli-sharqqa qaratiladi [1]."
+    ]},
+    { "heading": "Insolyatsiya va quyoshdan himoya", "content": [
+      "O'quv xonalarida insolyatsiya davomiyligi uzluksiz bo'lib, shimoliy zonada kamida 2,5 soat, markaziy zonada 2,0 soat, janubiy zonada 1,5 soat bo'lishi kerak. Informatika, fizika, kimyo, rasm va chizmachilik kabinetlari, sport-trenajyor zallari, oshxona, aktlar zali va ma'muriy xonalarda insolyatsiya bo'lmasligiga yo'l qo'yiladi [1].",
+      "Yorug'lik teshiklari iqlim zonasiga qarab rostlanadigan quyoshdan himoya qurilmalari (jalyuzi, mato pardalar) bilan jihozlanadi. Yorug'likni cheklaydigan pardalar, shu jumladan polivinilxlorid plyonkali lambrekenlar ishlatilmaydi, ishlatilmagan holatda parda deraza oralig'idagi devorga qo'yiladi [1]."
+    ]},
+    { "heading": "Tabiiy yorug'likdan oqilona foydalanish", "content": [
+      "Kunduzgi yorug'likdan oqilona foydalanish uchun deraza oynalari bo'yalmaydi, deraza tokchalariga gullar qo'yilmaydi, ular polidan 65-70 sm balandlikdagi ko'chma gul qutilari yoki deraza oralig'idagi osma idishlarda saqlanadi. Oynalar ifloslanganda, lekin yiliga kamida ikki marta (kuz va bahorda) yuviladi [1].",
+      "Daraxtlar o'quv xonalari derazalari oldida yorug'likni normadan pasaytirsa, ularni kesish yoki shoxlarini qirqish tadbirlari o'tkaziladi. Ko'chadagi yorug'lik o'tkazishni saqlash uchun oynalarni almashtirishda oyna maydoni saqlanishi yoki oshirilishi, singan oynalar zudlik bilan almashtirilishi kerak [1]."
+    ]},
+    { "heading": "Sun'iy yoritish", "content": [
+      "O'quv xonalarida umumiy yoritish shiftga o'rnatilgan chiroqlar bilan ta'minlanadi: oq, iliq-oq va tabiiy-oq spektrli lyuminessent yoki yorug'lik diodli chiroqlar. Bir xonada lyuminessent lampalar va cho'g'lanma lampalarni umumiy yoritish uchun birga ishlatish mumkin emas, yoritish qurilmasining noqulaylik ko'rsatkichi 40 birlikdan oshmaydi [1].",
+      "Chiroqlar yorug'lik oqimiga parallel ravishda tashqi devordan 1,2 m, ichki devordan 1,5 m masofada joylashtiriladi, chiroq liniyalari alohida yoqiladi. O'z yorug'ligi bo'lmagan sinf doskasi doskadan yuqori chetidan 0,3 m balandda va sinf tomonga 0,6 m masofada joylashgan soffitlar bilan mahalliy yoritiladi [1]."
+    ]},
+    { "heading": "Yoritilganlik darajalari", "content": [
+      "O'quv xonalari, auditoriya va laboratoriyalarda ish stollarida yoritilganlik 300-500 lk, texnik chizmachilik va rasm kabinetlarida 500 lk, informatika kabinetida stollarda 300-500 lk, doskada 300-500 lk, aktlar va sport zallarida (polda) 200 lk, rekreatsiyalarda (polda) 150 lk bo'lishi kerak [1].",
+      "Kompyuter bilan ishlaganda va ekrandan axborot olish daftarga yozish bilan uyg'unlashsa, o'quvchi stollaridagi yoritilganlik 300 lk dan kam bo'lmaydi. Chiroq armaturasi ifloslanishiga qarab, lekin yiliga kamida ikki marta tozalanadi, kuygan lampalar vaqtida almashtiriladi, ishlamay qolgan lyuminessent lampalar maxsus xonada yig'ilib utilizatsiyaga yuboriladi [1]."
+    ]},
+    { "heading": "Pardozlash va ranglar", "content": [
+      "Yorug'likdan oqilona foydalanish uchun xira yuzali bo'yoqlar ishlatiladi: shiftning aks ettirish koeffitsienti 0,7-0,9, devorniki 0,5-0,7, polniki 0,4-0,5, mebel va partalarniki 0,45, sinf doskasiniki 0,1-0,2 bo'lishi kerak [1].",
+      "Shiftlar oq, o'quv xonalari devorlari sariq, bej, pushti, yashil va havorang yengil ranglarda, mebel tabiiy yog'och yoki och yashil, doskalar to'q yashil yoki to'q jigarrang, eshiklar va deraza romlari oq rangda bo'yaladi [1]."
+    ]},
+    { "heading": "Isitish va shamollatish tizimlari", "content": [
+      "Maktab binolari markazlashtirilgan isitish va shamollatish tizimlari bilan jihozlanadi. Bug' bilan isitish ishlatilmaydi, isitish asboblarining to'siqlari bolalar uchun zararsiz materialdan bo'ladi, yog'och-qirindi plitalaridan yasalgan to'siqlar, ko'chma isitgichlar va infraqizil nurli isitgichlar ishlatilmaydi [1].",
+      "Mavjud binolarda pechka bilan isitish bo'lsa, o't yoqiladigan joy yo'lakda joylashadi, pechka trubalari o'quvchilar kelishidan kamida ikki soat oldin va yoqilg'i to'liq yonganidan keyin yopiladi, yangi va qayta quriladigan binolarda pechka bilan isitish ruxsat etilmaydi, «burjuyka» pechkalari taqiqlanadi [1]."
+    ]},
+    { "heading": "Harorat, namlik va havo harakati", "content": [
+      "Iqlim sharoitiga qarab o'quv xonalari, kabinetlar, laboratoriyalar, aktlar zali, oshxona, rekreatsiya, kutubxona, vestibyul va garderobda havo harorati 18-20 °C, sport zalida, seksiya mashg'ulotlari xonalarida va ustaxonalarda 17-20 °C, yotoqxona va o'yin xonalarida 20-24 °C, tibbiy xonalarda 20-22 °C, dushlarda 25 °C bo'lishi kerak [1].",
+      "Nisbiy namlik 40-60 foiz, havo harakati tezligi 0,1 m/s dan oshmasligi lozim. O'quvchilar bo'lmagan vaqtda havo harorati 15 °C dan past tushmaydi. Haroratni nazorat qilish uchun o'quv xonalari maishiy termometrlar bilan jihozlanadi [1]."
+    ]},
+    { "heading": "Shamollatish rejimi", "content": [
+      "O'quv xonalari tanaffuslarda, rekreatsiyalar esa darslar vaqtida shamollatiladi. Darslar boshlanishidan oldin va tugagandan keyin xonalar o'tkazgichli (sarqin) usulda shamollatiladi. Tashqi harorat +10 dan +6 °C gacha bo'lsa, kichik tanaffuslarda 4-10 daqiqa, katta tanaffuslarda va smenalar orasida 25-35 daqiqa shamollatiladi, tashqi harorat -10 °C dan past bo'lsa mos ravishda 1-1,5 va 5-10 daqiqa [1].",
+      "Derazalar fortochka yoki ag'darma ramalar bilan jihozlanadi, ularning maydoni o'quv xonalarida pol maydonining kamida 1/50 qismini tashkil etadi va yil bo'yi ishlab turadi. O'quv xonalari va kabinetlar, aktlar zali, oshxona, tibbiy punkt, sanitariya tugunlari uchun alohida so'ruvchi shamollatish ko'zda tutiladi, xona havosidagi zararli moddalar aholi punktlari atmosfera havosi normasidan oshmaydi [1]."
+    ]},
+    { "heading": "Xulosa", "content": [
+      "O'quv xonalarida chap tomonli tabiiy yoritish, 300-500 lk sun'iy yoritilganlik, 18-20 °C harorat, 40-60 foiz namlik va tartibli shamollatish talablari o'quvchilarning ko'rish va ish qobiliyatini saqlaydi. Bu talablar to'liq bajarilishi uchun yoritish va isitish tizimlari muntazam tozalanishi va sozligi nazorat qilinishi kerak [1]."
+    ]}
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Bosh davlat sanitariya vrachi. Umumta'lim maktablarida o'qitish sharoitlari va tashkil etilishiga qo'yiladigan sanitariya-epidemiologik talablar: SanPiN № 0341-16 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 742. 2016."
+  ]
+}

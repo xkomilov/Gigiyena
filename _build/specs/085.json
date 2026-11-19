@@ -1,0 +1,89 @@
+{
+  "number": 85,
+  "title": "85. HACCP tizimi tushunchasi. Go'shtni qayta ishlash korxonalaridagi HACCP tizimi.",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "HACCP (xatarlar tahlili va kritik nazorat nuqtalari) oziq-ovqat xavfsizligini ta'minlashga qaratilgan tizimli, ilmiy asoslangan yondashuvdir. U aniq xatarlarni va ularni nazorat qilish choralarini belgilaydi hamda tayyor mahsulotni faqat oxirgi tekshiruvga tayanmasdan, jarayonning o'zida nazorat qilishga imkon beradi [1, 2].",
+        "Ushbu mavzuda tizimning ta'rifi, yetti tamoyili, joriy etish bosqichlari, dastlabki majburiy dasturlar hamda go'sht va kolbasa ishlab chiqarish korxonalarida qo'llanishi bayon etiladi. Milliy sanitariya qoidalaridagi tegishli talablar ham ko'rib chiqiladi [1, 2, 3]."
+      ]
+    },
+    {
+      "heading": "Tushuncha va afzalliklari",
+      "content": [
+        "O'zbekiston sanitariya qoidalarida xatarlar tahlili va kritik nazorat nuqtalari oziq-ovqat xavfsizligiga salbiy ta'sir etuvchi xatarlarni aniqlash, baholash va boshqarish yo'li bilan ular ustidan nazorat nuqtalarida doimiy nazoratni o'rnatish orqali mahsulot xavfsizligini ta'minlash tizimi sifatida belgilangan [2].",
+        "Xavfsizlikni oshirishdan tashqari tizim texnologik jarayonlar samaradorligini, resurslardan foydalanishni yaxshilaydi, mahsulotni muomaladan qaytarish holatlarini kamaytiradi, vakolatli organlar ishini yengillashtiradi va xalqaro savdoda ishonchni oshiradi. Muvaffaqiyat uchun rahbariyat va xodimlarning faol ishtiroki zarur [1]."
+      ]
+    },
+    {
+      "heading": "Dastlabki majburiy dasturlar",
+      "content": [
+        "HACCP ni joriy etishdan oldin korxona oziq-ovqat gigiyenasining umumiy tamoyillariga, tegishli sektor qoidalariga va vakolatli organlar talablariga rioya qilishni o'z ichiga olgan dastlabki majburiy dasturni amalga oshirishi kerak. Bu dasturlar puxta o'ylangan, to'liq ishlaydigan va imkon qadar tekshirilgan bo'lishi lozim [1].",
+        "Dastlabki dasturlarsiz tizimni qo'llash natija bermaydi. Shu bois go'sht korxonalarida avval sexlarning joylashuvi, jihozlar, suv ta'minoti, dezinfeksiya, shaxsiy gigiyena va zararkunandalarga qarshi tadbirlar bo'yicha sanitariya talablari bajariladi, so'ng HACCP rejasi quriladi [1, 3]."
+      ]
+    },
+    {
+      "heading": "Yetti tamoyil",
+      "content": [
+        "Tizim yetti tamoyilga asoslanadi: xatarlar tahlilini o'tkazish va nazorat choralarini aniqlash, kritik nazorat nuqtalarini (KNN) belgilash, validatsiyadan o'tgan kritik chegaralarni o'rnatish, KNN monitoringi tizimini yaratish, og'ishlar uchun tuzatuvchi harakatlar dasturini ishlab chiqish [1].",
+        "Oltinchi tamoyil HACCP rejasini validatsiya qilish va tizim to'g'ri ishlayotganini tasdiqlovchi tekshiruv tartiblarini joriy etish, yettinchisi esa barcha tartiblar va hisobga olish bo'yicha yozuvlar yuritish tizimini yaratishdir [1]."
+      ]
+    },
+    {
+      "heading": "Guruh, mahsulot tavsifi va jarayon sxemasi",
+      "content": [
+        "Birinchi bosqichda ishlab chiqarish, texnik xizmat, sifat nazorati, tozalash va dezinfeksiya kabi faoliyatlarga mas'ul ko'p tarmoqli mutaxassislar guruhi tuziladi. Zarur mutaxassis bo'lmasa, maslahat sanoat uyushmalaridan, mustaqil ekspertlardan va vakolatli organlardan olinadi [1].",
+        "Mahsulotning xavfsizlikka oid tavsifi, tarkibi va mo'ljallangan iste'moli yoziladi, so'ng mahsulotni ishlab chiqarishning barcha bosqichlari, ingredientlar, kontakt materiallari, suv va havoni qamrab olgan texnologik sxema chiziladi. Sxemaning amaldagi jarayonga mosligi ish joyida tasdiqlanadi [1]."
+      ]
+    },
+    {
+      "heading": "Xatarlar tahlili va kritik nazorat nuqtalari",
+      "content": [
+        "Xatarlar tahlili potensial xatarlarni aniqlash va ular orasida korxona uchun muhimlarini baholashdan iborat. Biologik, kimyoviy va fizik xatarlar ko'rib chiqiladi, nazorat choralari esa muhim xatarlarni bartaraf etish yoki qabul qilinadigan darajaga tushirish uchun tanlanadi [1, 2].",
+        "Kritik nazorat nuqtalari faqat tahlilda muhim deb topilgan xatarlar uchun belgilanadi. Bu nuqta nazorat chorasi zarur qo'llanadigan bosqich bo'lib, agar bosqichda nazorat chorasini qo'llash imkoni bo'lmasa, u KNN hisoblanmaydi [1].",
+        "Milliy qoidalarda xavf deb biologik, kimyoviy va fizik omillarning iste'molchi hayoti va sog'lig'iga salbiy ta'sir ko'rsatish ehtimoli, xavfning maqbul darajasi deb esa mahsulotdan maqsadli foydalanishda xavfsiz hisoblanadigan daraja tushuniladi [2]."
+      ]
+    },
+    {
+      "heading": "Kritik chegara, monitoring va tuzatish",
+      "content": [
+        "Kritik chegara KNN nazorat ostida ekanligini aniqlash va qabul qilinadigan mahsulotni qabul qilinmaydiganidan ajratish uchun o'lchanadigan yoki kuzatiladigan mezondir. Odatda harorat, vaqt, namlik, pH, suv faolligi, umumiy xlor, ta'sir davomiyligi kabi qiymatlarning eng kam yoki eng ko'p chegaralari qo'llanadi [1].",
+        "Monitoring KNN holatini rejali o'lchash yoki kuzatishdan iborat bo'lib, og'ishlarni o'z vaqtida aniqlab, mahsulotni ajratishga imkon berishi kerak. Har bir KNN uchun og'ishlarni bartaraf etuvchi yozma tuzatuvchi harakatlar belgilanadi, ular ta'sir ko'rsatgan mahsulotni aniqlash va baholashni o'z ichiga oladi [1]."
+      ]
+    },
+    {
+      "heading": "Validatsiya va hujjatlashtirish",
+      "content": [
+        "HACCP rejasi joriy etilishidan oldin validatsiya qilinadi: xatarlar, KNN, kritik chegaralar, nazorat choralari, monitoring chastotasi, tuzatuvchi harakatlar va tekshiruv tadbirlari birgalikda muhim xatarlarni nazorat qilishga qodirligi tasdiqlanadi [1].",
+        "Tizim aniq hisobga olishni talab qiladi: barcha tartiblar yozib boriladi, yozuvlar korxona faoliyati xususiyati va hajmiga mos bo'ladi. Milliy sanitariya qoidalarida ham monitoring natijalari, sanitariya talablari buzilganda ko'rilgan tuzatish choralari va namuna olish jadvali qayd etib boriladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Go'sht korxonalarida ishlab chiqarish nazorati dasturi",
+      "content": [
+        "Go'shtni qayta ishlash korxonalarida ichki nazorat dasturi xom ashyo, idish, jihoz va texnologik jarayonlarni ifloslantirishi mumkin bo'lgan xavflarni nazorat qilishni, tayyor mahsulotga tushishi mumkin bo'lgan xavfni aniqlashni, ishlab chiqarishning muhim nuqtalarini belgilashni va profilaktik choralarni ishlab chiqishni o'z ichiga oladi [3].",
+        "Dastur mas'ul xodimlarga qo'yiladigan talablarni ham belgilaydi. Ichki nazorat jarayonga tayyorgarlik, texnologik ishlov hamda qadoqlash va yetkazib berish bosqichlarida tashkil etiladi, shu tariqa xavfni boshqarish mantiqi HACCP bilan bir xil bo'ladi [3]."
+      ]
+    },
+    {
+      "heading": "Kolbasa ishlab chiqarishdagi kritik nuqtalar",
+      "content": [
+        "Kolbasa ishlab chiqarishda kritik nuqtalarga xom ashyo sifati, veterinariya-sanitariya nazoratining tashkil etilishi, nitrit va fosfat qo'shimchalarini qo'llash tartibi, qiyma tayyorlash, termik ishlov (qovurish, qaynatish yoki dudlash), sovutish va muvofiqlikni baholash kiradi [4].",
+        "Milliy qoidalarda mazkur nuqtalar bo'yicha aniq chegaralar bor: natriy nitrit eritmasi 2,5 foizdan oshmaydi, tayyor mahsulotda 100 g da 3-5 mg bo'lishi kerak, qaynatiladigan kolbasa batoni ichida harorat 70-72 °C ga yetadi, qiymaning kesish oxiridagi harorati 18 °C bo'ladi [3]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "HACCP tizimi dastlabki sanitariya dasturlariga tayanib, xatarlarni tahlil qilish, kritik nuqtalarni nazorat qilish va yozuvlar yuritish orqali xavfsizlikni jarayon davomida ta'minlaydi. Go'sht va kolbasa ishlab chiqarishda bu tizim harorat, nitrit va sovutish kabi aniq chegaralarga tayanadi [1, 2, 3, 4]."
+      ]
+    }
+  ],
+  "references": [
+    "Codex Alimentarius komissiyasi. Oziq-ovqat gigiyenasining umumiy tamoyillari: CXC 1-1969 (rus tilida; 1999-yilgi o'zgartirishlar bilan, 1997, 2013 va 2020-yillarda qayta ko'rilgan; HACCP bo'limi). xayrullokomilov.uz/kutubxona, material ID 1295. 2020.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi huzuridagi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi qo'mitasi. Oziq-ovqat mahsuloti xavfsizligining umumiy sanitariya qoidalari, normalari va gigiyena normativlari: № 0079-24 SanQvaN. Toshkent. xayrullokomilov.uz/kutubxona, material ID 650. 2024.",
+    "O'zbekiston Respublikasi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi xizmati. Go'sht va go'sht mahsulotlarini qayta ishlash korxonalariga qo'yiladigan sanitariya-gigiyena talablari: № 0036-22 SanQvaN. Toshkent (lex.uz/docs/6309222). xayrullokomilov.uz/kutubxona, material ID 896. 2022.",
+    "Korolev A.A. Ovqatlanish gigiyenasi: oliy ta'lim uchun darslik (rus tilida), 4-nashr. Moskva: Akademiya nashriyot markazi. xayrullokomilov.uz/kutubxona, material ID 2367. 2014."
+  ]
+}

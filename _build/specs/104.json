@@ -1,0 +1,62 @@
+{
+  "number": 104,
+  "title": "104. «Maktabga oid yetuklik» haqida nima bilasiz?",
+  "sections": [
+    { "heading": "Kirish", "content": [
+      "Maktabga oid yetuklik, ya'ni bolaning o'qishga funksional tayyorligi o'quvchining moslashuvi, ish qobiliyati va o'zlashtirishini belgilaydi. Tayyor bo'lmagan bola maktabda ortiqcha zo'riqadi. Natijada salomatligi yomonlashishi mumkin [1, 2].",
+      "Ushbu mavzuda maktabga tayyorlik tushunchasi, uni baholash mezonlari, tekshiruv bosqichlari, o'qishni kechiktirish uchun tibbiy ko'rsatmalar, tayyor bo'lmagan bolalar bilan ish va hiperfaol bolalarni aniqlash tartibi bayon etiladi [1, 2, 3]."
+    ]},
+    { "heading": "Tushuncha mazmuni", "content": [
+      "Maktabga tayyorlik shartli tushuncha. Ayrim mualliflar bolaning jismoniy, ijtimoiy va psixologik rivojlanish darajasini, boshqalari a'zo va tizimlarning funksional yetukligini, uchinchilari esa organizmning maktab zo'riqishiga tayyorligini birinchi o'ringa qo'yadi [2].",
+      "Gigiyenik nuqtai nazardan maktabga tayyorlik bolaning maktabda o'qish uchun zarur barcha talablarni bajarishini ta'minlovchi jismoniy va psixofizik rivojlanishini bildiradi. Baholashda faqat aqliy rivojlanish emas, organizmning morfofunksional yetukligi ham hisobga olinadi [2]."
+    ]},
+    { "heading": "Yetilmaganlikning mohiyati", "content": [
+      "Maktabga yetilmaganlik organizmning umumiy rivojlanishdan orqada qolishi bilan emas, balki funksiyalar va tizimlarning yetarli darajada yetilmaganligi hamda o'quv jarayonida ularning ancha zo'riqishi bilan ifodalanadi. Ko'pincha u bolaning salomatligidagi o'zgarishlarga bog'liq bo'ladi [2].",
+      "Sog'lom bola organizmi 6-7 yoshga kelib maktabda o'qishga funksional jihatdan yetiladi. Markaziy asab tizimi va tayanch-harakat apparatidagi o'zgarishlar hamda maktabgacha muassasa va oilada berilgan to'g'ri tarbiya bolani maktab tartibiga biologik tayyorlaydi [2]."
+    ]},
+    { "heading": "Maktabga oid funksiyalar", "content": [
+      "O'qishga zarur funksiyalarning yetilish darajasi bilan boshlang'ich sinf o'quvchisining o'qishdagi muvaffaqiyati, charchashga chidamliligi va salomatlik bashorati o'zaro bog'liq. Bunday funksiyalarga nozik motorika, nutq va aqliy qobiliyatlar darajasi kiradi [1].",
+      "Yetti yoshgacha bolaning qo'l kafti va barmoqlarining aniq harakatlari rivojlanadi, bu yozish harakatini takomillashtiradi. Bola e'tiborli bo'ladi, topshiriqni bajarishda chalg'imaydi. Birinchi sinf o'quvchisida yozish paytida qo'l panjasining mayda mushaklari zo'riqadi, chunki ular 6-7 yoshda hali yetarlicha rivojlanmagan [2]."
+    ]},
+    { "heading": "Tibbiy mezonlar", "content": [
+      "Maktabga tayyorlikni bolalar muassasasi yoki bolalar poliklinikasi shifokori tibbiy va psixofiziologik mezonlar bo'yicha aniqlaydi. Tibbiy mezonlarga biologik rivojlanish darajasi, ko'rik paytidagi sog'liq holati va o'tgan yildagi o'tkir kasallanish kiradi [1].",
+      "Biologik yosh pasport yoshiga mos yoki undan ilgarida, nutqi yaxshi rivojlangan, birinchi yoki ikkinchi salomatlik guruhiga kiruvchi va Kern-Irasek testi bo'yicha tayyor deb baholangan bolalar o'qishning dastlabki bosqichidayoq yuqori ish qobiliyatiga ega ekani aniqlangan [2]."
+    ]},
+    { "heading": "Psixofiziologik mezonlar", "content": [
+      "Psixofiziologik mezonlar maktabga zarur funksiyalar rivojini ko'rsatadi: uch topshiriqdan iborat Kern-Irasek testi natijasi (odam rasmini chizish, qisqa jumlani ko'chirib yozish, nuqtalar guruhini ko'chirish), tovush talaffuzi sifati (nuqsonlar mavjudligi) va monometrik «doira kesish» testi natijasi [1].",
+      "Kern-Irasek testida 9 ball va undan ortiq baho olish, talaffuz nuqsonlarining mavjudligi, kasallik bilan bog'liq og'ishlar va biologik rivojlanishdan orqada qolish bolaning o'qishga tayyor emasligini ko'rsatadi [1]."
+    ]},
+    { "heading": "Tekshiruv bosqichlari", "content": [
+      "Tayyorlik ikki bosqichda aniqlanadi. Birinchi chuqurlashtirilgan tekshiruv maktabga kirishdan oldingi yilning oktyabr-noyabr oylarida, ikkinchisi maktabga kirishdan oldin aprel-may oylarida o'tkaziladi. Birinchi bosqichda sog'lomlashtirish va maktabga zarur funksiyalarni tuzatish ko'zda tutiladi [1].",
+      "O'zbekistonda funksional tayyorlik maktabga kirishdan bir yil oldin (6 yoshda) va maktabga kirishda (6-7 yoshda) aniqlanadi. Birinchi bosqichda bolalar salomatlik guruhlariga ajratiladi va sog'lomlashtiriladi, tibbiy-pedagogik tuzatish ishlari o'tkaziladi [3]."
+    ]},
+    { "heading": "Kechiktirish uchun tibbiy ko'rsatmalar", "content": [
+      "6 yoshli bolalarda maktabga kirishni kechiktirishga o'tgan yilda yuqumli gepatit, pielonefrit, noreumatik miokardit, meningit va meningoensefalit, sil, faol fazadagi revmatizm, qon kasalliklari va o'tkir respirator virusli kasalliklarning to'rt va undan ortiq marta o'tkazilishi sabab bo'ladi [1].",
+      "Sub- va dekompensatsiya bosqichidagi surunkali kasalliklar ham sabab bo'ladi: yurak nuqsonlari, bronxial astma, surunkali pnevmoniya, oshqozon yarasi, gemoglobin 80,0-100,7 g/l bo'lgan kamqonlik, 3-darajali bodomcha bezlari gipertrofiyasi va adenoidlar, endokrinopatiyalar, nevrozlar, epilepsiya, enurez, tarqalgan ekzema, 2,0 dioptriyadan ortiq progressiyalanuvchi miopiya [1]."
+    ]},
+    { "heading": "Biologik rivojlanishda orqada qolish", "content": [
+      "Biologik rivojlanishdan orqada qolgan bolalarga maktabga qabulni vaqtincha kechiktirish tavsiya etiladi. Buning mezonlari quyidagicha: bo'y uzunligi mahalliy etalonlarda M - 1σ dan past, so'nggi yilda bo'y o'sishi 4 sm dan kam va doimiy tishlar butunlay yo'q [1].",
+      "Takroriy tekshiruvdan so'ng bolaning maktabga tayyorligi haqida yakuniy qaror qabul qilinadi. Xulosa birinchi va ikkinchi tekshiruv natijalari asosida bolaning rivojlanish tibbiy kartasiga yoziladi, tibbiyot xodimi o'quv yili boshlanishigacha o'qituvchilarni bolaning tayyorligi haqida xabardor qiladi [1]."
+    ]},
+    { "heading": "Tayyor bo'lmagan bolalar bilan ish", "content": [
+      "Salomatligida og'ishlari bor bolalarga davolash va sog'lomlashtirish chora-tadbirlari majmuasi belgilanadi. Maktabga zarur funksiyalar (motorika, nutq) rivojida orqada qolganlarga tuzatish mashqlari beriladi. Tovush talaffuzi nuqsonlari bilan logoped shug'ullanadi [1].",
+      "Motorikani rivojlantirish uchun rasm chizish, loy bilan ishlash va mayda konstruktorlar bilan o'yinlar tavsiya etiladi, ularni tarbiyachilar yoki ota-onalar o'tkaza oladi. Mazkur tadbirlar bajarilishini poliklinika pediatri yoki bolalar muassasasi shifokori nazorat qiladi [1]."
+    ]},
+    { "heading": "Hiperfaollik sindromini aniqlash", "content": [
+      "Birinchi sinfga qabul davrida (mart-aprel) maktab shifokori ota-onalar orasida so'rovnoma o'tkazib, diqqat yetishmasligi va giperfaollik sindromini aniqlaydi. Bu sindrom o'qishni sezilarli qiyinlashtiradi va qo'shimcha tibbiy-profilaktik tadbirlarni talab qiladi [1].",
+      "Tashxis ota-onalar so'rovi hamda o'qish boshlanganidan 1-2 oy o'tgach o'qituvchilar so'rovnomasi asosida qo'yiladi. Ikki so'rovnoma yengil giperfaollik bilan kechuvchi miya disfunksiyasini yetarlicha ishonchli aniqlaydi. Bunday bolalar pediatr nazoratiga yo'naltiriladi [1]."
+    ]},
+    { "heading": "Maktabga moslashish davri", "content": [
+      "6-7 yoshli bolalar maktab sharoitiga dastlab qiyin ko'nikadi. Ular yangi bolalar va kattalar jamoasiga, kun tartibiga, o'qituvchi talablariga va darslarda ko'proq qimirlamasdan o'tirish zarurligiga asta-sekin moslashadi. Funksional jihatdan yetilmagan bolalarning yarmidan ko'prog'ida o'qish davomida surunkali kasalliklar qo'zishi yoki sog'liq yomonlashuvi mumkin [2].",
+      "Shu sababli tibbiyot xodimlari maktabga kirayotgan har bir bolaning salomatligini yaxshi bilishi kerak. Dars jarayoni yetilmagan bolalar organizmining funksional holatiga va salomatligiga yomon ta'sir qilsa hamda bola darslarni yaxshi o'zlashtirmasa, uning maktabda o'qishi tibbiy va pedagogik jihatdan maqsadga muvofiq bo'lmaydi [2]."
+    ]},
+    { "heading": "Xulosa", "content": [
+      "Maktabga oid yetuklik bolaning o'qish talablariga jismoniy, funksional va psixofiziologik jihatdan tayyorligini bildiradi. U biologik rivojlanish, sog'liq holati, o'tkir kasalliklar tarixi, nozik motorika, nutq va aqliy qobiliyatlar bo'yicha ikki bosqichda baholanadi. Yetilmagan bolalarga sog'lomlashtirish va tuzatish tadbirlari belgilanadi, kerak bo'lsa maktabga kirish kechiktiriladi [1, 2, 3]."
+    ]}
+  ],
+  "references": [
+    "Kuchma V.R. Bolalar va o'smirlar gigiyenasi: o'quv qo'llanma (rus tilida). xayrullokomilov.uz/kutubxona, material ID 2301. 2010.",
+    "Do'schanov B.A., Iskandarova Sh.T. Umumiy gigiyena: tibbiyot oliy o'quv yurtlari talabalari uchun darslik, 4-nashr. Toshkent: Yangi asr avlodi. xayrullokomilov.uz/kutubxona, material ID 2767. 2008.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. Bolalarning tashkil etilgan kontingentiga tibbiy-sanitariya yordamini takomillashtirish to'g'risida: 2012-yil 12-apreldagi 99-son buyruq, ilovalar (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 427. 2012."
+  ]
+}

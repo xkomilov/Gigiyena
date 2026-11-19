@@ -1,0 +1,113 @@
+{
+  "number": 143,
+  "title": "143. Kompyuter sinflarida elektrostatik maydonlar va elektromagnit nurlanishlardan himoyalanishga bo'lgan gigiyenik talablar.",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Kompyuter sinflarida o'quvchilar uzoq vaqt elektron qurilmalar yaqinida bo'ladi. Monitorlar, tizim bloklari va tarmoq jihozlari elektrostatik maydon va elektromagnit nurlanish hosil qiladi, shu sababli bolalar salomatligini muhofaza qilish uchun alohida gigiyenik talablar belgilangan [1].",
+        "Ushbu mavzuda axborot-kommunikatsiya texnologiyalari (AKT) o'quv xonalaridagi elektrostatik va elektromagnit maydonlarning ruxsat etilgan darajalari, himoya choralari, jihozlarni joylashtirish, havo ionlari, shovqin va boshqa omillarga talablar bayon etiladi [1]."
+      ]
+    },
+    {
+      "heading": "Huquqiy asos",
+      "content": [
+        "Ta'lim tashkilotlari va bolalar sog'lomlashtirish oromgohlaridagi AKT o'quv xonalari bo'yicha sanitariya-gigiyena talablari 2024-yilda 0063-24-son SanQvaN bilan tasdiqlangan. U «Aholining sanitariya-epidemiologik osoyishtaligi to'g'risida»gi qonun asosida ishlab chiqilgan [1].",
+        "Qoidalar AKT o'quv xonalari, ularning jihozlanishi va AKTdan foydalanish tartibiga tatbiq etiladi va maktab hamda maktabgacha ta'lim tashkilotlari uchun majburiy."
+      ]
+    },
+    {
+      "heading": "Elektrostatik maydon darajalari",
+      "content": [
+        "AKT o'quv xonalarida o'quvchilar ish joyidagi elektrostatik maydon (ESM) kuchlanganligi 15 kV/m dan oshmasligi kerak. Monitor ekranining elektrostatik potensiali 500 V dan oshmasligi lozim [1].",
+        "Bu ko'rsatkichlar maydonlarning ruxsat etilgan darajalari jadvalida berilgan."
+      ]
+    },
+    {
+      "heading": "ESM oshganda himoya",
+      "content": [
+        "ESM darajasi oshgan holda AKT o'quv xonalaridagi mebel, pol va barcha ishchi yuzalar statik elektrlanishni kamaytiradigan (antistatik) xususiyatlarga ega bo'lishi kerak. Xonada havo almashinuvi ta'minlanadi [1].",
+        "Kompyuter xonalarida havoning nisbiy namligi 40-60 % bo'lishi, havo harakati tezligi 0,1 m/s dan oshmasligi talab etiladi [1]."
+      ]
+    },
+    {
+      "heading": "Elektromagnit maydon darajalari",
+      "content": [
+        "AKT o'quv xonalarida elektr maydon kuchi 5 Gts-2 kGts chastota oralig'ida 25 V/m, 2-400 kGts oralig'ida 2,5 V/m dan oshmasligi kerak. Magnit oqim zichligi 5 Gts-2 kGts oralig'ida 250 nTl, 2-400 kGts oralig'ida 25 nTl dan oshmasligi shart [1].",
+        "Ruxsat etilgan darajalar qoidalarning 4-ilovasida 1-jadvalda (elektromagnit maydon) va 2-jadvalda (elektrostatik maydon) berilgan [1]."
+      ]
+    },
+    {
+      "heading": "Taqiqlangan jihozlar",
+      "content": [
+        "AKT o'quv xonalarida qo'shimcha elektromagnit maydon va radiatsiyaning bola salomatligiga zararli ta'siri sababli katod nurlari trubkasi asosidagi hamda faol wi-fi aloqasiga ega «aqlli» televizorlar va interfaol o'quv doskalaridan foydalanish mumkin emas [1].",
+        "Radiochastota diapazonidagi elektromagnit maydonlarning salbiy ta'sirini oldini olish uchun ta'lim tashkilotlarida faol wi-fi ulanish nuqtalarini o'rnatish taqiqlanadi. Internet tarmog'iga ulanish kabel, shu jumladan optik kabel aloqasi orqali ta'minlanadi [1]."
+      ]
+    },
+    {
+      "heading": "Ishchi joylarni joylashtirish",
+      "content": [
+        "Kompyuter stollarini joylashtirishda devor va kompyuter stollari o'rtasidagi masofa kamida 0,7 m, kompyuter korpusining yon yuzalari o'rtasidagi masofa kamida 1,2 m bo'lishi kerak. Stollar shaxmat taxtasi shaklida joylashganda (monitorlarning orqa yuzalari qarama-qarshi) ular orasidagi masofa kamida 0,8 m [1].",
+        "Stollar va isitish elementlari o'rtasidagi masofa kamida 0,5-1,0 m. Ekranlar bir-biriga va deraza oynalariga qarama-qarshi yo'nalishda joylashtirilmaydi, ya'ni ekranlar bir-biriga va oynalarga qaratilmasligi kerak [1]."
+      ]
+    },
+    {
+      "heading": "Ish joyi maydoni va jihozlash",
+      "content": [
+        "Har bir foydalanuvchi (o'quvchi va o'qituvchi) ish joyining maydoni kamida 4-6 m², xona balandligi kamida 2,8 m bo'lishi kerak. Dars jarayoni sinfdagi o'quvchilar umumiy sonini ikkiga bo'lib o'tkaziladi [1].",
+        "Yangi qurilayotgan va rekonstruksiya qilinayotgan binolarda AKT o'quv xonasi maydoni 18 m² dan kam bo'lmagan, ikkita chiqish yo'liga ega laboratoriya xonasi bilan tashkil etiladi. Foydalanuvchilarning kompyuterlariga keladigan tarmoq simlari yerga ulangan va himoya qoplamali holda joylashtiriladi [1]."
+      ]
+    },
+    {
+      "heading": "Havo ionlari",
+      "content": [
+        "AKT o'quv xonasi havosida musbat va manfiy ionlar bo'lishi kerak. 1 sm³ havoda ionlar minimal miqdori musbat 400, manfiy 600, optimal (quyi chegara) 1500 va 3000, optimal (yuqori chegara) 3000 va 5000, ruxsat etilgan maksimal miqdor ikkala qutb uchun 50 000 [1].",
+        "Xona har bir o'quv soatidan keyin shamollatiladi, qulay ob-havoda darslar derazalar yoki ularning yuqori qanotlari ochiq holda o'tkaziladi [1]."
+      ]
+    },
+    {
+      "heading": "Shovqin va tebranish",
+      "content": [
+        "Kompyuterda ishlashda ish joyidagi shovqin darajasi 50 dBA dan oshmasligi kerak. Chop etish va nusxa ko'chirish uskunalari ishlab chiqarayotgan shovqin 50 dBA dan yuqori bo'lsa, ular asosiy AKT o'quv xonasidan tashqarida joylashtiriladi [1].",
+        "Shovqin va tebranishning ruxsat etilgan parametrlari qoidalarning 6-ilovasida alohida jadvallar bilan berilgan."
+      ]
+    },
+    {
+      "heading": "Havo-issiqlik rejimi va yoritish",
+      "content": [
+        "Xonada optimal havo harorati 18-20 °C, ruxsat etilgan harorat 18-22 °C, nisbiy namlik 40-60 %, havo tezligi 0,1 m/s bo'lishi talab etiladi. Havo o'quv soatidan oldin va har bir o'quv soatidan keyin almashtiriladi [1].",
+        "Tabiiy yorug'lik asosan chap tomondan tushishi, derazalar shimol, shimoli-sharq va shimoli-g'arb yo'nalishida bo'lishi, quyosh nuri o'quvchilar ko'ziga va monitor ekranlariga tushmasligi kerak. Derazalar yorug'likni tartibga soluvchi jalyuzi yoki pardalar bilan jihozlanadi [1]."
+      ]
+    },
+    {
+      "heading": "Ekran bilan ishlash qoidalari",
+      "content": [
+        "O'quvchi ko'zidan ekran va klaviaturagacha optimal masofa 0,6-0,7 m, kamida 0,5 m bo'lishi kerak. AKT jihozlarida yaltiramaydigan yuza (koeffitsient 0,4-0,6) bo'lishi, kompyuter monitorining diagonali kamida 39,6 sm bo'lishi shart [1].",
+        "Maktabgacha ta'lim tashkilotlarida 5 yoshgacha bo'lgan bolalar bilan AKT yordamida mashg'ulot o'tkazilmaydi. 5 yoshli bolalar uchun uzluksiz ish davomiyligi 10 daqiqadan, 6 yoshlilar uchun 15 daqiqadan oshmasligi tavsiya etiladi [1]."
+      ]
+    },
+    {
+      "heading": "Tozalash va dezinfeksiya",
+      "content": [
+        "AKT o'quv xonalarida kunlik nam tozalash dezinfeksiyalash vositalari yordamida o'tkaziladi. Kompyuterlar va jihozlarning barcha yuzalari har kuni changdan tozalanadi [1].",
+        "Jihozlar va ko'p ishlatiladigan vositalarning yuzalari kamida 70 % spirt saqlovchi eritma yoki salfetkalar bilan dezinfeksiya qilinadi. Foydalanilmayotgan jihoz o'chirilishi yoki kutish rejimiga qo'yilishi kerak [1]."
+      ]
+    },
+    {
+      "heading": "Sanitariya vrachining vazifasi",
+      "content": [
+        "Sanitariya vrachi AKT o'quv xonalarida ESM va elektromagnit maydon darajalarini asbob bilan o'lchashni tashkil etadi, natijalarni jadvaldagi ruxsat etilgan qiymatlar bilan solishtiradi va wi-fi nuqtalari hamda katod nurli ekranlar yo'qligini tekshiradi [1].",
+        "Yangi qurilayotgan va rekonstruksiya qilinayotgan binolarda AKT o'quv xonalari loyihalash bosqichidayoq shu talablar hisobga olingan holda joriy etiladi [1]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "Kompyuter sinflarida ESM kuchlanganligi 15 kV/m dan, monitor potensiali 500 V dan, elektr maydon kuchi 25 va 2,5 V/m dan, magnit oqim zichligi 250 va 25 nTl dan oshmasligi kerak. Himoya choralari antistatik jihozlar, wi-fi va katod nurli ekranlarni taqiqlash, jihozlarni qoidaga muvofiq joylashtirish, havo ionlari, namlik va shamollatishni ta'minlashdir [1]."
+      ]
+    }
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi huzuridagi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi qo'mitasi. Ta'lim tashkilotlari va bolalar sog'lomlashtirish oromgohlaridagi axborot-kommunikatsiya texnologiyalari o'quv xonalari, ularning jihozlanishi va axborot-kommunikatsiya texnologiyalaridan foydalanish tartibiga qo'yiladigan sanitariya-gigiyena talablari: 0063-24-son SanQvaN. Toshkent. xayrullokomilov.uz/kutubxona, material ID 638. 2024."
+  ]
+}

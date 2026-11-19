@@ -1,0 +1,65 @@
+{
+  "number": 125,
+  "title": "125. Poyabzalda qanday asosiy elementlarni farqlash lozim?",
+  "sections": [
+    { "heading": "Kirish", "content": [
+      "Poyabzalning har bir elementi bola oyog'ining holatiga o'ziga xos ta'sir ko'rsatadi. Sanitariya vrachi poyabzalni gigiyenik baholash uchun uning tuzilishini va har bir detalning vazifasini aniq bilishi kerak [1].",
+      "Ushbu mavzuda poyabzalning ustki va pastki qismlari, ularning asosiy elementlari, har bir detalning vazifasi, tayyorlash materiallari va gigiyenik talablari bayon etiladi [1]."
+    ]},
+    { "heading": "Elementlar tasnifi", "content": [
+      "Poyabzalda ikkita asosiy qism farqlanadi: ustki qism va pastki qism. Ustki qismga burun qismi, zadnik (orqa qism), yuz qismi (soyuzka), berts va qo'nj kiradi [1].",
+      "Pastki qism uchta elementdan iborat: taglik, ichki tagcha (stelka) va poshna. Bu elementlarning har biri bolaning tayanch-harakat apparati faoliyatini ta'minlashda muhim [1]."
+    ]},
+    { "heading": "Stelka", "content": [
+      "Stelka poyabzalning ichki detali bo'lib, panjaning butun tovon (yurish) yuzasi bo'ylab joylashadi. U bola terisi bilan zich tegadi va poyabzal ichidagi bo'shliqda qulay harorat-namlik rejimini yaratishda muhim rol o'ynaydi [1].",
+      "Bola panjasi shakliga mos holda stelka burun qismida, oxirgi falanganing asosida eng keng bo'lishi kerak. Stelka plastik bo'lishi, issiqlik va namlikdan himoya qilishi, gigroskopik va shamollatish xususiyatiga ega bo'lishi shart, shu sababli u tabiiy teridan tayyorlanadi [1]."
+    ]},
+    { "heading": "Taglik", "content": [
+      "Taglik poyabzal pastki qismining asosiy elementi hisoblanadi. Tayanch-harakat apparatining normal ishlashini ta'minlovchi eng muhim ko'rsatkichlar egiluvchanlik, qalinlik, vazn va issiqlik himoyasi [1].",
+      "Taglik materiallarining issiqlik himoya xususiyatlari ularning issiqlik o'tkazuvchanligi bilan aniqlanadi. Teri taglik qalinligi gusarik poyabzalda 3,0-3,5 mm, maktab poyabzalida 4,0-4,5 mm, g'ovak rezinada 4,5-5,0 mm bo'ladi [1]."
+    ]},
+    { "heading": "Taglik materiallari va mahkamlash usullari", "content": [
+      "Taglik uchun tabiiy teri, «Malish» va «Depora» g'ovak rezinalari, poliuretan, polivinilxlorid va termoplastik elastomer ishlatiladi. G'ovak rezina issiqlik himoyasi, qalinlik, egiluvchanlik va sirg'animaslik jihatidan afzal, uy jarohatlarining oldini olishda muhim [1, 2].",
+      "Ip va birlashgan mahkamlash usullari (sandalli, doppelli, chokli-yelimli va boshqalar) ruxsat etiladi. Ular barmoqlar sohasida egiluvchanlikni, yengillikni va yaxshi havo o'tkazuvchanlikni ta'minlaydi. G'ovak rezina va poliuretanda yelim va quyma mahkamlash suv o'tkazmasligini beradi [1]."
+    ]},
+    { "heading": "Poshna", "content": [
+      "Bolalar poyabzalida poshna zarur, u panja gumbazini sun'iy ko'taradi, prujinalanishni kuchaytiradi, tovonni tuproqqa urilishdan saqlaydi va poyabzalning chidamliligini oshiradi. Poshnasizlik faqat chaqaloq poyabzalida (pinetka) ruxsat etiladi [1].",
+      "Maktabgacha yoshdagilar uchun poshna balandligi 5-10 mm, 8-12 yoshli o'quvchilar uchun 20 mm dan oshmaydi. 13-17 yoshda o'g'il bolalar uchun 30 mm gacha, qizlar uchun 40 mm gacha. Uy poyabzali past poshnali bo'ladi [1]."
+    ]},
+    { "heading": "Zadnik", "content": [
+      "Zadnik ustki qismning tovon sohasida joylashgan detali bo'lib, uning shaklini saqlaydi. U tovonni o'rab olishi va deformatsiyasining oldini olishi kerak. Zich zadnik panjaning orqaga sirg'alishiga yo'l qo'ymaydi [1].",
+      "Zadnik tabiiy teridan, ayrim hollarda kartondan tayyorlanadi. Bir qatlamli zadnik qalinligi gusarik poyabzalda 1,7-2,0 mm, maktabgacha yoshdagilar poyabzalida 2,3-2,6 mm, maktab poyabzalida 2,6-2,8 mm dan oshmasligi kerak [1]."
+    ]},
+    { "heading": "Burun qismi va podnosok", "content": [
+      "Burun qismi poyabzal ustki qismining tashqi detali bo'lib, panja barmoqlarining orqa yuzasini plyusna-falanga bo'g'imlari sathigacha yopadi. U tabiiy teridan yoki Sog'liqni saqlash vazirligi ruxsat bergan materiallardan tayyorlanadi va yumaloq shaklga ega bo'lishi kerak [1].",
+      "Podnosok burun qismi shaklini saqlaydi, u astar va ustki qism orasida joylashadi. U barmoqlarni shikastlanishdan himoya qiladi, uzunligi plyusna-falanga bo'g'imlari sohasidan oshmasligi shart [1]."
+    ]},
+    { "heading": "Yuz qismi, berts va qo'nj", "content": [
+      "Poyabzal turi ustki qismning panjani qancha ochiq qoldirishiga qarab belgilanadi. Poyabzalning balandligi tufli, yarim botinka va sandalet uchun orqa chok chizig'i bo'yicha yuqori chetdan taglikgacha, yarim etik va etik uchun ichki tomondan o'rta vertikal chiziq bo'ylab o'lchanadi [1].",
+      "Qo'nj tabiiy teri yoki flover-lak kabi polimer materiallardan tayyorlanadi, ammo tabiiy issiqlik saqlagich va astar bo'lishi sharti bilan. Maktab yoshida ham sintetik materiallar faqat Sog'liqni saqlash vazirligi ruxsati bilan ishlatiladi [1, 2]."
+    ]},
+    { "heading": "Mahkamlash elementlari", "content": [
+      "Bolalar poyabzali oyoqda ishonchli va qulay mahkamlanishi, harakatga xalaqit bermasligi kerak. Buning uchun bog'ich (shnurovka), kamar, tasma, tugma va zanjir ishlatiladi [1].",
+      "Mahkamlagichsiz ochiq «qayiqcha» turidagi tufli maktabgacha poyabzalda ruxsat etilmaydi. Ular panjaning burun qismini siqib, mushaklarning charchashiga va qon aylanishining buzilishiga olib keladi [1]."
+    ]},
+    { "heading": "Astar va qo'shimcha detallar", "content": [
+      "Astar tabiiy teri va paxta materiallaridan tayyorlanadi, yumshoq va elastik bo'lishi, ishlatishda noqulaylik tug'dirmasligi kerak. Maktab poyabzalida, ayniqsa katta yoshdagilar uchun, astarda sintetik tolalar qisman (50 % dan ko'p emas) ishlatilishi mumkin [1].",
+      "Klapan, manjet va bezaklar kabi ikkinchi darajali detallar uchun turli sun'iy materiallar (sun'iy teri, mo'yna) ishlatilishi mumkin, agar ular Sog'liqni saqlash vazirligi tomonidan ruxsat etilgan bo'lsa. Ichki oraliq astar uchun to'qimasiz polotno qo'llanadi [1, 2]."
+    ]},
+    { "heading": "Elementlarning vazni va balandligi", "content": [
+      "Poyabzal vazni mahkamlash usuliga, tuzilishiga va materiallarga bog'liq. Xonaki sport poyabzalining vazni gusarik uchun 65-70 g, maktabgacha yoshdagilar uchun 90-100 g bo'lishi kerak. Ustki qismi to'qimadan bo'lsa norma 5 % kamaytiriladi, sintetik materiallar uchun tuzatish koeffitsienti 1,08 ga teng [1].",
+      "Etikning qo'nj balandligi o'zgarsa, vazn normasi har bir santimetr uchun 10 g ga o'zgaradi. Qo'njlar balandligi gusarik poyabzalda 120 mm, maktabgacha yoshdagilarda 150 mm, maktab o'quvchilarida 170 mm, o'smir qizlarda 190 mm, o'smir o'g'il bolalarda 195 mm [1]."
+    ]},
+    { "heading": "Elementlar buzilishining oqibatlari", "content": [
+      "Poyabzal elementlari talabga javob bermasa, bola panjasida turli o'zgarishlar yuzaga keladi. Taglik egiluvchan bo'lmasa, yassi tovon rivojlanadi, yurish buziladi va bola tez charchaydi. Poshna juda baland bo'lsa, panja tayanch maydoni kamayadi va boldir orqa mushaklari kontrakturasi paydo bo'lishi mumkin [1].",
+      "Zadnik yumshoq bo'lsa, tovon sirg'alib, gumbaz shakllanishiga salbiy ta'sir qiladi. Poyabzal qisqa bo'lsa, barmoqlar changalsimon yoki bolg'asimon deformatsiyaga uchraydi. Shuning uchun sanitariya vrachi har bir elementni alohida baholaydi va ularning o'zaro muvofiqligini aniqlaydi [1]."
+    ]},
+    { "heading": "Xulosa", "content": [
+      "Poyabzalda ustki qism (burun, zadnik, yuz qismi, berts, qo'nj) va pastki qism (taglik, stelka, poshna) farqlanadi. Har bir elementning o'ziga xos gigiyenik talabi mavjud: stelka tabiiy teridan, taglik egiluvchan va issiqlik himoyali, poshna yosh bo'yicha cheklangan balandlikda, zadnik zich. Bu talablar bola panjasining normal shakllanishini ta'minlaydi [1]."
+    ]}
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Bosh davlat sanitariya vrachi. Bolalar poyabzaliga qo'yiladigan gigiyenik talablar: SanPiN № 0237-07 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 615. 2007.",
+    "O'zbekiston Respublikasi Bosh davlat sanitariya vrachi. Bolalar kiyimi va poyabzali materiallariga kimyoviy tolalarni ularning gigiyenik ko'rsatkichlariga muvofiq qo'shish: SanPiN № 0238-07 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 616. 2007."
+  ]
+}

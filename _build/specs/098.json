@@ -1,0 +1,58 @@
+{
+  "number": 98,
+  "title": "98. «Garmonik», «Disgarmonik» va «Keskin disgarmonik» degani nima?",
+  "sections": [
+    { "heading": "Kirish", "content": [
+      "Bola jismoniy rivojlanishini baholashda faqat bo'y yoki vaznning o'zi emas, balki tana o'lchamlari va funksional ko'rsatkichlarning o'zaro mosligi ham tahlil qilinadi. Garmoniklik tushunchasi shu mosligini ifodalaydi va bolalar salomatligini bashorat qilishda muhim ahamiyatga ega [1, 2].",
+      "Ushbu mavzuda garmonik, disgarmonik va keskin disgarmonik rivojlanish tushunchalari, ularni aniqlash mezonlari, sog'liq holati bilan bog'liqligi va xavf guruhlari bo'yicha amaliy yondashuv bayon etiladi [1, 2]."
+    ]},
+    { "heading": "Garmoniklik tushunchasi", "content": [
+      "Morfofunksional holat tana vazni, ko'krak qafasi aylanasi, o'pkaning tiriklik sig'imi va mushak kuchi bo'yicha baholanadi. Natijaga qarab u garmonik, disgarmonik yoki keskin disgarmonik deb ta'riflanadi. Bu baho biologik rivojlanish darajasidan alohida chiqariladi [1].",
+      "Jismoniy rivojlanish ham jarayon, ham somatik holat sifatida ko'rib chiqiladi. Shu sababli baholashda biologik yetuklik darajasi va morfofunksional holatning garmonikligi birga hisobga olinadi, chunki ikkalasi bolaning ish qobiliyati va o'zlashtirishini belgilaydi [1]."
+    ]},
+    { "heading": "Garmonik rivojlanish", "content": [
+      "Garmonik rivojlanishda baholanayotgan ko'rsatkichlar bir-biriga mos bo'ladi. Tana vazni o'rtacha qiymatdan bir sigma ichida, ya'ni M ± 1σ yoki 25-75 sentil oralig'ida joylashadi. Vazn yuqoriroq bo'lsa ham, bu mushak rivojlanishi hisobiga bo'lsa, rivojlanish garmonik hisoblanadi [1].",
+      "O'zbekiston sharoitida qo'llaniladigan sigmal usulda garmoniklik ko'rsatkichlar sigmal og'ishlari orasidagi farq birdan oshmaganda tasdiqlanadi. Ya'ni bo'y, vazn va ko'krak qafasi aylanasi o'rtachaga nisbatan taxminan bir xil darajada bo'lishi kerak [2]."
+    ]},
+    { "heading": "Disgarmonik rivojlanish, vazn tanqisligi", "content": [
+      "Disgarmonik rivojlanishda ko'rsatkichlar orasida mos kelmaslik kuzatiladi. Vazn tanqisligida tana vazni o'rtachadan M - 1,1σ dan M - 2,0σ gacha pasayadi, ya'ni 25-sentildan past bo'ladi. Funksional ko'rsatkichlar ham past bo'lishi mumkin [1].",
+      "Vazn tanqisligi bor bolalarda sog'liq o'zgarishlari yarmida kuzatiladi, ko'proq burun-halqum kasalliklari uchraydi. Bu bolalar otorinolaringolog va endokrinolog maslahatiga hamda mos sog'lomlashtirish tadbirlariga muhtoj. Tana vazni tanqisligi bo'lgan bolalar oilaviy shifokor nazoratida bo'ladi [1, 2]."
+    ]},
+    { "heading": "Disgarmonik rivojlanish, ortiqcha vazn", "content": [
+      "Ortiqcha vaznda tana vazni o'rtachadan M + 1,1σ dan M + 2,0σ gacha ortiq bo'ladi. Bu o'zgarish mushak emas, yog' to'planishi hisobiga bo'lganda disgarmoniklik belgisi hisoblanadi [1].",
+      "Bunday bolalarda sog'liq buzilishi 90 % hollarda aniqlanadi: turli funksional og'ishlar, semizlikning dastlabki shakllari kuzatiladi. Ular chuqurlashtirilgan tekshiruv va dispanser kuzatuvini talab qiladi, ko'pchiligi endokrinolog maslahatiga yuboriladi [1, 2]."
+    ]},
+    { "heading": "Keskin disgarmonik rivojlanish", "content": [
+      "Keskin disgarmonik rivojlanish tana vazni o'rtachadan M - 2,1σ va undan ham past yoki M + 2,1σ va undan yuqori bo'lganda aniqlanadi. Yuqori tomonda bu ko'pincha ortiqcha yog' to'planishi hisobiga bo'ladi [1].",
+      "Bunday rivojlanish bolaning biologik yoshiga bog'liq emas: u pasport yoshiga mos biologik darajada ham, kechikkan yoki ilgarilagan darajada ham uchraydi. Keskin disgarmonik bolalarning deyarli barchasida turli kelib chiqishli surunkali kasalliklar topiladi va ular ambulator yoki statsionar davoga muhtoj bo'ladi [1]."
+    ]},
+    { "heading": "Sog'liq bilan bog'liqligi", "content": [
+      "Rivojlanish muddatlarining buzilishi va morfologik holatning disgarmonikligi, odatda, sog'liq og'ishlari bilan birga uchraydi. Bu buzilishlar qanchalik ifodalangan bo'lsa, bolalarda shunchalik og'ir kasalliklar aniqlanadi [1].",
+      "Shu sababli jismoniy rivojlanish bolalar salomatligining muhim ko'rsatkichi sanaladi. Biologik rivojlanish darajasi va sog'liq holati bolaning biologik va ijtimoiy vazifalarni bajarishga tayyorligini, ish qobiliyatini hamda o'zlashtirishini belgilaydi [1]."
+    ]},
+    { "heading": "Immunologik ko'rsatkichlar", "content": [
+      "Immunogramma natijalari rivojlanish garmonikligining bashoratli ahamiyatini tasdiqlaydi. Garmonik rivojlangan bolalarda immunogrammada o'zgarishlar yo'q yoki kuchsiz ifodalangan, o'rtacha va kuchli o'zgarishlar uchramagan [1].",
+      "Keskin disgarmonik bolalarda esa immun tizim o'zgarishlari 38,4 % hollarda o'rtacha, 23,2 % hollarda kuchli ifodalangan. Ortiqcha vazn bilan kechadigan disgarmonik rivojlanishda kuchli o'zgarishlar 10,6 % hollarda, vazn tanqisligida 1,9 % hollarda qayd etilgan [1]."
+    ]},
+    { "heading": "Xavf guruhlari", "content": [
+      "Kompleks sxema bo'yicha individual baholash natijalariga qarab uchta kasallanish xavfi guruhi ajratiladi. Birinchi darajali xavf guruhida kasallik ehtimoli bor, ikkinchi darajada sezilarli, uchinchi darajada eng yuqori. Guruh biologik daraja va morfofunksional holatning birikmasiga qarab belgilanadi [1].",
+      "Birinchi xavf guruhiga rivojlanish muddatlari buzilgan, lekin garmoniklik saqlangan bolalar, shuningdek biologik yoshi pasport yoshiga mos, ammo vazn tanqisligi tufayli disgarmonik bolalar kiradi. Ularda sog'liq og'ishlari uchdan bir hollarda, vazn tanqisligida yarmida kuzatiladi, ko'proq burun-halqum kasalliklari uchraydi [1].",
+      "Ikkinchi guruhga rivojlanish muddati buzilgan va disgarmonik bolalar hamda biologik yoshi mos kelsa-da ortiqcha vazn tufayli disgarmonik bolalar kiradi. Vazn tanqisligi bor ko'p bolalarda tonzillit, revmatizm, surunkali pnevmoniya kabi kasalliklar va astenik sindrom topiladi. Uchinchi guruhga barcha keskin disgarmonik bolalar kiradi [1]."
+    ]},
+    { "heading": "Atrof-muhit ta'siri", "content": [
+      "Rivojlanish garmonikligi tashqi muhit omillariga bog'liq. Ichimlik suvida barqaror stronsiy konsentratsiyasi 13 mg/l bo'lgan hududda garmonik rivojlangan bolalar ulushi 72 % ni, 7 mg/l bo'lgan hududda 86 % ni tashkil etgan [1].",
+      "Kimyo sanoati rivojlangan shaharda atmosfera havosining kimyoviy moddalar bilan ifloslanishi bolalarning 35 % ida rivojlanishning kechikishi va disgarmonikligiga olib kelgan. Shuning uchun rivojlanishning garmonikligi hududiy gigiyenik tahlilda ham ishlatiladigan ko'rsatkichdir [1]."
+    ]},
+    { "heading": "Amaliy ahamiyati", "content": [
+      "Sanitariya vrachi garmoniklik ko'rsatkichidan bolalar jamoasining ahvolini baholashda, o'quv va ovqatlanish sharoitlari ta'sirini aniqlashda foydalanadi. Disgarmonik bolalar ulushining ortishi muassasada kun tartibi, ovqatlanish yoki jismoniy faollik bilan bog'liq muammo borligini ko'rsatadi [1].",
+      "Individual darajada baholash natijasi bolani qo'shimcha tekshiruvga yo'naltirish, jismoniy tarbiya guruhini aniqlash va sog'lomlashtirish tadbirlarini rejalashtirish uchun asos bo'ladi. Baholash O'zbekiston uchun tuzilgan jadvallar bo'yicha o'tkaziladi [1, 2]."
+    ]},
+    { "heading": "Xulosa", "content": [
+      "Garmonik rivojlanishda tana vazni, ko'krak qafasi va funksional ko'rsatkichlar o'zaro mos bo'ladi. Disgarmonik rivojlanishda vazn o'rtachadan 1,1-2,0σ ga ko'p yoki kam bo'ladi. Keskin disgarmonik rivojlanishda og'ish 2,1σ dan oshadi. Og'ish qanchalik katta bo'lsa, kasalliklar xavfi shunchalik yuqori bo'lib, bolalar chuqur tekshiruv va davoga muhtoj bo'ladi [1, 2]."
+    ]}
+  ],
+  "references": [
+    "Kuchma V.R. Bolalar va o'smirlar gigiyenasi: o'quv qo'llanma (rus tilida). xayrullokomilov.uz/kutubxona, material ID 2301. 2010.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi, Sanitariya, gigiyena va kasb kasalliklari ilmiy-tadqiqot instituti. O'zbekiston Respublikasi 7-17 yoshli bolalar jismoniy rivojlanishining normativ baholash jadvallari: uslubiy tavsiyanoma № 012-3/0300 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 1307. 2016."
+  ]
+}

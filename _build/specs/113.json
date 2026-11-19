@@ -1,0 +1,53 @@
+{
+  "number": 113,
+  "title": "113. Maktab mebeliga qanday gigiyenik talablar bor?",
+  "sections": [
+    { "heading": "Kirish", "content": [
+      "Maktab mebeli o'quvchining kunlik ish holatini belgilaydi, shuning uchun uning o'lchamlari va shakli o'quvchi tanasining o'lchamlari va nisbatlariga mos bo'lishi shart. Noto'g'ri tanlangan mebel qomat buzilishi, ko'rish zo'riqishi va charchoqning erta rivojlanishiga sabab bo'ladi [1, 2].",
+      "Ushbu mavzuda maktab mebelining umumiy gigiyenik talablari, parta va stul o'lchamlari, o'quvchining bo'yiga qarab tanlash, rangli belgilash, sinfda joylashtirish, doska, laboratoriya va ustaxona jihozlari bo'yicha talablar bayon etiladi [1, 2]."
+    ]},
+    { "heading": "Huquqiy asos va materiallar", "content": [
+      "Maktabgacha va umumiy o'rta ta'lim tashkilotlarini jihozlashda ishlatiladigan mebellarga qo'yiladigan talablar 2023-yilda 0057-23-son SanQvaN bilan tasdiqlangan, u 2004-yildagi 0159-04-son qoidalar o'rnini bosgan. Mebel guruhi va funksional o'lchamlari hamda xavfsizlik talablari o'quv asbob-uskunalari xavfsizligi bo'yicha umumiy texnik reglamentga muvofiq belgilanadi [1].",
+      "Mebel ishlab chiqarishda ishlatiladigan materiallar mikroflora, ayniqsa patogen mikroblar o'sishiga yo'l qo'ymaydigan, oson dezinfeksiya qilinadigan xom ashyodan tayyorlanadi. Ishlab chiqarish xonalaridagi mebelning o'ziga xos hid intensivligi 2 balldan oshmasligi kerak [1]."
+    ]},
+    { "heading": "Umumiy talablar", "content": [
+      "O'quvchi uchun mebel bolalarga zarar yetkazmaydigan materialdan yasaladi, bo'yi va yoshiga mos bo'ladi va ergonomika talablariga javob beradi. Har bir o'quvchi bo'yiga mos ish joyi (parta yoki stol) bilan ta'minlanadi, taburetka va skameykalar stul o'rnida ishlatilmaydi [2].",
+      "O'quv jarayonida ishlatiladigan va mebelga o'rnatiladigan o'rindiqlar, qisqichlar, mexanizmlar, o'tkir burchaklar, qirralar, xavfli chiqib turuvchi vintlar va shuruplar jarohat xavfini tug'dirmasligi kerak. Stol ustining burchaklari to'mtoq yoki 10-30 mm radiusda yumaloqlangan bo'ladi [1]."
+    ]},
+    { "heading": "O'tirish holati va parta o'lchamlari", "content": [
+      "To'g'ri qomatni saqlash uchun stulning oldingi qirrasi stol chetiga 4 sm kirib turishi kerak. O'rindiqning gorizontal yuzasi tekis, balandligi bolaning bo'yiga mos bo'lib, son va boldir to'g'ri burchak hosil qiladi, oyoqlar butun tovoni bilan yerga tiraladi [1].",
+      "Stol usti balandligi qo'llari pastga tushirilgan o'tirgan bolaning tirsagidan 5-6 sm balandlikda bo'lishi lozim, stul stol chetidan 4-8 sm uzoqlashtirilishi mumkin bo'ladi. Boshlang'ich sinflarda asosiy mebel qiyaligi rostlanadigan parta bo'lib, yozish va o'qishda qiyalik 7-15°, partaning ish yuzasi chap tomondan yoritilishi kerak [1, 2]."
+    ]},
+    { "heading": "Ish holati va ko'zdan masofa", "content": [
+      "Ko'zdan ish yuzasigacha (daftar, kitob, rasm) masofa tekis barmoqlar bilan bilak va qo'l uzunligiga mos, o'rtacha 30 sm bo'lishi kerak. Yozishda daftar 30° burchak ostida turadi, bola yozayotgan varaqning pastki chap burchagi ko'krak qafasining o'rtasiga yo'naltiriladi [1].",
+      "Ish vaqtida bola o'tirganda tana biroz oldinga egilgan (bel bo'limidagi egilish burchagi taxminan 170°), tizza va to'piq bo'g'imlaridagi burchaklar bir-biriga yaqin, erkin holatda bo'ladi. Mebel shakli to'g'ri holatni saqlashga yordam berishi kerak [1]."
+    ]},
+    { "heading": "Mebel raqamlari va rangli belgilash", "content": [
+      "Mebelning asosiy o'lchamlarini tanlashda tana parametrlarining o'rtacha qiymatlari hisobga olinadi: bo'yi 100 sm gacha bo'lgan bolalar uchun 10 sm oraliqli, 100 sm dan baland bolalar uchun 15 sm oraliqli o'sish shkalasi qabul qilinadi [1].",
+      "Mebel bo'yga qarab rangli belgilanadi: to'q sariq rang bo'yi 100-115 sm, binafsha 115-130 sm, sariq 130-145 sm, qizil 145-160 sm, yashil 160-175 sm, havorang 175-185 sm, qora 185 sm dan baland o'quvchilar uchun. Belgi stol va stulning yon yuziga doira yoki chiziq ko'rinishida qo'yiladi [1, 2]."
+    ]},
+    { "heading": "O'quvchining bo'yini o'lchash", "content": [
+      "Sinf va xonalar uchun mebel tanlashda o'quvchining bo'yi oddiy poyabzalda bo'yo'lchagich yoki 2 metrli maxsus o'lchagich bilan o'lchanadi. O'lchagichda 1 m dan boshlab 15 sm oraliqli bo'linmalar bo'lib, har bir sinfda, ayniqsa boshlang'ich sinflarda, eshik yonida rangli o'lchagich bo'ladi [1].",
+      "O'quvchilar bo'yini mustaqil o'lchab, kerakli mebelni belgi rangi bo'yicha topishi mumkin. Tibbiy kartalardagi bo'y ma'lumotlaridan foydalanishda poyabzal tagcharmi va poshnasi hisobiga bo'yga 2 sm qo'shiladi [1]."
+    ]},
+    { "heading": "Sinfda partalarni joylashtirish", "content": [
+      "Kichik o'lchamli partalar birinchi bo'lib barcha qatorlarga qo'yiladi, kerak bo'lsa katta mebellar doskaga yaqin chekka qatorlarga joylashtiriladi. Bir o'rinli parta va stollar uch qator qilib joylashtirilishi lozim, bu o'quvchilarning doskani ko'rishini ta'minlaydi [1].",
+      "Masofalar: ikki o'rinli stol qatorlari orasi kamida 60 sm, bir qatordagi stollar orasi 50-70 sm, devor bo'ylab shkaflar bilan stollar orasi 50-70 sm, oxirgi stoldan devorgacha 70 sm, tashqi devor bilan 100-120 sm, birinchi partadan doskagacha 2,4-2,7 m, oxirgi o'rindiqdan doskagacha 860 sm [1]."
+    ]},
+    { "heading": "Sog'liq holatini hisobga olish va doska", "content": [
+      "Eshitishi past o'quvchilarga har qanday qatordagi birinchi va ikkinchi stol, ko'rishi past o'quvchilarga derazaga yaqin chekka stollar ajratiladi. Revmatizm, tez-tez angina va nafas yo'llari shamollashiga moyil bolalar derazadan uzoqroqqa o'tqaziladi, oxirgi qatordagilar yiliga 2 marta joyini almashtiradi [1].",
+      "Sinf doskasi to'q yashil, to'q jigarrang, qora yoki oq rangda, silliq, chiziq va dog'siz, tozalash vositalari va issiq suvga chidamli qoplamali bo'lishi kerak. Bo'r changidan allergiya bo'lmasligi uchun pastki chetida bo'r tarnovi bo'ladi, doska pastki qirrasi polidan 80-90 sm balandlikda turadi [1]."
+    ]},
+    { "heading": "Laboratoriya va ustaxona jihozlari", "content": [
+      "Fizika, kimyo va biologiya xonalari ko'rgazma stollari bilan jihozlanadi, bu stol podiumga o'rnatiladi, ularda proyektor, suv, kanalizatsiya, elektr va ventilyatsiya bo'ladi. Rakovinalar va jo'mraklar stol ustidan kamida 230 mm masofada o'quvchiga qaratib o'rnatiladi [1].",
+      "Maktab ustaxonasi 20 ish o'rniga mo'ljallanib, 70-90 sm oraliqda balandligi rostlanadigan dastgoh bilan jihozlanadi. Dastgohlar rostlanmasa, bo'y farqi 5, 10 yoki 15 sm balandlikdagi taglik bilan to'ldiriladi. Duradgorlik dastgohlari oldi-orqa yo'nalishda kamida 80 sm, qatorlararo 120 sm masofada joylashadi [1]."
+    ]},
+    { "heading": "Xulosa", "content": [
+      "Maktab mebeli xavfsiz materialdan, bo'yga mos raqamda va rangli belgi bilan tayyorlanishi, partalar sinfda to'g'ri masofalarda va sog'liq holati hisobga olingan holda joylashtirilishi lozim. Bu talablar qomat buzilishi, ko'rish zo'riqishi va charchoqning oldini oladi [1, 2]."
+    ]}
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi huzuridagi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi qo'mitasi. Maktabgacha ta'lim va umumiy o'rta ta'lim tashkilotlarini jihozlashda ishlatiladigan mebellarga qo'yiladigan sanitariya-gigiyena talablari: № 0057-23 SanQvaN. Toshkent. xayrullokomilov.uz/kutubxona, material ID 633. 2023.",
+    "O'zbekiston Respublikasi Bosh davlat sanitariya vrachi. Umumta'lim maktablarida o'qitish sharoitlari va tashkil etilishiga qo'yiladigan sanitariya-epidemiologik talablar: SanPiN № 0341-16 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 742. 2016."
+  ]
+}

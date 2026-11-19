@@ -1,0 +1,126 @@
+{
+  "number": 138,
+  "title": "138. Gigiyenik tekshiruvlar uchun namunalar qabul qilishning tartibiy yo'nalish va qoidalarini ayting.",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "O'yinchoq va o'yinlarning gigiyenik xavfsizligi laboratoriya tekshiruvi natijasida aniqlanadi. Natija ishonchli bo'lishi uchun namunalar qoidalarga muvofiq tanlanishi, rasmiylashtirilishi va laboratoriyaga topshirilishi shart [1, 2].",
+        "Ushbu mavzuda namunalarni qabul qilish sabablari, namuna turlari va soni, tipik vakil tushunchasi, topshirish muddatlari, rasmiylashtirish tartibi, tanlab nazoratda namuna olish va import mahsulotga talablar bayon etiladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Namuna olish sabablari",
+      "content": [
+        "Namunalar uch holatda tekshiruvga qabul qilinadi: o'yinchoqni ishlab chiqarishga qo'yishda, ishlab chiqarilayotgan va sotilayotgan mahsulotni tanlab nazorat qilishda hamda sertifikatlangan mahsulotni inspeksiya nazoratida [1].",
+        "Ishlab chiqarishga qo'yishda namunalarni ishlab chiqaruvchi korxona taqdim etadi. Tanlab yoki inspeksiya nazoratida namunalarni davlat sanitariya-epidemiologik nazorat organlari tegishli rasmiylashtirish bilan oladi [1]."
+      ]
+    },
+    {
+      "heading": "Taqdim etiladigan materiallar",
+      "content": [
+        "Gigiyenik baholash uchun normativ-texnik ma'lumotlar, o'yinchoq namunalari va ishlatilgan materiallar retsepturasi topshiriladi. Zarur bo'lsa ishlab chiqaruvchi texnologik jarayon tavsifini ham beradi [1].",
+        "Namunalar soni tadqiqot xarakteri va hajmiga bog'liq va manfaatdor tashkilot hamda ekspertiza o'tkazuvchi muassasa o'rtasida kelishiladi. Eng kam miqdor 3 ta namuna [1]."
+      ]
+    },
+    {
+      "heading": "Tipik vakil tushunchasi",
+      "content": [
+        "O'yinchoq tasdiqlangan namunaga, ya'ni «tipik vakil»ga mos bo'lishi kerak. Tipik vakil yagona texnologiya, bir xil materiallar va bo'yoqlar qo'llanib tayyorlangan o'yinchoq namunasi hisoblanadi [1].",
+        "Tipik namuna bir xil yosh manziliga ega, yagona texnik talab, texnologik jarayon va materiallardan tayyorlangan o'yinchoqlar guruhidan tanlanadi, ularga bir xil xavfsizlik talablari qo'yiladi. Yosh bo'yicha ikki guruh farqlanadi: uch yoshgacha va uch yoshdan katta bolalar uchun [2]."
+      ]
+    },
+    {
+      "heading": "Topshirish muddatlari",
+      "content": [
+        "Tekshiruv uchun namunalar seriyali ishlab chiqarish texnologiyasi bo'yicha tayyorlanadi. Ular tayyorlanganidan keyin 10 kundan oldin va 30 kundan kechikmay laboratoriyaga topshiriladi [1]."
+      ]
+    },
+    {
+      "heading": "Yirik o'yinchoqlar",
+      "content": [
+        "Yirik o'yinchoqlar ishlab chiqarilganda laboratoriya tekshiruviga alohida detallar taqdim etilishi mumkin. Bu detallar seriyali ishlab chiqarishda qo'llaniladigan texnologiya bo'yicha tayyorlangan bo'lishi shart [1]."
+      ]
+    },
+    {
+      "heading": "Organoleptik baho uchun namuna",
+      "content": [
+        "Hid intensivligi 0 dan 5 gacha ballarda ifodalanadi: 0 hid yo'q, 1 juda kuchsiz (tajribali degustator sezadi), 2 kuchsiz (tajribasiz degustator e'tibori qaratilganda sezadi), 3 sezilarli, 4 aniq, 5 juda kuchli [1].",
+        "Hid darajasi bir yoshgacha bo'lgan bolalar o'yinchoqlari (va ularning detallari) uchun 1 balldan, bir yoshdan katta bolalar uchun 2 balldan oshmasligi kerak. Hid xarakteri tavsif bilan qayd etiladi: begona, yoqimsiz, o'ziga xos aromatik, noaniq [1]."
+      ]
+    },
+    {
+      "heading": "Qoplama chidamliligi uchun namuna",
+      "content": [
+        "Himoya-bezak qoplamasining nam ishlovga chidamliligi namunani neytral sovun yoki sintetik yuvish vositasi bilan 37 ± 2 °C issiq suvda 3 daqiqa mexanik ishlovsiz yuvib, distillangan suv bilan chayqab, xona haroratida quritish yo'li bilan tekshiriladi. Bunda o'yinchoqning tashqi ko'rinishi o'zgarmasligi kerak [1].",
+        "So'lak va terga chidamlilik yumshoq to'ldirilganlardan tashqari barcha o'yinchoqlar uchun aniqlanadi."
+      ]
+    },
+    {
+      "heading": "Kimyoviy tadqiqot uchun namuna",
+      "content": [
+        "Polimer materiallardan tayyorlangan o'yinchoqlarda og'ir metallar o'yinchoq massasida, kimyoviy uchuvchi moddalar esa ishlatish sharoitini modellashtirgan havo va suv muhitida aniqlanadi. Migratsiyani aniqlashda materialning retsepturasi asos qilib olinadi [1].",
+        "Modda miqdori formaldegid uchun havo muhitida 0,003 mg/m³, stirol uchun 0,02 mg/m³ bo'lgan atmosfera havosi chegarasi bilan, suv muhitida esa formaldegid 0,1 mg/dm³ va stirol 0,01 mg/dm³ bilan taqqoslanadi [1]."
+      ]
+    },
+    {
+      "heading": "Mikrobiologik tekshiruv uchun namuna",
+      "content": [
+        "Mikrobiologik tekshiruvda namunada mezofil aerob va fakultativ anaerob bakteriyalar, xamirturush va mog'or zamburug'lari, ichak tayoqchalari oilasi, patogen stafilokokklar hamda ko'k yiring tayoqchasi aniqlanadi [2].",
+        "Bir yoshgacha bo'lgan bolalar to'ldirgichli o'yinchoqlari, shakllanadigan massalar va barmoq bilan chiziladigan bo'yoqlarda mezofil aerob bakteriyalar 1·10² KOE/g dan ko'p bo'lmasligi, qolgan guruhlarning bo'lmasligi shart. [2]."
+      ]
+    },
+    {
+      "heading": "Hujjatlar rasmiylashtirish",
+      "content": [
+        "Ishlab chiqaruvchi korxona namunalar bilan birga ariza va tegishli ma'lumotlarni topshiradi. Sertifikatlash arizasi ko'rib chiqilganda korxonaga gigiyenik sertifikatlash muddatlari, tadqiqot turlari va ishlarning narxi to'g'risida xabar beriladi [1].",
+        "Tanlab nazoratda namunalarni olishda tegishli hujjat rasmiylashtiriladi. Namunalar uchun to'lov qilinmaydi va ular qaytarilmaydi [1]."
+      ]
+    },
+    {
+      "heading": "Import mahsulotga talablar",
+      "content": [
+        "Chet eldan olib kirilgan o'yinchoq va materiallar uchun ularning bolalar salomatligiga zararsizligini tasdiqlovchi sertifikatlar taqdim etilishi shart. Respublikada sotiladigan o'yinchoqlar gigiyenik sertifikatlashga tortiladi [1].",
+        "Namunalar va hujjat nusxalari korxonaga qaytarilmaydi."
+      ]
+    },
+    {
+      "heading": "Namunalarni laboratoriyada tayyorlash",
+      "content": [
+        "Organoleptik tekshiruvda namunaning tashqi ko'rinishi, sirt xususiyati, nuqsonlari va hidi baholanadi. Hidni kamida besh kishilik komissiya xona haroratida aniqlaydi [1].",
+        "Sanitariya-kimyoviy tadqiqot uchun namuna modelli muhitda ushlab turiladi. Suvli muhitga ajralgan moddalar aniqlashda namuna 37 °C haroratda 3 soat ushlanadi, namuna massasi va suv hajmi nisbati 1:10 bo'ladi [1]."
+      ]
+    },
+    {
+      "heading": "Havo muhiti uchun sharoit",
+      "content": [
+        "Havo muhitiga ajraladigan uchuvchan moddalarni aniqlashda namuna shisha kameraga joylashtiriladi. Harorat 20 va 37 °C, havo almashinuvi 1 hajm/soat, xona namunalar bilan to'yinganligi 100 g/m³ bo'ladi [1].",
+        "Namuna ko'rsatilgan sharoitda dinamik muvozanat o'rnatilguncha ushlanadi: uchuvchan moddalar ajralishining muvozanati 24-48 soat ichida o'rnatiladi. Moddalar odatda gaz xromatografiyasi bilan aniqlanadi [1]."
+      ]
+    },
+    {
+      "heading": "Sinov natijalarini rasmiylashtirish",
+      "content": [
+        "Gigiyenik tadqiqot natijalari yozma ravishda qayd etiladi: namuna nomi va qisqa tavsifi, tayyorlangan hamda tekshiruvga kelgan sana, ishlab chiqaruvchi korxona, tekshiruv natijalari va umumiy xulosa [1].",
+        "Sinov natijalarida o'yinchoq va material turi, qo'llangan usul, ishlatilgan erituvchi, o'lchov natijalari, sinov tartibidan chetga chiqishlar va sinov sanasi ko'rsatiladi [1]."
+      ]
+    },
+    {
+      "heading": "Noxush natija",
+      "content": [
+        "Hatto bitta ko'rsatkich bo'yicha salbiy natija olinsa, tekshirilayotgan namuna kelishuvdan chetlatiladi yoki sotuvdan olinadi. Gigiyenik xavfsizlikni tasdiqlashda nomuvofiqlik topilsa, keyingi tadqiqotlar to'xtatiladi [1, 2].",
+        "Ishlab chiqarish yoki sotishni to'xtatish masalasi hal etilganda yuqori turuvchi sanitariya-epidemiologik nazorat organlari xabardor qilinadi. Yangi kelishilgan materiallar bo'yicha ma'lumotlar har yili yuqori organga yuboriladi [1]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "Gigiyenik tekshiruv uchun namunalar ishlab chiqarishga qo'yishda korxona tomonidan, tanlab va inspeksiya nazoratida sanitariya organlari tomonidan olinadi. Eng kam namuna soni 3 ta, namuna tipik vakil bo'lishi, seriyali texnologiya bo'yicha tayyorlanishi va 10-30 kun ichida topshirilishi kerak. Natijalar yozma rasmiylashtiriladi [1, 2]."
+      ]
+    }
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. O'yinchoqlar (o'yinlar) xavfsizligiga qo'yiladigan sanitariya-gigiyenik talablar: SanPiN № 0287-10 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 686. 2010.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. Bolalar uchun o'yinchoqlar (o'yinlar) xavfsizligiga qo'yiladigan gigiyenik talablar: SanPiN № 0354-18 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 752. 2018."
+  ]
+}

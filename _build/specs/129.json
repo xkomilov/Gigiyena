@@ -1,0 +1,102 @@
+{
+  "number": 129,
+  "title": "129. O'yinchoqlar va o'yinlarga taalluqli asosiy normativ-ko'rsatma hujjatlarni sanab o'ting.",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "O'yinchoq va o'yinlarning xavfsizligi bir necha qonun, sanitariya qoidasi va texnik normalar tizimi bilan tartibga solinadi. Sanitariya vrachi o'yinchoq ishlab chiqarish va sotish ustidan nazoratni amalga oshirishda shu tizimni to'liq bilishi kerak [1, 2].",
+        "Ushbu mavzuda o'yinchoq xavfsizligiga oid qonunlar, asosiy sanitariya qoidalari, texnik normalar va sertifikatlash qoidalari hamda ularning o'zaro bog'liqligi bayon etiladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Qonunlar",
+      "content": [
+        "Birinchi guruhga O'zbekiston Respublikasining «Aholining sanitariya-epidemiologik osoyishtaligi to'g'risida»gi (2015-yil 26-avgustdagi ZRU-393-son), «Texnik tartibga solish to'g'risida»gi (2009-yil 23-apreldagi ZRU-213-son) va «Muvofiqlikni baholash to'g'risida»gi (2013-yil 4-oktabrdagi ZRU-354-son) qonunlari kiradi [1].",
+        "Sanitariya qoidalari aynan shu qonunlar asosida ishlab chiqilgan va o'yinchoq (o'yin) ishlab chiqarish, olib kirish, sotishga qo'yiladigan talablarni hamda bolalar xavfsizligini ta'minlovchi sifat nazorati qoidalarini belgilaydi [1]."
+      ]
+    },
+    {
+      "heading": "Asosiy sanitariya qoidasi",
+      "content": [
+        "O'yinchoqlar sohasidagi asosiy sanitariya hujjati 2018-yilda tasdiqlangan «Bolalar uchun o'yinchoqlar (o'yinlar) xavfsizligiga qo'yiladigan gigiyenik talablar» deb nomlangan 0354-18-son SanPiN hisoblanadi. U Sog'liqni saqlash vazirligi tizimidagi ilmiy-tadqiqot instituti va Respublika davlat sanitariya-epidemiologik nazorat markazi tomonidan ishlab chiqilgan [1].",
+        "Bu qoidalar 2010-yildagi 0287-10-son SanPiN asosida o'zgartirish va qo'shimchalar kiritilgan holda tayyorlangan, 0287-10 esa o'z vaqtida 0234-07-son sanitariya-gigiyenik talablar o'rniga kiritilgan edi. Shu sababli amaliy ishda eng yangi tahrir, ya'ni 0354-18 asos qilib olinadi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Ilovalar va ular mazmuni",
+      "content": [
+        "SanPiNning 1-ilovasi o'yinchoq hisoblanmaydigan va qoidalar tatbiq etilmaydigan buyumlar ro'yxatini beradi: musiqa asboblari, sport uskunalari, bolalar o'yin maydonchalari jihozlari, o'yin avtomatlari, ichki yonuv dvigatelli o'yinchoq transport, katapultalar, bayram bezaklari va boshqalar [1].",
+        "2-ilova esa gigiyenik xavfsizlik talablarini to'liq beradi: organoleptik ko'rsatkichlar, jismoniy omillar, sanitariya-kimyoviy ko'rsatkichlar (migratsiya jadvallari), toksikologik-gigiyenik va mikrobiologik ko'rsatkichlar [1]."
+      ]
+    },
+    {
+      "heading": "Yordamchi sanitariya qoidalari",
+      "content": [
+        "O'yinchoq ishlab chiqarishga tegishli yordamchi sanitariya qoidalariga 0208-06-son SanPiN (texnologik jarayonlarni tashkil etish va ishlab chiqarish uskunalariga gigiyenik talablar), 0214-06-son SanPiN (oziq-ovqat bilan tegadigan materiallardan ajraladigan kimyoviy moddalarning chegaraviy miqdorlari) va 0179-04-son SanPiN (aholi punktlari atmosfera havosidagi ifloslantiruvchi moddalar PDK) kiradi [1].",
+        "Maktabgacha ta'lim muassasalarida o'yinchoqlardan foydalanish bo'yicha 0355-18-son SanPiN talablari amal qiladi. U o'yinchoqlarni yuvish, yumshoq o'yinchoqlarni kvarslash va yangi o'yinchoqlarni guruhlarga berishdan oldin ishlov berish tartibini belgilaydi [3]."
+      ]
+    },
+    {
+      "heading": "Davlat standartlari va texnik me'yorlar",
+      "content": [
+        "O'yinchoqlar uchun O'z DSt 1723:2010 (elektr o'yinchoqlar, xavfsizlik talablari), O'z DSt 1724:2010 (ayrim elementlar migratsiyasi), O'z DSt 1725:2010 (barmoq bilan chizish bo'yoqlari) va O'z DSt 1726:2010 (arg'imchoq, tepalik va shunga o'xshash o'yinchoqlar) amal qiladi [1].",
+        "Davlat standartlari, shuningdek GOST 25779-90 (xavfsizlikka umumiy talablar va nazorat usullari), GOST 27178-93 (sinov usullari), GOST 30782-2001 (yoshni grafik belgilash), GOST 31097-2002 (mexanik va fizik xossalar), GOST EN 71-1-2008, GOST ISO 8124-2 va 8124-3-2001 (yonuvchanlik, zararli elementlar ajralishi) sinov usullarini belgilaydi [1]."
+      ]
+    },
+    {
+      "heading": "Sinov va qabul qilish qoidalari",
+      "content": [
+        "Sinov usullari «Mahsulotni sertifikatlash uchun zarur sinov, o'lchash qoidalari va usullarini o'z ichiga olgan standartlar ro'yxati»ga kiritilgan standartlar bilan belgilanadi. Bu ro'yxatga namunalarni tanlab olish qoidalari ham kiradi [1].",
+        "GOST 24971-93 (o'yinchoqlar, sinov turlari va tartibi, qabul qilish qoidalari) va GOST 24972-93 (markirovka, qadoqlash, tashish va saqlash) o'yinchoqlar sifatini baholash va ularni aylanmaga chiqarishda qo'llaniladi. Plastmassalar uchun gigiyenik ko'rsatkichlarni aniqlash usullari GOST 22648 da berilgan [1]."
+      ]
+    },
+    {
+      "heading": "Sertifikatlash",
+      "content": [
+        "Chiqarilayotgan va olib kirilayotgan o'yinchoqlar gigiyenik sertifikatlashga tortiladi. Bu Vazirlar Mahkamasining 2004-yil 6-iyuldagi 318-son qaroriga ilova bilan tartibga solingan, unda sertifikatlanadigan mahsulot turlari va sertifikat berish tartibi belgilangan [2].",
+        "O'yinchoqlar va o'yinlarni sertifikatlash tartibi davlararo standartlar bo'yicha PMG 49-2002 (o'yinlar va o'yinchoqlar, sertifikatlash tartibi) bilan ham belgilanadi. Gigiyenik sertifikat bo'lmasa, mahsulot sotuvga chiqarilmaydi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Nazorat tartibi",
+      "content": [
+        "Sanitariya qoidalariga rioya etilishi ustidan nazorat davlat sanitariya-epidemiologik nazorat organlari va muassasalariga yuklangan. Ular o'yinchoqlarni ishlab chiqarishga qo'yishda, ishlab chiqarish va sotish jarayonida hamda xorijdan olib kirishda tekshiruv o'tkazadi [1, 2].",
+        "Sanitariya qoidalari, normalari va gigiyena normativlariga amal qilinishi ustidan tekshiruvlar o'tkazish va ma'muriy jarima choralarini qo'llash tartibi Sanitariya-epidemiologik osoyishtalik xizmatining alohida buyrug'i bilan tasdiqlangan [4]."
+      ]
+    },
+    {
+      "heading": "Tasnif va yosh guruhlari",
+      "content": [
+        "Gigiyenik talablar o'yinchoq turiga qarab farqlanadi. Gigiyenik jihatdan chaqaloq va yasli yosh o'yinchoqlari, obrazli (qo'g'irchoq, hayvon haykalchalari, shu jumladan yumshoq), musiqali va ovozli, optik, elektromexanik (24 V gacha), stol o'yinlari, ijod buyumlari, tajriba to'plamlari, o'yin-maishiy buyumlar va yirik o'yinchoqlar ajratiladi [5].",
+        "Bolalarning morfofunksional xususiyatlari va rivojlanishiga qarab o'yin va o'yinchoqlar beshta guruhga bo'linadi: bir yoshgacha (erta), 1-3 yosh (yasli), 3-6 yosh (maktabgacha), 6-10 yosh (kichik maktab) va 10-14 yosh (o'rta maktab) [5]."
+      ]
+    },
+    {
+      "heading": "Texnik shartlar va ro'yxatlar",
+      "content": [
+        "Sanitariya qonunchiligi o'yinchoq ishlab chiqarishga ruxsat etilgan xom ashyo va materiallarni belgilaydi. Bunday materiallar «O'yinchoqlar tayyorlash uchun ruxsat etilgan xom ashyo va materiallar ro'yxati»ga kiritiladi yoki gigiyenik baho va tegishli xulosaga ega bo'ladi [5].",
+        "O'yinchoqlar organoleptik, sanitariya-kimyoviy, fizik-gigiyenik, radiologik, mikrobiologik va toksikologik ko'rsatkichlar, himoya-bezak qoplamasining so'lak, ter va nam ishlovga chidamliligi bo'yicha talablarga javob berishi kerak. Bu talablar sanitariya qoidalari va standartlarda birlashtirilgan [5]."
+      ]
+    },
+    {
+      "heading": "Amaliy ahamiyati",
+      "content": [
+        "Ro'yxatdagi normativlar o'zaro bog'liq: qonun umumiy tamoyillarni, sanitariya qoidalari gigiyenik chegaralarni, standartlar esa sinov usullarini belgilaydi. Sanitariya vrachi ishlab chiqaruvchi yoki importyor bilan ishlashda avval qonuniy asosni, so'ng gigiyenik talablarni, keyin sinov usullarini tekshiradi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "O'yinchoq va o'yinlarga taalluqli normativ hujjatlar uch guruhga bo'linadi: qonunlar, sanitariya qoidalari (asosiysi 0354-18-son SanPiN, yordamchilari 0208-06, 0214-06, 0179-04, 0355-18) va standartlar (O'z DSt va GOST). Sanitariya vrachi o'yinchoqni baholashda shu tizimdan foydalanadi va faqat amaldagi talablarga tayanadi [1, 2, 3, 4]."
+      ]
+    }
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. Bolalar uchun o'yinchoqlar (o'yinlar) xavfsizligiga qo'yiladigan gigiyenik talablar: SanPiN № 0354-18 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 752. 2018.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. O'yinchoqlar (o'yinlar) xavfsizligiga qo'yiladigan sanitariya-gigiyenik talablar: SanPiN № 0287-10 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 686. 2010.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. Maktabgacha ta'lim tashkilotlarini tutish, jihozlash va ish tartibiga sanitariya-gigiyenik talablar: SanPiN № 0355-18 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 639. 2018.",
+    "O'zbekiston Respublikasi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi xizmati. Sanitariya qoidalari, normalari va gigiyena normativlariga amal qilinishi ustidan tekshiruvlar o'tkazish va ma'muriy jarima choralarini qo'llash tartiblari bo'yicha yo'riqnomani tasdiqlash to'g'risida: 54-son buyruq, 2021-yil 8-may. Toshkent. xayrullokomilov.uz/kutubxona, material ID 409. 2021.",
+    "Kuchma V.R. Bolalar va o'smirlar gigiyenasi: o'quv qo'llanma (rus tilida). xayrullokomilov.uz/kutubxona, material ID 2301. 2010."
+  ]
+}

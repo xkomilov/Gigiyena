@@ -1,0 +1,93 @@
+{
+  "number": 112,
+  "title": "112. Maktab vrachining asosiy masalalarini sanab o'ting?",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Maktab vrachi umumta'lim muassasalarida o'quvchilarning salomatligini saqlash, kasalliklarning oldini olish va o'quv jarayonining gigiyenik shartlarini nazorat qilish bo'yicha tibbiy xizmatni ta'minlaydi. Uning vazifalari 2012-yil 12-apreldagi 99-son buyruq ilovasidagi nizomda va umumta'lim maktablari uchun sanitariya talablarida belgilangan [1, 2].",
+        "Ushbu mavzuda vrachning lavozimga tayinlanishi, asosiy vazifalari, huquqlari, javobgarligi, o'rta tibbiyot xodimi bilan hamkorligi va sanitariya nazoratidagi o'rni bayon etiladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Lavozimga qo'yiladigan talablar va tashkiliy tuzilma",
+      "content": [
+        "Maktabgacha va umumta'lim muassasalariga xizmat ko'rsatuvchi vrach lavozimiga pediatriya, tibbiy-pedagogik yoki davolash fakultetini umumiy amaliyot shifokori diplomi bilan bitirgan shifokor tayinlanadi. U markaziy tuman ko'p tarmoqli poliklinikasi rahbarining buyrug'i bilan lavozimga tayinlanadi va lavozimdan ozod etiladi [1].",
+        "Shifokor lavozimlari 1000 maktab o'quvchisiga bitta, 600 bog'cha bolasiga bitta, 180-200 yasli bolasiga bitta hisobida belgilanadi. Vrach umumiy amaliyot shifokorlari va poliklinikaning boshqa tor mutaxassislari bilan yaqin aloqada ishlaydi, o'z faoliyatida qonunchilik, vazirlik buyruqlari va nizomga amal qiladi [1]."
+      ]
+    },
+    {
+      "heading": "Profilaktik ko'riklarni tashkil etish",
+      "content": [
+        "Vrach mutaxassislar chiqishi va chaqiruv tibbiy komissiyalari jadvali haqida ma'muriyatni xabardor qiladi, jadval asosida o'quvchilar tibbiy ko'rigini tashkil etadi va o'tkazadi, har bir o'quvchi sog'lig'i haqida xulosa beradi hamda tor mutaxassislar ko'rigi dalolatnomalarini tuzadi [1].",
+        "U ko'rik natijalarini tahlil qiladi, sog'lomlashtirish rejasini ishlab chiqadi, dispanser guruhni muntazam kuzatadi va sog'lomlashtiradi, kerak bo'lganda davolash-profilaktika muassasasiga yuboradi. O'quvchilarni sog'liq guruhlariga ajratadi, jismoniy tarbiya uchun tibbiy guruhni belgilaydi [1]."
+      ]
+    },
+    {
+      "heading": "Jismoniy tarbiya ustidan tibbiy nazorat",
+      "content": [
+        "Vrach jismoniy tarbiya samaradorligini jismoniy tayyorgarlikni baholash bilan tahlil qiladi, jismoniy tarbiya o'tkazilishi va sport to'garaklari ustidan tibbiy nazoratni amalga oshiradi. O'quvchilarni asosiy, tayyorlov va maxsus guruhlarga ajratishni sog'liq holatini hisobga olib o'zi o'tkazadi [1, 2].",
+        "Asosiy guruh o'quvchilariga yoshiga mos barcha sog'lomlashtirish tadbirlarida qatnashishga ruxsat beriladi, tayyorlov va maxsus guruh o'quvchilari vrach xulosasiga ko'ra jismoniy yuklamasi kamaytirilgan holda shug'ullanadi. Tibbiy xodimning sport musobaqalarida va suzish havzasi mashg'ulotlarida ishtiroki majburiy [2]."
+      ]
+    },
+    {
+      "heading": "Emlash va yuqumli kasalliklar profilaktikasi",
+      "content": [
+        "Vrach maktabga emlash va qayta emlash tugallangan bolalarni milliy emlash kalendariga muvofiq qabul qiladi, o'qish davrida zarur barcha emlash va ommaviy immunizatsiyalarni o'tkazadi hamda emlanganlik tahlilini har oy o'tkazib turadi [1].",
+        "Yuqumli kasalliklar qayd etilganda sog'liqni saqlash vazirligi buyruqlari va hududiy sanitariya markazi epidemiologining ko'rsatmalariga ko'ra epidemiyaga qarshi tadbirlarni o'tkazadi. Filtrning uzluksiz ishlashini ta'minlaydi va bitga qarshi tadbirlarni amalga oshiradi [1]."
+      ]
+    },
+    {
+      "heading": "Bitlash va qo'tirni aniqlash",
+      "content": [
+        "Bitlashni aniqlash uchun tibbiy xodim har ta'tildan keyin yiliga kamida 4 marta, shuningdek har oy tanlab 4-5 sinfda ko'rik o'tkazadi. Ko'rik yaxshi yoritilgan xonada lupa va tez-tez tishli taroq bilan o'tkaziladi, taroq har ko'rikdan keyin qaynoq suv yoki 70° spirt bilan zararsizlantiriladi [2].",
+        "Qo'tir bilan og'rigan bola bilan aloqada bo'lganlarni profilaktik davolash masalasini vrach hal qiladi. Profilaktik davolash o'tkazilmagan sinflarda teri qoplamalari 10 kun oralig'ida uch marta ko'zdan kechiriladi, maktabda qo'tir aniqlansa joriy dezinfeksiya amalga oshiriladi [2]."
+      ]
+    },
+    {
+      "heading": "Ta'lim sharoitlari va ovqatlanish ustidan nazorat",
+      "content": [
+        "Vrach o'quvchilarni o'qitish, tarbiyalash va ovqatlantirishning gigiyenik sharoitlarini nazorat qiladi va dars jadvalini tuzishda ishtirok etadi. Maktab sinf jurnalida har bir o'quvchi uchun antropometrik ma'lumotlar, sog'liq guruhi, jismoniy tarbiya guruhi, mebel o'lchami va tibbiy tavsiyalar kiritiladigan sog'liq varag'i yuritilishi tavsiya etiladi [1, 2].",
+        "Ovqatlanish ustidan tibbiy nazoratni o'rta tibbiyot xodimi menyu-razkladkalarni tuzish, xom va tayyor mahsulotlarni brakerajlash, nazariy kaloriyani hisoblash, oshxonaning sanitariya-gigiyena va epidemiyaga qarshi tartibini kuzatish orqali amalga oshiradi [1]."
+      ]
+    },
+    {
+      "heading": "Jarohatlar profilaktikasi va sanitariya-ma'rifat ishlari",
+      "content": [
+        "Vrach jarohatlanishlar profilaktikasi bo'yicha ish olib boradi, barcha jarohat holatlarini hisobga oladi va tahlil qiladi. Muassasa xodimlari, ota-onalar va o'quvchilar orasida sanitariya-ma'rifiy ishlarni o'tkazadi [1].",
+        "Vrach o'quvchilar sog'lig'i, kasallanish va sog'lomlashtirish choralari natijalarini muassasa rahbariyatiga yetkazadi, pedagogik kengash va ota-onalar yig'ilishlarida qatnashadi. O'quvchilar o'tkazma va bitiruv sinovlaridan ozod qilinishi haqidagi tibbiy komissiya xulosalarining asosliligini aniqlab, ularni pedagogik kengashga taqdim etadi [1]."
+      ]
+    },
+    {
+      "heading": "O'rta tibbiyot xodimi bilan hamkorlik",
+      "content": [
+        "Maktabda bolalarga tibbiy yordamni to'g'ridan-to'g'ri maxsus tayyorgarlikdan o'tgan o'rta tibbiyot xodimi ko'rsatadi, u vrach rahbarligida ishlaydi va markaziy tuman poliklinikasining bosh vrachiga bo'ysunadi. Hamshira tibbiy ko'riklarda qatnashadi, belgilangan tibbiy yozuvlarni yuritadi va ko'rik natijalarini pedagoglarga yetkazadi [1].",
+        "U vrach nazoratida profilaktik emlashlarni o'tkazadi, yuqumli bemorlar bilan aloqada bo'lgan bolalarni kuzatadi, jarohatlanishlarni birga tahlil qiladi, oshxona xodimlari va muassasa xodimlarining majburiy tibbiy ko'rikdan o'z vaqtida o'tishini kuzatadi, tibbiy inventar va dori vositalari hisobini yuritadi [1]."
+      ]
+    },
+    {
+      "heading": "Sanitariya xizmati bilan aloqa",
+      "content": [
+        "Markaziy poliklinikaning bosh mutaxassisi sanitariya-epidemiologiya markaziga chuqurlashtirilgan ko'riklar muddatlari haqida xabar beradi, har yili 1-fevralgacha bolalar sog'lig'i bo'yicha hisobotlarni yuqori turuvchi sog'liqni saqlash organiga va hududiy sanitariya markaziga topshiradi [1].",
+        "Sanitariya-epidemiologik nazorat tibbiy xizmat ko'rsatish, ko'riklarning o'z vaqtida va sifatli o'tkazilishini hamda tashkil etilgan bolalar kontingenti sog'lig'i holatini doimiy nazoratda ushlaydi. Bolalar muhitining ichki muhiti sog'lig'iga ta'sirini o'z vaqtida aniqlash shu nazoratning maqsadidir [1]."
+      ]
+    },
+    {
+      "heading": "Huquqlari va javobgarligi",
+      "content": [
+        "Vrachning poliklinika rahbariyatiga takliflar kiritish, xizmat uchun zarur axborotni so'rash va undan foydalanish, o'quv muassasalariga kiruvchilarga tibbiy ma'lumotnoma (086/u) berish, tibbiy komissiya tarkibida jismoniy tarbiya darslaridan ozod qilish, akademik ta'til va qishloq xo'jalik ishlaridan ozod qilish masalalarini hal qilishda qatnashish huquqi bor [1].",
+        "U har 5 yilda malakasini oshiradi va attestatsiyadan o'tadi. Vrach o'quvchilar kasallanishini kamaytirishga qaratilgan kompleks reja va profilaktik ko'riklarni o'tkazish, tibbiy yozuvlarni sifatli va o'z vaqtida yuritish hamda o'z faoliyati natijalari uchun javobgardir [1]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "Maktab vrachining asosiy masalalari profilaktik ko'riklarni tashkil etish, sog'liq va jismoniy tarbiya guruhlarini aniqlash, emlash va yuqumli kasalliklar profilaktikasi, bitlash va qo'tirni aniqlash, o'qitish va ovqatlanish sharoitlari ustidan gigiyenik nazorat hamda sanitariya-ma'rifat ishidir [1, 2]."
+      ]
+    }
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. Bolalarning tashkil etilgan kontingentiga tibbiy-sanitariya yordamini takomillashtirish to'g'risida: 2012-yil 12-apreldagi 99-son buyruq, ilova (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 427. 2012.",
+    "O'zbekiston Respublikasi Bosh davlat sanitariya vrachi. Umumta'lim maktablarida o'qitish sharoitlari va tashkil etilishiga qo'yiladigan sanitariya-epidemiologik talablar: SanPiN № 0341-16 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 742. 2016."
+  ]
+}

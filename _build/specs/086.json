@@ -1,0 +1,96 @@
+{
+  "number": 86,
+  "title": "86. Oziq-ovqat mahsulotlarining gigiyenik ekspertizasida laborator tekshiruvlar uchun namunalar olishning asosiy qoidalari.",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Oziq-ovqat mahsulotining gigiyenik ekspertizasi natijasi namunaning to'g'ri olinishiga bog'liq. Namuna butun partiyani ifodalamasa, yoki saqlash va tashishda o'zgarsa, laboratoriya xulosasi mahsulotning haqiqiy holatini ko'rsatmaydi [1, 2].",
+        "Ushbu mavzuda namuna olishning umumiy tamoyillari, partiya va namuna turlari, go'sht, sut va ovqatdan zaharlanish holatlarida namuna olish, qadoqlash, yorliqlash va laboratoriyaga yuborish tartibi ketma-ket bayon etiladi [1, 2, 3]."
+      ]
+    },
+    {
+      "heading": "Partiya va namuna turlari",
+      "content": [
+        "Partiya deb bir korxonada, bir texnologik jarayonda, bir sanada ishlab chiqarilgan, bir nomdagi va bir xil idishdagi mahsulotlar majmuasi, bitta hamroh yozuv bilan rasmiylashtirilgani tushuniladi. Sut va sut mahsulotlarida sisternadagi sutning har bir sisternasi yoki bo'limi alohida partiya hisoblanadi [3].",
+        "Nuqtaviy namuna nostandart miqdordagi mahsulotning aniq qismidan bir vaqtda olinadi. Birlashtirilgan namuna bir nechta nuqtaviy namunadan bitta idishga yig'iladi, laboratoriya namunasi esa laboratoriyaga yetkazish va tekshirish uchun ajratiladi. Sisternadagi sut uchun birlashtirilgan namunaning hajmi kamida 1,0 dm3 bo'ladi [3]."
+      ]
+    },
+    {
+      "heading": "Namuna olishdan oldingi ko'rik",
+      "content": [
+        "Namuna olishdan avval partiya hujjatlari, ya'ni yuk xati va sifat guvohnomasi o'rganiladi, partiyaning tashqi ko'rigi o'tkaziladi. Idishning butunligi, qadoq va markirovkaning talablarga mosligi, markirovkadagi ma'lumotlarning hujjatlarga mos kelishi hamda tashishdagi harorat tartibi va muddati tekshiriladi [4, 5].",
+        "Partiya bir xil bo'lmasa, barcha qadoqlar ochiladi va partiya bir xil qismlarga ajratiladi, namuna har bir qismdan alohida olinadi. Tanlov qasddan amalga oshirilmaydi, mahsulot turli patnis yoki idishlardan tasodifiy tanlanadi [4]."
+      ]
+    },
+    {
+      "heading": "Go'sht namunalari",
+      "content": [
+        "Go'shtning har bir tanasi yoki bo'lagidan butun bo'lak ko'rinishida massasi kamida 200 g bo'lgan namuna olinadi. Namuna bo'yin umurtqalarining 4-5-qismi qarshisidagi so'yish joyidan, kurak sohasidan va sonning qalin mushaklaridan ajratiladi [1].",
+        "Subproduktlar namunasi ham kamida 200 g, muzlatilgan bloklardan butun bo'lak sifatida olinadi. Jigar, miya, o'pka, taloq va buyrak bu qoidaga kirmaydi. Bir tanadan olingan namunalar birga qadoqlanadi, tananing raqami ro'yxatga mos qo'yiladi [1]."
+      ]
+    },
+    {
+      "heading": "Qadoqlash va yorliqlash",
+      "content": [
+        "Har bir namuna pergament, tsellyuloza plyonka yoki oziq-ovqat polietilen plyonkasiga o'raladi, pergament ustiga yoki plyonka ostiga to'qima yoki a'zo nomi va qabul qilishda berilgan tana raqami yozilgan yorliq qo'yiladi. Bir tanadan olingan namunalar qog'oz paketga solinib, yopiladigan metall qutiga joylanadi [1].",
+        "Laboratoriya boshqa joyda bo'lsa, har bir namuna alohida pergamentga, so'ng o'rov qog'ozga o'raladi, quti muhrlanadi va plombalanadi. Namuna bilan birga olingan sanasi va joyi, hayvon turi, tana raqami, tekshiruv sababi va maqsadi hamda yuboruvchining imzosi yozilgan qaydnoma yuboriladi [1]."
+      ]
+    },
+    {
+      "heading": "Ovqatdan zaharlanish holatlarida namuna olish",
+      "content": [
+        "Zaharlanish sababi deb gumon qilingan oziq-ovqatning qoldig'i, zaharlanganlarning qusuq massasi, oshqozon yuvindi suvi, axlati, siydigi va zarur bo'lsa qoni namuna sifatida olinadi. Namunalarni sanitariya vrachi yoki laboratoriya xodimi (mikrobiolog, kimyogar) oladi va attestatsiyadan o'tgan laboratoriyaga yuboradi [2].",
+        "Ovqatdan zaharlanishni mikroblar keltirib chiqargan deb gumon qilinsa, namuna sanitariya-kimyoviy tekshiruvga yuborilmaydi, mikroblar ko'payishiga qulay bo'lmagan mahsulot (tuz, shakar) bakteriologik tekshiruvga berilmaydi. Kimyoviy modda gumon qilinganda esa namuna bakteriologik tekshiruvga yuborilmaydi [2]."
+      ]
+    },
+    {
+      "heading": "Konserva va maxsus holatlar",
+      "content": [
+        "Konserva iste'moli natijasida botulizm gumon qilinganda birinchi navbatda konserva qoldig'i hamda sifati va xavfsizligiga shubha bo'lgan konservalar laboratoriya tekshiruviga olinadi. Botulizmga gumon bo'lsa, davolovchi zardob berilishidan oldin bemordan qon olinib, toksin turi neytralizatsiya reaksiyasi bilan aniqlanadi [2].",
+        "Salmonellyoz va boshqa toksikoinfeksiyalarda qon zardobi bilan serologik reaksiya ikki marta, kasallikning 1-3 va 7-10 kunlari yoki keyingi 15-18 kunlarida o'tkaziladi. Zaharlanganlar ko'p bo'lsa, og'ir kasallangan 10-15 bemorning zardobi, kam bo'lsa barcha bemorlarniki tekshiriladi [2]."
+      ]
+    },
+    {
+      "heading": "Go'sht namunalarini organoleptik baholash",
+      "content": [
+        "Har bir namuna alohida tahlil qilinadi. Tashqi ko'rinish va rang, konsistensiya, hid, yog' va paylar holati, bulyonning tiniqligi va aromati aniqlanadi. Mushakning rangi va nami yangi kesimning chuqur qatlamlarida, yopishqoqlik esa paypaslab tekshiriladi [1].",
+        "Konsistensiya kesimga barmoq bilan yengil bosib hosil qilingan chuqurchaning tekislanishiga qarab aniqlanadi. Hid avval sirt qatlamida, so'ng toza pichoq bilan kesilgan chuqur qatlamda, ayniqsa suyakka tegib turgan mushak to'qimasida aniqlanadi [1]."
+      ]
+    },
+    {
+      "heading": "Umumiy ovqatlanish korxonasida namuna olish",
+      "content": [
+        "Korxonani tekshirishda taomlar namunalari tekshiruv boshida olinadi: tarqatishga tayyor taomlar yoki tashrif buyuruvchilardan olingan taomlar tanlanadi. Namunalar chiqish miqdorini tekshirish uchun tortiladi, taomning qattiq va suyuq qismlari alohida organoleptik baholanadi, shundan so'ng namunani laboratoriyaga yetkazish zarurati hal qilinadi [5].",
+        "Yarim tayyor mahsulot va qandolat mahsulotining o'rtacha massasi turli patnislardan olingan 10 donani tortib aniqlanadi, ongli ravishda tanlash mumkin emas. Taomning o'rtacha massasi uch porsiyani alohida tortib, yig'indini 3 ga bo'lish orqali topiladi, bitta taom massasining chetlanishi ± 3 foizdan oshmasligi kerak [5]."
+      ]
+    },
+    {
+      "heading": "Kimyoviy tekshiruv natijalarini baholash",
+      "content": [
+        "Zaharlanishga kimyoviy moddalar sabab bo'lsa, oziq-ovqat va bemorning qusuq massasi, oshqozon yuvindi suvi sanitariya-kimyoviy tekshiruvdan o'tkaziladi. Zaharli kimyoviy moddalar, og'ir metall tuzlari, mishyak, nitratlar maxsus tasdiqlangan usullar bilan, ular bo'lmasa laboratoriyalarda amalda qo'llanayotgan uslublar bilan aniqlanadi [2].",
+        "Kimyoviy ko'rsatkichlar bo'yicha xulosa berishda mahsulotdagi mineral moddalarning (mishyak, mis, rux) tabiiy miqdori, zaharli moddalarning ruxsat etilgan qoldiq miqdori va ruxsat etilgan qo'shimchalar miqdori hisobga olinadi. Shu sababli kimyoviy tahlil natijasi mahsulot turiga mos norma bilan solishtiriladi [2]."
+      ]
+    },
+    {
+      "heading": "Hujjatlashtirish va natijalarni rasmiylashtirish",
+      "content": [
+        "Tekshiruvlar hajmi laboratoriya xodimlari bilan birgalikda belgilanadi va uning to'liq bajarilishi nazorat qilinadi. Zaharlanish holatlari tekshiruvida tahlillar Respublika, viloyat va shahar markazlaridagi ixtisoslashtirilgan, jihozlangan laboratoriyalarda o'tkazilishi kerak [2].",
+        "Sanitariya-epidemiologiya tekshiruvi tugagach, sanitariya vrachi dalolatnoma tuzadi, tekshiruv va laboratoriya natijalariga tayanib, zaharlanish sababi bo'yicha xulosa yozadi. Zaharlanish holatlari raqamlangan, tikilgan va muhrlangan maxsus jurnalda qayd etiladi [2]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "Namunalar vakillik qiladigan miqdorda, aniq joylardan, steril idishda va hujjatlar bilan olinishi shart. Qoidalarga amal qilish laboratoriya tekshiruvi natijasining ishonchliligini ta'minlaydi va gigiyenik ekspertiza xulosasining asosli bo'lishini belgilaydi [1, 2, 3]."
+      ]
+    }
+  ],
+  "references": [
+    "GOST 7269-79. Go'sht. Namunalar olish usullari va yangiligini organoleptik aniqlash usullari (rus tilida). Moskva: Standartinform. xayrullokomilov.uz/kutubxona, material ID 959. 2006.",
+    "Respublika Davlat sanitariya-epidemiologiya nazorati markazi. Ovqatdan zaharlanish holatlarini tekshirish, hisobga olish va laboratoriya tekshiruvlariga namunalar olish bo'yicha qo'llanma. Toshkent. xayrullokomilov.uz/kutubxona, material ID 1330. 2016.",
+    "GOST 26809.1-2014. Sut va sut mahsulotlari. Qabul qilish qoidalari, namuna olish usullari va tahlilga tayyorlash. 1-qism (rus tilida). Moskva: Standartinform. xayrullokomilov.uz/kutubxona, material ID 1002. 2019.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi huzuridagi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi qo'mitasi. Oziq-ovqat mahsuloti xavfsizligining umumiy sanitariya qoidalari, normalari va gigiyena normativlari: № 0079-24 SanQvaN. Toshkent. xayrullokomilov.uz/kutubxona, material ID 650. 2024.",
+    "Umumiy ovqatlanish mahsulotlari sifatini laboratoriya nazorat qilish bo'yicha uslubiy ko'rsatmalar, III qism: namuna olish va fizik-kimyoviy tekshiruv usullari (rus tilida). Moskva: SSSR Savdo vazirligi. xayrullokomilov.uz/kutubxona, material ID 1888. 1983."
+  ]
+}

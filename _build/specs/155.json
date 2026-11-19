@@ -1,0 +1,100 @@
+{
+  "number": 155,
+  "title": "155. Odam uchun kiyimning gigiyenik qiymati.",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Kiyim odam salomatligi va ish qobiliyatini saqlashda muhim ahamiyatga ega. U organizmni tashqi muhit ta'siridan himoya qiladi, tana atrofida qulay mikroiqlim hosil qiladi va issiqlik holatining me'yorda bo'lishiga yordam beradi [1, 2].",
+        "Ushbu mavzuda kiyimning vazifalari, issiqlik almashinuvidagi o'rni, tana bilan kiyim orasidagi mikroiqlim, bolalar organizmi uchun xususiyatlari, kiyimning kamchiliklari bilan bog'liq xavflar va umumiy gigiyenik talablar bayon etiladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Kiyimning vazifalari",
+      "content": [
+        "Kiyim teri qoplamini ifloslanish va mexanik shikastlanishdan himoya qiladi, tana atrofida optimal mikroiqlim yaratib qulay issiqlik holatini ta'minlaydi. Bu vazifalar kiyim va poyabzalning gigiyenik hamda estetik talablarga javob berishi bilan birga bajariladi [1, 2].",
+        "Kiyim organizmni tashqi muhitning har qanday ta'sirlaridan (issiq, sovuq, qor-yomg'ir, shamol) muhofaza qilib, har qanday ob-havoda tana haroratini me'yorda tutib turishga yordam berishi zarur. Yozda issiqdan, qishda sovuqdan asrashi lozim [1]."
+      ]
+    },
+    {
+      "heading": "Mikroiqlim",
+      "content": [
+        "Gigiyenik jihatdan mukammal kiyim tana yuzasida o'ziga xos mikroiqlim hosil qiladi. Tana bilan kiyim orasidagi ma'lum harorat, nisbiy namlik va havo almashinuvi organizmning tashqi muhit sharoitiga moslashishiga imkon beradi [1].",
+        "Qavat-qavat kiyimda qatlamlar orasidagi havo hisobiga mikroiqlim hosil bo'ladi va uning harorati ustki kiyimning o'tkazuvchanlik xususiyatiga bog'liq. Namgarchilikda bir necha qavat kiyim kiyish ma'qul [1]."
+      ]
+    },
+    {
+      "heading": "Issiqlik almashinuvidagi o'rni",
+      "content": [
+        "Havo harorati qanday bo'lishidan qat'i nazar organizm haroratini muvozanatda saqlay olish kiyimga qo'yiladigan asosiy gigiyenik shart. Issiqlik yo'qotish nurlanish, konveksiya, o'tkazuvchanlik va suv bug'lanishi yo'llari bilan amalga oshadi [1, 2].",
+        "Issiqlik ajralishi issiqlik oqimi bilan, ya'ni tana yuzasi birligidan yo'qotilgan issiqlik miqdori bilan baholanadi. Tana teri yuzasining harorati va issiqlik oqimini 9-11 nuqtada o'lchash orqali aniqlanadi [1]."
+      ]
+    },
+    {
+      "heading": "Havo o'tkazuvchanlik va issiqlik saqlash",
+      "content": [
+        "Matoning havo o'tkazuvchanligi qancha yuqori bo'lsa, uning issiqlik saqlash xususiyati shuncha past bo'ladi. Bu xususiyat asosan matoning xossalariga, qalinligiga va tolasining yo'g'on-ingichkaligiga bog'liq [1].",
+        "Hayvon terisi va parranda patlaridan tayyorlangan kiyim issiqlikni juda kam o'tkazadi, jun va ip-gazlama o'rtacha, ip, zig'ir tolasi va shoyi ko'proq o'tkazadi. Shu sababli kiyim fasl va ob-havoga qarab tanlanadi [1]."
+      ]
+    },
+    {
+      "heading": "Namlik va bug'lanish",
+      "content": [
+        "Namni yaxshi o'tkazadigan matodan tikilgan kiyim terining bug'lanishiga yordam beradi. Yupqa va silliq matolar namni tez bug'lantiradi, jun kiyim paxtadan to'qilganiga qaraganda namni sekin bug'lantirib, organizm haroratini bir me'yorda saqlaydi [1].",
+        "Ichki kiyim namlikni va havoni yaxshi o'tkazuvchi hamda gigroskopik bo'lishi kerak. Bunday kiyim organizmdan chiqadigan karbonat angidrid, ter va teri orqali ajraladigan boshqa moddalarni tashqi muhitga chiqarib yuboradi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Rang va nur",
+      "content": [
+        "Kiyim rangi quyosh nurlarining yutilishiga ta'sir qiladi. Qora va jigarrang matodan tikilgan kiyimlar yilning sovuq fasllarida kiyiladi, oq rang quyosh nurini qaytaradi, shu sababli Markaziy Osiyo sharoitida asosan ochiq rangli kiyimlar kiyiladi [1].",
+        "Yoz oylarida quyosh nuri kuchli bo'lgani uchun bosh kiyim boshni muhofaza qilib, ko'zni quyoshdan saqlashi va ko'rishga xalaqit bermasligi kerak. Gardishi keng shlyapa bo'yinni va yelkani ham himoya qiladi [1]."
+      ]
+    },
+    {
+      "heading": "Kiyimning o'lchami va qulayligi",
+      "content": [
+        "Kiyim har bir odamga loyiq bo'lishi shart. Tor libosda odam erkin harakat qila olmaydi, qon aylanishi buziladi. Dag'al gazmoldan tikilgan kiyim terini ta'sirlab, turli teri kasalliklariga sabab bo'lishi mumkin [1].",
+        "Tor va og'ir kiyim teri qoplamidagi qon va limfa tomirlarini siqib, tegishli a'zolar ovqatlanishini yomonlashtiradi: ko'krak qafasining siqilishi tashqi nafas funksiyasini, qorin bo'shlig'ining siqilishi ovqat hazm a'zolarini pasaytiradi [2]."
+      ]
+    },
+    {
+      "heading": "Bolalar organizmi uchun ahamiyati",
+      "content": [
+        "Bolalarda terini qoplovchi sirt maydoni kattalarnikiga qaraganda katta va qon tomirlarga boy. Bir kilogramm tana vazniga yosh bolada 704 sm², 6 yoshli bolada 426 sm², kattalarda 291 sm² teri yuzasi to'g'ri keladi [1].",
+        "Bir yoshli bola har bir kg tana vazniga 91,3 kkal, 2,5 yoshli bola 71,5 kkal, kattalar 42,2 kkal issiqlik ajratadi. Bolalar terisi sathining kattaligi ularning tez isib ketishi va tez sovqotishiga sabab bo'ladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Bolalar kiyimiga xos talablar",
+      "content": [
+        "Bolalar kiyimi yengil, yumshoq, qulay bichimda, badanga botmaydigan va terini jarohatlamaydigan bo'lishi kerak. Yozda yengil va salqin, qishda issiq, yuvganda va dazmollaganda gigiyenik xususiyatini yo'qotmasligi shart [1, 2].",
+        "Bolani haddan tashqari o'rab-chirmash va ustma-ust kiyintirish harakatiga to'sqinlik qiladi, bola terlaydi, ichki kiyim nam bo'lib, shamollab qolishi mumkin. Tor manjet va rezinkalar qon aylanishini buzadi, shnurlar xavfli [1, 2]."
+      ]
+    },
+    {
+      "heading": "Kiyim xavfsizligi",
+      "content": [
+        "Kiyim organizmga zararli ta'sir ko'rsatmasligi shart. Bolalar kiyimi uchun kimyoviy tola ulushi cheklanadi, migratsiya, hid va toksiklik ko'rsatkichlari baholanadi, sanitariya-gigiyenik sertifikatsiz sotuvga ruxsat berilmaydi [2].",
+        "Kiyim materiali elektrostatik zaryadlarni mumkin qadar kam saqlaydigan, organizmga ta'sir qiladigan mayda zarrachalarni (chang, bakteriyalar) o'tkazmaydigan bo'lishi kerak. Kiyimni yuvish va tozalash oson bo'lishi lozim [1, 2]."
+      ]
+    },
+    {
+      "heading": "Gigiyenik talablar jamlanmasi",
+      "content": [
+        "Kiyim yil fasliga, odamning jinsi, yoshi, gavdasi, bo'yi va ishning xususiyatiga mos bo'lishi shart. U quruq va nam holatda yaxshi havo o'tkazishi, namni (terni) shimib tez qurishi, quyosh nurini qaytarishi, badanga yopishib turmasligi va elektrostatik zaryadlardan holi bo'lishi kerak [1].",
+        "Qishlik kiyimning issiqlik o'tkazish xususiyati kam bo'lishi kerak. Kech kuz va qishda faqat bir qavat ichki kiyim yetarli emas, kiyim qavatlari orasida havo almashinuvi uchun uni bir oz kengroq tikish lozim [1]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "Kiyim himoya, issiqlik tartibini ta'minlash va qulay mikroiqlim yaratish vazifalarini bajaradi, shu sababli uning gigiyenik qiymati katta. Kiyim fasl, yosh, jins va ish xususiyatiga mos, havo va namni o'tkazuvchi, elektrostatik zaryadsiz, yengil va qulay bo'lishi, bolalar uchun esa kimyoviy tola ulushi cheklangan va xavfsiz bo'lishi kerak [1, 2]."
+      ]
+    }
+  ],
+  "references": [
+    "Do'schanov B.A., Iskandarova Sh.T. Umumiy gigiyena: tibbiyot oliy o'quv yurtlari talabalari uchun darslik, 4-nashr. Toshkent: Yangi asr avlodi. xayrullokomilov.uz/kutubxona, material ID 2767. 2008.",
+    "O'zbekiston Respublikasi Bosh davlat sanitariya vrachi. Bolalar va o'smirlar kiyimiga qo'yiladigan gigiyenik talablar: SanPiN № 0235-07 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 614. 2007."
+  ]
+}

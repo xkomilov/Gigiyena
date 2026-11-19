@@ -1,0 +1,57 @@
+{
+  "number": 109,
+  "title": "109. Umumta'lim muassasalarida o'quvchilar ovqatlanishini tashkil qilishga qanday talablar qo'yiladi, aytib bering.",
+  "sections": [
+    { "heading": "Kirish", "content": [
+      "To'g'ri tashkil etilgan va ratsional ovqatlanish o'quvchilarning salomatligini saqlovchi muhim omil hisoblanadi. Umumta'lim muassasalarida ovqatlanishni tashkil etishga qo'yiladigan sanitariya talablari oshxonaning joylashuvi, jihozlanishi, texnologiya, mahsulot saqlash, issiq ovqat berish, mikronutriyentlar tanqisligining oldini olish, ichimlik rejimi va xodimlar gigiyenasini qamrab oladi [1].",
+      "Ushbu mavzuda oshxona xonalarini rejalashtirish, suv ta'minoti, issiq ovqat berish tartibi, taom tayyorlash texnologiyasi, haroratga qo'yiladigan talablar, vitaminlashtirish, ichimlik rejimi va xodimlar gigiyenasi bo'yicha asosiy talablar bayon etiladi [1, 2]."
+    ]},
+    { "heading": "Oshxonani rejalashtirish va joylashtirish", "content": [
+      "Ta'lim muassasalarining oshxonalarini rejalashtirishda taomlarning xavfsiz tayyorlanishi, oziq qiymatining saqlanishi va xavfsiz tarqatilishini ta'minlovchi mahsulotlarga ishlov berish xonalari, texnologiya, uskuna va jihozlar majmuasi ko'zda tutiladi. Buffetlarda taomlarni xavfsiz tarqatish, issiq ichimliklar tayyorlash va ayrim taomlarni tayyorlash uchun maxsus xonalar bo'lishi shart [1].",
+      "Xom ashyo, yarim tayyor mahsulot va tayyor mahsulot, toza va ishlatilgan idish, xodimlar va o'quvchilar oqimlarining kesishmasligi ta'minlanadi. Chiqindi yig'ish maydonchasi qattiq qoplamali, qopqoqli alohida konteynerlar bilan jihozlanib, oshxona, boshqa binolar, sport maydonchalari kirish joyi va derazalarigacha kamida 25 m masofada joylashadi [1]."
+    ]},
+    { "heading": "Suv ta'minoti va sanitariya jihozlari", "content": [
+      "Taom tayyorlash, idish va xonalarni tozalash hamda shaxsiy gigiyena uchun sarflanadigan issiq va sovuq suv sifati ichimlik suvi bo'yicha O'zDSt 950:2011 talablariga javob berishi kerak. Barcha ishlab chiqarish sexlariga sovuq va issiq suvli rakovina va vannalar o'rnatiladi [1].",
+      "Ovqatlanish zaliga kirishda har 20 o'ringa 1 ta qo'l yuvish rakovinasi o'rnatiladi, uning chetining polidan balandligi 1-4-sinf o'quvchilari uchun 0,7 m, 5-11-sinflar uchun 0,8-1,0 m bo'lishi tavsiya etiladi. Rakovinalar yonida kamida 2 ta elektr quritgich yoki bir martalik sochiqlar bo'ladi [1]."
+    ]},
+    { "heading": "Issiq ovqat berish tartibi", "content": [
+      "O'quvchilarga issiq ovqat berish pishirib tayyor holga yetkazilgan, porsiyalarga ajratilgan issiq suyuq yoki quyuq taomlarni tarqatishni nazarda tutadi. Taomlar sinflar bo'yicha o'quv tartibiga muvofiq 20 daqiqalik katta tanaffuslarda beriladi [1].",
+      "Uzaytirilgan kun guruhlarida uch mahal ovqat tashkil etiladi: nonushta 2-3-tanaffusda, tushlik soat 13-14 da, tushki yengil ovqat 16-17 da. Internat tipidagi muassasalarda ovqatlanish kun tartibiga muvofiq tashkil etilib, har bir sinfga oshxonada alohida stollar biriktiriladi [1, 2]."
+    ]},
+    { "heading": "Xodimlar va o'quvchilar ishtiroki", "content": [
+      "O'quvchilarni oshxonaning ishlab chiqarish xonalariga kiritish, ovqat pishirish, sabzavotlarni tozalash, tayyor taomni suzish, non kesish, idish yuvish va binoni yig'ishtirish ishlariga jalb qilish mumkin emas. Lavozim majburiyatiga kirmaydigan xodimlar ham taomlarni tayyorlash, porsiyalash va tarqatishda ishtirok etmaydi [1].",
+      "Oshxonaga begona shaxslar kiritilmaydi. Ovqatlanish zalida stollar oldindan tayyorlanadi yoki tarqatish lentasi orqali xizmat ko'rsatiladi, bu o'quvchilar qatnashuvini minimal darajada cheklaydi [1]."
+    ]},
+    { "heading": "Xom ashyoga ishlov berish", "content": [
+      "Xom go'sht va parrandaga ishlov berish uchun alohida stol va uskunalar ajratiladi. Muzlatilgan baliq ishlov berish stollarida yoki 12 °C dan yuqori bo'lmagan, litriga 7-10 g tuz qo'shilgan suvda eritiladi, baliq va uning fileasi oqar suvda eritilmaydi. Muzdan tushirilgan mahsulotlar qayta muzlatilmaydi [1].",
+      "Sabzavotlarga ishlov berish saralash, yuvish va tozalashni qamrab oladi, tozalangan sabzavotlar oqar suvda kamida 5 daqiqa qayta yuviladi. Tozalangan kartoshka va sabzavotlar 2 soatdan ortiq saqlanmaydi, salat uchun xom sabzavot va ko'katlar 3 foizli sirka kislotasi yoki 10 foizli osh tuzi eritmasida 10 daqiqa ushlab, oqar suvda chayiladi [1]."
+    ]},
+    { "heading": "Tuxum va taom tayyorlash", "content": [
+      "Tuxumga ishlov berish alohida xonada yoki go'sht-baliq sexining maxsus joyida, belgi qo'yilgan vanna va idishlarda o'tkaziladi. Tuxum 1-2 foizli kalsiy sodasi eritmasi, so'ng 0,5 foizli xloramin eritmasi bilan ishlanib, oqar suvda kamida 5 daqiqa chayiladi. Tuxum suv qaynagandan keyin 10 daqiqa pishiriladi [1].",
+      "Taomlarni frityurda qovurish mumkin emas. Omlet va zapekankalar duxovkada tayyorlanadi: qalinligi 2,5-3 sm gacha omlet 180-200 °C da 8-10 daqiqa, qalinligi 3-4 sm gacha zapekanka 220-280 °C da 20-30 daqiqa. Guruch va makaron gazaklari 1:6 dan kam bo'lmagan suvda qaynatiladi [1]."
+    ]},
+    { "heading": "Harorat va saqlash muddatlari", "content": [
+      "Tayyor birinchi va ikkinchi taomlar marmitda yoki issiq plitada yoxud termoslarda tayyorlangan vaqtdan 2 soatgacha saqlanadi, sovib qolgan taomlar isitilmaydi. Tarqatilayotgan issiq taomlar (sho'rva, sous, ichimlik) harorati 75 °C dan, ikkinchi taom va garnirlar 65 °C dan past bo'lmasligi, sovuq sho'rva va ichimliklar 14 °C dan oshmasligi kerak [1].",
+      "Sovuq salatlar porsiyalangan holda +2 +4 °C li sovutiladigan peshtaxtada joylashtirilib, bir soat ichida tarqatiladi. Salatlar bevosita tarqatishdan oldin tayyorlanadi va tuzlanadi, ularga smetana, mayonez va sirka kislotasi qo'shilmaydi, qaynatilgan salat sabzavotlari +2 +4 °C da 6 soatgacha saqlanadi [1]."
+    ]},
+    { "heading": "Vitamin va mikroelementlar tanqisligining oldini olish", "content": [
+      "Namunaviy taomnoma tuzishda ovqatlanish ratsioni orqali vitamin va mineral tuzlarning kirishi sanitariya qoidalarida ko'rsatilgan miqdorda hisobga olinadi. Ratsionni mikronutriyentlar bilan boyitish uchun taomnomaga maxsus oziq-ovqat mahsulotlari, vitaminlashtirilgan instant ichimliklar kiritilishi va uchinchi taomlar vitamin-mineral aralashmalar bilan vitaminlashtirilishi tavsiya etiladi [1].",
+      "Taomlarni vitaminlashtirish tibbiyot xodimi nazorati ostida amalga oshiriladi, vitaminlashtirilgan taomni isitish tavsiya etilmaydi. Vitaminlashtirish o'rniga drajelar, tabletkalar yoki pastillalar ko'rinishidagi polivitamin preparatlarni qo'llash mumkin emas, muassasa rahbariyati ota-onalarni bu ishlar haqida xabardor qiladi [1]."
+    ]},
+    { "heading": "Ichimlik rejimi", "content": [
+      "O'quvchilar markazlashgan suv ta'minoti tizimlaridagi suv sifati talablariga mos toza ichimlik suvi bilan ta'minlanadi. Ichimlik rejimi statsionar ichimlik favvoralari, idishlardagi qaynatilgan suv yoki qadoqlangan suv ko'rinishida tashkil etiladi, o'quvchilar muassasada bo'lgan butun vaqt davomida suvdan foydalana oladi [1].",
+      "Statsionar favvoralar vertikal suv oqimi atrofida kamida 10 sm li chegaralovchi doiraga ega bo'ladi. Idishdagi suv bilan tashkil etilsa, oshxonada chinni yoki fayans, o'quv xonalari va yotoqxonalarda bir martalik stakanlar yetarli miqdorda bo'lishi, bir martalik idish yig'ish uchun maxsus konteynerlar mavjud bo'lishi shart [1]."
+    ]},
+    { "heading": "Xodimlar gigiyenasi va nazorat", "content": [
+      "Oshxona har bir ishchisi kamida uch komplekt maxsus ish kiyimi (xalat yoki kurtka, fartuk, shim, bosh kiyim, sirpanmaydigan poyabzal) bilan ta'minlanadi. Qo'llar ishdan oldin, hojatxonadan keyin va faoliyat turini almashtirganda sovun bilan yuviladi, ishlab chiqarish vannalarida qo'l yuvish mumkin emas [1].",
+      "Ishchi shamollash, oshqozon-ichak kasalligi yoki oilasida ichak infeksiyasi, yiringli yara va kuyishlar haqida ma'muriyatni ogohlantirishi va tibbiy yordamga murojaat qilishi shart. Oshxona kiyimi bilan ko'chaga yoki hojatxonaga chiqish, ish joyida ovqatlanish va chekish qat'iyan man etiladi [1]."
+    ]},
+    { "heading": "Xulosa", "content": [
+      "Umumta'lim muassasalarida ovqatlanishni tashkil etish oshxona xonalari va suv ta'minoti, xom ashyo va taomlarga ishlov berish, harorat va muddatlar, vitaminlashtirish, ichimlik rejimi hamda xodimlar gigiyenasi talablariga rioya qilishni birlashtiradi. Ular o'quvchilar salomatligini va ovqat xavfsizligini ta'minlaydi [1, 2]."
+    ]}
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi xizmati. Umumiy o'rta, o'rta maxsus, professional ta'lim muassasalarida o'quvchilar ovqatlanishini tashkil etishning sanitariya qoidalari, normalari va gigiyena normativlari: № 0017-21 SanPiN. Toshkent. xayrullokomilov.uz/kutubxona, material ID 887. 2021.",
+    "O'zbekiston Respublikasi Bosh davlat sanitariya vrachi. Umumta'lim maktablarida o'qitish sharoitlari va tashkil etilishiga qo'yiladigan sanitariya-epidemiologik talablar: SanPiN № 0341-16 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 742. 2016."
+  ]
+}
