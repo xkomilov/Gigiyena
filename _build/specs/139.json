@@ -1,0 +1,108 @@
+{
+  "number": 139,
+  "title": "139. O'yinlar va o'yinchoqlarni gigiyenik tekshirishning qanday uslublarini bilasiz?",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "O'yin va o'yinchoqlar ishlab chiqarish va sotishga faqat tasdiqlangan usullar bo'yicha o'tkazilgan gigiyenik baholash natijalari asosida ruxsat etiladi. Baholash laboratoriya va tabiiy sharoitlarda olingan ma'lumotlarga tayanadi [1, 2].",
+        "Ushbu mavzuda organoleptik, jismoniy va mexanik, sanitariya-kimyoviy, toksikologik-gigiyenik, mikrobiologik va radiologik tekshiruv usullari, modelli muhitlar, tadqiqot hajmi va natijalarni rasmiylashtirish bayon etiladi [1, 2, 3]."
+      ]
+    },
+    {
+      "heading": "Umumiy tamoyillar",
+      "content": [
+        "Gigiyenik baholash organoleptik, sanitariya-kimyoviy va toksikologik tadqiqotlar natijalariga asoslanadi. Tadqiqotlar laboratoriya va tabiiy sharoitlarda tasdiqlangan usullar bo'yicha o'tkaziladi [2].",
+        "Tadqiqot hajmi har bir aniq holatda ishlatilgan xom ashyo, materiallar, butlovchi buyumlar va o'yin yoki o'yinchoqdan foydalanish sharoitiga qarab belgilanadi. Birorta ko'rsatkich bo'yicha nomuvofiqlik topilsa, keyingi tadqiqotlar to'xtatiladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Qamrab olinadigan ko'rsatkichlar",
+      "content": [
+        "Gigiyenik xavfsizlik talablari organoleptik ko'rsatkichlarni (hid, ta'm), jismoniy omillarni, sanitariya-kimyoviy ko'rsatkichlarni, toksikologik-gigiyenik ko'rsatkichlarni (shilliq qavatga bezovta qiluvchi ta'sir, toksiklik indeksi) va mikrobiologik ko'rsatkichlarni o'z ichiga oladi [1].",
+        "Jismoniy omillarga tovush darajasi, elektrostatik, elektromagnit va elektr maydon kuchlanganligi, infraqizil nurlanish oqimi intensivligi, mahalliy tebranish darajasi va tabiiy radionuklidlarning solishtirma samarali faolligi kiradi [1]."
+      ]
+    },
+    {
+      "heading": "Organoleptik usul",
+      "content": [
+        "Organoleptik tadqiqotda namunaning tashqi ko'rinishi, sirt xususiyati (quruq, yopishqoq, silliq, g'adir-budir, notekis), nuqsonlari va hidi qayd etiladi. Hidni kamida 5 kishilik komissiya xona haroratida baholaydi [2].",
+        "Hid xarakteri tavsiflanadi (begona, yoqimsiz, o'ziga xos aromatik, noaniq), intensivligi esa 0-5 ballik shkala bo'yicha ifodalanadi. Hid o'yinchoqning o'zida ham, suvli ajratmada ham aniqlanadi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Qoplamalar chidamliligini aniqlash",
+      "content": [
+        "Himoya-bezak qoplamasining nam ishlovga chidamliligi o'yinchoqni 37 ± 2 °C issiq suvda neytral sovun yoki sintetik yuvish vositasi bilan 3 daqiqa yuvish orqali tekshiriladi. Yuvish mexanik ishlovsiz bajariladi, so'ng distillangan suvda chayiladi va xona haroratida quritiladi [2].",
+        "Tekshiruvdan keyin o'yinchoqning tashqi ko'rinishi o'zgarmasligi kerak. So'lak va terga chidamlilik yumshoq to'ldirilgan o'yinchoqlardan tashqari barcha o'yinchoqlarda aniqlanadi [2]."
+      ]
+    },
+    {
+      "heading": "Mexanik va fizik usullar",
+      "content": [
+        "O'yinchoq va uning qismlari mexanik yuklamalarga bardosh berishi va buzilmasligi kerak. Detallarning mahkamlanish mustahkamligi tekshiriladi: burun va ovoz qurilmasi kabi qismlar 10 kg kuch ta'sirida ajralmasligi shart [1, 3].",
+        "Detal o'lchamlari ham tekshiriladi: yig'iladigan o'yinchoqlarda diametri 32 mm dan kichik detal, shaqildoq to'ldirgichlarida 5 mm dan kichik zarra, snaryad uchlarida 20 mm dan kichik himoya bo'lmasligi kerak. Sinov usullari tegishli standartlarda berilgan [1, 3]."
+      ]
+    },
+    {
+      "heading": "Jismoniy omillarni o'lchash",
+      "content": [
+        "Ovozli o'yinchoqlar uchun ekvivalent va maksimal tovush darajasi o'lchanadi: uch yoshgacha 60 va 70 dBA, 3-6 yoshda 65 va 75 dBA, 6 yoshdan katta bolalar uchun 70 va 80 dBA. Ochiq havo o'yinchoqlari uchun ekvivalent daraja 75 dBA, impulsli tovush uchun maksimal daraja 90 dBA [1].",
+        "Elektrostatik maydon o'yinchoq sirtida 15 kV/m dan oshmasligi, sanoat chastotasi (50 Gts) elektr maydoni 0,5 kV/m dan, infraqizil nurlanish oqimi 100 Vt/m² dan, tabiiy radionuklidlar solishtirma faolligi 370 Bk/kg dan oshmasligi aniqlanadi [1]."
+      ]
+    },
+    {
+      "heading": "Sanitariya-kimyoviy usul",
+      "content": [
+        "Polimer materiallardan tayyorlangan o'yinchoqlarda og'ir metallar o'yinchoq massasida, kimyoviy uchuvchi moddalar esa modellashtirilgan ishlatish sharoitida havo va suv muhitida aniqlanadi [2].",
+        "Zararli moddalar ajralishi quyidagi materiallardan tekshiriladi: polimer va shunga o'xshash materiallar, qog'oz va karton, to'qimachilik materiallari, shimdirilgan yog'och va teri, og'iz bilan tegadigan metall, iz qoldirish uchun mo'ljallangan materiallar, shakllanadigan massa va gellar, qattiq va suyuq bo'yoqlar, rezina hamda bo'yoq va lak qoplamalari [2]."
+      ]
+    },
+    {
+      "heading": "Havo va suv muhitida aniqlash",
+      "content": [
+        "Havoga ajraladigan uchuvchi kimyoviy moddalar 20 va 37 °C haroratda, 1 hajm/soat havo almashinuvida va xona namunalar bilan 100 g/m³ to'yinganligida aniqlanadi. Namuna shisha kamerada dinamik muvozanat (24-48 soat) o'rnatilguncha ushlanadi [2].",
+        "Suv muhitiga ajraladigan moddalar 37 °C da 3 soat ushlab turish bilan, namuna massasi va suv hajmi nisbati 1:10 bo'lganda aniqlanadi. Aniqlash uchun sanitariya kimyosining umumiy qabul qilingan usullari, asosan gaz xromatografiyasi qo'llanadi [2]."
+      ]
+    },
+    {
+      "heading": "Elementlar va moddalar bilan taqqoslash",
+      "content": [
+        "Aniqlangan konsentratsiyalar atmosfera havosidagi chegaraviy konsentratsiyalar bilan taqqoslanadi: formaldegid uchun 0,003 mg/m³, stirol uchun 0,02 mg/m³. Suv muhitida ular migratsiyaning ruxsat etilgan miqdori (RMM) bilan taqqoslanadi: formaldegid 0,1 mg/dm³, stirol 0,01 mg/dm³ [2].",
+        "Zararli elementlar (bariy, kadmiy, margimush, simob, qo'rg'oshin, xrom) tuz kislotasi eritmasiga ajralish bo'yicha ham baholanadi. Natija 1 kg o'yinchoq materiali hisobiga mg bilan beriladi [1]."
+      ]
+    },
+    {
+      "heading": "Toksikologik usul",
+      "content": [
+        "Toksikologik-gigiyenik baholash o'yinchoqning shilliq qavatga bezovta qiluvchi ta'sirini, mahalliy teri bezovta qiluvchi ta'sirini va toksiklik indeksini aniqlaydi. Indeks suv muhitida 70-120 %, havo muhitida 80-120 % bo'lishi kerak [1].",
+        "Yangi turdagi materiallar uchun toksikologik tadqiqotlar majburiy, ularga organoleptik va sanitariya-kimyoviy tekshiruvlar oldin o'tkaziladi. Tadqiqot hajmi amaldagi usullar bo'yicha belgilanadi [2]."
+      ]
+    },
+    {
+      "heading": "Mikrobiologik va radiologik usullar",
+      "content": [
+        "Mikrobiologik ko'rsatkichlar mezofil aerob va fakultativ anaerob bakteriyalar soni, xamirturush, xamirturushsimon va mog'or zamburug'lari, ichak tayoqchalari oilasi bakteriyalari, patogen stafilokokklar va ko'k yiring tayoqchasi bo'yicha aniqlanadi [1].",
+        "Radiatsion xavfsizlik tabiiy materiallardan tayyorlangan yoki ularni o'z ichiga olgan o'yinchoqlarda baholanadi, radiatsiya gigiyenasida qabul qilingan usullar va normativlar qo'llanadi [3]."
+      ]
+    },
+    {
+      "heading": "Natijalarni rasmiylashtirish",
+      "content": [
+        "Tadqiqot natijalari yozma ravishda rasmiylashtiriladi: namuna nomi va qisqacha tavsifi, tayyorlangan va tekshiruvga kelgan sana, ishlab chiqaruvchi korxona, natijalar va umumiy xulosa. Sinov natijalarida qo'llangan usul, erituvchi va sinov sanasi ko'rsatiladi [2].",
+        "Natija ijobiy bo'lsa, gigiyenik sertifikat yoki sanitariya-epidemiologik xulosa beriladi. Salbiy bo'lsa, ishlab chiqarish yoki sotish to'xtatiladi yoki taqiqlanadi [2]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "O'yin va o'yinchoqlarni gigiyenik tekshirish organoleptik, mexanik va jismoniy, sanitariya-kimyoviy, toksikologik, mikrobiologik va radiologik usullardan iborat. Ular modelli muhitlarda (distillangan suv, havo) tasdiqlangan sharoitlarda o'tkaziladi va natijalar gigiyenik xavfsizlik chegaralari bilan solishtiriladi [1, 2, 3]."
+      ]
+    }
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. Bolalar uchun o'yinchoqlar (o'yinlar) xavfsizligiga qo'yiladigan gigiyenik talablar: SanPiN № 0354-18 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 752. 2018.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. O'yinchoqlar (o'yinlar) xavfsizligiga qo'yiladigan sanitariya-gigiyenik talablar: SanPiN № 0287-10 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 686. 2010.",
+    "Kuchma V.R. Bolalar va o'smirlar gigiyenasi: o'quv qo'llanma (rus tilida). xayrullokomilov.uz/kutubxona, material ID 2301. 2010."
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "number": 137,
+  "title": "137. Bolalar o'yinchoqlarining qadoqlash materiallariga talablar.",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Qadoq o'yinchoqni tashish, saqlash va sotishda himoya qiladi, shu bilan birga bola va ota-ona qadoq bilan ham tegadi. Qadoq materiali, o'lchami va ma'lumotlari bola salomatligi uchun xavf tug'dirmasligi kerak, shu sababli unga ham gigiyenik talablar qo'yiladi [1, 2].",
+        "Ushbu mavzuda o'yinchoq qadoqlarining xavfsizlik talablari, ishlatiladigan materiallarning kimyoviy va mikrobiologik xavfsizligi, bo'g'ilish xavfini istisno qilish, oziq-ovqat bilan birga sotiladigan o'yinchoqlar qadog'i, saqlash va tashish shartlari bayon etiladi [1, 2, 3]."
+      ]
+    },
+    {
+      "heading": "Qadoqning vazifasi",
+      "content": [
+        "O'yinchoq xavfsizligini ta'minlash bir necha bosqichdan iborat: ishlab chiqarish, qadoqlash, tashish, saqlash va sotish. Sanitariya qoidalari ishlab chiqarish va sotishga, shuningdek chet eldan olib kirishga tatbiq etiladi [1, 3].",
+        "Qadoq o'yinchoqni ifloslanishdan, namlikdan va mexanik shikastlanishdan himoya qiladi. Iste'mol qadog'ida yoki qo'shimcha varaqchada o'yinchoq mo'ljallangan bolalar yoshi ko'rsatiladi [2]."
+      ]
+    },
+    {
+      "heading": "Qadoqlash va saqlash qoidalari",
+      "content": [
+        "O'yinchoqlarni markirovka qilish, qadoqlash, tashish va saqlash tartibi GOST 24972-93 («O'yinchoqlar. Markirovka, qadoqlash, tashish va saqlash») bilan tartibga solinadi.",
+        "Qadoqlash bo'yicha qoidalar o'yinchoqlarning sifatini baholash va uni aylanmaga chiqarishda qo'llanadi. Ular bilan birga o'yinchoq xavfsizligining umumiy talablari va sinov usullari alohida standartlar bilan belgilanadi [1]."
+      ]
+    },
+    {
+      "heading": "Oziq-ovqat bilan sotiladigan o'yinchoqlar",
+      "content": [
+        "Oziq-ovqat mahsulotida joylashgan yoki chakana savdoga oziq-ovqat bilan birga tushadigan o'yinchoq o'zining alohida qadog'iga ega bo'lishi kerak. Alohida qadoq o'yinchoqni oziq-ovqat bilan bevosita tegishdan ajratadi [1].",
+        "Bu qadoqning o'lchami bolani bo'g'ilish xavfiga solmasligi shart. Plastmassa o'yinchoqni oziq-ovqat qadog'ining tashqi tomoniga qadoqsiz joylashtirishga ruxsat beriladi [1]."
+      ]
+    },
+    {
+      "heading": "Bo'g'ilish xavfi",
+      "content": [
+        "O'yinchoq va uning qismlari bola uchun bo'g'ilish xavfini istisno qilishi kerak. Oziq-ovqat bilan birga tushadigan o'yinchoq qadog'ining o'lchami bo'g'ilish xavfini tug'dirmasligi kerak [1].",
+        "Havo o'tkazmaydigan materialdan tayyorlangan, boshni to'liq yopadigan niqoblar va dubulg'alar yetarli shamollatilmasligi natijasida bo'g'ilish xavfini tug'dirmasligi uchun loyihalanadi. Qadoq materiallarida ham shu tamoyil saqlanadi [1]."
+      ]
+    },
+    {
+      "heading": "Polimer plyonkalar",
+      "content": [
+        "Uch yoshgacha bo'lgan bolalar o'yinchoqlarida dublyajlanmagan, qalinligi 0,038 mm dan kichik polimer plyonkalar ishlatilmaydi.",
+        "Polimer plyonkalar (polivinilxlorid, polietilen, polietilen-poliamid, selofan) o'yinchoq ishlab chiqarishda qo'llanadi va ular ham kimyoviy migratsiya bo'yicha tekshiriladi. Plyonka qalinligi va ishlov berish usuli gigiyenik baholashda hisobga olinadi [2]."
+      ]
+    },
+    {
+      "heading": "Qog'oz va karton",
+      "content": [
+        "Uch yoshgacha bo'lgan bolalar o'yinchoqlarida qog'oz va karton ishlatilmaydi. Qadoqlashda qog'oz va kartondan foydalanilganda ularning kimyoviy xavfsizligi qog'oz va karton uchun belgilangan jadval bo'yicha baholanadi [1].",
+        "Qog'oz va kartondan 1 kg massaga bariy 1000 mg, kadmiy 75 mg, margimush 25 mg, simob 60 mg, qo'rg'oshin 90 mg, xrom 60 mg dan ko'p ajralmasligi, suv muhitida formaldegid 0,1 mg/dm³ dan, havoda 0,003 mg/m³ dan oshmasligi kerak [1]."
+      ]
+    },
+    {
+      "heading": "Bo'yoq va bosma",
+      "content": [
+        "Stol-bosma o'yinchoqlarda va qog'oz buyumlarda matn va rasmlar aniq va kontrastli bo'lishi kerak. Qog'oz va kartondagi bo'yoqning ketishi (otmarivaniye) ruxsat etilmaydi [1].",
+        "Bo'yoq qoplamalari uchun so'lak va terga chidamlilik talabi o'yinchoqning o'ziga tatbiq etiladi. Shaqildoq va og'iz bilan tegadigan o'yinchoqlarning sirtini bo'yash va rasm solish taqiqlanadi [1]."
+      ]
+    },
+    {
+      "heading": "Kimyoviy xavfsizlik",
+      "content": [
+        "Qadoq materialining kimyoviy xavfsizligi migratsiya ko'rsatkichlari bilan baholanadi. Polimer materiallar kimyoviy moddalar ajratishi mumkin: formaldegid, stirol, akrilonitril va benzol 2-xavf sinfiga, ftalatlar va ksilollar 3-xavf sinfiga kiradi [3].",
+        "Uch yoshgacha bo'lgan bolalar o'yinchoqlarida 1-xavf sinfidagi moddalar migratsiyasi taqiqlanadi. Modelli muhit sifatida distillangan suv qo'llanadi, ajralgan moddalar gaz xromatografiyasi bilan aniqlanadi [1, 3]."
+      ]
+    },
+    {
+      "heading": "Mikrobiologik xavfsizlik",
+      "content": [
+        "O'yinchoq va uning materiallari mikrobiologik ko'rsatkichlar bo'yicha baholanadi. Bir yoshgacha bo'lgan bolalar to'ldirgichli o'yinchoqlari, shakllanadigan massalar va barmoq bilan chiziladigan bo'yoqlarda mezofil aerob bakteriyalar 1·10² KOE/g dan oshmaydi [1].",
+        "Bunday mahsulotlarda ichak tayoqchalari oilasi, patogen stafilokokklar va ko'k yiring tayoqchasi, shuningdek zamburug'lar bo'lmasligi kerak. Shu sababli bu o'yinchoqlar qadog'i toza, ifloslanmagan holda bo'lishi shart [1]."
+      ]
+    },
+    {
+      "heading": "Ombor va savdo xonalari",
+      "content": [
+        "Savdo va ombor xonalari o'yinchoqlarni saqlash va sotishga mo'ljallangan bo'lib, madaniy-maishiy tovarlarni saqlash va sotish xonalariga qo'yiladigan talablarga javob beradi [3].",
+        "O'yinchoq tayyorlash, nazorat qilish va sotish bilan band xodimlarda sog'lig'i bo'yicha qarshi ko'rsatmalar bo'lmasligi kerak. Savdoda namoyish uchun alohida namuna bo'ladi, og'iz bilan tegishi mumkin bo'lgan o'yinchoqlar lablarga tegizilmaydi [2, 3]."
+      ]
+    },
+    {
+      "heading": "Gigiyenik baholash uchun ma'lumotlar",
+      "content": [
+        "Gigiyenik baholash uchun normativ-texnik ma'lumotlar, o'yinchoq namunalari va ishlatilgan materiallar retsepturasi topshiriladi. Namunalar soni tadqiqot hajmiga qarab kelishiladi, eng kami 3 ta [3].",
+        "Namunalar seriyali ishlab chiqarishda qo'llaniladigan texnologiya bo'yicha tayyorlanadi va tayyorlanganidan keyin 10 kundan oldin, 30 kundan kechikmay topshiriladi. Zarur bo'lsa korxona texnologik jarayon tavsifini beradi [3]."
+      ]
+    },
+    {
+      "heading": "Ishlab chiqaruvchining kafolati",
+      "content": [
+        "O'yinchoq ishlab chiqaruvchi korxona mahsulotning bola salomatligi uchun xavfsizligini kafolatlashi kerak. Mahsulot xavfsizligi tegishli xulosa bilan tasdiqlanadi [2, 3].",
+        "Ilgari o'rganilmagan yangi turdagi materiallar uchun toksikologik tadqiqot o'tkaziladi, undan oldin organoleptik va sanitariya-kimyoviy tekshiruvlar bajariladi. Yangi material faqat shundan keyin ishlatiladi. Toksikologik tadqiqot uchun ajratmalar tayyorlash sharoitlari sanitariya-kimyoviy tekshiruvdagi bilan bir xil bo'ladi [3]."
+      ]
+    },
+    {
+      "heading": "Sertifikat va nazorat",
+      "content": [
+        "Respublikada sotiladigan va olib kiriladigan o'yinchoqlar gigiyenik sertifikatlashga tortiladi. Chet eldan olib kirilgan mahsulot uchun uning bolalar salomatligiga zararsizligini tasdiqlovchi sertifikat taqdim etiladi [3].",
+        "Sanitariya vrachi qadoqlash materiallarining xavfsizligini ishlab chiqarish va savdo bosqichlarida tekshiradi. Talabga javob bermagan o'yinchoqlar sotuvdan olinadi, bu haqda yuqori turuvchi sanitariya-epidemiologik nazorat organlari xabardor qilinadi [3]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "O'yinchoq qadog'i bola uchun xavfsiz bo'lishi kerak: u bo'g'ilish xavfini tug'dirmasligi, kimyoviy va mikrobiologik ko'rsatkichlar bo'yicha talablarga javob berishi, oziq-ovqat bilan sotiladigan o'yinchoqlar uchun alohida bo'lishi lozim. Qadoqlash, tashish va saqlash GOST 24972-93 bilan tartibga solinadi, ma'lumotlar (mo'ljallangan yosh) iste'mol qadog'ida ko'rsatiladi [1, 2, 3]."
+      ]
+    }
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. Bolalar uchun o'yinchoqlar (o'yinlar) xavfsizligiga qo'yiladigan gigiyenik talablar: SanPiN № 0354-18 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 752. 2018.",
+    "Kuchma V.R. Bolalar va o'smirlar gigiyenasi: o'quv qo'llanma (rus tilida). xayrullokomilov.uz/kutubxona, material ID 2301. 2010.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. O'yinchoqlar (o'yinlar) xavfsizligiga qo'yiladigan sanitariya-gigiyenik talablar: SanPiN № 0287-10 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 686. 2010."
+  ]
+}
