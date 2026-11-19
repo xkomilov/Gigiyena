@@ -1,0 +1,101 @@
+{
+  "number": 151,
+  "title": "151. Shovqinni o'lchash uchun ishlatiladigan jihozlar. O'lchash texnikasi.",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Ishlab chiqarish shovqinini gigiyenik baholash uchun uning jadalligi va spektr tarkibini o'lchash zarur. Buning uchun maxsus asboblar, ya'ni shovqin o'lchagichlar (shumomerlar) va tovush analizatorlari qo'llanadi, o'lchash esa belgilangan texnikaga muvofiq o'tkaziladi [1, 2, 3].",
+        "Ushbu mavzuda shovqin o'lchagich turlari, aniqlik sinflari, oktava filtrlari, o'lchash nuqtalarini tanlash, mikrofon joylashuvi, infratovush va ultratovushni o'lchash hamda natijalarni hisoblash tartibi bayon etiladi [1, 2, 3]."
+      ]
+    },
+    {
+      "heading": "Asboblar turlari",
+      "content": [
+        "Ishlab chiqarish shovqinini o'rganish uchun shovqin o'lchagichlar va umumiy hamda spektral chastota tarkibini aniqlovchi analizatorlar ishlatiladi. Shovqin o'lchagichlar shovqin intensivligi darajasini o'lchaydi [1].",
+        "Shovqin o'lchagich mikrofon (qabul qiluvchi qism), tovush energiyasini kuchaytiruvchi va elektr signalga aylantiruvchi kuchaytirgichlar hamda detsibelda darajalangan qayd qiluvchi qismdan iborat [1]."
+      ]
+    },
+    {
+      "heading": "Mavjud asbob turlari",
+      "content": [
+        "Shovqinning chastota tarkibisiz faqat umumiy darajasini aniqlash uchun RFT (Germaniya) va «Bryul va Kyer» (Daniya) shovqin o'lchagichlari qo'llanadi. Doimiy bo'lmagan shovqinning ekvivalent darajasi RFT 00026 shovqin o'lchagichida aniqlanadi [3].",
+        "Shovqin o'lchagichlarga tovush analizatorlari o'rnatilgan bo'lsa (ISHV-1, SHVK-1, RFT 00017, VShV-003 va boshqalar), ish joyining o'zida shovqinning ikkala ko'rsatkichi, jadalligi va spektr tarkibi o'lchanadi. Oktava analizatorlari ham qo'llanadi [1, 3]."
+      ]
+    },
+    {
+      "heading": "Zamonaviy talablar",
+      "content": [
+        "Ish joylarida shovqin darajalarini o'lchash 1- yoki 2-sinf aniqlikdagi integrallovchi yoki integrallovchi-o'rtalashtiruvchi shovqin o'lchagichlar orqali amalga oshiriladi. Shovqin o'lchagichlar oktava va uchdan bir oktava filtrlari bilan jihozlangan bo'lishi kerak [2].",
+        "Doimiy bo'lmagan shovqin darajasi o'lchashda tegishli xalqaro akustika talablariga (GOST ISO 9612-2016) muvofiq bo'lishi, keng maydonli shovqin esa GOST 12.1.003-2014 ga moslashishi lozim [2]."
+      ]
+    },
+    {
+      "heading": "O'lchanadigan ko'rsatkichlar",
+      "content": [
+        "Ish joylarida shovqinni o'rganishda ish kuni davomida xodimga ta'sir qiluvchi ekvivalent tovush darajasi (8 soatlik kunga nisbatan), «sekin» (S) va «impuls» (I) rejimli vaqt tuzatmalari bilan o'lchangan A tovushning maksimal darajalari hamda vaznlangan tovush bosimining eng yuqori darajasi (dBC) aniqlanadi [2].",
+        "Doimiy shovqin 31,5; 63; 125; 250; 500; 1000; 2000; 4000 va 8000 Gts oktava polosalarida tovush bosimi darajasi bilan baholanadi. Shu sababli oktava filtrli asbob zarur [2]."
+      ]
+    },
+    {
+      "heading": "O'lchash nuqtalari",
+      "content": [
+        "O'lchashlar doimiy ish joylarida (mashinalarni boshqarish organlari oldida, pultlar oldida va kabinalar ichida) yoki mashinalarga xizmat ko'rsatish xonalarida o'tkaziladi. Ish zonasining kamida 3 ta nuqtasida o'lchash o'tkaziladi [3].",
+        "Mikrofon 1,5 m balandlikda, mashinalardan 0,5-1 m masofada (kabinalarda ularning markazida) va o'lchayotgan kishidan kamida 0,5 m uzoqlikda o'rnatiladi. Natijalar maxsus qayd varaqasiga yoziladi [3]."
+      ]
+    },
+    {
+      "heading": "Hisoblash",
+      "content": [
+        "Ish kuni (smena) davomida ta'sir qiluvchi ekvivalent tovush darajasi vaqt bo'yicha o'rtalashtirib hisoblanadi. Bunda tovush darajasining umumiy ta'sir vaqti (min) va ish kunining davomiyligi (min) hisobga olinadi [2].",
+        "Mehnat turi yoki ish joyi o'zgarsa va tovush darajalari turlicha bo'lsa, ruxsat etilgan darajaning haqiqiy qiymati ta'sir vaqtiga qarab tuzatma kiritib aniqlanadi. Shovqin yuklamasining oshib ketish ko'rsatkichi ekvivalent daraja va haqiqiy ruxsat etilgan daraja o'rtasidagi farq bilan baholanadi [2]."
+      ]
+    },
+    {
+      "heading": "Fon shovqini",
+      "content": [
+        "Doimiy ish joylarida tovush darajasi fon tovushidan 10 dBA yoki undan ko'p bo'lsa, tovush darajasi ta'sir vaqtiga qarab tuzatma bilan baholanadi. Natijalarni hisoblashda fon shovqini darajalari va har bir daraja ta'sir vaqti inobatga olinadi [2].",
+        "O'lchash natijalari ish joylaridagi o'rtacha yoki ekvivalent darajalar (dB) va fon shovqini darajalari bilan birgalikda rasmiylashtiriladi. Himoya vositalaridan foydalanilganda yuklamaning oshib ketishi ularning samaradorligi hisobga olingan holda baholanishi mumkin [2]."
+      ]
+    },
+    {
+      "heading": "Infratovushni o'lchash",
+      "content": [
+        "Infratovushni o'lchashda 2 Gts chastotali 1-sinf shovqin o'lchagich va oktava filtrlari qo'llanadi. Taxminiy baholashda 2 Gts gacha kuchaytirgich va 5 Gts gacha mikrofonli 1-sinf shovqin o'lchagichning «Lin» va «A» shkalalari bo'yicha o'lchovlardan foydalanishga ruxsat etiladi [2].",
+        "O'lchash nuqtalari ishlab chiqarish sexlarida bir-biridan 20 m, kabinalarda 3 m dan oshmagan masofada joylashtiriladi. Mikrofon pol sathidan 1,5 m balandlikda, operatordan kamida 0,5 m uzoqda, kabinalarda esa operator qulog'idan 15 sm masofada o'rnatiladi [2]."
+      ]
+    },
+    {
+      "heading": "Infratovushni o'lchash sharoiti",
+      "content": [
+        "Doimiy infratovush «Lin» dB va «A» dBA shkalalarida hamda oktava spektri bo'yicha asbobning «sekin» vaqti bilan o'lchanadi. Doimiy bo'lmagan infratovushda oktava chastotalari bo'yicha ekvivalent darajalar, impulsli jarayonlarda maksimal qiymatlar «tezkor» vaqt bilan qayd etiladi [2].",
+        "O'lchash doimiy jarayonlarda (kompressorlar) kamida 100 sekund, doimiy bo'lmaganlarda (transport harakati) kamida 300 sekund davom etadi. Havo tezligi 0,5 m/s dan oshsa shamoldan himoya ekrani qo'llanadi, 5 m/s dan yuqori bo'lsa o'lchash o'tkazilmaydi [2]."
+      ]
+    },
+    {
+      "heading": "Ultratovushni o'lchash",
+      "content": [
+        "Havo ultratovushi tovush bosimining ekvivalent darajasi bo'yicha 12,5-100 kGts oktava chastotalarida o'lchanadi. Buning uchun 1-sinf aniqlikdagi uch oktavali shovqin o'lchagich-analizator qo'llanadi [2].",
+        "O'lchash nuqtasi xodim tik turganda 1,5 m balandlikda, o'tirganda bosh balandligida bo'ladi. Mikrofon ishchining qulog'idan 5 sm, o'lchayotgan shaxsdan kamida 50 sm masofada joylashtiriladi. Kontakt ultratovush uchun porshen turidagi gidrofon va ultratovush geli qo'llanadi [2]."
+      ]
+    },
+    {
+      "heading": "Eshitish sezgirligini baholash vositalari",
+      "content": [
+        "Shovqin o'lchagichdan tashqari ish joyida shovqin ta'sirini baholash uchun eshitish tekshiruv asboblari, ya'ni audiometrlar ishlatiladi. Ularga dinamik audiometriya va differensial bo'sag'alarni aniqlash usullari asoslanadi [1, 3].",
+        "Oldin va hozir ham shovqin balandligini taxminiy baholash uchun nutq tushunarliligi aniqlanadi: ko'p xonali raqamlarning eshitilgan soni gapiruvchidan 1,5 m masofada hisobga olinadi [1]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "Shovqin 1- yoki 2-sinf aniqlikdagi integrallovchi shovqin o'lchagichlar va oktava filtrli analizatorlar bilan o'lchanadi. Mikrofon 1,5 m balandlikda, ish joyining kamida 3 nuqtasida o'rnatiladi, natijada ekvivalent daraja va oktava spektri aniqlanadi. Infratovush va ultratovush uchun maxsus chastota diapazonli asboblar va o'lchash sharoitlari belgilangan. O'lchash natijalari ruxsat etilgan darajalar bilan taqqoslanadi va shovqin yuklamasining oshib ketish ko'rsatkichi hisoblanadi [1, 2, 3]."
+      ]
+    }
+  ],
+  "references": [
+    "Iskandarova G.T. (tahrir) Mehnat gigiyenasi bo'yicha ma'ruzalar matni (rus tilida). Toshkent tibbiyot akademiyasi Kommunal gigiyena va mehnat gigiyenasi kafedrasi. Toshkent. xayrullokomilov.uz/kutubxona, material ID 2348. 2009.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi huzuridagi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi qo'mitasi. Ish joylaridagi shovqin, tebranish, infratovush va ultratovush darajalariga doir sanitariya qoidalari, normalari va gigiyena normativlari: 0111-26-son SanQvaN (2026-yil 24-martdagi 5-son qaror, o'zbek tilida, kirill yozuvida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 683. 2026.",
+    "Mehnat gigiyenasi fanidan amaliy mashg'ulotlar uchun o'quv qo'llanma (o'zbek tilida, kirill yozuvida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 1309. 2009."
+  ]
+}

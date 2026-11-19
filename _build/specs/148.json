@@ -1,0 +1,107 @@
+{
+  "number": 148,
+  "title": "148. Gigiyenik va akustik nuqtai nazardan shovqin nima?",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Shovqin ishlab chiqarishning eng keng tarqalgan zararli omillaridan biri. Sivilizatsiya rivojlanishi, texnika taraqqiyoti va yangi texnologik liniyalarning joriy etilishi bilan shovqin ta'siriga uchraydigan odamlar soni ortadi, shu sababli shovqin muammosi ijtimoiy xususiyat kasb etgan [1].",
+        "Ushbu mavzuda shovqinning akustik va gigiyenik tushunchasi, uning fizik xossalari, tasnifi, o'lchov birliklari, hosil bo'lish joylari va ish joylarida baholash ko'rsatkichlari bayon etiladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Akustik tushuncha",
+      "content": [
+        "Akustik jihatdan shovqin turli chastota va kuchdagi tovush to'lqinlarining tartibsiz aralashmasidan hosil bo'lgan tebranishdir. Ishlab chiqarish shovqini xaotik, har xil chastota, balandlik va kuchdagi tovushlar birikmasidir [1, 2].",
+        "Tovush elastik jismlar tebranishi natijasida paydo bo'lib, havoning siqilish va siyraklanish fazalari ketma-ket almashinib tarqaladi. U quloq pardasiga yetib, eshitish suyakchalari zanjiri, oval darcha va ichki quloq suyuqligi orqali Korti a'zosining tukli hujayralarini qo'zg'atadi [1]."
+      ]
+    },
+    {
+      "heading": "Gigiyenik tushuncha",
+      "content": [
+        "Gigiyenik jihatdan shovqin inson eshitish tizimi va organizmiga salbiy ta'sir ko'rsatadigan akustik tebranishdir. Uni xalaqit beruvchi, asabiylashtiruvchi, charchoq hissi tug'diradigan tovush deb ham tavsiflash mumkin [1, 2].",
+        "Shovqin har qanday nomaqbul tovush yoki bunday tovushlarning majmui sifatida ham tushuniladi [1]."
+      ]
+    },
+    {
+      "heading": "Eshitish analizatorining ahamiyati",
+      "content": [
+        "Tovush eshitish analizatorining adekvat qo'zg'atuvchisi. Ko'rish a'zosidan keyin eshitish tizimi tashqi muhitdan axborot qabul qilishda ikkinchi o'rinni egallaydi [1].",
+        "Shovqin yuqori jadallikda charchoqni, so'ng ortiqcha charchashni keltirib chiqaradi, mehnat unumdorligini va ish aniqligini pasaytiradi, axborotni qabul qilishni qiyinlashtiradi [1]."
+      ]
+    },
+    {
+      "heading": "Chastota va balandlik",
+      "content": [
+        "Inson qulog'i havo tebranishlarini faqat ma'lum chastotada, 16-20 Gts dan 20 000 Gts gacha tovush sifatida qabul qiladi. Yosh o'tgan sari qabul qilinadigan chastotalar diapazoni qisqaradi [1].",
+        "Tebranishlar chastotasi tonning balandligini belgilaydi: chastota qancha katta bo'lsa, tovush shuncha baland eshitiladi. Quloq yuqori tonlarga past tonlarga nisbatan sezgirroq, shu sababli shovqinga qarshi kurashda birinchi navbatda yuqori chastotali shovqinlar yo'qotilishi kerak [1]."
+      ]
+    },
+    {
+      "heading": "Chastota bo'yicha tasnif",
+      "content": [
+        "Ishlab chiqarish shovqini chastota bo'yicha uch sinfga bo'linadi: past chastotali (400 Gts gacha), o'rta chastotali (400-1000 Gts) va yuqori chastotali (1000 Gts dan yuqori) [1].",
+        "Past chastotali tovushlar sekin ishlaydigan, zarbsiz agregatlarda hosil bo'lib, tovush izolyatsiyasidan o'tadi. O'rta chastotali shovqin ko'pchilik stanoklar va mexanizmlarga xos. Yuqori chastotali shovqin asosan gidro- va aerodinamik bo'lib, o'ta tezkor stanoklarda paydo bo'ladi [1]."
+      ]
+    },
+    {
+      "heading": "Kelib chiqishi va vaqt xususiyati",
+      "content": [
+        "Kelib chiqishi bo'yicha shovqin mexanik (detallarning to'qnashishi, ishqalanishi) va gidro- hamda aerodinamik (bosim va oqim tezligining o'zgarishi) turlarga bo'linadi [1].",
+        "Vaqt xususiyati bo'yicha shovqin doimiy va impulsli bo'ladi. 0111-26-son SanQvaN ga muvofiq 8 soatlik ish kunida tovush darajasi 5 dBA dan ortiq o'zgarmaydigan shovqin doimiy, vaqt davomida 5 dBA dan ko'proq uzluksiz o'zgarib turadigani doimiy bo'lmagan shovqin hisoblanadi [2]."
+      ]
+    },
+    {
+      "heading": "Tonal va impulsli shovqin",
+      "content": [
+        "Shovqin tarkibida turli chastotali tovushlar bo'lib, asosiy ton ajratib bo'lmasa, tonal, tor polosali shovqin deyiladi. Doimiy shovqin to'quv stanoklari, sterjenli avtomatlar, rotatsion mashinalarda hosil bo'ladi va tovush bosimi deyarli doimiy [1].",
+        "Impulsli shovqin kamdan-kam zarbalar, masalan, bolg'alar, issiq shtamplash va kesish presslari ishidan paydo bo'ladi. Unda tovush bosimi amplitudasi deyarli bir lahzada o'zgaradi. Impulsli va yuqori chastotali tonal shovqinlar organizmga eng noqulay ta'sir qiladi [1]."
+      ]
+    },
+    {
+      "heading": "Keng maydonli shovqin",
+      "content": [
+        "Keng maydonli shovqin deb tovush chastotalari bir oktavadan kengroq oraliqda tarqalgan uzluksiz shovqinga aytiladi. Bunday shovqin ish joylarida ko'p uchraydi va 0111-26 bilan oktava polosalarida baholanadi [2].",
+        "Ish joylarida doimiy shovqin 31,5; 63; 125; 250; 500; 1000; 2000; 4000 va 8000 Gts oktava polosalaridagi tovush bosimi darajasi bilan tavsiflanadi [2]."
+      ]
+    },
+    {
+      "heading": "Tovush bosimi va kuchi",
+      "content": [
+        "Shovqinning miqdoriy bahosi tovush bosimi, ya'ni siqilish yoki siyraklanish fazasidagi havo bosimi bilan atmosfera bosimi o'rtasidagi farq bilan berilishi mumkin. Xalqaro birliklar tizimida bosim birligi paskal (Pa) [1].",
+        "Tovush to'lqini energiya tashiydi, shu sababli tovush quvvati bilan ham tavsiflanadi, birligi Vt/m². Tovush eshitilishi uchun ma'lum tovush bosimi va energiyasi kerak [1]."
+      ]
+    },
+    {
+      "heading": "Detsibel va fon",
+      "content": [
+        "Quloq bosimlar farqini emas, balki ularning karraligini ajratadi, shu sababli tovush intensivligi mutlaq bosim emas, balki daraja bilan baholanadi. Logarifmik shkala eshitish va og'riq bo'sag'alari oralig'ini 14 ta bel yoki 140 ta detsibel pog'onasiga bo'ladi [1].",
+        "Daraja kattaligini tasavvur qilish uchun: barglar shitirlashi 20 dB, shivirlab gapirish 30 dB, suhbat nutqi 65-68 dB. Turli chastotali tovushlar bir xil intensivlikda ham har xil baland eshitilgani sababli balandlik uchun nisbiy birlik fon kiritilgan [1]."
+      ]
+    },
+    {
+      "heading": "Ishlab chiqarish shovqini darajalari",
+      "content": [
+        "Ko'pchilik stanok ishlarida mexanik shovqin 75-90 dB, parchinlash ishlarida zarbali shovqin 110-115 dB, aviadvigatellarni sinashda 120-130 dB ga yetadi. Plazma gorelkalar ishida 130-140 dB shovqin hosil bo'ladi [1].",
+        "Shovqin manbalari: tog'-kon va ko'mir sanoati, metallurgiya, mashinasozlik (aviatsiya va kemasozlik), kimyo sanoati (xom ashyo maydalash), to'qimachilik, qurilish va transport ishlari [1]."
+      ]
+    },
+    {
+      "heading": "Baholash ko'rsatkichlari",
+      "content": [
+        "Ish joylarida shovqin darajasi o'rganilganda ish kuni davomida xodimga ta'sir qiluvchi ekvivalent tovush darajasi (8 soatlik ish kuniga nisbatan), «sekin» (S) va «impuls» (I) rejimlarida o'lchangan A tovush maksimal darajalari va vaznlangan tovush bosimining eng yuqori darajasi hisobga olinadi [2].",
+        "S va I rejimli A tovushning maksimal darajalari mos ravishda 110 dBA va 125 dBA dan, vaznlangan tovush bosimining eng yuqori darajasi 137 dBC dan oshmasligi kerak [2]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "Shovqin akustik jihatdan turli chastota va kuchdagi tovush to'lqinlarining tartibsiz aralashmasi, gigiyenik jihatdan eshitish tizimi va butun organizmga salbiy ta'sir ko'rsatadigan, nomaqbul tovush. U chastotasi, vaqt xususiyati, kelib chiqishi va intensivligi (dB, dBA) bilan tavsiflanadi hamda ish joylarida ekvivalent daraja va oktava polosalaridagi bosim bo'yicha baholanadi [1, 2]."
+      ]
+    }
+  ],
+  "references": [
+    "Iskandarova G.T. (tahrir) Mehnat gigiyenasi bo'yicha ma'ruzalar matni (rus tilida). Toshkent tibbiyot akademiyasi Kommunal gigiyena va mehnat gigiyenasi kafedrasi. Toshkent. xayrullokomilov.uz/kutubxona, material ID 2348. 2009.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi huzuridagi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi qo'mitasi. Ish joylaridagi shovqin, tebranish, infratovush va ultratovush darajalariga doir sanitariya qoidalari, normalari va gigiyena normativlari: 0111-26-son SanQvaN (2026-yil 24-martdagi 5-son qaror, o'zbek tilida, kirill yozuvida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 683. 2026."
+  ]
+}
