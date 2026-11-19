@@ -1,0 +1,57 @@
+{
+  "number": 80,
+  "title": "80. Sut zavodlariga kuyiladigan gigiyenik talablar.",
+  "sections": [
+    { "heading": "Kirish", "content": [
+      "Sut va sut mahsulotlari tez buziladigan, mikroorganizmlar ko'payishi uchun qulay oziq muhit hisoblanadi. Shu sababli sut zavodlariga qo'yiladigan gigiyenik talablar xom sutni qabul qilishdan tayyor mahsulotni tashishgacha bo'lgan butun zanjirni qamrab oladi [1, 2].",
+      "Ushbu mavzuda zavodning joylashuvi va xonalari, qabul qilish va pasterizatsiya, bolalar sut mahsulotlari, sanitariya ishlovi, laboratoriya nazorati, tashish, xodimlar gigiyenasi va zararkunandalarga qarshi tadbirlar ketma-ket ko'rib chiqiladi [1]."
+    ]},
+    { "heading": "Joylashuv va hudud", "content": [
+      "Sanitariya talablari tashkiliy-huquqiy shakli va mulkchilik shaklidan qat'i nazar sut va sut mahsulotlarini ishlab chiqaradigan barcha korxonalarga tegishli. Sanitariya himoya mintaqasi atmosfera havosini muhofaza qilish qoidalariga muvofiq belgilanadi, ishlab chiqarish sexlarini yerto'la va tsokol qavatlarida joylashtirish mumkin emas [1].",
+      "Korxona shamol yo'nalishini hisobga olib turar joylar, davolash-profilaktika va madaniy-maishiy muassasalardan keyin, zararli modda ajratuvchi korxonalardan oldin joylashadi. Qattiq chiqindi uchun qopqoqli konteynerlar ishlab chiqarish xonalaridan 25 m uzoqda turadi va kamida kuniga bir marta bo'shatiladi [1]."
+    ]},
+    { "heading": "Ishlab chiqarish xonalari va pardozi", "content": [
+      "Ishlab chiqarish sexlari maishiy xonalardan alohida bo'ladi. Joylashuv sut quvurlari, xom ashyo va tayyor mahsulot oqimlarining ketma-ketligini ta'minlaydi, bolalar sut mahsulotlari sexi esa asosiy ishlab chiqarish xonalaridan ajratiladi. Sutni qabul qilish yopiq xonalarda yoki ayvonli yuklash maydonchasida amalga oshiriladi [1].",
+      "Asosiy sex, achitqi bo'limi va laboratoriyalar devorlari kamida 2,4 m balandlikda sirlangan plitka bilan qoplanadi. Pol silliq, kislota va ishqorga chidamli, suv o'tkazmaydigan materialdan bo'lib, suv oqimi uchun qiyalikka ega, quvurlar esa belgilangan ranglarda bo'yaladi [1]."
+    ]},
+    { "heading": "Shamollatish va havoni zararsizlantirish", "content": [
+      "Ishlab chiqarish va maishiy xonalar umumalmashinuvchi mexanik shamollatish yoki konditsiyalash bilan, zarur hollarda mahalliy shamollatish bilan ta'minlanadi. Maishiy xonalar, hojatxonalar, achitqi tayyorlash xonalari va laboratoriyalar o'zaro bog'liq bo'lmagan shamollatish tizimlariga ega bo'lishi kerak [1].",
+      "Achitqi xonalari, ochiq texnologik jarayonli xonalar, bolalar sut mahsulotlari sexi va aseptik quyish bo'limlariga beriladigan havo filtrlarda changdan tozalanadi. Alohida sanitariya tartibi talab qiladigan xonalarda, masalan achitish sexi va laboratoriya boksida, havoni zararsizlantirish uchun bakteritsid lampalar o'rnatiladi [1]."
+    ]},
+    { "heading": "Sutni qabul qilish va pasterizatsiya", "content": [
+      "Epizootik nohush hududlardan, shu jumladan brutsellyoz va sil aniqlangan xo'jaliklardan qayta ishlash uchun sut qabul qilinmaydi. Qabul qilingan sut filtrlanadi va zudlik bilan +4 dan +2 °C gacha sovutiladi yoki pasterizatsiyaga yuboriladi, kislotaligi 19-20 °T bo'lgan sut va 6 soatdan ortiq saqlanadigan sut pasterizatsiya qilinadi [1].",
+      "Pasterizator ishga tushirishdan oldin harorat ko'rsatuvchi asboblar, qaytarish klapanlari va avtomatik boshqaruv tizimi tekshiriladi. Pasterizatsiya samaradorligi har bir qurilmada kamida o'n kunda bir marta mikrobiologik usulda, kimyoviy usulda esa har bir rezervuar to'ldirilgach fosfatazaga manfiy reaksiya bilan baholanadi [1]."
+    ]},
+    { "heading": "Pasterizatsiyadan keyingi sovutish va quyish", "content": [
+      "Qoldiq termofil mikroflora rivojlanishining oldini olish uchun sut pasterizatsiyadan keyin zudlik bilan +4 dan +6 °C gacha sovutiladi, sovutish moslamalari doimiy nazorat uchun termometr bilan ta'minlanadi. Pasterizatsiyalangan sutni quyishgacha saqlashning eng uzoq muddati olti soatdan oshmaydi [1].",
+      "Olti soatdan ortiq saqlash zarur bo'lsa, sut quyishdan oldin takroriy pasterizatsiyaga yuboriladi, buning imkoni bo'lmasa tayyor mahsulotning saqlash muddati qisqartiriladi. Sut-qatiq mahsulotlari faqat pasterizatsiyalangan sutdan tayyorlanadi va pasterizatsiyadan keyin darhol achitish haroratigacha sovutiladi [1]."
+    ]},
+    { "heading": "Bolalar sut mahsulotlari", "content": [
+      "Bolalar sut mahsulotlari ishlab chiqarishda pasterizatsiyalangan sut yoki aralashma +2 dan +6 °C gacha sovutiladi, zarur bo'lganda quyishdan oldin +2 dan +5 °C da olti soat, +6 dan +8 °C da esa ko'pi bilan uch soat saqlanadi. Bu mahsulotlar faqat bir martalik iste'molga mos hajmlarda oldindan qadoqlanadi [1].",
+      "Qo'shimchalar va probiotiklar sanitariya-epidemiologiya xizmatida ruxsat berish tartibiga muvofiq ro'yxatdan o'tkazilishi kerak. Bolalar sut mahsulotlari sexlari va achitqi tayyorlash bo'limlari doimiy tozalanib, dezinfeksiya qilinadi [1]."
+    ]},
+    { "heading": "Sanitariya ishlovi", "content": [
+      "Har bir sexda jihozlarni yuvish va dezinfeksiya qilishning oylik jadvali bo'lishi kerak. Dezinfeksiyadan keyin 6 soatdan ortiq foydalanilmagan jihoz ishdan oldin qayta dezinfeksiya qilinadi, texnik nosozlik yoki sut berilishidagi uzilish ikki soat va undan uzoq davom etsa, pasterizatsiyalangan sut idishdan bo'shatilib qayta pasterizatsiyaga yuboriladi [1].",
+      "Jihozlar dastlab 35 °C dan yuqori bo'lmagan suv bilan chayiladi, so'ng 50-70 °C li ishqoriy eritma bilan yuviladi va 60-70 °C li issiq suv bilan chayiladi. Dezinfeksiya issiq bug', 85-90 °C li suv (10-20 daqiqa) yoki kimyoviy usul bilan amalga oshiriladi, ishlab chiqarish rejasida oyiga kamida bir marta sanitariya kuni ko'zda tutiladi [1]."
+    ]},
+    { "heading": "Laboratoriya nazorati", "content": [
+      "Tayyor mahsulotlar (sut, qaymoq, sut-qatiq ichimliklari) korxona mikrobiologik laboratoriyasi tomonidan kamida besh kunda, qaymoq va tvorog kamida uch kunda bir marta tekshiriladi. Qo'llar tozaligi yod-kraxmal sinamasi bilan haftada bir marta kuzatiladi [1].",
+      "Laboratoriyada boks va bokso'ldi xonasidan iborat mikrobiologik bokslar jihozlanadi, boks bakteritsid lampalar bilan ta'minlanadi, boks har kuni issiq sovun-ishqor eritmasi bilan yuviladi. Sterillangan idishlarning saqlash muddati 30 kundan, sovutgichda 4-6 °C da saqlanadigan steril muhitniki 14 kundan oshmaydi [1]."
+    ]},
+    { "heading": "Tashish va xodimlar gigiyenasi", "content": [
+      "Sut va sut mahsulotlari maxsus jihozlangan sovutgichli transportda tashiladi. Issiq faslda sovutgichli yuk mashinalarida yuklash va yetkazib berish muddati 6 soatdan, ixtisoslashtirilgan va bortli transportda 2 soatdan oshmaydi, haydovchi-ekspeditor tibbiy ko'rikdan o'tadi va shaxsiy tibbiy kitobchaga ega bo'ladi [1].",
+      "Xodimlar dastlabki va davriy tibbiy ko'rikdan o'tadi. Ichterlama, paratif, salmonellyoz, dizenteriya, gimenolipidoz, enterobioz, yuqumli davrdagi zahm, moxov, sil va yuqumli teri kasalliklari bilan kasallanganlar ishlashga qo'yilmaydi. Qo'llar ishdan oldin, har tanaffusdan va hojatxonadan keyin yuviladi va dezinfeksiya qilinadi [1]."
+    ]},
+    { "heading": "Zararkunandalarga qarshi tadbirlar", "content": [
+      "Korxonada muntazam dezinfeksiya, dezinseksiya va deratizatsiya o'tkaziladi. Hasharotlarga qarshi binolarni sifatli tozalash, chiqindilarni zich yopiladigan idishlarda yig'ish va o'z vaqtida olib chiqish, bahor-yoz davrida deraza va eshiklarni to'r bilan to'sish kabi profilaktik choralar ko'riladi [1].",
+      "Kemiruvchilardan himoya qilish uchun yerto'la polidagi yoriqlar metall panjara bilan yopiladi, shamollatish teshiklari yacheykasi 0,25 x 0,25 sm dan katta bo'lmagan to'r bilan to'siladi, ombor eshiklari temir bilan qoplanadi. Kimyoviy vositalarni faqat mutaxassislar qo'llaydi [1]."
+    ]},
+    { "heading": "Xulosa", "content": [
+      "Sut zavodlariga qo'yiladigan gigiyenik talablar joylashuv va xonalardan boshlab sovutish zanjiri, sanitariya ishlovi, laboratoriya nazorati va xodimlar salomatligigacha bir butun tizimni tashkil etadi. Ularning bajarilishi tayyor mahsulotning mikrobiologik xavfsizligini belgilaydi [1, 2]."
+    ]}
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi xizmati. Sut va sut mahsulotlarini ishlab chiqaruvchi korxonalarga qo'yiladigan sanitariya-gigiyena talablari: № 0039-22 SanQvaN. Toshkent (lex.uz/docs/6346736). xayrullokomilov.uz/kutubxona, material ID 777. 2022.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi huzuridagi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi qo'mitasi. Oziq-ovqat mahsulotlarining yaroqlilik muddati, ularni saqlash va tashishga qo'yiladigan gigiyenik talablar: № 0054-23 SanQvaN. Toshkent. xayrullokomilov.uz/kutubxona, material ID 631. 2023."
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "number": 79,
+  "title": "79. Muzlatgichning sanitariya xolatini tekshiruvida kaysi kursatgichlarga e’tibor berish kerak.",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Muzlatgich va sovutgich kameralari tez buziladigan oziq-ovqat mahsulotlarining xavfsizligini ta'minlovchi asosiy zveno hisoblanadi. Ularning sanitariya holati buzilsa, mahsulot haroratining ko'tarilishi, mog'or paydo bo'lishi va xom hamda tayyor mahsulotlarning o'zaro ifloslanishi xavfi ortadi [1, 3].",
+        "Ushbu mavzuda muzlatgich sanitariya holatini tekshirishda baholanadigan ko'rsatkichlar: harorat va namlik nazorati, joylashtirish tartibi, tozalik va mog'orlanish, xom va tayyor mahsulotlarni ajratish, muzdan eritish va hujjatlashtirish ketma-ket ko'rib chiqiladi [1, 2, 4]."
+      ]
+    },
+    {
+      "heading": "Sovutgich sharoitini talab qiladigan mahsulotlar",
+      "content": [
+        "Tez buziladigan mahsulotlarga qayta ishlangan go'sht, parranda go'shti, tuxum, sut, baliq, tarkibida namlik 13 foizdan ortiq qandolat mahsulotlari, kremlar, yarim tayyor mahsulotlar, mayonez, margarin, tayyor taomlar va termik achitilgan sut mahsulotlari kiradi. Ularning sifati va xavfsizligi maxsus harorat tartibisiz ta'minlanmaydi [5].",
+        "Tez buziladigan mahsulotlar zarur haroratni ta'minlaydigan sovutgichli yoki izotermik transportda tashiladi, tayyor mahsulotni xom ashyo va yarim tayyor mahsulot bilan birga tashish mumkin emas. Shu sababli tekshiruvda saqlash joyi va transport birgalikda baholanadi [5]."
+      ]
+    },
+    {
+      "heading": "Harorat va namlik nazorati",
+      "content": [
+        "Birinchi tekshiriladigan ko'rsatkich harorat nazorati vositasining mavjudligi va sozligidir. Sovutgichlar harorat nazorat qilish moslamasi bilan jihozlanishi kerak, o'rnatilgan termometr bo'lsa qo'shimcha moslama talab qilinmaydi. Mikroiqlimga maxsus talab qo'yiladigan omborxonalarda harorat va namlik psixrometr bilan nazorat qilinadi [2].",
+        "Saqlash xonalari harorat va havo namligini nazorat qilish orqali mahsulot buzilishini kamaytiradigan sharoitni ta'minlashi lozim. Sut korxonalarida tayyor mahsulot saqlanadigan xona yoki omborning harorati va namligi laboratoriya tomonidan smenada 2-3 marta kuzatilib, natijalar maxsus jurnalda qayd etiladi [3, 4]."
+      ]
+    },
+    {
+      "heading": "Joylashtirish tartibi",
+      "content": [
+        "Barcha yuklar, konteynerda bo'lsa ham bo'lmasa ham, muzlatgich kameralariga polidan kamida 8 sm balandlikdagi yog'och panjarali tagliklarda tekis taxlanadi. Shtabellar devor va sovutish moslamalaridan 30 sm masofada, orasida o'tish joyi qoldirilgan holda joylashtiriladi [1].",
+        "Sovutilgan va muzlatilgan go'sht mahsulotlari osilgan holatda saqlanadi, yaroqli go'sht mahsulotlari alohida kamerada yoki to'r bilan o'ralgan umumiy kamerada turadi. Umumiy ovqatlanish korxonalarida oziq-ovqat mahsulotlari polidan kamida 0,15 m balandlikda saqlanishi talab etiladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Xom va tayyor mahsulotlarni ajratish",
+      "content": [
+        "Saqlash xonalarida xom va tayyor mahsulotlarni, shuningdek allergen va noallergen mahsulotlarni yonma-yon saqlash taqiqlanadi. Mahsulotlarning qo'shnichilik qoidasiga rioya etilishi sovutgichlarda saqlash tartibini tekshirishning alohida bandi sifatida baholanadi [4, 6].",
+        "Buzilish belgilari bor, sifati shubhali yoki yaroqlilik muddati o'tgan, muomaladan chiqarilgan mahsulotlarni sifatli mahsulotlar bilan birga saqlashga yo'l qo'yilmaydi. Idishlarda saqlanadigan mahsulotda inventar (qoshiq, kurak, cho'mich) qoldirilishi ham taqiqlanadi [2]."
+      ]
+    },
+    {
+      "heading": "Tozalik va mog'orlanish",
+      "content": [
+        "Sovutgich kameralari yo'laklari va zinapoyalaridagi ifloslangan pol va eshiklar muntazam ishqorli sovun eritmasi bilan yuviladi. Kamera mahsulotdan bo'shatilgach, sovutish batareyalaridagi muz qatlami eritiladi, so'ngra qirg'ich yoki qattiq supurgi bilan tozalanadi [1].",
+        "Yuklangan kameralarda batareyalarni muzdan mexanik tozalash faqat saqlanayotgan yuk toza brezent bilan yopilgan holda amalga oshiriladi, tozalash tugagach muz darhol olib tashlanadi. Dezinfeksiya qilinmagan inventar va yog'och panjarali tagliklarni ishlatish mumkin emas [1]."
+      ]
+    },
+    {
+      "heading": "Mikrobiologik nazorat va dezinfeksiya",
+      "content": [
+        "Go'sht ishlab chiqarish korxonalarining sovutish kameralarida mog'orni o'z vaqtida aniqlash uchun mikrobiologik nazorat o'tkaziladi. Kameralar mahsulotdan bo'shatilgandan keyin, yangi mahsulot kelishidan oldin, shuningdek devor, shift va jihozlar mog'or bilan zararlanganda yuvilib, dezinfeksiya qilinadi [1].",
+        "Yuvish, tozalash va dezinfeksiyalash vositalari alohida xonalarda, dozalangan holda va tegishli tamg'alangan idishlarda saqlanadi. Shu sababli tekshiruvda kamerada kimyoviy vositalar yo'qligi, shuningdek mog'or va namlik izlari baholanadi [1, 4]."
+      ]
+    },
+    {
+      "heading": "Muzdan eritish va namunalarni saqlash",
+      "content": [
+        "Muzlatilgan mahsulotlardan foydalanadigan korxonalar muzdan eritish uchun sex yoki jihozga ega bo'lishi kerak. Muzdan eritish patogen mikroorganizmlar ko'payishi va toksin hosil bo'lishi xavfini kamaytiradigan tarzda amalga oshiriladi, hosil bo'lgan suyuqlik xavfli bo'lsa, xavfsiz usulda to'kib tashlanadi [2, 4].",
+        "Umumiy ovqatlanishda olingan sutkalik namunalar kamida 48 soat maxsus sovutgichda yoki sovutgichning maxsus joyida +2 dan +6 °C gacha haroratda saqlanadi. Shu sababli tekshiruvchi sovutgichda namuna uchun ajratilgan joy va uning harorati hamda yozuvlarini ham baholaydi [2]."
+      ]
+    },
+    {
+      "heading": "Qabul qilish nazorati",
+      "content": [
+        "Xom ashyo va mahsulot sovutgichga qabul qilinganda vizual ko'zdan kechirish, qadoq butunligi va yaroqlilik muddatini tekshirish, qayd etilgan allergenlarni aniqlash hamda sovitilgan va muzlatilgan mahsulot haroratini o'lchash amalga oshiriladi [4].",
+        "Kiruvchi mahsulot hisobotida tavsif, hajm, partiya raqami, ishlab chiqaruvchi va yetkazib beruvchining nomi va manzili, yetkazib berish sanasi qayd etiladi. Sifati va xavfsizligini tasdiqlovchi yozuvlari mavjud bo'lmagan oziq-ovqat mahsulotini saqlash omborlariga yetkazib berish mumkin emas [4, 5]."
+      ]
+    },
+    {
+      "heading": "Sovutgichli transport",
+      "content": [
+        "Go'sht va go'sht mahsulotlari sovitish tizimi mavjud avtorefrijeratorlarda va sovutish tizimli temir yo'l vagonlarida tashiladi, ular sanitariya-gigiyenik jihatdan toza saqlanadi. Xom ashyo tayyor mahsulotdan alohida konteynerda tashiladi, xom ashyo tashilgan avtomobillar har reysdan keyin yuvish vositalari bilan tozalanadi [1].",
+        "Sut va sut mahsulotlari maxsus jihozlangan sovutgichli transportda tashiladi. Issiq faslda sovutgichli yuk mashinalarida yuklash va yetkazib berish muddati 6 soatdan, ixtisoslashtirilgan va bortli transport vositalarida esa 2 soatdan oshmasligi kerak, haydovchi-ekspeditor tibbiy ko'rikdan o'tgan bo'ladi [3]."
+      ]
+    },
+    {
+      "heading": "Yozuvlar va nazorat bandlari",
+      "content": [
+        "Sanitariya qoidalariga amal qilinishini tekshirishda oziq-ovqat mahsulotlarining saqlanish holati, tez buziladigan va sovuqlik talab qiladigan mahsulotlar uchun sovutgich va muzlatgichlar tashkil etilganligi, ularda saqlash qoidalari va qo'shnichilik qoidasiga rioya etilishi alohida bandlar sifatida baholanadi [6].",
+        "Sut korxonalarida saqlash joyining harorati va namligi jurnalga yoziladi, go'sht korxonalarida sovutgich kameralari mikrobiologik nazoratdan o'tkaziladi. Sanitariya talablari buzilganda ko'rilgan tuzatish choralari ham qayd etib boriladi [1, 3, 4]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "Muzlatgich sanitariya holati harorat va namlik nazorati, joylashtirish, xom va tayyor mahsulotni ajratish, tozalik va mog'orsizlik, muzdan eritish va hujjatlashtirish ko'rsatkichlari bilan baholanadi. Bu ko'rsatkichlarning har biri tez buziladigan mahsulotlarning xavfsizligiga bevosita ta'sir qiladi [1, 2, 4]."
+      ]
+    }
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi xizmati. Go'sht va go'sht mahsulotlarini qayta ishlash korxonalariga qo'yiladigan sanitariya-gigiyena talablari: № 0036-22 SanQvaN. Toshkent (lex.uz/docs/6309222). xayrullokomilov.uz/kutubxona, material ID 896. 2022.",
+    "O'zbekiston Respublikasi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi xizmati. Umumiy ovqatlanish korxonalariga qo'yiladigan sanitariya-gigiyena talablari: № 0027-22 SanQvaN. Toshkent. xayrullokomilov.uz/kutubxona, material ID 892. 2022.",
+    "O'zbekiston Respublikasi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi xizmati. Sut va sut mahsulotlarini ishlab chiqaruvchi korxonalarga qo'yiladigan sanitariya-gigiyena talablari: № 0039-22 SanQvaN. Toshkent (lex.uz/docs/6346736). xayrullokomilov.uz/kutubxona, material ID 777. 2022.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi huzuridagi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi qo'mitasi. Oziq-ovqat mahsuloti xavfsizligining umumiy sanitariya qoidalari, normalari va gigiyena normativlari: № 0079-24 SanQvaN. Toshkent. xayrullokomilov.uz/kutubxona, material ID 650. 2024.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi huzuridagi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi qo'mitasi. Oziq-ovqat mahsulotlarining yaroqlilik muddati, ularni saqlash va tashishga qo'yiladigan gigiyenik talablar: № 0054-23 SanQvaN. Toshkent. xayrullokomilov.uz/kutubxona, material ID 631. 2023.",
+    "O'zbekiston Respublikasi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi xizmati. Sanitariya qoidalari, normalari va gigiyena normativlariga amal qilinishi ustidan tekshiruvlar o'tkazish va ma'muriy jarima choralarini qo'llash tartiblari bo'yicha yo'riqnoma: Buyruq № 54, 08.05.2021. Toshkent. xayrullokomilov.uz/kutubxona, material ID 409. 2021."
+  ]
+}

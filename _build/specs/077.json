@@ -1,0 +1,54 @@
+{
+  "number": 77,
+  "title": "77. Ichimliksuvi tarkibida ftoridlarining yukori va past mikdorda bulgan mintakalarda yashovchi shaxslar uchun DP ovkatlanish.",
+  "sections": [
+    { "heading": "Kirish", "content": [
+      "Ftor organizm uchun zarur mikroelement bo'lib, uning yetishmasligi ham, ortiqchaligi ham kasallikka olib keladi. Ichimlik suvida ftor miqdori 0,5 mg/l dan kam bo'lsa tish kariyesi, 1,5 mg/l dan ortiq bo'lsa flyuoroz rivojlanadi, shu sababli ftor miqdori turlicha hududlarda ovqatlanish alohida yondashuvni talab qiladi [1, 2].",
+      "Ushbu mavzuda ftorning biologik roli, organizmga tushish yo'llari, suvdagi miqdorga qarab hududlar farqi, ftor tanqisligi va ortiqchaligi sharoitida davolash-profilaktik ovqatlanishning asosiy yo'nalishlari bayon etiladi [1, 3]."
+    ]},
+    { "heading": "Ftorning biologik roli", "content": [
+      "Ftor gidroksiapatit tuzilmasidagi gidroksil ionini almashtira olishi sababli to'qimalarning kalsiylanishi bilan bog'liq jarayonlarni boshqaradi. Normal miqdorda u suyak to'qimasi, dentin va tish emalining mineralizatsiyasini ta'minlaydi [1].",
+      "Organizmdagi ftorning taxminan 99 foizi qattiq to'qimalarda yig'iladi. Yumshoq to'qimalarda, masalan tomir devorlarida uning konsentratsiyasi oshishi patologik kalsiylanishdan darak beradi, shuning uchun ftor tushishining ham yuqori, ham past chegarasi nazorat qilinadi [1]."
+    ]},
+    { "heading": "Ftor manbalari", "content": [
+      "Alimentar ftorning taxminan 75 foizi ichimlik suvi, ichimliklar va suyuq ovqat bilan, o'rtacha 1 mg/l ftorli suvda esa 80 foizdan ortig'i suv orqali tushadi. Oziq-ovqatdan tushadigan ftor suvdagiga nisbatan 5-6 marta kam, shu sababli suvdagi ftor miqdori biologik ta'sirni belgilaydi [1, 2].",
+      "Oziq-ovqat mahsulotlari ichida choy ftorga eng boy: quruq choy bargining 100 g da 90 mg gacha, damlangan choyning 100 ml da 0,1-0,4 mg ftor bo'ladi. Suyakli konserva sardina baliqlarida 100 g da 0,2-0,4 mg, non va yormalarda 0,05-0,07 mg, meva va sabzavotlarda 0,01-0,06 mg ftor aniqlanadi [1]."
+    ]},
+    { "heading": "Suvdagi ftor miqdoriga qarab hududlar farqi", "content": [
+      "Sovuq va mo'tadil iqlim hududlarida ichimlik suvidagi ftor miqdori 1,1-1,5 mg/l, issiq hududlarda esa 0,7 mg/l darajasida normallashtiriladi. Suv ichish miqdori issiq iqlimda ko'p bo'lgani uchun ftorning bir xil sutkalik tushishi uchun suvdagi konsentratsiya pastroq olinadi [1, 2].",
+      "Suvda ftor 0,3 mg/l gacha bo'lsa kariesga chalinish optimal konsentratsiyadagiga nisbatan 3-4 marta, 0,3-0,7 mg/l bo'lsa 2-3 marta yuqori bo'ladi. Optimal konsentratsiya 0,7-1,1 mg/l, 1,1-1,5 mg/l da kariyes minimal, yengil flyuoroz esa taxminan 20 foiz aholida uchraydi [3]."
+    ]},
+    { "heading": "Ftor tanqisligi hududlarida ovqatlanish va profilaktika", "content": [
+      "Suvda ftor 0,5 mg/l bo'lganda gipoftoroz holatlari, birinchi navbatda tish kariyesining oldini olish uchun suvni ftorlash zarur. Ftorlash uchun odatda natriy ftorid va natriy kremniyftorid ishlatiladi, dozani tanlashda ftor ioni 0,7-1,5 mg/l oralig'ida, iqlim hududi bo'yicha chegaraviy miqdorning 70-80 foizida ushlanadi [1, 3].",
+      "Suvni ftorlash imkoni bo'lmasa, ratsionni ftor bilan boyitish qo'llanadi. 1 g osh tuzida 0,25 mg ftor bo'lgan ftorli-yodli tuz, hamda 2,5 mg/l ftorli, 200-300 ml idishlarga solinib yorlig'ida boyitilgani yozilgan sut ishlatiladi. Ichimlik suvi ftorlanadigan hududlarda ftor kiritishning boshqa usullari qo'llanmaydi [1]."
+    ]},
+    { "heading": "Ftor ortiqchaligi hududlarida flyuoroz", "content": [
+      "Ichimlik suvida ftor 1,6-1,8 mg/l bo'lganda simmetrik tishlarda bo'rsimon, keyin sarg'ish-jigarrang dog'lar paydo bo'ladi. 2 mg/l dan oshganda ko'pchilikda jigarrang dog'lar, 2,5 mg/l dan oshganda emal qattiqlashib qorayadi va mo'rtlashadi, 10 mg/l va undan yuqori konsentratsiyada 10-20 yil iste'mol qilinsa bo'g'imlarda og'riq va skelet deformatsiyasi rivojlanadi [3].",
+      "Flyuoroz faqat tishlar shakllanayotgan bolalik davrida, taxminan 2-2,5 yil davomida rivojlanadi. Ftor uzoq vaqt ko'p tushganda tomirlar va ichki a'zolarning kalsinozi, o't va siydik pufagida tosh paydo bo'lishi kuzatiladi, shuning uchun kasallik umumiy endemik kasallik hisoblanadi [1, 2]."
+    ]},
+    { "heading": "Ftor ortiqchaligi sharoitida ovqatlanish yo'nalishlari", "content": [
+      "Ba'zi tadqiqotchilar C, A va D vitaminlarining, ultrabinafsha nurlarning hamda ratsiondagi kalsiy miqdorini oshirishning himoya rolini ko'rsatadi. Shuning uchun ftor ortiqcha hududlarda kalsiyga boy sut va nordon sut mahsulotlarining ratsionda yetarli bo'lishi maqsadga muvofiq [2].",
+      "Choy ftorni faol to'playdi, ovqat yog'lari esa ftorning so'rilishini kuchaytiradi, shu sababli yuqori ftorli hududlarda choy va yog'li ovqat miqdorini nazorat qilish o'rinli bo'ladi. Ftorning o'rtacha ratsiondan so'rilishi 80 foizga yetadi, alyuminiy gidroksidli antatsidlar esa uni to'xtatadi [1]."
+    ]},
+    { "heading": "Suv manbasini tanlash va defloratsiya", "content": [
+      "Flyuorozning asosiy profilaktikasi ftor kam bo'lgan manbadan suv ta'minotini tashkil etish yoki suvni kam ftorli suv bilan aralashtirishdir. Defloratsiya suvda ftor 1,5 mg/l dan oshganda va aholida II va undan yuqori darajali tish flyuorozi ko'p bo'lganda, manbani almashtirish yoki suyultirish mumkin bo'lmasagina qo'llanadi [2, 3].",
+      "Usullar reagentli va filtrli guruhlarga bo'linadi. Reagentli usul alyuminiy yoki magniy gidroksidining yangi cho'kmasida ftorning sorbsiyasiga asoslanib, yuza suvlar uchun, shuningdek suvni tiniqlashtirish va rangsizlantirish uchun mos. Filtrli usulda anionli almashinish smolalari, faollashtirilgan alyuminiy oksidi ishlatiladi [3]."
+    ]},
+    { "heading": "Nazorat ko'rsatkichlari", "content": [
+      "Katta yoshdagi sog'lom odam uchun ftor tushishining sutkalik yo'l qo'yiladigan darajasi 10 mg hisoblanadi. Ftor bilan boyitilgan tish pastasi bilan yuvishda oshqozon-ichak yo'liga 0,3 mg gacha ftor tushishi mumkin, bu hisobga olinadi [1].",
+      "Sochdagi ftor konsentratsiyasi 480-830 mg/kg bo'lsa giperftorozning biomarkeri hisoblanadi, normada esa 53-72 mg/kg. Ftor ortiqcha yoki kam hududlarda ovqatlanish bo'yicha alohida ratsion tarkibi aniq belgilanmagan, shuning uchun amaliyotda suv sifati, oziq manbalari va bolalar tishlari holati birgalikda baholanadi [1]."
+    ]},
+    { "heading": "Suvdagi ftor konsentratsiyasi va flyuoroz tarqalishi", "content": [
+      "Ftor 1,5-2 mg/l bo'lganda aholining 30-40 foizi, asosan yengil shaklda flyuoroz bilan kasallanadi. 2-6 mg/l da flyuoroz 30-100 foiz aholida uchraydi, ko'pchilikda og'ir shaklda: emalda jigarrang dog' va eroziya, tishning ortiqcha yeyilishi va mo'rtligi kuzatiladi [3].",
+      "Ftor 6-15 mg/l bo'lganda aholining 80-100 foizi flyuoroz bilan kasallanadi va og'ir shakllar ustun bo'ladi. Bolalarda suyaklarning rivojlanishi va mineralizatsiyasi buziladi, kattalarda suyaklarda osteosklerozga o'xshash o'zgarishlar paydo bo'ladi [3]."
+    ]},
+    { "heading": "Xulosa", "content": [
+      "Ichimlik suvidagi ftor miqdori tish kariyesi va flyuoroz xavfini belgilaydi, ovqatlanish esa bu xavfni to'liq bartaraf qilmasdan faqat qo'llab-quvvatlaydi. Ftor tanqisligida suv yoki oziq-ovqatni ftorlash, ortiqchaligida manbani almashtirish, defloratsiya va kalsiy hamda vitaminlarga boy ratsion asosiy chora bo'ladi [1, 2, 3]."
+    ]}
+  ],
+  "references": [
+    "Shayxova G.I. (tahr.). Ovqatlanish gigiyenasi. Toshkent. xayrullokomilov.uz/kutubxona, material ID 2360. 2012.",
+    "Melnichenko P.I. Inson ekologiyasi asoslari bilan gigiyena (rus tilida). xayrullokomilov.uz/kutubxona, material ID 2303. 2013.",
+    "Goncharuk E.I. Kommunal gigiyena (rus tilida). xayrullokomilov.uz/kutubxona, material ID 2304. 2006."
+  ]
+}
