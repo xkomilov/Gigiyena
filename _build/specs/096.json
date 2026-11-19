@@ -1,0 +1,57 @@
+{
+  "number": 96,
+  "title": "96. Salomatlik guruhlarining har biri haqida va bolalardagi salomatlik guruhlarining nechtasini bilasiz?",
+  "sections": [
+    { "heading": "Kirish", "content": [
+      "Bolalar va o'smirlar jamoasining salomatligini baholash gigiyenist va sanitariya vrachining kundalik ishida asosiy o'rinni egallaydi. Har bir bolani sog'liq holatiga qarab guruhga ajratish jamoadagi umumiy ahvolni tez va taqqoslanadigan shaklda ifodalashga imkon beradi [1].",
+      "Ushbu mavzuda salomatlik tushunchasi, bolalar uchun qo'llanadigan beshta salomatlik guruhi, ularning har birining xarakteristikasi, guruhlarga ajratishning gigiyenik ahamiyati va ijtimoiy-gigiyenik guruhlash bayon etiladi [1]."
+    ]},
+    { "heading": "Salomatlik tushunchasi", "content": [
+      "Salomatlik organizm a'zolari va tizimlarining tashqi muhit bilan muvozanatda bo'lishi, hech qanday og'riqli o'zgarishning yo'qligi bilan ifodalanadi. Bola uchun bu tushuncha biologik yoshga mos hayot faoliyati, jismoniy va aqliy xususiyatlarning uyg'un birligi hamda o'sish jarayonida moslashuv va kompensator reaksiyalarning shakllanishini ham o'z ichiga oladi [1].",
+      "Bolalar jamoasi salomatligini baholashda to'rtta belgi hisobga olinadi: tekshiruv paytida biron-bir kasallikning yo'qligi, yoshga mos uyg'un jismoniy va ruhiy rivojlanish, funksiyalarning normal darajasi hamda kasalliklarga moyillikning yo'qligi. Guruhga ajratish aynan shu belgilar yig'indisiga tayanadi [1]."
+    ]},
+    { "heading": "Guruhlar soni", "content": [
+      "Bolalar va o'smirlar sog'lig'ining kompleks baholash sxemasi bo'yicha barcha bolalar beshta salomatlik guruhidan biriga kiritiladi. Ajratishda kasallikning mavjudligi, surunkali jarayonning bosqichi, funksional imkoniyatlarning saqlanganligi yoki kompensatsiya darajasi, asoratlar xavfi hisobga olinadi [1].",
+      "Guruh raqami ortgan sari kasallik og'irligi va funksional cheklanish darajasi ham ortadi. Birinchi va ikkinchi guruhlar kasalligi yo'q yoki surunkali kasalligi bo'lmagan bolalarni, uchinchidan beshinchigacha bo'lgan guruhlar esa surunkali kasalligi bor bolalarni qamrab oladi [1]."
+    ]},
+    { "heading": "Birinchi guruh", "content": [
+      "Birinchi guruhga sog'lom bolalar kiradi. Ularning jismoniy va ruhiy rivojlanishi normal, anatomik nuqsonlari yo'q, funksional va morfofunksional og'ishlari kuzatilmaydi [1].",
+      "Bunday bolalar sonining kam bo'lishi maktab yoshidagi kontingentning umumiy xususiyatidir. Chuqurlashtirilgan o'qitishda 8-sinfdan 11-sinfgacha birinchi guruh bolalari ulushi matematika sinflarida 31 % dan 18 % gacha, biologiya sinflarida 17 % dan 9 % gacha kamaygan. Bu o'quv jarayoni tashkil etilishini gigiyenik jihatdan tahlil qilish zarurligini ko'rsatadi [1]."
+    ]},
+    { "heading": "Ikkinchi guruh", "content": [
+      "Ikkinchi guruhga surunkali kasalligi yo'q, lekin ayrim funksional va morfofunksional og'ishlari bor bolalar kiradi. Bu guruhda tuzalib chiqayotganlar, ayniqsa og'ir va o'rtacha og'irlikdagi yuqumli kasallikni boshidan kechirganlar ham bo'ladi [1].",
+      "Shuningdek, endokrin patologiyasiz jismoniy rivojlanishi umumiy orqada qolgan (past bo'yli) bolalar, tana vazni yetishmaydigan yoki ortiqcha bo'lgan bolalar, o'tkir respirator kasalliklar bilan tez-tez va uzoq kasallanuvchilar hamda funksiyasi saqlangan holdagi jismoniy nuqsonlari yoki jarohat va operatsiya oqibatlari bor bolalar shu guruhga kiradi [1]."
+    ]},
+    { "heading": "Uchinchi guruh", "content": [
+      "Uchinchi guruhga klinik remissiya bosqichidagi surunkali kasalliklari bor, kasalligi kam xurujlanadigan bolalar kiritiladi. Bu bolalarda funksional imkoniyatlar saqlangan yoki kompensatsiyalangan bo'ladi, asosiy kasallik asoratlari kuzatilmaydi [1].",
+      "Shu guruhga kompensatsiyalangan funksiyali jismoniy nuqsonlari, jarohat va operatsiya oqibatlari bor bolalar ham kiradi. Kompensatsiya darajasi bolaning o'qishi yoki mehnat qilish imkoniyatini cheklamasligi shart [1]."
+    ]},
+    { "heading": "To'rtinchi guruh", "content": [
+      "To'rtinchi guruhga faol bosqichdagi yoki beqaror klinik remissiyadagi, tez-tez xurujlanadigan surunkali kasalliklari bor bolalar kiradi. Funksional imkoniyatlar saqlangan, kompensatsiyalangan yoki to'liq bo'lmagan kompensatsiya holatida bo'lishi mumkin [1].",
+      "Bu guruhga remissiyada bo'lsa-da funksional imkoniyatlari cheklangan bolalar, asosiy kasallik asoratlari xavfi yuqori bo'lganlar, doimiy qo'llab-quvvatlovchi davoga muhtoj bolalar va kompensatsiyasi to'liq bo'lmagan jismoniy nuqsonlari bor bolalar kiradi. Ularning o'qish imkoniyati ma'lum darajada cheklanadi [1]."
+    ]},
+    { "heading": "Beshinchi guruh", "content": [
+      "Beshinchi guruhga og'ir surunkali kasalliklarga chalingan, remissiyasi kam, xurujlari tez-tez bo'ladigan yoki uzluksiz qaytalanuvchi kechishdagi bolalar kiradi. Ularda organizm funksional imkoniyatlarining aniq dekompensatsiyasi va doimiy davoni talab qiladigan asoratlar kuzatiladi [1].",
+      "Mazkur guruhga nogiron bolalar, shuningdek kompensatsiyasi keskin buzilgan jismoniy nuqsonlari, jarohat va operatsiya oqibatlari bor bolalar ham kiradi. Ularning o'qish yoki mehnat qilish imkoniyati sezilarli cheklangan bo'ladi [1]."
+    ]},
+    { "heading": "Guruhlarga ajratishning gigiyenik ahamiyati", "content": [
+      "Salomatlik guruhlari bolalar jamoasining umumiy holatini tavsiflash, salomatlikning statistik ko'rsatkichlari va guruhlar sonini aniqlash, turli hududlar va turli vaqt oralig'ini taqqoslash uchun ishlatiladi. Shuningdek, bolalar muassasalari va alohida shifokorlar profilaktik ishining samaradorligi shu asosda baholanadi [1].",
+      "Guruhlash jamoaviy salomatlikka ta'sir qiluvchi xavf omillarining ta'sirini aniqlashga, ixtisoslashgan xizmatlar va kadrlarga bo'lgan ehtiyojni belgilashga imkon beradi. Gigiyenik nuqtai nazardan ikkinchi guruh alohida e'tiborga loyiq, chunki u rasman sog'lom hisoblangan, ammo funksional og'ishlari bor bolalarni birlashtiradi [1]."
+    ]},
+    { "heading": "Guruhlarning o'zgaruvchanligi", "content": [
+      "Funksional og'ishlar bolalarda eng ko'p 1-3 yoshda paydo bo'ladi. Shahar bolalarida ular ko'pincha 1 yoshdan 7 yoshgacha, qishloq bolalarida asosan 3 yoshdan 7 yoshgacha yo'qoladi. Yosh davriga qarab turli tizimlar zaiflashadi: maktabgacha yoshda asab, nafas olish, siydik chiqarish tizimlari, tayanch-harakat apparati va LOR a'zolari, maktab yoshida yurak-qon tomir tizimi va ko'rish a'zolari [1].",
+      "Birinchi va ikkinchi guruhlardagi bolalar salomatligi o'zgaruvchan va qaytar xususiyatga ega. Umumiy maktab yuklamasi ta'sirida astenik va nevrotik belgilar, arterial gipotenziya, anemiya oldi holati, immunologik chidamlilikning pasayishi ko'proq uchraydi. Shu sababli sog'lom bolalar sonini oshirish uchun katta zaxira mavjud [1]."
+    ]},
+    { "heading": "Ijtimoiy-gigiyenik guruhlar", "content": [
+      "Tibbiy guruhlash bolani asosan shifokor nuqtai nazaridan tavsiflaydi, ijtimoiy jihati esa e'tibordan chetda qoladi. Shu sababli bolaning o'ziga xos ijtimoiy vazifalarini bajara olish darajasiga tayanadigan, populyatsiyani beshta guruhga bo'luvchi ijtimoiy-gigiyenik tasnif ham ishlatiladi: ijtimoiy vazifalar to'liq, qisman, cheklangan, keskin cheklangan bajariladigan va umuman bajarib bo'lmaydigan guruhlar [1].",
+      "Maktab o'quvchisi uchun asosiy vazifa o'quv talablarini to'liq bajarish, umumta'lim fanlarini o'zlashtirish, mehnat ta'limi va jismoniy tarbiyada ishtirok etishdir. Maktabgacha yoshdagi bola uchun bu bolalar bog'chasiga muntazam qatnash va dastur ko'nikmalarini egallash hisoblanadi. Bu vazifalarni to'liq bajaradigan bolalar birinchi guruhga kiritiladi [1].",
+      "Ikki tasnif o'zaro bog'liq bo'lsa-da, ularda bolalar ulushi farq qiladi. Maktab o'quvchilari orasida birinchi guruhga pediatrik tasnifda 18 %, ijtimoiy-gigiyenik tasnifda 62 % bola kiradi. Chunki ikkinchi tibbiy guruhdagi bolalarning ko'pchiligi ijtimoiy va funksional jihatdan yaxshi moslashgan va amalda sog'lom hisoblanadi [1]."
+    ]},
+    { "heading": "Xulosa", "content": [
+      "Bolalar va o'smirlar beshta salomatlik guruhiga bo'linadi: birinchisi sog'lom bolalar, ikkinchisi funksional og'ishli bolalar, uchinchidan beshinchigacha surunkali kasalligi bor bolalar. Guruh raqami ortishi bilan kasallikning og'irligi va funksional cheklanish ortadi. Sanitariya vrachi bu guruhlashdan jamoa salomatligini baholashda, xavf omillarini aniqlashda va profilaktika ishini rejalashtirishda foydalanadi [1]."
+    ]}
+  ],
+  "references": [
+    "Kuchma V.R. Bolalar va o'smirlar gigiyenasi: o'quv qo'llanma (rus tilida). xayrullokomilov.uz/kutubxona, material ID 2301. 2010."
+  ]
+}

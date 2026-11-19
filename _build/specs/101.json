@@ -1,0 +1,61 @@
+{
+  "number": 101,
+  "title": "101. Sizningcha, akseleratsiya va retardatsiya jarayonlari nimani ko'rsatadi?",
+  "sections": [
+    { "heading": "Kirish", "content": [
+      "Bolalar va o'smirlarning o'sish hamda rivojlanish sur'ati bir necha avlod davomida o'zgarib borgan. Akseleratsiya va retardatsiya shu o'zgarishlarning ikki yo'nalishini ifodalaydi, ular jamiyatning ijtimoiy-iqtisodiy ahvoli va yashash sharoiti bilan chambarchas bog'liq [1, 2].",
+      "Ushbu mavzuda akseleratsiya va retardatsiya tushunchalari, ularning namoyon bo'lishi, kelib chiqish sabablari haqidagi farazlar, salomatlikka ta'siri va gigiyenik normalarni qayta ko'rib chiqish zarurati bayon etiladi [1, 2]."
+    ]},
+    { "heading": "Tushunchalar", "content": [
+      "Akseleratsiya (lotincha acceleratio, tezlashish) hozirgi avlod bolalari va o'smirlarida organizm o'sishi va rivojlanishining oldingi avlodlarga nisbatan tezlashuvini bildiradi. Biologik yetilish bosqichi hozirgi avlodda avvalgisiga qaraganda ancha erta tugallanadi [1, 2].",
+      "Retardatsiya, aksincha, o'sish va rivojlanish sur'atining sekinlashuvini ifodalaydi. Dezeleratsiya atamasi esa jismoniy rivojlanish ko'rsatkichlarining pasayishini bildiradi. Bu hodisalar sekulyar trend, ya'ni inson biologiyasidagi asrlik o'zgarish tendensiyasining tarkibiy qismlaridir [1, 2]."
+    ]},
+    { "heading": "Akseleratsiyaning namoyon bo'lishi", "content": [
+      "Akseleratsiya tushunchasi 1935-yilda maktab gigiyenasi bo'yicha nemis mutaxassisi Kox tomonidan kiritilgan. XX asr boshidagi antropometrik tekshiruvlar natijalari XIX asrning 30-yillaridagiga qaraganda yuqoriroq bo'lgan [1, 2].",
+      "Yevropa va AQShda 1880-1950-yillar oralig'ida har o'n yillikda 5-7 yoshli bolalar bo'yi 1,5 sm, vazni 0,5 kg, 13-15 yoshli bolalar bo'yi 2,5 sm, vazni 2 kg ortgan. Akseleratsiya o'smirlik davrida eng yaqqol namoyon bo'ladi [1, 2]."
+    ]},
+    { "heading": "Turli tizimlarda ko'rinishi", "content": [
+      "Tezlashish tug'ilish paytidan boshlab kuzatiladi: so'nggi 30-40 yilda yangi tug'ilgan chaqaloqlarning bo'yi taxminan 0,5 sm uzun, vazni 50-100 g ortiq bo'lgan. Sut tishlari ancha erta, doimiy tishlar o'rtacha bir yil oldin chiqadi, umurtqa pog'onasi takomili ham ilgarilab ketadi [2].",
+      "Ichki a'zolar ham tezroq rivojlangan: 14-16 yoshli o'g'il bolalarda yurakning ko'ndalang o'lchami 1968-69-yillarda 1948-yildagiga nisbatan kattaroq bo'lgan. Jinsiy rivojlanish ham ilgarilagan, Yevropada qizlar XIX asr o'rtalarida 16-17 yoshdan hayz ko'rgan bo'lsa, XX asrning 60-yillarida 13-14 yoshdan boshlagan [2]."
+    ]},
+    { "heading": "Kelib chiqish sabablari haqidagi farazlar", "content": [
+      "Akseleratsiya sabablari bo'yicha ko'plab farazlar ilgari surilgan, biroq birortasi sekulyar siljishni to'liq tushuntirib bera olmaydi. Ehtimol, bu zamonaviy inson biologiyasidagi umumiy o'zgarishning natijasi bo'lib, omillar majmuasi ta'sirida yuzaga keladi [1].",
+      "Farazlar to'rt guruhga bo'linadi. Fizik-kimyoviy farazlar quyosh radiatsiyasi, elektromagnit maydon, kosmik nurlanish va karbonat angidrid ortishini nazarda tutadi. Turmush omillari farazi ovqatlanish sifati va axborot ko'payishiga tayanadi. Genetik farazlar siklik biologik o'zgarishlar va populyatsiyalar aralashuvini, majmua farazlari urbanizatsiya va ijtimoiy-biologik omillarni ko'rsatadi [1, 2]."
+    ]},
+    { "heading": "Ijtimoiy sharoitlarning roli", "content": [
+      "Iqtisodiy rivojlangan mamlakatlarda akseleratsiya yuqori darajada o'tgan. Jismoniy rivojlanishi avval past bo'lgan ijtimoiy qatlamlarda tezlashish ko'rsatkichlari ayniqsa sezilarli bo'lgan. Og'ir turmush genetik imkoniyatlarning amalga oshishiga to'sqinlik qiladi [2].",
+      "Masalan, Ikkinchi jahon urushi davrida bolalar va o'smirlarning jismoniy rivojlanishi pasaygan. Urush va inqiroz yillarida yangi tug'ilgan chaqaloqlar o'lchamlari kamaygan, ya'ni rivojlanish sur'ati jamiyat hayot sharoitiga bog'liq ekani tasdiqlangan [1, 2]."
+    ]},
+    { "heading": "Rivojlanishning siklik xususiyati", "content": [
+      "Sekulyar tendensiya bilan birga rivojlanishda universal siklik tebranishlar ham mavjud. Quyosh va geomagnit faolligi maksimum bo'lgan yillarda tug'ilgan bolalarda yangi tug'ilgan chaqaloqlarning bo'yi va vazni kamayadi, jinsiy yetilish kechroq boshlanadi, oyoqlarning nisbiy uzunligi qisqaradi [1].",
+      "Quyosh faolligi minimum bo'lgan yillar akseleratsiya, maksimum bo'lgan yillar retardatsiya davri hisoblanadi. Shunday qilib, jismoniy rivojlanishdagi o'zgarishlar bir yo'nalishli emas, balki sekulyar tendensiya va siklik tebranishlarning yig'indisini ifodalaydi [1]."
+    ]},
+    { "heading": "Retardatsiyaga o'tish", "content": [
+      "Hozirgi paytda akseleratsiya sur'ati sekinlashgani haqida ma'lumotlar bor. Moskvada akseleratsiya tugagan: zamonaviy maktab o'quvchilarining vazni 1960-yillardagi tengdoshlariga o'xshash, ko'krak qafasi aylanasi bo'yicha esa ulardan orqada [1].",
+      "1980-yillardan funksional ko'rsatkichlarning kamayishi, 1990-yillardan morfologik ko'rsatkichlar o'sishining sekinlashuvi va jinsiy yetilish muddatlarining barqarorlashuvi qayd etilgan. Hozirgi vaqtda akseleratsiya tugab, o'sish va rivojlanish retardatsiyasiga o'tish kuzatiladi [1]."
+    ]},
+    { "heading": "Retardatsiya belgilari", "content": [
+      "Rossiya maktab o'quvchilarida tana tuzilishining ingichkalashuvi, ya'ni grasilizatsiya kuzatiladi: tananing barcha kenglik va aylana o'lchamlari, ayniqsa ko'krak qafasining ko'ndalang va sagittal diametrlari hamda chanoq o'lchami kamayadi [1].",
+      "So'nggi 20 yilda vazn tanqisligi bor o'quvchilar ulushi o'g'il bolalarda 7 dan 14 % gacha, qizlarda 5 dan 13 % gacha ortgan, past bo'yli bolalar soni deyarli 3 marta ko'paygan (0,5 % dan 4 % gacha). Menarxe yoshi 12 yil 6 oy - 12 yil 11 oy dan 13 yil - 13 yil 5 oygacha kechikkan [1]."
+    ]},
+    { "heading": "Funksional imkoniyatlarning pasayishi", "content": [
+      "Jismoniy rivojlanishning dezeleratsiyasi maktab o'quvchilarining funksional imkoniyatlari kamayishi bilan birga boradi. Moskva o'quvchilarida so'nggi 20 yilda qo'l kafti kuchi taxminan 18-20 %, o'pkaning tiriklik sig'imi 15 % ga pasaygan [1].",
+      "13-14 yoshli qizlarning 32 %, 15-16 yoshlilarning 25 %, 17-18 yoshlilarning 22 % ida biologik yosh pasport yoshidan orqada qoladi. Bu keyingi jismoniy rivojlanish va bolalar reproduktiv salomatligining yomonlashuvi uchun noqulay bashoratli belgi hisoblanadi [1]."
+    ]},
+    { "heading": "Salomatlikka ta'siri", "content": [
+      "Akseleratsiyaning bolalar salomatligiga ta'siri yetarlicha o'rganilmagan. Ayrim pediatrlar fikricha, tezlashuv tufayli o'smirlarda gipertoniya, qomat o'zgarishlari, diabet, revmatizm, surunkali tonzillit, asab kasalliklari va tish kariyesi ko'proq uchraydi, biroq bu bog'liqliklar chuqur o'rganishni talab qiladi [2].",
+      "Erta jismoniy rivojlanish sportdagi muvaffaqiyatlarning yoshargani bilan birga katta yoshdagilarga xos kasalliklar o'smirlik davrida ham uchrashi bilan namoyon bo'ladi. Retardatsiya esa vazn tanqisligi, past bo'ylilik va yetilishning kechikishi bilan bog'liq muammolarni keltirib chiqaradi [1, 2]."
+    ]},
+    { "heading": "Gigiyenik ahamiyati", "content": [
+      "Akseleratsiya yoki retardatsiya sharoitida gigiyenik normalar va etalonlarni, ya'ni energiya sarfi, oziq-ovqat mahsulotlari miqdori, kiyim, poyabzal va maktab mebeli o'lchamlarini qayta ko'rib chiqish zarurati paydo bo'ladi [2].",
+      "Shu sababli sanitariya vrachi jismoniy rivojlanishning mintaqaviy ko'rsatkichlari o'zgarishini muntazam kuzatadi. Bu kuzatuv eskirgan etalonlardan foydalanishning oldini oladi va bolalar muassasalari uchun mebel, ovqatlanish hamda yuklama normalarni haqiqiy ahvolga moslashtirishga yordam beradi [1, 2]."
+    ]},
+    { "heading": "Xulosa", "content": [
+      "Akseleratsiya avlodlar almashinuvida bolalar o'sishi va rivojlanishining tezlashuvini ko'rsatadi, retardatsiya esa bu tendensiyaning sekinlashuvi va ayrim hollarda teskari yo'nalishga o'tishini bildiradi. Ikkala jarayon ham ijtimoiy-iqtisodiy sharoit, ovqatlanish va muhit bilan bog'liq va jamoa salomatligining ko'rsatkichi sifatida ahamiyatga ega. Shu sababli sanitariya vrachi mintaqadagi jismoniy rivojlanish dinamikasini kuzatib, gigiyenik normalarning ahvolga mosligini baholaydi [1, 2]."
+    ]}
+  ],
+  "references": [
+    "Kuchma V.R. Bolalar va o'smirlar gigiyenasi: o'quv qo'llanma (rus tilida). xayrullokomilov.uz/kutubxona, material ID 2301. 2010.",
+    "Do'schanov B.A., Iskandarova Sh.T. Umumiy gigiyena: tibbiyot oliy o'quv yurtlari talabalari uchun darslik, 4-nashr. Toshkent: Yangi asr avlodi. xayrullokomilov.uz/kutubxona, material ID 2767. 2008."
+  ]
+}
