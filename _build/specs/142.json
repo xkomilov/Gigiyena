@@ -1,0 +1,121 @@
+{
+  "number": 142,
+  "title": "142. Umumiy gigiyena bo'yicha SEO va JSBda ishlaydigan vrachning bilimi va ko'nikmalari haqida aytib bering.",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi xizmatida (SEO va JSB) umumiy gigiyena bo'yicha ishlaydigan vrach aholi salomatligini muhofaza qilishda atrof muhit, aholi punktlari va xalq xo'jaligi obyektlari ustidan davlat sanitariya nazoratini amalga oshiradi [1].",
+        "Ushbu mavzuda vrachning umumiy bilimlari, umumiy ko'nikmalari, maxsus bilim va amaliy malakalari, tekshiruvlarni o'tkazish tartibi, natijalarni rasmiylashtirish va ma'muriy choralar bayon etiladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Mutaxassislik mazmuni",
+      "content": [
+        "Umumiy gigiyena vrachi sanitariya-epidemiologiya xizmati markazi ishlarini tashkil etuvchi yetakchi mutaxassisdir.",
+        "Malaka xarakteristikasi vrach bilishi va qila olishi kerak bo'lgan narsalarni to'rt guruhga ajratadi: umumiy bilimlar, umumiy ko'nikmalar, maxsus bilim va ko'nikmalar hamda amaliy malakalar [1]."
+      ]
+    },
+    {
+      "heading": "Huquqiy bilimlar",
+      "content": [
+        "Vrach sog'liqni saqlash qonunchiligi asoslarini, sanitariya-epidemiologiya xizmati organlari va muassasalarining faoliyatini belgilovchi qonuniy hujjatlarni hamda sanitariya vrachining huquq va majburiyatlarini bilishi kerak [1].",
+        "Shuningdek u huquqiy masalalarni, xizmatning tashkiliy tuzilmasini, aholi punktlarini ijtimoiy-iqtisodiy rivojlantirish va sog'lomlashtirish bo'yicha rahbar organlar qarorlarini bilishi shart [1]."
+      ]
+    },
+    {
+      "heading": "Salomatlik va muhit haqida bilimlar",
+      "content": [
+        "Vrach aholi salomatligi ko'rsatkichlarini (umumiy, yuqumli va kasbiy kasallanish darajasi, ayrim kontingentlarning jismoniy rivojlanishi) va demografik ko'rsatkichlarni (tug'ilish, o'lim, jins, yosh va kasb guruhlari tarkibi) bilishi lozim [1].",
+        "U atrof muhitning sanitariya holatini (yashash sharoiti, suv ta'minoti, chiqindilarni olib chiqish tizimi, suv havzalari va havoning sanitariya muhofazasi) hamda aholi salomatligi tushunchasini, uni shakllantiruvchi omillar va sog'lom turmush tarzini biladi [1]."
+      ]
+    },
+    {
+      "heading": "Gigiyenik me'yorlash asoslari",
+      "content": [
+        "Vrach organizmning tashqi muhit omillari bilan o'zaro ta'sir qonuniyatlarini, zararlilik mezonlarini va aholi punktlari sharoitida muhit omillarini gigiyenik me'yorlash tamoyillarini bilishi kerak [1].",
+        "Bu bilimlar vrachga tekshiruv natijalarini talqin qilishda asos bo'ladi [1]."
+      ]
+    },
+    {
+      "heading": "Umumiy ko'nikmalar",
+      "content": [
+        "Vrach sanitariya-epidemiologik holatni baholay olishi, salomatlikka noqulay ta'sir qiluvchi ustuvor omillarni ajratib, samarali choralarni ko'rishi kerak. U rejalashtirilgan tadbirlarning gigiyenik samaradorligini ham baholaydi [1].",
+        "U gigiyenik masalalarning o'z vaqtida bajarilishi ustidan sanitariya nazoratini amalga oshiradi, xalq xo'jaligi obyektlari va atrof muhit holati ustidan laboratoriya-asbobiy nazoratni tashkil qiladi [1]."
+      ]
+    },
+    {
+      "heading": "Tahlil ko'nikmalari",
+      "content": [
+        "Vrach sanitariya tekshiruvlari va laboratoriya tadqiqotlari natijalarini tahlil qilib, malakali xulosa berishi kerak. O'tkir ichak kasalliklari va ovqat zaharlanishlari avj olishini epidemiolog bilan birga tahlil qiladi [1].",
+        "Obyektlarni sanitariya jihatidan tekshirish (laboratoriya-asbobiy usullar bilan) va tekshiruv natijalari bo'yicha xulosa yoki dalolatnoma tuzish ham uning vazifasidir [1]."
+      ]
+    },
+    {
+      "heading": "Maxsus bilimlar",
+      "content": [
+        "Vrach atmosfera havosi va ish xonalari havosi, ichimlik suvi, oziq-ovqat mahsulotlari, xo'jalik-ichimlik va madaniy-maishiy maqsadlarda foydalaniladigan suv obyektlari suvi sifatini tartibga soluvchi normativ-uslubiy materiallarni bilishi va qo'llay olishi kerak [1].",
+        "U turar-joy va fuqarolik binolari va muassasalarining alohida turlariga gigiyenik talablarni, maishiy va sanoat chiqindilarini yig'ish, olib chiqish va zararsizlantirish tizimlarini biladi [1]."
+      ]
+    },
+    {
+      "heading": "Aholi punktlari gigiyenasi",
+      "content": [
+        "Vrach aholi punktlarini rejalashtirish gigiyenasiga oid normativ-uslubiy hujjatlarni bilishi va ogohlantiruvchi hamda joriy sanitariya nazoratini amalga oshirishda ulardan foydalana olishi lozim [1].",
+        "U qishloq xo'jaligida qo'llaniladigan pestitsidlarga gigiyenik talablarni va ularning zaharli ta'sir xususiyatlarini bilishi hamda aholi salomatligi va kasallanishini o'rganish tamoyillari va usullarini, o'lim ko'rsatkichlarini hisoblash tamoyillarini qo'llay oladi [1]."
+      ]
+    },
+    {
+      "heading": "Amaliy malakalar",
+      "content": [
+        "Vrach kommunal xo'jalik, savdo, jamoat ovqatlanishi, oziq-ovqat sanoati, sanoat obyektlari, bolalar maktabgacha, maktab va o'smirlar muassasalarini laboratoriya-asbobiy usullar bilan sanitariya jihatidan tekshirish malakasiga ega bo'lishi kerak [1].",
+        "U ayrim kasbiy guruhlar o'rtasida gigiyenik tarbiya ishini tashkil etishi, sanitariya bo'limi ishini tashkil qilishi, hisobotlar va tuman, shahar hokimliklarida ko'rib chiqish uchun materiallar tayyorlashi lozim [1]."
+      ]
+    },
+    {
+      "heading": "Rejalashtirish va tahlil",
+      "content": [
+        "Vrach xizmat faoliyatini rejalashtiradi, uning faoliyatini yillik hisobotlar va boshqa ko'rsatkichlar asosida tahlil qiladi. Ma'muriy jarimalarni rasmiylashtirish ham malaka xarakteristikasiga kiritilgan [1].",
+        "Shuningdek u nazorat obyektlarida sanitariya-epidemiologik holatni yaxshilash bo'yicha reja-topshiriqqa takliflar ishlab chiqadi [1]."
+      ]
+    },
+    {
+      "heading": "Tekshiruvlarni o'tkazish tartibi",
+      "content": [
+        "Tadbirkorlik subyektlarida o'tkaziladigan tekshiruvlar vakolatli organ, ya'ni tadbirkorlik subyektlarining huquqlarini himoya qilish bo'yicha vakil bilan kelishilgan yoki uni xabardor qilgan holda tashkil etiladi. Tekshiruv «Tekshiruvlarni elektron ro'yxatga olish yagona tizimi» orqali amalga oshiriladi [2].",
+        "Vakil bilan kelishilgan tartibdagi tekshiruvlar jismoniy va yuridik shaxslarning murojaatlari yoki «xavfni tahlil etish» natijalari asosida o'tkaziladi. Buyurtmada tekshiruvni o'tkazuvchi organ, subyekt nomi va manzili, asos, muddat, predmet va tekshiruv dasturi ko'rsatiladi [2]."
+      ]
+    },
+    {
+      "heading": "Buyruq va dastur",
+      "content": [
+        "Buyurtma uch ish kunida ko'rib chiqiladi, kelishilgan taqdirda nazorat qiluvchi organ uch ish kuni ichida tekshiruv o'tkazish to'g'risida buyruq qabul qiladi. Buyruqda xodimlar tarkibi, maqsad va muddat ko'rsatiladi, tekshiruv dasturi ilova qilinadi [2].",
+        "Tekshiruv dasturlari obyekt faoliyati yo'nalishidan kelib chiqib, amaldagi sanitariya qoidalari, normalari va gigiyena normativlari asosida tuziladi. Xodimlar o'z vakolatlari va dasturdan chetga chiqmasligi shart [2]."
+      ]
+    },
+    {
+      "heading": "Natijalarni rasmiylashtirish",
+      "content": [
+        "Tekshiruv natijalari dalolatnomada qayd etiladi. Aniqlangan qonunbuzilish holatlari bo'yicha xulosalar tekshiruv tugagandan keyin uch ish kuni ichida, ko'rilgan choralar haqidagi ma'lumotlar esa bu choralardan keyin uch ish kunidan kechikmay yagona tizimga kiritiladi [2].",
+        "Bu ma'lumotlarga yozma ko'rsatma, ma'muriy huquqbuzarlik to'g'risidagi bayonnoma, jarima qo'llash qarorlari va sud qarorlari kiradi. Shu sababli vrach hujjatlarni to'liq va o'z vaqtida rasmiylashtirishni bilishi shart [2]."
+      ]
+    },
+    {
+      "heading": "Ma'muriy choralar",
+      "content": [
+        "Sanitariya qoidalari, normalari va gigiyena normativlari buzilganda ma'muriy jarimalar qo'llanadi. Tekshiruv tugagach bir kun ichida sanitariya-gigiyena va epidemiologiya bo'limi mudiri ma'muriy amaliyot bo'limiga buyruq nusxasi, dalolatnoma, bayonnoma va tushuntirish xatini topshiradi [2].",
+        "Ma'muriy huquqbuzarlik materiallari ma'muriy amaliyot bo'limi tomonidan jarima qarorlarini qayd etish jurnaliga kiritiladi va ko'rib chiqish uchun belgilangan muddatda sudga yoki bo'lim rahbariyatiga yuboriladi [2]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "Umumiy gigiyena vrachi huquqiy va tashkiliy bilimlarga, aholi salomatligi va muhit sanitariya holatini baholash ko'nikmalariga, suv, havo, oziq-ovqat va aholi punktlari gigiyenasi bo'yicha maxsus bilimlarga hamda obyektlarni laboratoriya-asbobiy usullar bilan tekshirish, natijalarni rasmiylashtirish va ma'muriy choralarni qo'llash malakasiga ega bo'lishi kerak [1, 2]."
+      ]
+    }
+  ],
+  "references": [
+    "Zaredinov D.A., Xudayberganov A.S., Israilova G.M., Madaminov M.M., Boltayeva A.I., Yusupov B.U., Ten O.L. Umumiy gigiyena vrach mutaxassisligi bo'yicha malaka xarakteristikasi (rus tilida). Toshkent vrachlar malakasini oshirish instituti Gigiyena kafedrasi jamoasi. xayrullokomilov.uz/kutubxona, material ID 1146. Nashr yili ko'rsatilmagan.",
+    "O'zbekiston Respublikasi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi xizmati. Sanitariya qoidalari, normalari va gigiyena normativlariga amal qilinishi ustidan tekshiruvlar o'tkazish va ma'muriy jarima choralarini qo'llash tartiblari bo'yicha yo'riqnomani tasdiqlash to'g'risida: 54-son buyruq, 2021-yil 8-may. Toshkent. xayrullokomilov.uz/kutubxona, material ID 409. 2021."
+  ]
+}
