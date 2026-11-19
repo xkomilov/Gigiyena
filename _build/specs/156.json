@@ -1,0 +1,109 @@
+{
+  "number": 156,
+  "title": "156. Kiyim tasnifi.",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Kiyim turli belgilar bo'yicha tasniflanadi: vazifasi, qatlami, issiqlik o'tkazishi, fasli, ishlatiladigan material va foydalanuvchi yoshi. Gigiyenik tasnif kiyimga qo'yiladigan talablarni turlicha belgilash uchun asos bo'ladi [1, 2].",
+        "Ushbu mavzuda kiyimning qatlamlar bo'yicha, issiqlik o'tkazish xususiyati, fasl, tola turi, yosh va foydalanish xususiyati bo'yicha tasnifi hamda bolalar kiyimining gigiyenik sinflari bayon etiladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Qatlamlar bo'yicha tasnif",
+      "content": [
+        "Kiyim qatlamlar bo'yicha uchga bo'linadi: 1-qatlam ichki kiyim (badanga tegib turadi), 2-qatlam ko'ylak, bluzka, ko'ylak-kostyum, shuningdek jun ko'ylak va kostyumlar, 3-qatlam ustki kiyim (kurtka, palto, kombinezon) [2].",
+        "Har bir qatlam o'ziga xos gigiyenik talablarga ega. Ichki kiyim namlik va havoni yaxshi o'tkazadigan, gigroskopik bo'lishi kerak, ustki kiyimda esa yuqori havo o'tkazuvchanlik istalmaydi, chunki issiqlik himoyasi kamayadi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Issiqlik o'tkazishi bo'yicha tasnif",
+      "content": [
+        "Kiyimlar issiqlik o'tkazishiga qarab bir necha turga bo'linadi. Hayvon terisi va parranda patlaridan tayyorlangan kiyim issiqlikni juda kam o'tkazadi [1].",
+        "Jun va ip-gazlamadan tikilgan kiyim issiqlik o'tkazish bo'yicha o'rtacha hisoblanadi, ip, zig'ir tolasi va shoyi matolar issiqlikni ko'proq o'tkazadi [1]."
+      ]
+    },
+    {
+      "heading": "Fasl bo'yicha tasnif",
+      "content": [
+        "Kiyim yil faslariga qarab yozgi, bahor-kuz va qishki turlarga bo'linadi. Qishda bir necha kiyim ustma-ust kiyiladi, kiyimlar o'rtasidagi havo issiqlikni kam o'tkazadi va organizmni tashqi muhit harorati o'zgarishidan himoya qiladi [1].",
+        "Markaziy Osiyo iqlimi quruq va keskin o'zgaruvchan: yozda quyosh nuri kuchli va namlik juda kam, bahor-kuzda harorat o'zgaruvchan va shamol kuchli, qishda harorat past. Kiyimni shu sharoitga mos tanlash kerak [1]."
+      ]
+    },
+    {
+      "heading": "Tola turi bo'yicha tasnif",
+      "content": [
+        "Kiyim asosan o'simlik (paxta, zig'ir), hayvon (jun, ipak) va sun'iy (kapron, neylon, lavsan) tolalardan to'qilgan matolardan tikiladi [1].",
+        "Tolalar tabiiy, sun'iy (viskoza, atsetat) va sintetik (poliefir, poliamid, poliakrilonitril) guruhlarga bo'linadi. Bolalar kiyimida ularning ulushi tarkibga qarab cheklanadi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Foydalanuvchi yoshi bo'yicha tasnif",
+      "content": [
+        "Bolalar kiyimi yosh guruhlari bo'yicha ajratiladi: chaqaloqlar, 3 yoshgacha, 4-7 yosh, 8-12 yosh, 13-15 yosh va 16 yoshdan katta o'smir-yoshlar uchun [2].",
+        "Har bir yosh guruhiga ball beriladi: chaqaloq uchun 0, 3 yoshgacha 1, 4-7 yoshda 2, 8-12 yoshda 3, 13-15 yoshda 4, 16 yoshdan katta uchun 5 ball. Yosh ortgan sari talablar yengillashadi [2]."
+      ]
+    },
+    {
+      "heading": "Teri bilan tegish bo'yicha tasnif",
+      "content": [
+        "Bolalar kiyimi teri bilan bevosita tegish maydoniga qarab uch guruhga bo'linadi: teri yuzasining 15 % va undan ko'pi bilan tegadigan buyumlar (1 ball), 15 % dan kam bilan tegadiganlar (2 ball) va teri bilan bevosita tegmaydigan buyumlar (3 ball) [2].",
+        "Bunday bo'linish zararli moddalarning teri orqali ta'siri (perkutan) darajasini hisobga oladi. Teri bilan tegish maydoni qanchalik katta bo'lsa, buyumga talablar shunchalik qattiq [2]."
+      ]
+    },
+    {
+      "heading": "Kiyish davomiyligi bo'yicha",
+      "content": [
+        "Kiyimlar kiyish davomiyligi va chastotasiga ko'ra muntazam (har kuni 4 soat va undan ko'p) va epizodik (haftasiga 1-2 marta, 4 soatdan ko'p bo'lmagan) turlarga bo'linadi [2].",
+        "Muntazam foydalaniladigan kiyim 1 ball, epizodik kiyim 2 ball oladi. Ushbu uchta ko'rsatkich birgalikda buyumning xavf darajasini belgilaydi [2]."
+      ]
+    },
+    {
+      "heading": "Gigiyenik sinflar",
+      "content": [
+        "Buyumga berilgan ballar yig'indisidan sinflovchi ko'rsatkich (SK) hisoblanadi, uning qiymati bo'yicha buyum 4 sinfdan biriga kiritiladi: I sinf 0,38-0,55, II sinf 0,56-0,70, III sinf 0,71-0,92, IV sinf 0,93-1,25 [2].",
+        "Chaqaloqlar uchun ichki kiyim I sinfga, 8-12 yoshli bolalarning 1-qatlam kiyimi II-III sinfga, o'smirlar uchun ichki kiyim III sinfga kiradi. Teri bilan tegmaydigan ustki kiyim 8-12 yoshda IV sinfga kiradi [2]."
+      ]
+    },
+    {
+      "heading": "Sinflar bo'yicha talablar",
+      "content": [
+        "Sinfga qarab organoleptik, fizik-gigiyenik, sanitariya-kimyoviy va toksikologik ko'rsatkichlarga talablar o'zgaradi. Hid intensivligi I-II sinf uchun 1 balldan, III-IV sinf uchun 2 balldan oshmasligi kerak [2].",
+        "Trikotaj polotnoda gigroskopiklik I sinf uchun kamida 14 %, II sinf uchun 10 %, III sinf uchun 4 %, IV sinf uchun aniqlanmaydi; elektrlanish I sinfda 2 kV/m, II sinfda 3, III sinfda 4,5 kV/m dan oshmasligi kerak [2]."
+      ]
+    },
+    {
+      "heading": "Maxsus kiyim",
+      "content": [
+        "Maxsus kiyim (korjoma, yarim korjoma kostyum, plash, yarim po'stin, yengcha, jilet) tanani mexanik shikastlanishdan, kesuvchi va yallig'lantiruvchi ta'sirdan, yuqori va past haroratdan, zaharli va zaharsiz moddalardan himoya qiladi [3].",
+        "Qo'llanilish maqsadiga ko'ra maxsus kiyim sovuqdan himoya, ishqordan himoya, issiqlik nurlaridan himoya va boshqa turlarga ajratiladi. Maxsus oyoq kiyim (etik, botinka, tufli, kalish, bahila) ham maqsadi bo'yicha markalanadi [3]."
+      ]
+    },
+    {
+      "heading": "Foydalanish joyi bo'yicha",
+      "content": [
+        "Gigiyenik talablar kiyimning vazifasiga qarab farqlanadi: ichki, kundalik, yozgi yengil, qishki, sport, maxsus. Yagona talab barcha kiyim va ularni tashkil etuvchi matolar uchun o'rinli emas [2].",
+        "Masalan, ichki kiyim va yengil ko'ylak matolari yuqori havo va bug' o'tkazuvchanlikka, ustki kiyim esa past havo o'tkazuvchanlik va kam gigroskopiklikka ega bo'lishi kerak [2]."
+      ]
+    },
+    {
+      "heading": "Tasnifning amaliy ahamiyati",
+      "content": [
+        "Tasnif sanitariya vrachiga kiyimga qo'yiladigan gigiyenik talablarni to'g'ri qo'llashga imkon beradi. Bolalar kiyimi sinfini aniqlash laboratoriya sinovlari hajmini va talablar darajasini belgilaydi [2].",
+        "Sanitariya vrachi bolalar kiyimining yangi namunalarini yaratishda ishtirok etib, kiyimni gigiyenik baholaydi. Yangi matolar gigiyena talablariga mos kelishi, kiyim sovuq faslda issiqlikni saqlashi, yozda issiqlik ajralishiga to'sqinlik qilmasligi kerak [1].",
+        "Ichki va tashqi kiyim aralashganda ham tasnif saqlanadi: har bir qatlam o'z sinfi talablariga javob berishi kerak, qatlamlar orasidagi havo esa qo'shimcha issiqlik himoyasini beradi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "Kiyim qatlamlar (ichki, o'rta, ustki), issiqlik o'tkazishi, fasli, tola turi, yosh, teri bilan tegish maydoni va kiyish davomiyligi bo'yicha tasniflanadi. Bolalar kiyimi gigiyenik jihatdan sinflovchi ko'rsatkich bo'yicha 4 sinfga bo'linadi, maxsus kiyim esa himoya vazifasiga ko'ra turlarga ajratiladi. Tasnif gigiyenik talablarni kiyimning aniq vazifasi va foydalanuvchisiga moslashtirishga imkon beradi [1, 2, 3]."
+      ]
+    }
+  ],
+  "references": [
+    "Do'schanov B.A., Iskandarova Sh.T. Umumiy gigiyena: tibbiyot oliy o'quv yurtlari talabalari uchun darslik, 4-nashr. Toshkent: Yangi asr avlodi. xayrullokomilov.uz/kutubxona, material ID 2767. 2008.",
+    "O'zbekiston Respublikasi Bosh davlat sanitariya vrachi. Bolalar va o'smirlar kiyimiga qo'yiladigan gigiyenik talablar: SanPiN № 0235-07 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 614. 2007.",
+    "Mehnat gigiyenasi fanidan amaliy mashg'ulotlar uchun o'quv qo'llanma (o'zbek tilida, kirill yozuvida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 1309. 2009."
+  ]
+}

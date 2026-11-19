@@ -1,0 +1,112 @@
+{
+  "number": 163,
+  "title": "163. Havo namligining fiziologik va gigiyenik qiymati.",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Havo namligi mikroiqlimning asosiy parametrlaridan biri bo'lib, organizm issiqlik almashinuvi, terlash va moslashuvga bevosita ta'sir qiladi. Harorat va havo harakati bilan birga u inson issiqlik holati va ish qobiliyatini belgilaydi [1, 2].",
+        "Ushbu mavzuda namlikning fiziologik ahamiyati, issiqlik almashinuvidagi o'rni, past va yuqori namlikning ta'siri, turar joy, ishlab chiqarish va ta'lim muassasalarida ruxsat etilgan namlik hamda gigiyenik nazorat bayon etiladi [1, 2, 3]."
+      ]
+    },
+    {
+      "heading": "Mikroiqlim parametri sifatida",
+      "content": [
+        "Meteorologik sharoit havo muhitining fizik holati bo'lib, harorat, namlik, qizigan jismlarning issiqlik nurlanishi va havo harakati bilan tavsiflanadi. Mikroiqlimning asosiy parametrlariga havo harorati, ish zonasi havosining nisbiy namligi, havo harakati tezligi va infraqizil nurlanish kiradi [1].",
+        "Mikroiqlim organizmning issiqlik almashinuviga va uning issiqlik holatiga ta'sir qiluvchi fizik omillar majmui. Ularning o'zgarishi termoregulyatsiya zo'riqishiga olib kelishi mumkin [1]."
+      ]
+    },
+    {
+      "heading": "Bug'lanish va issiqlik berish",
+      "content": [
+        "Teri va nafas yo'llaridan suvning bug'lanishi issiqlik berishning to'rtinchi yo'li. Havo namligi oshgan sari fiziologik to'yinish tanqisligi kamayadi va bug'lanish bilan issiqlik yo'qotish cheklanadi [1].",
+        "Havo harorati ortganda organizm issiqlik almashinuviga havo namligining va kiyimning nam o'tkazuvchanligining ta'siri sezilarli ortadi. Issiq sexlarda bug'lanish issiqlik muvozanatini saqlashning asosiy yo'li [1].",
+        "Normal havo haroratida organizm sutkada 1 l ga yaqin suvni sezilmas va faol ter ajralishi bilan yo'qotadi. Harorat ortganda ter smena davomida 5-6 l, issiq sexda og'ir ishda 12 l gacha ajraladi, uning miqdori havo namligiga, tezligiga va kiyimning issiqlik himoyasiga bog'liq [1]."
+      ]
+    },
+    {
+      "heading": "Yuqori haroratda yuqori namlik",
+      "content": [
+        "Yuqori haroratda namlik yuqori bo'lsa, ter bug'lanishi qiyinlashadi, organizm qizib ketadi va ish qobiliyati keskin pasayadi. Havo harorati 29,5 ± 2,5 °C va namlik 80 % bo'lganda birinchi soat oxirigacha ish qobiliyati 37 % ga pasayishi aniqlangan [1].",
+        "Havo harorati 25 °C va namlik 35 % bo'lganda 350 Vt/m² issiqlik nurlanishida ish qobiliyati 27 % ga kamayadi. Shu sababli issiq sharoitda namlik parametrini nazorat qilish zarur [1]."
+      ]
+    },
+    {
+      "heading": "Past haroratda yuqori namlik",
+      "content": [
+        "Past haroratda yuqori namlik organizm issiqlik yo'qotishini oshiradi, chunki suv bug'lari organizmning issiqlik nurlanishini intensiv yutadi. Shu sababli sovuq va nam sharoit gipotermiya xavfini oshiradi [1].",
+        "Sovuq namlik bilan birgalikda o'tkir va surunkali shamollash kasalliklariga sabab bo'ladi."
+      ]
+    },
+    {
+      "heading": "Iqlim sharoitida namlik",
+      "content": [
+        "Markaziy Osiyo iqlimi quruq va keskin o'zgaruvchan: yozda quyosh nuri kuchli, kunlar juda issiq va namlik juda kam, bahor va kuzda havo harorati o'zgaruvchan, namlik yuqori, qishda harorat past [2].",
+        "Kiyim va mikroiqlimni tanlashda havo harorati, namligi va shamol birgalikda hisobga olinishi kerak. Issiq iqlimda (soyada 40-45 °C) yurak-qon tomir tizimi zo'riqadi, issiqlik shishlari paydo bo'lishi mumkin [1, 2]."
+      ]
+    },
+    {
+      "heading": "Havo namligi tushunchalari",
+      "content": [
+        "Gigiyenik amaliyotda absolyut, maksimal va nisbiy namlik farqlanadi. Absolyut namlik 1 m³ havodagi suv bug'ining grammlardagi miqdori, nisbiy namlik absolyut namlikning maksimal namlikka foizdagi nisbati [4].",
+        "Nisbiy namlik havoning suv bug'lari bilan to'yinish darajasini ko'rsatadi. Havo harorati ko'tarilgan sari maksimal namlik ortadi, shu sababli bir xil absolyut namlikda nisbiy namlik pasayadi [4]."
+      ]
+    },
+    {
+      "heading": "Turar-joy va jamoat binolarida",
+      "content": [
+        "Aholi yashaydigan xonalarda nisbiy namlik 40-60 % bo'lishi kerak. Axborot-kommunikatsiya texnologiyalari o'quv xonalarida nisbiy namlik 40-60 % bo'lishi talab etiladi [3, 4].",
+        "Akademik litseylarda nisbiy namlik 30-45 % chegarasida bo'lishi lozim [5]. Davolash-profilaktika muassasalarida qishda nisbiy namligi 30-50 % li palatalarda harorat 20 °C bo'ladi [4]."
+      ]
+    },
+    {
+      "heading": "Ishlab chiqarishda",
+      "content": [
+        "«Nam» ishlab chiqarishlarga shaxta, kessonli va g'avvoslik ishlari, bo'yash, yigiruv va to'quv sexlari, teri ishlab chiqarish, oshxona fabrikalari kiradi. Bunday sharoitda namlik mikroiqlimning yetakchi omili [1].",
+        "Yuqori namlikli mikroiqlim turlari: nam, past va normal haroratda (baliq qayta ishlash sexlari), yuqori haroratda (bo'yoq sexlari). Ularda ish qobiliyati ayniqsa pasayadi [1]."
+      ]
+    },
+    {
+      "heading": "Havo harakati bilan birgalikda",
+      "content": [
+        "Havo harakati 1 m/s tezlikda konveksiya orqali issiqlik berishni 2 marta, 4 m/s da 4 marta oshiradi. Yuqori haroratda havo harakati ter bug'lanishiga yordam beradi, past haroratda esa konveksiyani kuchaytiradi [1].",
+        "Namlik va havo tezligi o'zaro bog'liq: nam sharoitda harakatlanuvchi havo issiqlik yo'qotishni oshiradi. Shu sababli parametrlar birgalikda baholanadi [1]."
+      ]
+    },
+    {
+      "heading": "Kiyim va namlik",
+      "content": [
+        "Namni yaxshi o'tkazadigan kiyim terining bug'lanishiga yordam beradi. Yupqa va silliq matolar namni tez bug'lantiradi, jun kiyim paxtadan to'qilgan kiyimga qaraganda namni sekin bug'lantiradi [2].",
+        "Ichki kiyim gigroskopik bo'lishi kerak, ustki kiyim uchun gigroskopiklik salbiy xususiyat, chunki namlanish issiqlik saqlashni kamaytiradi [2].",
+        "Namlik ko'rsatkichi ish joyining turiga qarab baholanadi: nam ishlab chiqarishlarda u yetakchi gigiyenik omil, quruq iqlimda esa havo namligini oshirish kerak bo'lishi mumkin. Har ikki holatda ham o'lchov natijalari ruxsat etilgan chegaralar bilan taqqoslanadi [1, 3]."
+      ]
+    },
+    {
+      "heading": "Namlikni o'lchash",
+      "content": [
+        "Havo namligini aniqlashda aspiratsion va statik psixrometrlar hamda gigrograflardan foydalaniladi. Aspiratsion psixrometrda havo oqimi bir tekis tashkil etiladi va termometrlar nurlanish ta'siridan himoyalanadi [4].",
+        "Gigrograf havo namligini uzluksiz qayd etadi: uning asosiy qismi yog'sizlantirilgan soch yoki ot yoli bo'lib, namlik o'zgarganda uzayadi yoki qisqaradi. Gigrograflar sutkalik va haftalik bo'ladi [4]."
+      ]
+    },
+    {
+      "heading": "Optimal va ruxsat etilgan sharoit",
+      "content": [
+        "Optimal mikroiqlim issiqlik komfortini ta'minlaydi va termoregulyatsiyani zo'riqtirmaydi. Ruxsat etilgan sharoitda termoregulyatsiya zo'riqishi fiziologik moslashish chegarasidan chiqmaydi [1].",
+        "Namlik harorat, mehnat og'irligi va yil davri bilan birgalikda normalanadi. Shu sababli sanitariya vrachi mikroiqlimning barcha parametrlarini birga baholaydi [1]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "Havo namligi organizmning issiqlik berishida, ayniqsa suv bug'lanishida muhim rol o'ynaydi. Yuqori haroratda yuqori namlik qizib ketishga, past haroratda yuqori namlik sovib ketishga, sovuq iqlimda esa nam sharoit sovqotishni kuchaytiradi. Shu sababli binolarda nisbiy namlik 40-60 % (ayrim muassasalarda 30-45 %) darajada saqlanadi va muntazam o'lchanadi [1, 2, 3, 4]."
+      ]
+    }
+  ],
+  "references": [
+    "Iskandarova G.T. (tahrir) Mehnat gigiyenasi bo'yicha ma'ruzalar matni (rus tilida). Toshkent tibbiyot akademiyasi Kommunal gigiyena va mehnat gigiyenasi kafedrasi. Toshkent. xayrullokomilov.uz/kutubxona, material ID 2348. 2009.",
+    "Do'schanov B.A., Iskandarova Sh.T. Umumiy gigiyena: tibbiyot oliy o'quv yurtlari talabalari uchun darslik, 4-nashr. Toshkent: Yangi asr avlodi. xayrullokomilov.uz/kutubxona, material ID 2767. 2008.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi huzuridagi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi qo'mitasi. Ta'lim tashkilotlari va bolalar sog'lomlashtirish oromgohlaridagi axborot-kommunikatsiya texnologiyalari o'quv xonalari, ularning jihozlanishi va axborot-kommunikatsiya texnologiyalaridan foydalanish tartibiga qo'yiladigan sanitariya-gigiyena talablari: 0063-24-son SanQvaN. Toshkent. xayrullokomilov.uz/kutubxona, material ID 638. 2024.",
+    "Solihojayev S.S. Gigiyenadan praktikum (o'zbek tilida, kirill yozuvida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 2344. Nashr yili ko'rsatilmagan.",
+    "O'zbekiston Respublikasi Bosh davlat sanitariya vrachi. Akademik litseylar va kasb-hunar kollejlarini qurish, tutish, o'qitish tartibini tashkil etish va mehnat muhofazasi bo'yicha sanitariya qoidalari: SanPiN № 0145-03 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 917. 2003."
+  ]
+}

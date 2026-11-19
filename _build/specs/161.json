@@ -1,0 +1,109 @@
+{
+  "number": 161,
+  "title": "161. Sanoat kiyimi va oyoq kiyimiga qo'yiladigan gigiyenik talablar.",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Sanoat kiyimi va oyoq kiyimi shaxsiy himoya vositalari (SHHV) tizimining asosiy qismi bo'lib, ishchi organizmini ishlab chiqarishning zararli va xavfli omillaridan himoya qiladi. Ularning samaradorligi to'g'ri tanlash, o'lchamga mosligi va to'g'ri foydalanishga bog'liq [1, 2].",
+        "Ushbu mavzuda maxsus kiyim va oyoq kiyimining vazifalari, ishlab chiqarish omillariga qarab tanlash, materiallar, ishlatish va parvarish qoidalari hamda boshqa himoya vositalari bilan birgalikda qo'llanishi bayon etiladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Maxsus kiyim tushunchasi",
+      "content": [
+        "Maxsus kiyimga korjoma, yarim korjoma kostyum, plash, yarim po'stin, yengcha va jiletlar kiradi. Ularning modeli, asosiy o'lchamlari, tartib raqamlari va qo'llanish maqsadi davlat standartlarida berilgan [1].",
+        "Maxsus kiyim tanani mexanik shikastlanishdan, kesuvchi, tilib o'tuvchi va yallig'lantiruvchi ta'sirdan, yuqori va past haroratdan, zaharli va zaharsiz moddalardan himoya qiladi [1]."
+      ]
+    },
+    {
+      "heading": "Umumiy gigiyenik talablar",
+      "content": [
+        "SHHV mehnat sharoitiga mos bo'lishi, qo'llanish maqsadiga qarab tanlanishi va tegishli talablarga mos bo'lishi kerak. U ishchining bo'yi va o'lchamiga mos bo'lishi, ishlatish qoidalarini bilishi lozim [1].",
+        "SHHV maxsus quruq xonalarda saqlanadi, tekshiriladi, tozalanadi, yuviladi va ta'mirlanadi, uyga olib ketish qat'iyan taqiqlanadi. Ularni ishlatishni rad etish mehnat intizomini buzish hisoblanadi [1]."
+      ]
+    },
+    {
+      "heading": "Issiq sexlar uchun kiyim",
+      "content": [
+        "Issiq sexlarda ishlovchilar uchun maxsus kiyim havo va namni o'tkazuvchi (paxta, zig'ir, dag'al jun movut) bo'lishi va qulay bichimga ega bo'lishi kerak. Bu qizib ketishning oldini olishda katta rol o'ynaydi [2].",
+        "Infraqizil nurlanishdan himoya uchun yupqa metall qatlami purkalgan qaytaruvchi matolar ishlatiladi. Yuqori harorat, issiqlik nurlanishi, eritilgan metall alangasi va uchqunlaridan paxta tolali kurtka va shimlar, yarim junli vasukon matodan astarli komplektlar qo'llanadi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Sovuqdan himoya",
+      "content": [
+        "Past haroratda, katta havo harakati va namlikda ishlaganda maxsus kiyim va mehnat rejimi gigiyenik talablarga mos kelmasa, organizmning sovib ketishi (gipotermiya) mumkin [2].",
+        "Sovuqdan himoya qilish uchun lavsan tolali yarim junli mato yoki polipropilen tolali sovuq mato ishlatiladi. Sovuqda ishlovchilar uchun kiyim issiqlik izolyatsiyasi yuqori bo'lishi kerak [1, 2]."
+      ]
+    },
+    {
+      "heading": "Kimyoviy xavf uchun kiyim",
+      "content": [
+        "Ishqordan himoya qilish uchun sun'iy brezent mato ishlatiladi. Pestitsidlar bilan ishlaganda changsimon moddalar uchun kombinezon va ko'zoynak, o'simliklarni purkaganda brezent matodan yoki plyonkali polivinilxloridli qoplamali matodan kiyim kiyiladi [1, 2].",
+        "Bunday kiyim ish tugagach zararsizlantiriladi (degazatsiya, dezinfeksiya). Yuvish davriyligi zararli modda turiga bog'liq, ko'p miqdordagi chang qoqiladi, zaharli moddalar kimyoviy yo'l bilan tozalanadi [1]."
+      ]
+    },
+    {
+      "heading": "Maxsus oyoq kiyimi",
+      "content": [
+        "Maxsus oyoq kiyimiga etik, yarim etik, botfort, botinka, yarim botinka, tufli, kalish va bahila kiradi. Ular ishlatish maqsadiga ko'ra markalanadi [1].",
+        "Mashinasozlik, metallurgiya va boshqa korxona ishchilari qishda va og'ir buyum tutishda oyoqni himoya qilish uchun maxsus himoya poyabzali kiyishi shart. Tebranish bilan ishlaganda tebranish so'ndiruvchi poyabzal ham ishlatiladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Tebranish va shovqindan himoya",
+      "content": [
+        "Tebranish ta'siri bo'lgan ishlarda maxsus poyabzal va qo'lqoplar tebranish chastotasi va darajasiga mos tanlanadi. Ishchilar tebranishga va shovqinga qarshi qo'lqop va tebranishni so'ndiruvchi poyabzal bilan ta'minlanadi [2, 3].",
+        "Shovqindan quloqchinlar, dubulg'alar va ichki qistirmalar ishlatiladi: quloqchin shovqinni 30-40 dB, ichki qistirmalar 17-30 dB ga kamaytiradi. 80 dB dan yuqori shovqinda ishlovchilar davriy tibbiy ko'rikdan o'tadi [1, 3]."
+      ]
+    },
+    {
+      "heading": "Qo'l himoyasi",
+      "content": [
+        "Qo'lni himoya qilish vositalari (yengcha, qo'lqop, barmoqqa kiyiladigan maxsus vositalar) qo'lni shikastlanish, kuyish, ishqor va kislota ta'siri, uchqun va alangadan himoyalaydi [1].",
+        "Konstruktiv bajarilishiga qarab turlicha: paxta tolali, jun mato, teri materiallaridan, isitiladigan va isitilmaydigan. Misol uchun, kislotadan himoya qiluvchi paxta tolali qo'lqop lateks bilan qoplangan bo'ladi [1]."
+      ]
+    },
+    {
+      "heading": "Boshni, ko'zni va yuzni himoya qilish",
+      "content": [
+        "Bosh himoyasi shlyapa, beret, dubulg'a va podshlemniklardan iborat. Kaskalar boshni mexanik shikastlanishdan, namlikdan va yog'ingarchilikdan himoya qiladi, issiq sexlarda va metallurgiyada shlyapalar tavsiya etiladi [1].",
+        "Ko'z va yuz uchun himoya ekranlari, qalqonlar, ko'zoynaklar va niqoblar qo'llanadi. Infraqizil nurlanishdan yorug'lik filtrli ko'zoynak, elektr payvandlashda yorug'lik filtrli niqob va qalqon ishlatiladi [1]."
+      ]
+    },
+    {
+      "heading": "Nafas olish a'zolari himoyasi",
+      "content": [
+        "Chang uchun «Astra-2», RP-K, «Lepestok» kabi respiratorlar, zaharli bug' va gazlar uchun gazniqoblar filtrlar bilan qo'llanadi. Nafas olish himoyasi ish joyidagi zararli moddalar miqdori ruxsat etilgan konsentratsiyadan 10-15 marta ortganda ishlatiladi [1, 2].",
+        "Respirator va gazniqoblarning yuz qismi har kuni ishlatilgandan keyin zararsizlantirilishi kerak. Atmosferada kislorod yetishmasa (16-18 %) shlangli ajratib qo'yuvchi apparatlar qo'llanadi [1]."
+      ]
+    },
+    {
+      "heading": "Terini himoya qilish vositalari",
+      "content": [
+        "Teri himoyasi uchun pastalar, kremlar va malhamlar ishlatiladi. Ular 4 guruhga bo'linadi: moy, neft mahsulotlari, erituvchilardan himoya, suv va suvli moddalardan himoya, quyosh radiatsiyasidan himoya va yuvuvchi hamda tozalovchi vositalar [1].",
+        "Bu vositalar xodimlarga talabnoma bo'yicha beriladi. Ishchi va xizmatchilarga SHHV berilishi shaxsiy kartochkalarga yoziladi [1]."
+      ]
+    },
+    {
+      "heading": "Nazorat va tibbiy ko'rik",
+      "content": [
+        "Ma'muriyat SHHV ishlatilishini doimiy tekshiradi, respirator va gazniqoblar filtrlarini, ko'zoynak oynalarini almashtirib turilishini nazorat qiladi. Ishchilarga SHHV dan foydalanish bo'yicha yo'riqnoma o'tkaziladi [1].",
+        "Tebranish ta'siridagi ishchilar yiliga bir marta nevropatolog, terapevt va otorinolaringolog ko'rigidan o'tadi. Ishchilarni SHHV bilan ta'minlanganligi sanitariya nazoratida baholanadi [2].",
+        "Shovqin bo'yicha quloqchinlar 110-120 dB gacha yuqori chastotali shovqindan himoya qiladi, ayrim dubulg'alar esa boshni shikastlanishdan va elektr tokidan ham saqlaydi [1]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "Sanoat kiyimi va oyoq kiyimi ishlab chiqarish omillariga (issiqlik, sovuq, kimyoviy moddalar, tebranish, shovqin, chang) qarab tanlanadi, o'lchamga mos, havo va namni o'tkazuvchi (issiq sexlarda) bo'lishi, maxsus quruq xonalarda saqlanishi, muntazam tozalanishi kerak. Ular boshqa himoya vositalari bilan birgalikda ishlatiladi, shu bilan birga ularning samaradorligi to'g'ri tanlash, ishlatish va maqsadga mosligiga bog'liq [1, 2]."
+      ]
+    }
+  ],
+  "references": [
+    "Mehnat gigiyenasi fanidan amaliy mashg'ulotlar uchun o'quv qo'llanma (o'zbek tilida, kirill yozuvida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 1309. 2009.",
+    "Iskandarova G.T. (tahrir) Mehnat gigiyenasi bo'yicha ma'ruzalar matni (rus tilida). Toshkent tibbiyot akademiyasi Kommunal gigiyena va mehnat gigiyenasi kafedrasi. Toshkent. xayrullokomilov.uz/kutubxona, material ID 2348. 2009.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi huzuridagi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi qo'mitasi. Ish joylaridagi shovqin, tebranish, infratovush va ultratovush darajalariga doir sanitariya qoidalari, normalari va gigiyena normativlari: 0111-26-son SanQvaN (2026-yil 24-martdagi 5-son qaror, o'zbek tilida, kirill yozuvida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 683. 2026."
+  ]
+}

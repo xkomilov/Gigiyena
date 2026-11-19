@@ -1,0 +1,107 @@
+{
+  "number": 157,
+  "title": "157. Maqsadiga qarab kiyimning konstruksiyasi, kesilishi, issiqlik sig'imi, havo va nam o'tkazuvchanligiga qo'yiladigan gigiyenik talablar.",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Kiyim va uni tashkil etuvchi matolarga yagona talablar bo'lishi mumkin emas, ular kiyimning aniq vazifasiga bog'liq. Ichki kiyim, yozgi yengil kiyim va qishki ustki kiyimning konstruksiyasi va xossalari bir-biridan farq qilishi shart [1, 2].",
+        "Ushbu mavzuda kiyimning vazifasiga qarab konstruksiyasi va bichimi, issiqlik saqlash xususiyati, havo va namni o'tkazish, gigroskopiklik, elektrlanish talablari hamda qavatlar va o'lcham bo'yicha qoidalar bayon etiladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Umumiy talablar",
+      "content": [
+        "Bolalar kiyimi uchun umumiy talablar: yengillik, yumshoqlik, qulay bichim, tana yuzasini siqmaslik va organizmga zararli ta'sir yo'qligi. Kiyim har bir odamga loyiq, tor emas va dag'al emas bo'lishi shart [1, 2].",
+        "Tor va og'ir kiyim qon va limfa tomirlarini siqib, tegishli a'zolar ovqatlanishini yomonlashtiradi. Qiz o'smirlarning tor ko'krak bog'ichlari ko'krak bezlarida patologik o'zgarishlarga olib keladi, oyoq-qo'l sohasidagi tor manjet va rezinkalar qon aylanishini buzadi [2]."
+      ]
+    },
+    {
+      "heading": "Ichki kiyim talablari",
+      "content": [
+        "Badanga yaqin ichki kiyim va yengil ko'ylak matolari yuqori havo va bug' o'tkazuvchanlikka hamda yaxshi gigroskopiklikka ega bo'lishi kerak. Bu ter, karbonat angidrid va moddalar almashinuvi mahsulotlarini kiyim ostidagi bo'shliqdan chiqarish uchun zarur [1, 2].",
+        "Ichki kiyim namlikni va havoni o'tkazuvchi, gigroskopik hamda yuvish va tozalash oson bo'lishi kerak. Chaqaloqlar va 3 yoshgacha bolalar ichki kiyimi tabiiy materialdan tayyorlanadi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Ustki kiyim talablari",
+      "content": [
+        "Ustki kiyim uchun yuqori havo o'tkazuvchanlik istalmaydi, chunki kuchsiz shamolda ham issiqlik himoyasi keskin pasayadi. Ustki kiyim gigroskopikligi ham kichik bo'lishi kerak, ya'ni havodagi suv bug'ini kam yutishi lozim [2].",
+        "Ustki kiyimning namlanishi issiqlik saqlash xususiyatini kamaytiradi. Shu sababli gigroskopiklik ichki kiyim uchun ijobiy, ustki kiyim uchun salbiy xususiyat hisoblanadi [1]."
+      ]
+    },
+    {
+      "heading": "Qishki kiyim konstruksiyasi",
+      "content": [
+        "Qishki ustki kiyim pastki qatlamlarga yetarlicha zich yopishib turishi va imkon qadar yopiq konstruksiyaga ega bo'lishi kerak, shunda sovuq havo kiyim ostiga kirmaydi [2].",
+        "Qishlik kiyimning issiqlik o'tkazish xususiyati kam bo'lishi lozim. Kech kuz va qishda faqat bir qavat ichki kiyim kamlik qiladi, chunki jun gazlamada g'ovaklar ko'p bo'lgani uchun issiqlikni kam o'tkazadi [1]."
+      ]
+    },
+    {
+      "heading": "Yozgi kiyim konstruksiyasi",
+      "content": [
+        "Yozgi kiyim, ayniqsa issiq ob-havo uchun, imkon qadar ochiq va erkin bo'lishi, kiyim ostidagi bo'shliqning yaxshi shamollatilishini ta'minlashi kerak, chunki issiq sharoitda issiqlik ajralishi to'sqinliksiz bo'lishi zarur [2].",
+        "Yozda yengil, yupqa va salqin kiyim tavsiya etiladi. Ochiq rangli ip va ipakdan tikilgan kiyim quyosh nurini qaytaradi, shu sababli Markaziy Osiyo sharoitida ko'proq kiyiladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Bichim va qavatlar",
+      "content": [
+        "Kiyim qavatlari orasida havo almashib turishi uchun uni biroz kengroq tikish lozim. Tashqaridan havo kiradigan yelka va yengdan tashqari, badanning ko'p terlaydigan joylari (qo'ltiq) ga manjet va shunga o'xshash elementlar tikiladi [1].",
+        "Namgarchilikda bir necha qavat kiyim kiyish ma'qul, chunki qavatlar orasida mikroiqlim hosil bo'ladi. Bolani haddan tashqari o'rab-chirmash harakatiga xalaqit beradi [1]."
+      ]
+    },
+    {
+      "heading": "Havo o'tkazuvchanlik",
+      "content": [
+        "Matoning havo o'tkazuvchanligi qancha yuqori bo'lsa, issiqlik saqlash xususiyati shuncha past bo'ladi. Bu xususiyat matoning qalinligi va tolaning yo'g'on-ingichkaligiga bog'liq [1].",
+        "Ichki kiyim uchun havo o'tkazuvchanlik kamida 100 dm³/m²·s bo'lishi talab etiladi. Trikotaj polotnoda I sinf buyumlar uchun kamida 500, II sinf uchun 430, III sinf uchun 200 dm³/m²·s, gazlamalarda esa 150, 100 va 70 [2]."
+      ]
+    },
+    {
+      "heading": "Nam o'tkazuvchanlik va gigroskopiklik",
+      "content": [
+        "Ichki kiyim uchun gigroskopiklik nisbiy namlik 65 % da 7,0-9,0 % optimal, 6,0-7,0 % ruxsat etiladi, nisbiy namlik 100 % da esa 20-30 % bo'lishi kerak [2].",
+        "Trikotaj polotnoda gigroskopiklik I sinf uchun kamida 14 %, II sinf uchun 10 %, III sinf uchun 4 %. Optimal talablarga tabiiy tolalar (zig'ir, paxta) va viskozadan tayyorlangan matolar javob beradi [2]."
+      ]
+    },
+    {
+      "heading": "Jun va paxta kiyimlari",
+      "content": [
+        "Jundan to'qilgan gazlamalar yuqori gigroskopiklikka ega va boshqa tabiiy tolalarga qaraganda namni yaxshi shimadi. Biroq jun kiyim zig'ir yoki paxta kiyimiga nisbatan ancha sekin quriydi [1].",
+        "Paxta kiyim yuvilganda yoki nam tortganda dastlabki ko'rinishini yo'qotadi va issiqlik saqlash xususiyati kamayadi. Yupqa va silliq matolar namni tez bug'lantiradi [1]."
+      ]
+    },
+    {
+      "heading": "Elektrlanish va solishtirma qarshilik",
+      "content": [
+        "Kiyimlik mato elektrostatik zaryadlarni mumkin qadar kam saqlashi kerak. I sinf trikotajida elektrlanish 2 kV/m dan, II sinfda 3 kV/m dan, III sinfda 4,5 kV/m dan oshmasligi lozim [2].",
+        "Ichki kiyim va yengil ko'ylak matolari uchun solishtirma elektr qarshilik optimal darajada 10⁸-10⁹ Om, ruxsat etilgan chegarada 10⁹-10¹¹ Om oralig'ida bo'lishi talab etiladi [2]."
+      ]
+    },
+    {
+      "heading": "Rang va sirt",
+      "content": [
+        "Qora va jigarrang kiyim quyosh nurini yutadi va sovuq fasllarda kiyiladi, oq rang qaytaradi. Kiyim materiali quyosh nurini qaytaradi va teriga ta'sir qilishiga yo'l qo'ymaydigan bo'lishi kerak [1].",
+        "Bosh kiyim issiqni kam, havoni yaxshi o'tkazadigan, quyosh nurini ko'proq qaytaradigan yengil va g'ovak matodan tikilishi lozim [1]."
+      ]
+    },
+    {
+      "heading": "Poyabzal va aksessuarlar",
+      "content": [
+        "Poyabzal konstruksiyasi ham kiyim tizimining bir qismi: u panja o'lchami va shakliga mos, yengil, qulay, chidamli, yil fasli, ob-havo va mehnat sharoitiga mos bo'lishi kerak. Baland poshna va tor poyabzal oyoqni tez charchatadi, yassi tovon paydo qiladi [1].",
+        "Kapyushonlardagi tortiladigan shnurlar, tor manjetlar va rezinkalar bolalar kiyimida xavfli, shu sababli ularga yo'l qo'yilmaydi [2]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "Kiyim konstruksiyasi va xossalari uning vazifasiga bog'liq: ichki kiyim yuqori havo va bug' o'tkazuvchanlik hamda gigroskopiklikka, ustki qishki kiyim past havo o'tkazuvchanlik va kam gigroskopiklikka, zich yopishuvchi yopiq tuzilishga ega bo'lishi kerak. Yozgi kiyim ochiq va erkin, tor va og'ir kiyim esa barcha vazifalar uchun ruxsat etilmaydi [1, 2]."
+      ]
+    }
+  ],
+  "references": [
+    "Do'schanov B.A., Iskandarova Sh.T. Umumiy gigiyena: tibbiyot oliy o'quv yurtlari talabalari uchun darslik, 4-nashr. Toshkent: Yangi asr avlodi. xayrullokomilov.uz/kutubxona, material ID 2767. 2008.",
+    "O'zbekiston Respublikasi Bosh davlat sanitariya vrachi. Bolalar va o'smirlar kiyimiga qo'yiladigan gigiyenik talablar: SanPiN № 0235-07 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 614. 2007."
+  ]
+}

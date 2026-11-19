@@ -1,0 +1,110 @@
+{
+  "number": 158,
+  "title": "158. Kiyim uchun matolarga qo'yiladigan gigiyenik talablar, uni sinflarga (maishiy va maxsus) zamonaviy bo'linishiga qarab.",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Kiyim matosi kiyimning gigiyenik xususiyatlarini belgilaydi. Maishiy kiyim uchun matolarga qo'yiladigan talablar maxsus kiyim (himoya) matolariga qo'yiladigan talablardan farq qiladi, chunki ularning vazifalari turlicha [1, 2, 3].",
+        "Ushbu mavzuda maishiy va maxsus kiyim matolarining umumiy gigiyenik talablari, organoleptik, fizik-gigiyenik, sanitariya-kimyoviy va toksikologik ko'rsatkichlar, yosh va qatlamga qarab talablar hamda maxsus kiyim materiallari bayon etiladi [1, 2, 3]."
+      ]
+    },
+    {
+      "heading": "Matolarning fizik xossalari",
+      "content": [
+        "Kiyim tikishda matolarning fizik xossalari va gigiyena talablariga javob berishi, ya'ni og'irligi, qalinligi, havo o'tkazish xususiyati, namlikni o'tkazishi va so'rishi e'tiborga olinadi [1].",
+        "Bundan tashqari matoning nurni qaytarishi, yumshoqligi, yuvganda va dazmollaganda oldingi ko'rinishini yo'qotmasligi, qurish tezligi, to'qilish xususiyati, ifloslikdan tozalanishi va chang yutishi hisobga olinadi [1]."
+      ]
+    },
+    {
+      "heading": "Matolarning umumiy talablari",
+      "content": [
+        "Mato kiyimning vazifasiga mos bo'lishi, yengil, yumshoq va zararsiz bo'lishi kerak. Bolalar kiyimi uchun matolar yupqa va yumshoq (polotno, modapolam, batist va boshqa) bo'ladi [1, 2].",
+        "Mato elektrostatik zaryadlarni kam saqlashi, mayda zarrachalarni (chang, bakteriyalar) o'tkazmasligi kerak. Pishiq to'qilgan yumshoq va g'ovak matolar gigiyena talablariga mos keladi [1]."
+      ]
+    },
+    {
+      "heading": "Maishiy kiyim matolari",
+      "content": [
+        "Maishiy kiyimda 1-qatlam (ichki kiyim) matolari yuqori havo va bug' o'tkazuvchanlik hamda gigroskopiklikka, 2-qatlam (ko'ylak, kostyum) matolari mo'tadil xossalarga, 3-qatlam (ustki kiyim) matolari past havo o'tkazuvchanlik va kam gigroskopiklikka ega bo'lishi kerak [1, 2].",
+        "Matolar tabiiy (paxta, zig'ir, jun, ipak), sun'iy va sintetik tolalardan tayyorlanadi. Tabiiy tolalar odatda optimal gigiyenik xususiyatlarga ega, kimyoviy tolalar esa cheklangan miqdorda aralashtiriladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Gigiyenik sinf va talablar",
+      "content": [
+        "Bolalar kiyimi matolari xavfsizlik darajasiga qarab to'rt sinfga bo'linadi. Sinf teri bilan tegish maydoni, foydalanuvchi yoshi va kiyish davomiyligi bilan aniqlanadi [2].",
+        "Sinfga qarab organoleptik, fizik-gigiyenik, sanitariya-kimyoviy va toksikologik-gigiyenik talablar qo'yiladi. I-II sinf uchun hid intensivligi 1 balldan, III-IV sinf uchun 2 balldan oshmasligi kerak [2]."
+      ]
+    },
+    {
+      "heading": "Fizik-gigiyenik ko'rsatkichlar",
+      "content": [
+        "Trikotaj polotnoda gigroskopiklik I sinf uchun kamida 14 %, II sinf uchun 10 %, III sinf uchun 4 %. Havo o'tkazuvchanlik 500, 430 va 200 dm³/m²·s dan kam bo'lmasligi, elektrlanish 2, 3 va 4,5 kV/m dan oshmasligi kerak [2].",
+        "Gazlamalarda havo o'tkazuvchanlik I, II, III sinf uchun kamida 150, 100 va 70 dm³/m²·s. IV sinf (teri bilan bevosita tegmaydigan buyumlar) uchun bu ko'rsatkichlar aniqlanmaydi [2]."
+      ]
+    },
+    {
+      "heading": "Sanitariya-kimyoviy ko'rsatkichlar",
+      "content": [
+        "Mato tarkibidagi tolalarga qarab migratsiya ko'rsatkichlari chegaralanadi. Tabiiy tola uchun pestitsidlar (pentaxlorfenol 0,05 mg/l) va formaldegid (suvda 0,1 mg/l, havoda 0,003 mg/m³), viskoza va atsetat uchun uglerod sulfidi (suvda 1,0, havoda 0,005) nazorat qilinadi [2].",
+        "Poliefirdan etilenglikol va dimetiltereftalat, poliamiddan kaprolaktam va geksametilendiamin, poliakrilonitrildan akrilonitril va vinilatsetat, polivinilxloriddan benzol, toluol va ftalatlar ajralishi cheklanadi. Benzidin asosidagi bo'yoqlarga yo'l qo'yilmaydi [2]."
+      ]
+    },
+    {
+      "heading": "Og'ir metallar va toksiklik",
+      "content": [
+        "Bo'yoqlardan margimush, qo'rg'oshin, kadmiy, xrom, kobalt, mis, nikel va simob ajralishi cheklanadi. Masalan, suv muhitida qo'rg'oshin 0,03 mg/l, kadmiy 0,001 mg/l dan oshmasligi kerak [2].",
+        "Toksiko-gigiyenik baholash toksiklik indeksi bo'yicha o'tkaziladi, u kimyoviy moddalar migratsiyasi darajasini aniqlaydi va 70-120 % oralig'ida bo'lishi shart [2]."
+      ]
+    },
+    {
+      "heading": "Chaqaloq kiyimiga talablar",
+      "content": [
+        "Dastlabki 28 kunlik, shu jumladan muddatidan oldin tug'ilgan chaqaloqlar uchun buyumlar faqat tabiiy mato, polotno va trikotajdan tayyorlanadi, tikuvlar paxta ipi bilan bajariladi. Barcha biriktiruvchi tikuvlar yuz tomoniga chiqariladi [2].",
+        "Muddatidan oldin tug'ilganlar buyumlarida tikuv va tugunlar, tanaga tegadigan tugma va knopkalar bo'lmasligi, bosh orqali kiyiladigan buyumlar ishlab chiqarilmasligi kerak. Yorliqda «Oldindan yuvish shart» yozuvi bo'ladi [2]."
+      ]
+    },
+    {
+      "heading": "Maxsus kiyim tushunchasi",
+      "content": [
+        "Maxsus kiyim (korjoma, yarim korjoma kostyum, plash, yarim po'stin, yengcha, jilet) tanani mexanik shikastlanishdan, kesuvchi va yallig'lantiruvchi ta'sirdan, yuqori va past haroratdan, zaharli va zaharsiz moddalardan himoya qiladi [3].",
+        "Maxsus kiyimning modeli, asosiy o'lchamlari, tartib raqamlari va qo'llanilish maqsadi davlat standartlarida berilgan. Uning samaradorligi to'g'ri tanlash, ishlatish va maqsadga mosligiga bog'liq [3]."
+      ]
+    },
+    {
+      "heading": "Maxsus kiyim matolari",
+      "content": [
+        "Sovuqdan himoya uchun lavsan tolali yarim junli mato yoki polipropilen tolali sovuq mato, ishqordan himoya uchun sun'iy brezent mato, issiqlik nurlaridan himoya uchun asbestli mato ishlatiladi [3].",
+        "Yuqori harorat, issiqlik nurlanishi, metall eritishda hosil bo'ladigan alanga va uchqunlardan himoyalanish uchun paxta tolali kurtka va shimlar, yarim junli vasukon matodan astarli komplektlar qo'llanadi. Issiq sexlarda maxsus kiyim havo va namni o'tkazuvchi (paxta, zig'ir, dag'al jun) bo'lishi kerak [3, 4]."
+      ]
+    },
+    {
+      "heading": "Maxsus kiyimni parvarish qilish",
+      "content": [
+        "Maxsus kiyim o'z vaqtida yuvib turiladi, yuvish davriyligi zararli modda turiga bog'liq. Ko'p miqdordagi chang qoqiladi, zaharli va xavfli moddalardan kimyoviy yo'l bilan tozalanadi [3].",
+        "Maxsus kiyimni tozalash usullari turlicha: ular degazatsiya yoki dezinfeksiya qilinadi. Shaxsiy himoya vositalari ish tugagach zararsizlantiriladi va uyga olib ketilmaydi [3, 4]."
+      ]
+    },
+    {
+      "heading": "Maishiy va maxsus kiyim farqi",
+      "content": [
+        "Maishiy kiyimning asosiy vazifasi qulay issiqlik holati va mikroiqlimni ta'minlash bo'lsa, maxsus kiyim zararli ishlab chiqarish omillaridan himoya qilishga qaratilgan. Shu sababli maxsus kiyim matolariga himoya xususiyati bo'yicha qo'shimcha talablar qo'yiladi [3, 4].",
+        "Maxsus kiyim qulay bichimga ega, ishchi o'lchamiga mos, harakatni cheklamaydigan bo'lishi kerak. Ishchilarga maxsus kiyim berilishi shaxsiy kartochkalarga yoziladi [3].",
+        "Matoning gigiyenik xususiyatlari uning to'qilishiga va qalinligiga ham bog'liq: bir xil tolalardan issiq yoki sovuq, qalin yoki yupqa, dag'al yoki g'ovak xil matolar tikiladi [1]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "Kiyim matolariga qo'yiladigan talablar kiyimning qatlami, vazifasi va foydalanuvchi yoshiga bog'liq. Maishiy kiyim matolari fizik-gigiyenik (gigroskopiklik, havo o'tkazuvchanlik, elektrlanish), sanitariya-kimyoviy va toksikologik ko'rsatkichlar bo'yicha sinflarga qarab baholanadi, maxsus kiyim matolari esa himoya vazifasiga mos tanlanadi. Barcha hollarda mato organizmga zararsiz bo'lishi va sanitariya-gigiyenik sertifikat bilan tasdiqlanishi talab etiladi [1, 2, 3]."
+      ]
+    }
+  ],
+  "references": [
+    "Do'schanov B.A., Iskandarova Sh.T. Umumiy gigiyena: tibbiyot oliy o'quv yurtlari talabalari uchun darslik, 4-nashr. Toshkent: Yangi asr avlodi. xayrullokomilov.uz/kutubxona, material ID 2767. 2008.",
+    "O'zbekiston Respublikasi Bosh davlat sanitariya vrachi. Bolalar va o'smirlar kiyimiga qo'yiladigan gigiyenik talablar: SanPiN № 0235-07 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 614. 2007.",
+    "Mehnat gigiyenasi fanidan amaliy mashg'ulotlar uchun o'quv qo'llanma (o'zbek tilida, kirill yozuvida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 1309. 2009.",
+    "Iskandarova G.T. (tahrir) Mehnat gigiyenasi bo'yicha ma'ruzalar matni (rus tilida). Toshkent tibbiyot akademiyasi Kommunal gigiyena va mehnat gigiyenasi kafedrasi. Toshkent. xayrullokomilov.uz/kutubxona, material ID 2348. 2009."
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "number": 162,
+  "title": "162. Kiyim-kechak mahsulotlarini loyihalash uchun issiqlik almashinish ko'rsatkichlari va insonning issiqlik holatini aniqlash.",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Kiyimni loyihalashda inson organizmining issiqlik almashinuvi va issiqlik holati hisobga olinadi. Kiyim issiqlik yo'qotishni kamaytiradigan to'siq, shu sababli uning issiqlik himoyasi organizm issiqlik ishlab chiqarishi va yo'qotishi bilan muvofiq bo'lishi kerak [1, 2].",
+        "Ushbu mavzuda issiqlik ishlab chiqarish va yo'qotish yo'llari, issiqlik oqimi va uning zichligi, tana yuzasi haroratini o'lchash, ter ajralishi, issiqlik komfortini baholash mezonlari hamda kiyimning issiqlik himoyasiga ta'sir qiluvchi omillar bayon etiladi [1, 2, 3]."
+      ]
+    },
+    {
+      "heading": "Issiqlik hosil bo'lishi",
+      "content": [
+        "Organizmda issiqlik ishlab chiqarish (kimyoviy termoregulyatsiya) va issiqlik berish (fizik termoregulyatsiya) o'zaro muvozanatda bo'lishi kerak. Issiqlik hosil bo'lishiga eng katta hissani mushaklar qisqarish faolligi qo'shadi [2].",
+        "Tinch holatda issiqlik hosil bo'lishi 111,6-125,5 Vt bo'lsa, intensiv mushak ishida 313,6-418,4 Vt gacha ortadi. Jigar issiqlik ishlab chiqarishi umumiy issiqlik hosil bo'lishining 12-24 % ini tashkil etadi [2]."
+      ]
+    },
+    {
+      "heading": "Sovuqdagi reaksiya",
+      "content": [
+        "Atrof muhit harorati optimal darajadan (18-20 °C) past bo'lganda issiqlik hosil bo'lishi kuchayadi. Past haroratda kimyoviy termoregulyatsiyaning o'ziga xos reaksiyasi sovuq mushak titrashi, bunda tashqi ish bajarilmay, qisqarish energiyasi to'liq issiqlikka aylanadi [2].",
+        "Qo'shimcha issiqlik manbai termoregulyator mushak tonusi. Issiqlik hosil bo'lishini oshirish samaradorligi tananing issiqlik izolyatsiyasi, ya'ni kiyim kattaligiga bog'liq [2]."
+      ]
+    },
+    {
+      "heading": "Issiqlik berish yo'llari",
+      "content": [
+        "Issiqlik berish to'rt yo'l bilan amalga oshadi: nurlanish (radiatsion), konveksiya (tananing yuzasidan kamroq qizigan havo qatlamlariga), o'tkazuvchanlik (tana yuzasi bilan to'g'ridan-to'g'ri tegib turgan buyumlarga) va teri hamda nafas yo'llaridan suvning bug'lanishi [2].",
+        "Tinch holatda havo harorati 20 °C atrofida issiqlik yo'qotishning 50-65 % i nurlanishga, 20 % ga yaqini bug'lanishga, 15 % i konveksiyaga to'g'ri keladi. Havo harorati teri haroratiga teng bo'lganda konveksiya to'xtaydi, undan yuqori bo'lsa, konveksion issiqlik qabul qilinadi [2]."
+      ]
+    },
+    {
+      "heading": "Kiyimning issiqlik izolyatsiyasi",
+      "content": [
+        "Kiyim issiqlik berishni kamaytiradi. Kiyimning issiqlik izolyatsiya xususiyatlari ishlatilgan materiallar qalinligiga, havo o'tkazuvchanligiga va konstruksiyasiga bog'liq [2].",
+        "Matoning havo o'tkazuvchanligi qancha yuqori bo'lsa, issiqlik saqlash xususiyati shuncha past. Qavat-qavat kiyimda qavatlar orasidagi havo hisobiga issiqlik o'tkazuvchanlik kamayadi [1]."
+      ]
+    },
+    {
+      "heading": "Havo harakati va namlik",
+      "content": [
+        "Havo 1 m/s tezlikda harakatlanganda konveksiya orqali issiqlik berish 2 marta, 4 m/s tezlikda 4 marta ortadi. Shu sababli ustki kiyim shamolga chidamli, havo o'tkazuvchanligi past bo'lishi kerak [2].",
+        "Havo harorati ortganda organizm issiqlik almashinuviga havo namligi va kiyimning nam o'tkazuvchanligi ta'siri sezilarli oshadi. Havodagi namlik ko'payishi fiziologik to'yinish tanqisligini kamaytirib, bug'lanish bilan issiqlik yo'qotishni cheklaydi [2]."
+      ]
+    },
+    {
+      "heading": "Ter ajralishi",
+      "content": [
+        "Normal havo haroratida organizm sutkada 1 l ga yaqin suvni sezilmas va faol ter ajralishi bilan yo'qotadi. Harorat ortganda smena davomida ter ajralishi 5-6 l, issiq sexda og'ir mushak ishida 12 l gacha yetishi mumkin [2].",
+        "Ter ajralishi havo harorati, tezligi, namligi (suv bug'ining parsial bosimi), kiyimning issiqlik himoya xususiyatlari va mushak faolligi darajasiga bog'liq. U ish og'irligiga proporsional ortadi [2]."
+      ]
+    },
+    {
+      "heading": "Issiqlik oqimi va zichligi",
+      "content": [
+        "Nurlanish va havo qatlamlari almashuvi (konveksiya) darajasini aniqlash yo'li bilan yo'qotilgan issiqlik miqdori issiqlik oqimi deyiladi. Tana yuzasi birligida aniqlangan issiqlik oqimi issiqlik oqimining zichligi, u kkal/m²·soat da o'lchanadi [1].",
+        "Tana yuzasi harorati va issiqlik oqimining o'rtacha solishtirma o'lchamlari tananing 9-11 nuqtasida (bosh, bo'yin, tananing old va orqa yuzalari, qo'l va oyoq kamari) o'lchash asosida aniqlanadi [1]."
+      ]
+    },
+    {
+      "heading": "Hisoblash tartibi",
+      "content": [
+        "Hisoblashda har bir o'lchangan tana qismining butun yuzaga nisbatan foizdagi ulushi hisobga olinadi. Shu tariqa tananing o'rtacha yuza harorati va umumiy issiqlik yo'qotilishi baholanadi [1].",
+        "Kiyim issiqlik himoyasini baholashda tana yuzasi birligiga issiqlik oqimi va kiyim ostidagi harorat taqqoslanadi. Kiyim loyihasida bu ko'rsatkichlar mavsum va mehnat og'irligiga moslanadi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Katatermometr",
+      "content": [
+        "Havoning sovitish xususiyati kata-termometr bilan aniqlanadi: asbob spirtli rezervuari 38 °C dan 35 °C gacha soviydigan vaqt (sekund) o'lchanadi. Sovish tezligi (mkal/sm²·s) havoning sovitish xususiyatini ifodalaydi [3].",
+        "Kiyingan odam o'zini yaxshi sezganda kata-termometr bo'yicha 5,5-7 mkal/sm²·s, bunda organizm 1,2-1,4 mkal/sm²·s issiqlik yo'qotadi. 7 dan yuqori bo'lsa sovuqlik, 5,5 dan past bo'lsa issiqlik sezgisi paydo bo'ladi [3]."
+      ]
+    },
+    {
+      "heading": "Issiqlik holati va komfort",
+      "content": [
+        "Optimal sharoit organizmda issiqlik hosil bo'lishi va berilishi o'rtasida muvozanat o'rnatib, butun smena davomida issiqlik komfortini ta'minlaydi, termoregulyatsiya zo'riqmaydi. Ruxsat etilgan sharoitda termoregulyatsiya zo'riqishi fiziologik moslashish chegarasidan chiqmaydi [2].",
+        "Issiqlik holati mehnat og'irligi toifasiga (yengil, o'rta, og'ir ishlar), yil davriga (sovuq va issiq davr) va mikroiqlim parametrlariga (harorat, nisbiy namlik, havo harakati tezligi, infraqizil nurlanish) qarab baholanadi [2]."
+      ]
+    },
+    {
+      "heading": "Kiyim va mikroiqlim parametrlari",
+      "content": [
+        "O'quv xonalarida optimal harorat 18-20 °C, ruxsat etilgan 18-22 °C, nisbiy namlik 40-60 %, havo tezligi 0,1 m/s bo'lishi talab etiladi. Kiyimning issiqlik himoyasi shu parametrlarga qarab tanlanadi [4].",
+        "Ish joylarida mikroiqlimni normaga keltirib bo'lmaganda kerakli issiqlik holati individual va jamoaviy himoya vositalarini qo'llash hamda noqulay mikroiqlimda bo'lish vaqtini reglamentlash bilan ta'minlanadi [2]."
+      ]
+    },
+    {
+      "heading": "Bolalar uchun xususiyatlar",
+      "content": [
+        "Bolalarda tana massasi birligiga teri yuzasi kattalarnikidan ko'p: 1 kg ga yosh bolada 704 sm², 6 yoshli bolada 426 sm², kattalarda 291 sm². Shu sababli bolalar issiqlikni ko'proq ajratadi [1].",
+        "Bir yoshli bola 1 kg tana vazniga 91,3 kkal, 2,5 yoshli 71,5 kkal, kattalar 42,2 kkal issiqlik ajratadi. Bolalar kiyimi loyihalanganda bu holat hisobga olinadi, ular tez isiydi va tez sovqotadi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "Kiyimni loyihalash uchun issiqlik hosil bo'lishi va berilishi yo'llari (nurlanish, konveksiya, o'tkazuvchanlik, bug'lanish), issiqlik oqimi va uning zichligi, tana yuzasi harorati, ter ajralishi, havo harakati va namlikning ta'siri hamda issiqlik komforti mezonlari ishlatiladi. Kiyimning issiqlik izolyatsiyasi qalinligi, havo o'tkazuvchanligi va konstruksiyasiga bog'liq [1, 2, 3]."
+      ]
+    }
+  ],
+  "references": [
+    "Do'schanov B.A., Iskandarova Sh.T. Umumiy gigiyena: tibbiyot oliy o'quv yurtlari talabalari uchun darslik, 4-nashr. Toshkent: Yangi asr avlodi. xayrullokomilov.uz/kutubxona, material ID 2767. 2008.",
+    "Iskandarova G.T. (tahrir) Mehnat gigiyenasi bo'yicha ma'ruzalar matni (rus tilida). Toshkent tibbiyot akademiyasi Kommunal gigiyena va mehnat gigiyenasi kafedrasi. Toshkent. xayrullokomilov.uz/kutubxona, material ID 2348. 2009.",
+    "Solihojayev S.S. Gigiyenadan praktikum (o'zbek tilida, kirill yozuvida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 2344. Nashr yili ko'rsatilmagan.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi huzuridagi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi qo'mitasi. Ta'lim tashkilotlari va bolalar sog'lomlashtirish oromgohlaridagi axborot-kommunikatsiya texnologiyalari o'quv xonalari, ularning jihozlanishi va axborot-kommunikatsiya texnologiyalaridan foydalanish tartibiga qo'yiladigan sanitariya-gigiyena talablari: 0063-24-son SanQvaN. Toshkent. xayrullokomilov.uz/kutubxona, material ID 638. 2024."
+  ]
+}
