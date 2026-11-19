@@ -1,0 +1,109 @@
+{
+  "number": 134,
+  "title": "134. Yumshoq o'yinchoqlarga qo'yilgan talablarni sanang.",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Yumshoq to'ldirilgan o'yinchoq karkasli yoki karkassiz, yumshoq sirtli va to'ldiruvchili o'yinchoqdir. Bunday o'yinchoqlar bolalar bilan doimiy tegib turadi, ko'pincha o'yin va uyqu paytida bola yonida bo'ladi, shu sababli ularga alohida gigiyenik talablar qo'yiladi [1].",
+        "Ushbu mavzuda yumshoq o'yinchoqlarning materiallari, to'ldiruvchisi, tikuvlari, mahkamlangan detallari, yonuvchanligi, kimyoviy xavfsizligi, mikrobiologik ko'rsatkichlari va bolalar muassasalarida ishlov berish tartibi bayon etiladi [1, 2, 3]."
+      ]
+    },
+    {
+      "heading": "Tushuncha",
+      "content": [
+        "Yumshoq to'ldirilgan o'yinchoq deb karkasli yoki karkassiz, yumshoq sirtga va to'ldirgichga ega o'yinchoqqa aytiladi. Qo'g'irchoqlar, hayvon va odam haykalchalari ham shu guruhga kirishi mumkin [1, 2].",
+        "Yumshoq o'yinchoqlar gigiyenik jihatdan obrazli o'yinchoqlar guruhiga kiradi. Ularning xavfsizligi tashqi material, to'ldirgich, tikuvlar va mahkamlangan qismlar holatiga bog'liq [2]."
+      ]
+    },
+    {
+      "heading": "Material va to'ldirgichga talablar",
+      "content": [
+        "Yumshoq o'yinchoqning materiallari toza, infeksiyalanmagan bo'lishi va sanitariya qoidalaridagi talablarga javob berishi kerak. Uch yoshgacha bo'lgan bolalar o'yinchoqlarida tabiiy mo'yna va tabiiy teri ishlatilmaydi [1].",
+        "O'lchami 3 mm va undan kichik to'ldiruvchi granulalar ichki g'ilofsiz ishlatilmaydi, ya'ni mayda elementlar ichki g'ilofda bo'lishi shart. Shaqildoq turidagi to'ldirgichlar nam muhitda hajmi 5 % dan ortiq kattalashmasligi kerak [1, 2]."
+      ]
+    },
+    {
+      "heading": "To'ldiruvchining tozaligi",
+      "content": [
+        "Yumshoq o'yinchoq to'ldirgichida qattiq yoki o'tkir begona jismlar bo'lmasligi shart. Bunday jismlar qatoriga metall qirindilar, mixlar, yog'och parchalari, shisha va plastmassa siniqlari kiradi [1, 2].",
+        "To'ldiruvchi materiallarning tozaligi va ularni tayyorlash jarayonida ishlatilgan materiallarning ikkilamchi xom ashyo emasligi nazorat qilinadi. Faqat korxonaning o'z ishlab chiqarish chiqindilaridan foydalanishga ruxsat beriladi [1]."
+      ]
+    },
+    {
+      "heading": "Tikuvlar mustahkamligi",
+      "content": [
+        "Yumshoq o'yinchoq tikuvlari mustahkam bo'lishi shart. Tikuvlar ochilib ketib, to'ldiruvchining chiqishiga yo'l qo'ymasligi kerak, aks holda bola mayda va xavfli elementlarni yutib yuborishi mumkin [1, 3].",
+        "Mahkamlangan qismlarning mustahkamligi ham tekshiriladi: burun, ovoz qurilmasi va shunga o'xshash detallar 10 kg kuch ta'sirida ajralmasligi kerak, bola kuchi buning uchun yetarli bo'lmaydi [2]."
+      ]
+    },
+    {
+      "heading": "Qattiq detallarni mahkamlash",
+      "content": [
+        "Yumshoq o'yinchoqlarning qattiq materiallardan (metall, plastmassa, yog'och) yasalgan ajralmas detallari bola ularni tishi yoki barmoqlari bilan ushlay olmaydigan tarzda o'rnatilishi yoki o'yinchoqqa mustahkam biriktirilishi kerak [3].",
+        "Uch yoshgacha bo'lgan bolalar o'yinchoqlarining qattiq detallari o'yinchoqqa shunday mahkamlanishi kerakki, ularni uzib yoki ajratib bo'lmasin. O'yinchoq va uning ajraladigan detallari yuqori nafas yo'llariga tushmaydigan o'lchamda bo'ladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Yonuvchanlik",
+      "content": [
+        "Yumshoq to'ldirilgan o'yinchoqlar, karnaval kostyumlari va bayram buyumlari (soqol, mo'ylov, parik, niqob, tojlar) yong'in jihatidan xavfsiz bo'lishi shart. Bu talab yumshoq o'yinchoqning materiali va to'ldiruvchisi uchun birdek tatbiq etiladi [1].",
+        "Bola sig'adigan yirik yumshoq o'yinchoqlar ham yong'in jihatidan xavfsiz, shuningdek ichidan oson ochiladigan chiqish va shamollatish teshiklari bilan bo'lishi kerak [1]."
+      ]
+    },
+    {
+      "heading": "Kimyoviy xavfsizlik",
+      "content": [
+        "Sun'iy mo'yna va to'qimachilik materiallaridan tayyorlangan o'yinchoqlar uchun suvli ajratmada formaldegid miqdori 50 mkg/g dan oshmasligi, havoda esa 0,003 mg/m³ dan ko'p bo'lmasligi kerak. Boshqa kimyoviy moddalar migratsiyasi ham tekshiriladi [1].",
+        "Mo'yna va to'qimachilik materiallari uchun 1 kg materialdan ajraladigan zararli elementlar bariy 1000 mg, kadmiy 75 mg, margimush 25 mg, simob 60 mg, qo'rg'oshin 90 mg va xrom 60 mg dan oshmasligi kerak [1]."
+      ]
+    },
+    {
+      "heading": "Migratsiyani aniqlash",
+      "content": [
+        "Uch yoshdan katta bolalarga mo'ljallangan yumshoq o'yinchoqlar, qo'g'irchoq kiyimlari hamda yirik o'yinchoqlardan zararli moddalar migratsiyasi havo muhitiga aniqlanadi. Boshqa o'yinchoqlar uchun suv muhiti qo'llanadi [1].",
+        "Materiallarning toksikologik xavfsizligi toksiklik indeksi bilan baholanadi: suv muhitida 70-120 %, havo muhitida 80-120 % bo'lishi kerak. Uch yoshgacha bo'lgan bolalar o'yinchoqlari shilliq qavatga bezovta qiluvchi ta'sir ko'rsatmasligi shart [1]."
+      ]
+    },
+    {
+      "heading": "Organoleptik va mikrobiologik ko'rsatkichlar",
+      "content": [
+        "Yumshoq o'yinchoqning hid intensivligi bir yoshgacha bo'lgan bolalar uchun 1 balldan, undan katta bolalar uchun 2 balldan ortiq bo'lmasligi kerak. Uch yoshgacha bo'lgan bolalar o'yinchoqlarida ta'm intensivligi 1 balldan oshmaydi [1].",
+        "To'ldirgichli bir yoshgacha bolalar o'yinchoqlari uchun mikrobiologik talablar eng qattiq: mezofil aerob bakteriyalar soni 1·10² KOE/g dan oshmaydi, ichak tayoqchalari oilasi, patogen stafilokokklar va ko'k yiring tayoqchasi aniqlanmasligi kerak [1]."
+      ]
+    },
+    {
+      "heading": "Ovoz va elektr xavfsizlik",
+      "content": [
+        "Ovozli yumshoq o'yinchoqlarning ekvivalent tovush darajasi uch yoshgacha bolalar uchun 60 dBA, 3-6 yoshda 65 dBA, 6 yoshdan katta bolalar uchun 70 dBA dan oshmaydi. Elektr qismi bo'lsa, nominal kuchlanish 24 V dan ortiq bo'lmaydi [1].",
+        "Elektrostatik maydon kuchlanganligi o'yinchoq sirtida 15 kV/m dan oshmasligi kerak. Yumshoq to'qimachilik materiallarida bu ko'rsatkich muhim, chunki mo'yna va sintetik materiallar elektrlashadi [1]."
+      ]
+    },
+    {
+      "heading": "Bolalar muassasalarida parvarish",
+      "content": [
+        "Maktabgacha ta'lim muassasalarida o'yinchoqlar zararsiz va gigiyenik talablarga mos bo'lishi, 2 % li sovunli-sodali eritma bilan yuvilishi shart. Yumshoq o'yinchoqlar har oyda yuviladi yoki kvarslanadi [4].",
+        "Yangi olingan o'yinchoqlar (yumshoq o'yinchoqlardan tashqari) guruhlarga berishdan oldin 15 daqiqa davomida oqar suvda (37 °C) sovun bilan yuviladi va havoda quritiladi. O'yinchoq va o'yin ijarasi hamda almashinuvi punktlarini tashkil etish taqiqlanadi [4]."
+      ]
+    },
+    {
+      "heading": "Qo'g'irchoq kiyimi va aksessuarlar",
+      "content": [
+        "Qo'g'irchoq kiyimlari yumshoq o'yinchoqning tarkibiy qismi sifatida baholanadi: ular uchun migratsiya havo muhitiga aniqlanadi va to'qimachilik materiallari uchun belgilangan chegaralar qo'llanadi [1].",
+        "Yumshoq o'yinchoq bilan birga beriladigan kichik aksessuarlar (tugma, ko'zcha, bezak) uch yoshgacha bo'lgan bolalar uchun yuqori nafas yo'llariga tushmaydigan o'lchamda bo'lishi yoki mustahkam mahkamlanishi shart, aks holda bola ularni yutib yuborishi mumkin [1, 3]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "Yumshoq o'yinchoqlarga qo'yiladigan asosiy talablar: toza va xavfsiz materiallar, uch yoshgacha bolalar uchun tabiiy mo'yna va teri ishlatmaslik, to'ldirgichda qattiq va o'tkir jismlarning yo'qligi, mustahkam tikuvlar va mahkamlangan detallar, yong'in xavfsizligi, kimyoviy migratsiya va mikrobiologik ko'rsatkichlar bo'yicha chegaralar hamda muassasalarda muntazam yuvish yoki kvarslash [1, 2, 3, 4]."
+      ]
+    }
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. Bolalar uchun o'yinchoqlar (o'yinlar) xavfsizligiga qo'yiladigan gigiyenik talablar: SanPiN № 0354-18 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 752. 2018.",
+    "Kuchma V.R. Bolalar va o'smirlar gigiyenasi: o'quv qo'llanma (rus tilida). xayrullokomilov.uz/kutubxona, material ID 2301. 2010.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. O'yinchoqlar (o'yinlar) xavfsizligiga qo'yiladigan sanitariya-gigiyenik talablar: SanPiN № 0287-10 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 686. 2010.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. Maktabgacha ta'lim tashkilotlarini tutish, jihozlash va ish tartibiga sanitariya-gigiyenik talablar: SanPiN № 0355-18 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 639. 2018."
+  ]
+}

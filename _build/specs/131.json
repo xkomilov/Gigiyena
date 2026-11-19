@@ -1,0 +1,108 @@
+{
+  "number": 131,
+  "title": "131. Bolalar o'yinchoqlari qanday xom ashyodan yasaladi?",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Zamonaviy o'yinchoqlar vazifasi, mo'ljallangan yoshi va ishlatiladigan materiallari bo'yicha juda xilma-xil. Xom ashyo turi o'yinchoqning bola salomatligiga ta'sirini belgilaydi, shu sababli gigiyenist materiallarning tarkibi va xususiyatlarini bilishi kerak [1, 2].",
+        "Ushbu mavzuda o'yinchoq tayyorlashda ishlatiladigan asosiy materiallar guruhlari, polimerlarning ulushi, ularning foydali va xavfli xususiyatlari hamda xom ashyoga qo'yiladigan umumiy gigiyenik talablar bayon etiladi [1, 2, 3]."
+      ]
+    },
+    {
+      "heading": "Materiallar xilma-xilligi",
+      "content": [
+        "O'yinchoq yasash uchun yog'och, shisha, rezina, turli plastmassalar, qog'oz, karton, metall, mato, mo'yna, paxta, teri va uning o'rnini bosuvchilar, chinni, fayans, keramika va papye-mashe ishlatiladi. Materiallar soni o'yinchoqlarning vazifasi va yoshiga mo'ljallanganligi bilan bog'liq [2].",
+        "Yuqoridagi materiallardan eng katta va xilma-xil guruhni polimerlar tashkil etadi, ularning ulushi 80 % dan ortiq. Shu sababli o'yinchoqlarning gigiyenik xavfsizligi asosan polimer materiallarning xossalariga bog'liq [2]."
+      ]
+    },
+    {
+      "heading": "Asosiy polimerlar",
+      "content": [
+        "Quyma o'yinchoqlar uchun asosiy polimerlar orasida past bosimli polietilen (39 %), yuqori bosimli polietilen (15 %), polipropilen (16 %), polistirol (6 %) va polivinilxlorid (24 %) ajratiladi [2].",
+        "Bundan tashqari polibutilen, polimetilpenten, etilen bilan propilen va etilen bilan butilen sopolimerlari hamda bu polimerlarning modifikatsiyalangan markalari ishlatiladi. Shuningdek dakril, sevilen, vinilteri va ftorlon ham qo'llanadi [3]."
+      ]
+    },
+    {
+      "heading": "Polimer o'yinchoqlarning afzalliklari",
+      "content": [
+        "Polimerlardan tayyorlangan o'yinchoqlar keng rang gammasi, yengil vazni, yuqori mustahkamligi, elastikligi va chiroyli ko'rinishi bilan ajralib turadi. Ular odatda silliq sirtga ega, shu sababli kam ifloslanadi, yaxshi yuviladi va tozalanadi [2].",
+        "Bu xususiyatlar o'yinchoqni bolalar muassasalarida kundalik yuvish va dezinfeksiya qilish uchun qulay qiladi. Og'iz bilan tegadigan puflanadigan o'yinchoq qismlari va shaqildoqlar tez dezinfeksiyalanadigan, namlikni singdirmaydigan materiallardan yasaladi [2, 3]."
+      ]
+    },
+    {
+      "heading": "Polimerlarning xavfi",
+      "content": [
+        "Polimerlar atrof muhitga kimyoviy moddalarni ajratishi mumkin, ba'zan bolalar organizmiga zarar yetkazadigan miqdorda. Polimer destruksiyasida turli xavf sinfiga mansub moddalar chiqadi [2].",
+        "Formaldegid, stirol, akrilonitril va benzol 2-xavf sinfiga (yuqori xavfli), ftalatlar va ksilollar 3-xavf sinfiga (o'rtacha xavfli) kiradi. Uch yoshgacha bo'lgan bolalar o'yinchoqlarida 1-xavf sinfidagi moddalar migratsiyasiga yo'l qo'yilmaydi [1]."
+      ]
+    },
+    {
+      "heading": "Polimer plyonkalar va qoplamalar",
+      "content": [
+        "O'yinchoq ishlab chiqarishda polimer materiallar bilan birga polimer plyonkalar (polivinilxlorid, polietilen, polietilen-poliamid, selofan), rezina, kauchuk, shuningdek laklar, bo'yoqlar va emallar ishlatiladi [3].",
+        "Himoya-bezak qoplamasi nam ishlovga, so'lak va terga chidamli bo'lishi shart. Shaqildoq va og'iz bilan tegadigan o'yinchoqlarning sirtiga bo'yoq bilan rasm solish yoki bo'yash taqiqlanadi [1]."
+      ]
+    },
+    {
+      "heading": "Ruxsat etilgan materiallar ro'yxati",
+      "content": [
+        "Sanitariya qonunchiligi o'yinchoq ishlab chiqarish uchun ruxsat etilgan xom ashyo va materiallar ro'yxatini tartibga soladi. Bu ro'yxatga kiritilgan yoki gigiyenik baho olib, tegishli xulosa bilan tasdiqlangan materiallardan foydalanishga ruxsat beriladi [3].",
+        "Sanitariya qoidalari o'yinchoq materiallarining sanitariya-kimyoviy ko'rsatkichlarini turli material guruhlari bo'yicha tartibga soladi: plastiklar, polistirol va stirol sopolimerlari, poliolefinlar, vinilatsetat polimerlari, polivinilxlorid, poliuretanlar, poliamidlar va boshqalar [1]."
+      ]
+    },
+    {
+      "heading": "Qo'shimcha material guruhlari",
+      "content": [
+        "Tartibga solingan guruhlarga poliakrilatlar, poliefirlar, polietilentereftalat va uning sopolimerlari, polikarbonat, fenoplastlar va aminoplastlar, epoksid smolalari, parafinlar va mumlar, rezina-lateks kompozitsiyalari, silikonlar kiradi [1].",
+        "Shuningdek qog'oz va karton, yog'och, keramika va shisha, sun'iy mo'yna va to'qimachilik materiallari, bo'yoqlar, qalamlar, flomasterlar, guash va plastilin ham alohida guruhlar sifatida ko'rsatilgan [1]."
+      ]
+    },
+    {
+      "heading": "Materiallarga umumiy talablar",
+      "content": [
+        "O'yinchoq tayyorlashda ishlatiladigan materiallar toza (ifloslanmagan) va infeksiyalanmagan bo'lishi, sanitariya qoidalaridagi talablarga javob berishi kerak. Ikkilamchi xom ashyo, ya'ni ishlatilgan materiallarni qayta ishlash natijasida olingan xom ashyo o'yinchoq tayyorlashda taqiqlanadi [1].",
+        "Korxonaning o'z ishlab chiqarish chiqindilaridan foydalanishga ruxsat beriladi."
+      ]
+    },
+    {
+      "heading": "Tarkibiga qarab migratsiya",
+      "content": [
+        "Zararli moddalar migratsiyasi materialning kimyoviy tarkibiga qarab belgilangan ro'yxat bo'yicha tekshiriladi. Masalan, polivinilxloridlarda dibutilftalat bo'lmasligi, sink 1,0 mg/dm³ dan, qalay 2,0 mg/dm³ dan oshmasligi kerak [1].",
+        "Polistirol va stirol sopolimerlari uchun stirol suv muhitida 0,01 mg/dm³ dan, havoda 0,002 mg/m³ dan ko'p ajralmasligi, keramika va shishadan alyuminiy 0,5 mg/dm³ dan ortiq migratsiya qilmasligi talab etiladi. Sun'iy mo'yna va to'qimachilik materiallarida suvli ajratmada formaldegid 50 mkg/g dan oshmaydi [1]."
+      ]
+    },
+    {
+      "heading": "Og'ir metallar bo'yicha chegaralar",
+      "content": [
+        "Har 1 kg o'yinchoq materialidan ajraladigan elementlar miqdori bariy 1000 mg, kadmiy 75 mg, margimush 25 mg, simob 60 mg, qo'rg'oshin 90 mg va xrom 60 mg dan oshmasligi kerak. Shakllanadigan massalar va barmoq bilan chiziladigan bo'yoqlar uchun chegaralar qattiqroq (bariy 250, kadmiy 50, simob 25, xrom 25 mg) [1].",
+        "Tadqiqotda majburiy modelli muhit distillangan suv hisoblanadi. Uch yoshdan katta bolalar uchun yumshoq va yog'och o'yinchoqlar, qo'g'irchoq kiyimlari hamda yirik o'yinchoqlardan migratsiya havo muhitiga aniqlanadi [1]."
+      ]
+    },
+    {
+      "heading": "Tabiiy materiallar",
+      "content": [
+        "Tabiiy materiallardan tayyorlangan o'yinchoqlar uchun radiatsion xavfsizlik ko'rsatkichi, ya'ni tabiiy radionuklidlarning solishtirma samarali faolligi nazorat qilinadi. U o'yin va bolalar ijodiyoti to'plamlari tarkibidagi tabiiy materiallar uchun 370 Bk/kg dan oshmasligi kerak [1].",
+        "Uch yoshgacha bo'lgan bolalar o'yinchoqlari uchun tabiiy mo'yna, tabiiy teri, shisha, chinni, tuklangan rezina, karton va qog'oz ishlatish taqiqlangan."
+      ]
+    },
+    {
+      "heading": "To'ldiruvchi materiallar",
+      "content": [
+        "Uch yoshgacha bo'lgan bolalar o'yinchoqlarida o'lchami 3 mm va undan kichik to'ldirish granulalari ichki g'ilofsiz ishlatilmaydi. Shaqildoq turidagi to'ldirgichlar nam muhitda 5 % dan ortiq kattalashmasligi shart [1].",
+        "Yumshoq o'yinchoq to'ldirgichida qattiq yoki o'tkir begona jismlar bo'lmasligi kerak. Bu talab to'ldiruvchi xom ashyoni tanlashda va tayyorlashda alohida nazorat qilinadi [1]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "O'yinchoqlar polimerlar (80 % dan ortiq), yog'och, rezina, qog'oz va karton, to'qimachilik va boshqa materiallardan tayyorlanadi. Polimerlar qulay, ammo kimyoviy moddalar ajratishi mumkin, shuning uchun ishlatiladigan xom ashyo ruxsat etilgan ro'yxatda bo'lishi, toza bo'lishi va migratsiya bo'yicha gigiyenik talablarga javob berishi shart [1, 2, 3]."
+      ]
+    }
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. Bolalar uchun o'yinchoqlar (o'yinlar) xavfsizligiga qo'yiladigan gigiyenik talablar: SanPiN № 0354-18 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 752. 2018.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. O'yinchoqlar (o'yinlar) xavfsizligiga qo'yiladigan sanitariya-gigiyenik talablar: SanPiN № 0287-10 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 686. 2010.",
+    "Kuchma V.R. Bolalar va o'smirlar gigiyenasi: o'quv qo'llanma (rus tilida). xayrullokomilov.uz/kutubxona, material ID 2301. 2010."
+  ]
+}

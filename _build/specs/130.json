@@ -1,0 +1,104 @@
+{
+  "number": 130,
+  "title": "130. Bolalar o'yinchoqlari va o'yinlarini ishlab chiqaruvchi korxonalar ustidan joriy va ogohlantiruvchi sanitariya nazorati.",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Bolalar o'yinchoqlari va o'yinlarini ishlab chiqaruvchi korxonalar mahsulot xavfsizligi uchun mas'ul. Davlat sanitariya nazorati korxonaning ishlab chiqarish bosqichlarida o'yinchoq xavfsizligini ta'minlashga qaratilgan va ikki shaklda, ogohlantiruvchi va joriy nazorat sifatida olib boriladi [1, 2].",
+        "Ushbu mavzuda nazoratning maqsadi, korxonaga qo'yiladigan sanitariya talablari, ogohlantiruvchi va joriy nazoratning mazmuni, namuna olish, sertifikatlash va qoidabuzarliklarga qarshi choralar bayon etiladi [1, 2, 3]."
+      ]
+    },
+    {
+      "heading": "Nazorat huquqiy asoslari",
+      "content": [
+        "O'yinchoq ishlab chiqarish, olib kirish va sotish bo'yicha sanitariya qoidalariga rioya qilinishi majburiy. Bu talab mulk shakli va idoraviy tegishlilikdan qat'i nazar barcha fuqarolar va yuridik shaxslarga tatbiq etiladi [1].",
+        "Qoidalarga rioya qilinishi ustidan nazorat davlat sanitariya-epidemiologik nazorat organlari va muassasalariga yuklatilgan. Qoidabuzarlik amaldagi qonunchilikka ko'ra javobgarlikka olib keladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Nazorat bosqichlari",
+      "content": [
+        "Davlat sanitariya-epidemiologik nazorati o'yinchoqni ishlab chiqarishga qo'yish bosqichida, uni ishlab chiqarish va sotish jarayonida hamda chet eldan olib kirishda amalga oshiriladi [2].",
+        "Ishlab chiqarishga qo'yish bosqichida gigiyenik baholash o'tkaziladi va uning natijasida gigiyenik sertifikat yoki sanitariya-epidemiologik xulosa beriladi. Keyingi nazorat tanlab tekshirish va sertifikatlangan mahsulotni inspeksiya nazorati orqali olib boriladi [2]."
+      ]
+    },
+    {
+      "heading": "Ogohlantiruvchi nazorat",
+      "content": [
+        "Ogohlantiruvchi sanitariya nazorati yangi o'yinchoqni ishlab chiqarishga qo'yishdan oldin, uning gigiyenik xavfsizligini aniqlashga qaratilgan. Korxona ilmiy-texnik ma'lumotlar, o'yinchoq namunalari va ishlatilgan materiallar retsepturasini taqdim etadi [2].",
+        "O'yinchoq tasdiqlangan namuna, ya'ni «tipik vakil» bo'lishi shart: u yagona texnologiya va bir xil materiallar bilan tayyorlangan. Gigiyenik baholash organoleptik, sanitariya-kimyoviy va toksikologik tadqiqotlarni o'z ichiga oladi [2]."
+      ]
+    },
+    {
+      "heading": "Yangi materiallarni baholash",
+      "content": [
+        "O'yinchoq ishlab chiqarishda ilgari o'rganilmagan yangi materiallardan foydalanilsa, ularning toksikologik tadqiqoti o'tkaziladi. Bu tadqiqotdan oldin organoleptik va sanitariya-kimyoviy tekshiruvlar bajariladi [2].",
+        "Sanitariya-epidemiologik xizmat organlari va muassasalari yangi kelishilgan mahalliy va import materiallar bo'yicha ma'lumotlarni har yili Sog'liqni saqlash vazirligining tegishli boshqarmasiga taqdim etadi. Bu materiallar ma'lumotlar bazasini shakllantirishga xizmat qiladi [2]."
+      ]
+    },
+    {
+      "heading": "Ishlab chiqarish sharoitlariga talablar",
+      "content": [
+        "Korxona o'yinchoq xavfsizligi bolalar salomatligi uchun kafolatlanishini ta'minlashi kerak. O'yinchoq tayyorlanadigan ishlab chiqarish binolarining qurilishi va sanitariya holati texnologik jarayonlarni tashkil etish va ishlab chiqarish uskunalariga qo'yiladigan sanitariya qoidalariga mos bo'lishi shart [2].",
+        "Savdo va ombor xonalari madaniy-maishiy tovarlar saqlash va sotish xonalariga qo'yiladigan talablarga javob beradi. O'yinchoq tayyorlash, nazorat qilish va sotish bilan band xodimlarda sog'lig'i bo'yicha amaldagi buyruqlarga muvofiq qarshi ko'rsatmalar bo'lmasligi kerak [2]."
+      ]
+    },
+    {
+      "heading": "Xomashyo va material nazorati",
+      "content": [
+        "Korxonada ishlatiladigan materiallar toza (ifloslanmagan), infeksiyalanmagan bo'lishi va sanitariya qoidalari ilovasidagi talablarga mos kelishi kerak. O'yinchoq ishlab chiqarishda qayta ishlangan, ishlatilgan materiallardan olingan ikkilamchi xom ashyoni qo'llash mumkin emas, korxonaning o'z chiqindilaridan foydalanishga ruxsat beriladi [1].",
+        "Bolalar o'yinchoqlari uchun ishlatiladigan xom ashyo va materiallar «Ruxsat etilgan xom ashyo va materiallar ro'yxati»ga kiradi yoki gigiyenik baho va xulosa bilan tasdiqlanadi [5]. O'yinchoqlarning himoya-bezak qoplamasi nam ishlovga, so'lak va terga chidamli bo'lishi shart [1]."
+      ]
+    },
+    {
+      "heading": "Namuna olish va tadqiqot hajmi",
+      "content": [
+        "Gigiyenik baholash uchun korxona kamida 3 ta namuna taqdim etadi. Yirik o'yinchoqlar uchun laboratoriya tadqiqotiga seriyali ishlab chiqarishda qo'llaniladigan texnologiya bo'yicha tayyorlangan alohida detallar berilishi mumkin [2].",
+        "Namunalar seriyali ishlab chiqarish texnologiyasi bo'yicha tayyorlanadi va tayyorlanganidan keyin 10 kundan oldin, 30 kundan kechikmay topshiriladi. Zarur bo'lsa korxona texnologik jarayon tavsifini ham beradi. Tadqiqot hajmi xom ashyo, materiallar va foydalanish sharoitiga qarab belgilanadi [2]."
+      ]
+    },
+    {
+      "heading": "Joriy nazorat",
+      "content": [
+        "Joriy sanitariya nazorati ishlab turgan korxonada ishlab chiqarish jarayoni va mahsulot sifatini muntazam tekshirishdan iborat. Davlat sanitariya-epidemiologik nazorati ishlab chiqarilayotgan va sotilayotgan o'yinchoqlarni tanlab nazorat qilish yo'li bilan olib boriladi [2].",
+        "Tanlab nazoratda namunalar ishlab chiqaruvchidan yoki savdodan olinadi, ular uchun to'lov qilinmaydi va qaytarilmaydi. Namunalarni sanitariya-epidemiologik nazorat organlari tegishli hujjatlar bilan rasmiylashtirib oladi [2].",
+        "Bunday nazoratda o'yinchoqning organoleptik, sanitariya-kimyoviy va toksikologik ko'rsatkichlari, himoya-bezak qoplamasining chidamliligi hamda xavfsizlik talablariga mosligi tekshiriladi. Natija talablarga mos kelmasa, korxonaga mahsulotni chiqarishni to'xtatish talabi qo'yiladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Sertifikatlangan mahsulot nazorati",
+      "content": [
+        "Sertifikatlangan mahsulot inspeksiya nazorati tartibida tekshiriladi. O'yinchoqlar seriyali ishlab chiqarishga o'tganda ularning xossalari tasdiqlangan namunaga mos kelishi muntazam tekshiriladi [2].",
+        "O'yinchoq va o'yinlar gigiyenik sertifikatlashga tortiladi, bu O'zbekiston Respublikasi Vazirlar Mahkamasining 2004-yil 6-iyuldagi 318-son qaroriga ilovada belgilangan tartibda amalga oshiriladi. Chet eldan olib kirilgan mahsulotlar va materiallar uchun bolalar salomatligiga zararsizligini tasdiqlovchi sertifikatlar taqdim etiladi [2]."
+      ]
+    },
+    {
+      "heading": "Nomuvofiqlik uchun choralar",
+      "content": [
+        "Talablarga javob bermaydigan o'yinchoqlarning ishlab chiqarilishi yoki sotilishi to'xtatiladi yoki taqiqlanadi. Birorta salbiy ko'rsatkich olinganda ham o'yinchoq tekshiruvdan chetlatiladi yoki sotuvdan olib tashlanadi [2].",
+        "Ishlab chiqarishni yoki sotuvni to'xtatish haqida qaror qabul qilinganda yuqori turuvchi sanitariya-epidemiologik nazorat organlari va manfaatdor idoralar xabardor qilinadi. Sanitariya qoidalari, normalari va gigiyena normativlariga amal qilinishi ustidan tekshiruvlar ma'muriy jarima choralarini qo'llash tartibiga muvofiq o'tkaziladi [2, 4]."
+      ]
+    },
+    {
+      "heading": "Hududiy bo'limning roli",
+      "content": [
+        "Sanitariya-epidemiologik osoyishtalik xizmati hududiy boshqarmalarining Bolalar va o'smirlar gigiyenasi bo'limi ta'lim muassasalari uchun mebel, kiyim-kechak, o'quv qurollari, sport anjomlari va kompyuter texnikasiga gigiyenik talablarni belgilashda ishtirok etadi. Bo'lim bolalar va o'smirlar obyektlari ustidan ogohlantiruvchi hamda joriy sanitariya nazoratiga uslubiy yordam beradi [3].",
+        "Bu bo'lim davlat sanitariya nazorati natijalari bo'yicha tahliliy ma'lumotlar tayyorlaydi, aholidan kelgan murojaatlarni ko'rib chiqadi va tuman (shahar) bo'limlarining yillik hisobotlarini tahlil qiladi [3]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "Bolalar o'yinchoqlarini ishlab chiqaruvchi korxonalar ustidan ogohlantiruvchi nazorat o'yinchoqni ishlab chiqarishga qo'yishda gigiyenik baholashdan iborat, joriy nazorat esa ishlab chiqarilayotgan va sotilayotgan mahsulotni tanlab hamda inspeksiya yo'li bilan tekshirishni qamrab oladi. Nomuvofiq mahsulot ishlab chiqarish va sotishdan to'xtatiladi [1, 2, 3]."
+      ]
+    }
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. Bolalar uchun o'yinchoqlar (o'yinlar) xavfsizligiga qo'yiladigan gigiyenik talablar: SanPiN № 0354-18 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 752. 2018.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. O'yinchoqlar (o'yinlar) xavfsizligiga qo'yiladigan sanitariya-gigiyenik talablar: SanPiN № 0287-10 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 686. 2010.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi huzuridagi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi qo'mitasi. Hududiy boshqarmalarning Bolalar va o'smirlar gigiyenasi bo'limi to'g'risida namunaviy nizom: 2023-yil 23-dekabrdagi 79-son buyruqning 13-ilovasi. Toshkent. xayrullokomilov.uz/kutubxona, material ID 306. 2023.",
+    "O'zbekiston Respublikasi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi xizmati. Sanitariya qoidalari, normalari va gigiyena normativlariga amal qilinishi ustidan tekshiruvlar o'tkazish va ma'muriy jarima choralarini qo'llash tartiblari bo'yicha yo'riqnomani tasdiqlash to'g'risida: 54-son buyruq, 2021-yil 8-may. Toshkent. xayrullokomilov.uz/kutubxona, material ID 409. 2021.",
+    "Kuchma V.R. Bolalar va o'smirlar gigiyenasi: o'quv qo'llanma (rus tilida). xayrullokomilov.uz/kutubxona, material ID 2301. 2010."
+  ]
+}

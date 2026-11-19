@@ -1,0 +1,100 @@
+{
+  "number": 128,
+  "title": "128. O'yinchoq va o'yinlarning sanitariya-gigiyenik ekspertizasi.",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "O'yinchoq bola uchun dunyoni bilish vositasi va ijobiy his-tuyg'ular manbai. Shu bilan birga u bola og'zi va terisi bilan bevosita tegadigan buyum, shuning uchun o'yinchoq va o'yinlar xavfsizligi sanitariya-gigiyenik ekspertiza orqali tasdiqlanadi [1, 2].",
+        "Ushbu mavzuda o'yinchoq tushunchasi, ekspertiza turlari va bosqichlari, baholanadigan ko'rsatkichlar, tekshiruvga taqdim etiladigan namunalar, xulosa tuzish va natijani rasmiylashtirish tartibi bayon etiladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "O'yinchoq tushunchasi va qamrov",
+      "content": [
+        "O'yinchoq 18 yoshgacha bo'lgan bola yoki bolalar o'yini uchun mo'ljallangan buyum yoki materialdir. O'yin to'plami, mayda yumshoq o'yinchoq, stol-bosma o'yinchoq, funksional, elektr, optik va suvda o'ynaladigan o'yinchoqlar alohida turlarga ajratiladi [1].",
+        "Ekspertiza o'yinchoq sifatida qaralmaydigan buyumlarga tatbiq etilmaydi: musiqa asboblari, sport jihozlari, bolalar o'yin maydonchalari uskunalari, o'yin avtomatlari, ichki yonuv dvigatelli o'yinchoq transport, bayram bezaklari, kollektsion modellar va maktab o'quv vositalari shular jumlasidan [1]."
+      ]
+    },
+    {
+      "heading": "Ekspertizaning huquqiy asosi",
+      "content": [
+        "Gigiyenik talablar «Aholining sanitariya-epidemiologik osoyishtaligi to'g'risida», «Texnik tartibga solish to'g'risida» va «Muvofiqlikni baholash to'g'risida»gi qonunlar asosida ishlab chiqilgan va o'yinchoqlarni ishlab chiqarish, olib kirish, sotish hamda sifat nazorati qoidalarini belgilaydi [1].",
+        "Qoidalarga rioya qilish o'yinchoq ishlab chiqarish, olib kirish va sotish bilan shug'ullanadigan fuqarolar va yuridik shaxslar uchun mulk shaklidan qat'i nazar majburiy. Nazorat davlat sanitariya-epidemiologik nazorati organlari va muassasalariga yuklatilgan [1]."
+      ]
+    },
+    {
+      "heading": "Xavfsizlik tamoyili",
+      "content": [
+        "O'yinchoq o'z vazifasi bo'yicha ishlatilganda bola va unga qarovchi shaxslarning hayoti va sog'lig'iga xavf tug'dirmasligi kerak. Xavf o'yinchoq konstruksiyasi, ishlatilgan materiallar va foydalanish sharoiti bilan bog'liq bo'lishi mumkin [1].",
+        "Foydalanishdagi xavf bolaning yosh xususiyatlariga mos kelishi kerak. Shu sababli uch yoshgacha bo'lgan bolalar o'yinchoqlariga talablar qattiqroq, ularning o'lchamlari yuqori nafas yo'llariga tushishini istisno qilishi kerak [1]."
+      ]
+    },
+    {
+      "heading": "Ekspertiza bosqichlari",
+      "content": [
+        "Davlat sanitariya-epidemiologik nazorati o'yinchoqni ishlab chiqarishga qo'yish bosqichida, ishlab chiqarish va sotish jarayonida hamda xorijdan olib kirishda amalga oshiriladi. Ishlab chiqarishga qo'yishda gigiyenik baholash o'tkaziladi va uning natijasi bo'yicha gigiyenik sertifikat yoki sanitariya-epidemiologik xulosa beriladi [2].",
+        "Ishlab chiqarilayotgan va sotilayotgan o'yinchoqlar ustidan nazorat ishlab chiqaruvchidan yoki savdodan olingan namunalarni tanlab tekshirish va sertifikatlangan mahsulotni inspeksiya nazorati orqali amalga oshiriladi [2]."
+      ]
+    },
+    {
+      "heading": "Baholanadigan ko'rsatkichlar",
+      "content": [
+        "Gigiyenik xavfsizlik talablari organoleptik ko'rsatkichlarni (hid, ta'm), jismoniy omillarni (tovush darajasi, elektrostatik, elektromagnit va elektr maydon kuchlanganligi, infraqizil nurlanish oqimi, mahalliy tebranish, tabiiy radionuklidlar solishtirma faolligi), sanitariya-kimyoviy, toksikologik-gigiyenik va mikrobiologik ko'rsatkichlarni o'z ichiga oladi [1].",
+        "Agar gigiyenik xavfsizlikni tasdiqlashda nazorat qilinadigan ko'rsatkichlardan birortasiga nomuvofiqlik aniqlansa, o'yinchoq nomuvofiq deb topiladi va keyingi tadqiqotlar to'xtatiladi. Bu tartib tekshiruv vaqtini va xarajatni kamaytiradi [1]."
+      ]
+    },
+    {
+      "heading": "Organoleptik baho",
+      "content": [
+        "Organoleptik tekshiruvda namunaning tashqi ko'rinishi, sirt xususiyati (quruq, yopishqoq, silliq, g'adir-budir), nuqsonlar va hid aniqlanadi. Hidni kamida besh kishilik komissiya xona haroratida baholaydi, intensivligi 0 dan 5 gacha ballarda ifodalanadi [2].",
+        "O'yinchoq hidi bir yoshgacha bo'lgan bolalar uchun 1 balldan, undan katta bolalar uchun 2 balldan oshmasligi kerak. Uch yoshgacha bo'lgan bolalar o'yinchoqlari hamda og'iz bilan tegadigan o'yinchoqlarda ta'm intensivligi 1 balldan ko'p bo'lmaydi [1]."
+      ]
+    },
+    {
+      "heading": "Jismoniy va kimyoviy ko'rsatkichlar",
+      "content": [
+        "Ovozli o'yinchoqlarning ekvivalent tovush darajasi uch yoshgacha bo'lgan bolalar uchun 60 dBA, 3-6 yosh uchun 65 dBA, 6 yoshdan katta bolalar uchun 70 dBA dan oshmasligi kerak. Elektrostatik maydon kuchlanganligi o'yinchoq sirtida 15 kV/m dan ortiq bo'lmaydi [1].",
+        "Sanitariya-kimyoviy ko'rsatkichlarga o'yinchoq materiallaridan modelli muhitga (distillangan suv, havo) zararli moddalar migratsiyasi kiradi. Tadqiqotda majburiy modelli muhit distillangan suv hisoblanadi [1]."
+      ]
+    },
+    {
+      "heading": "Toksikologik va mikrobiologik baho",
+      "content": [
+        "Uch yoshgacha bo'lgan bolalar o'yinchoqlari va og'iz bo'shlig'i bilan tegadigan o'yinchoqlar shilliq qavatga bezovta qiluvchi ta'sir ko'rsatmasligi kerak. Boshqa o'yinchoqlar uchun mahalliy teri bezovta qiluvchi ta'sir yo'qligi yoki toksiklik indeksi suv muhitida 70-120 %, havo muhitida 80-120 % bo'lishi talab etiladi [1].",
+        "Mikrobiologik xavfsizlik bir yoshgacha bo'lgan bolalar to'ldirilgan o'yinchoqlari uchun, shuningdek shakllanadigan massalar va barmoq bilan chiziladigan bo'yoqlar uchun qattiq belgilanadi: mezofil aerob bakteriyalar 1·10² KOE/g dan ko'p emas, ichak tayoqchalari, patogen stafilokokklar va ko'k yiring tayoqchasi yo'q [1]."
+      ]
+    },
+    {
+      "heading": "Namunalar va hujjatlar",
+      "content": [
+        "Gigiyenik baholash uchun me'yoriy-texnik ma'lumotlar, o'yinchoq namunalari va qo'llanadigan materiallar retsepturasi taqdim etiladi. Namunalar soni tadqiqot hajmiga qarab muassasa bilan kelishiladi, eng kam miqdor 3 ta namunadir [2].",
+        "Namunalar «tipik vakil» bo'lishi, ya'ni yagona texnologiya va bir xil materiallar bilan tayyorlanishi kerak. Ular seriyali ishlab chiqarish texnologiyasi bo'yicha tayyorlanadi va tayyorlanganidan 10 kun o'tgach, 30 kundan kechikmay topshiriladi. Chet eldan olib kirilgan mahsulotga xavfsizligini tasdiqlovchi sertifikatlar taqdim etiladi [2]."
+      ]
+    },
+    {
+      "heading": "Natijani rasmiylashtirish",
+      "content": [
+        "Tadqiqot natijalari yozma ravishda rasmiylashtiriladi. Unda namuna nomi va qisqacha xususiyati, tayyorlangan va tadqiqotga kelgan sana, ishlab chiqaruvchi korxona, tadqiqot natijalari va umumiy xulosa [2].",
+        "Sinov natijalarida o'yinchoq va material turi, qo'llangan usul, ishlatilgan erituvchi, o'lchov natijalari, sinov tartibidan har qanday chetga chiqish va sinov sanasi ko'rsatiladi. Namunalar va hujjat nusxalari qaytarilmaydi [2]."
+      ]
+    },
+    {
+      "heading": "Nomuvofiq o'yinchoqlar bilan ish",
+      "content": [
+        "Nomuvofiq o'yinchoqlar ishlab chiqarish yoki sotish to'xtatiladi yoki taqiqlanadi. Hatto bitta salbiy ko'rsatkich olinganda ham tekshirilayotgan namuna kelishuvdan chetlatiladi yoki sotuvdan olinadi [2].",
+        "Ishlab chiqarish yoki sotishni to'xtatish masalasi yechilganda yuqori turuvchi sanitariya-epidemiologik nazorat organlari va manfaatdor idoralar xabardor qilinadi. Yangi materiallar bo'yicha ma'lumotlar bazasi yuritiladi va har yili yuqori organga taqdim etiladi [2]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "O'yinchoq va o'yinlarning sanitariya-gigiyenik ekspertizasi organoleptik, jismoniy, sanitariya-kimyoviy, toksikologik va mikrobiologik ko'rsatkichlarni baholashdan iborat. Ekspertiza ishlab chiqarishga qo'yishda, ishlab chiqarish va sotishda hamda olib kirishda amalga oshiriladi. Birorta ko'rsatkichga nomuvofiqlik o'yinchoqni xavfli deb topish uchun asos bo'ladi [1, 2]."
+      ]
+    }
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. Bolalar uchun o'yinchoqlar (o'yinlar) xavfsizligiga qo'yiladigan gigiyenik talablar: SanPiN № 0354-18 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 752. 2018.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. O'yinchoqlar (o'yinlar) xavfsizligiga qo'yiladigan sanitariya-gigiyenik talablar: SanPiN № 0287-10 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 686. 2010."
+  ]
+}

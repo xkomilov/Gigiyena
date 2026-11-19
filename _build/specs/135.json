@@ -1,0 +1,108 @@
+{
+  "number": 135,
+  "title": "135. O'yinchoqlar massasi ichida og'ir metallar tuzlarining qanday normalari bor?",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Og'ir metallar o'yinchoq materiallaridan bola organizmiga so'lak, ter va teri orqali tushishi mumkin. Shu sababli sanitariya qoidalari o'yinchoq massasidan ajraladigan metallarning eng yuqori miqdorlarini belgilaydi [1].",
+        "Ushbu mavzuda 1 kg o'yinchoq materialidan ajraladigan zararli elementlarning normalari, ularning formalanuvchi massalar va barmoq bilan chiziladigan bo'yoqlar uchun farqi, modelli muhit, material turlari bo'yicha jadvallar va nazorat tartibi bayon etiladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Chegaralanadigan elementlar",
+      "content": [
+        "Hozirgi talablar oltita elementning ajralishini chegaralaydi: bariy, kadmiy, margimush, simob, qo'rg'oshin va xrom. Ular o'yinchoq materialining 1 kg massasi hisobiga mg bilan ifodalanadi [1].",
+        "Natija modelli muhitga ajralgan element miqdori bilan baholanadi [1]."
+      ]
+    },
+    {
+      "heading": "Oddiy o'yinchoq materiallari uchun chegaralar",
+      "content": [
+        "1 kg har qanday o'yinchoq materialidan (shakllanadigan massalar va barmoq bilan chiziladigan bo'yoqlardan tashqari) bariy 1000 mg, kadmiy 75 mg, margimush 25 mg, simob 60 mg, qo'rg'oshin 90 mg va xrom 60 mg dan ko'p ajralmasligi kerak [1].",
+        "Bu qiymatlar o'yinchoq materiallarining ko'pchiligiga, jumladan plastiklar, poliolefinlar, polivinilxlorid, poliuretanlar, poliamidlar, rezina, qog'oz va karton, yog'och, keramika, shisha, sun'iy mo'yna va to'qimachilik materiallariga tatbiq etiladi [1]."
+      ]
+    },
+    {
+      "heading": "Shakllanadigan massalar va barmoq bilan chiziladigan bo'yoqlar",
+      "content": [
+        "Shakllanadigan massalar va barmoq bilan chiziladigan bo'yoqlar bola terisi va og'zi bilan ko'proq tegadi, shu sababli ular uchun chegaralar qattiqroq. 1 kg massadan bariy 250 mg, kadmiy 50 mg, margimush 25 mg, simob 25 mg, qo'rg'oshin 90 mg va xrom 25 mg dan oshmasligi shart [1].",
+        "Qo'rg'oshin va margimush uchun chegara ikkala guruhda bir xil (90 va 25 mg), kadmiy, bariy, simob va xrom uchun esa shakllanadigan massalarda ancha past. Bu farq bolalar ijodiyoti uchun plastilin, loy va gouashga ham tegishli [1]."
+      ]
+    },
+    {
+      "heading": "Modelli muhit",
+      "content": [
+        "Sanitariya-kimyoviy tadqiqotlarda majburiy modelli muhit distillangan suv hisoblanadi. Zararli elementlar tuz kislotasi eritmasiga ajralishi bo'yicha ham baholanadi, bunda natija 1 kg material hisobiga mg bilan beriladi [1].",
+        "Uch yoshdan katta bolalar uchun mo'ljallangan yumshoq va yog'och o'yinchoqlar, qo'g'irchoq kiyimlari hamda bola sig'adigan yoki uni ko'taradigan yirik o'yinchoqlardan migratsiya havo muhitiga aniqlanadi [1]."
+      ]
+    },
+    {
+      "heading": "Material guruhlari bo'yicha jadvallar",
+      "content": [
+        "Normalar jadvali material turi bo'yicha beriladi: akrilonitril-butadienstirol plastiklari, polistirol va stirol sopolimerlari, poliolefinlar, vinilatsetat polimerlari, polivinilxloridlar, poliuretanlar, poliamidlar, poliakrilat, poliefirlar va polietilentereftalat [1].",
+        "Shuningdek polikarbonat, fenoplastlar va aminoplastlar, epoksid smolalari, parafinlar va mumlar, rezina-lateks kompozitsiyalari, silikonlar, qog'oz va karton, yog'och, keramika va shisha, sun'iy mo'yna, to'qimachilik, bo'yoqlar, qalamlar, flomasterlar, guash va plastilin uchun alohida satrlar mavjud [1]."
+      ]
+    },
+    {
+      "heading": "Metallarga qo'shimcha chegaralar",
+      "content": [
+        "Polivinilxlorid uchun metallar chegaralari bilan birga sink (1,0 mg/dm³) va qalay (2,0 mg/dm³) suv muhitida nazorat qilinadi. Keramika va shisha uchun alyuminiy 0,5 mg/dm³ dan oshmasligi kerak [1].",
+        "Materialning kimyoviy tarkibiga qarab ro'yxat o'zgaradi: masalan, formaldegid poliolefinlar, poliuretanlar, yog'och, qog'oz va karton, silikonlar va fenoplastlar uchun suv muhitida 0,1 mg/dm³, havoda 0,003 mg/m³ gacha ruxsat etiladi [1]."
+      ]
+    },
+    {
+      "heading": "Boshqa kimyoviy moddalar",
+      "content": [
+        "Polistirol va stirol sopolimerlaridan stirol suv muhitida 0,01 mg/dm³ dan, havoda 0,002 mg/m³ dan ortiq ajralmasligi kerak. Sun'iy mo'yna va to'qimachilik materiallaridan ajraladigan formaldegid suvli ajratmada 50 mkg/g dan oshmaydi [1].",
+        "Polivinilxlorid o'yinchoqlarda dibutilftalat bo'lmasligi shart, ya'ni uning miqdori aniqlash chegarasidan oshmasligi kerak. Uch yoshgacha bo'lgan bolalar o'yinchoqlarida 1-xavf sinfidagi moddalar migratsiyasi umuman taqiqlanadi [1]."
+      ]
+    },
+    {
+      "heading": "Nazorat usullari",
+      "content": [
+        "Metallar ajralishini aniqlash o'yinchoq namunasini modelli muhitga solish orqali bajariladi. Ma'lumotlar sinov natijalarida ishlatilgan usulni, erituvchini va natijalarni ko'rsatishi shart [2].",
+        "Uslubiy asos sifatida GOST ISO 8124-3-2001 (o'yinchoqlardan sog'liqqa zararli elementlar ajralishi) va O'z DSt 1724:2010 (ayrim elementlar migratsiyasi) qo'llanadi. [1]."
+      ]
+    },
+    {
+      "heading": "Eski va yangi chegaralar",
+      "content": [
+        "2010-yildagi sanitariya talablarida oltita elementdan tashqari surma va selen uchun ham chegaralar (60 va 500 mg/kg) berilgan edi. Eski ro'yxat bilan hozirgi ro'yxat o'rtasida farq bor [2, 3].",
+        "Amaliy ishda eng yangi talablar ishlatiladi: bariy, kadmiy, margimush, simob, qo'rg'oshin va xrom. Shu sababli surma va selen bo'yicha eski chegaralar hozirgi baholashda qo'llanmaydi [1, 2, 3]."
+      ]
+    },
+    {
+      "heading": "Istisnolar",
+      "content": [
+        "Chegaralar funksional vazifasi, vazni, o'lchamlari va boshqa xususiyatlariga ko'ra so'rish, yalash yoki yutish bilan bog'liq xavfni istisno qiladigan o'yinchoq va ularning detallariga tatbiq etilmaydi. Bunda bolaning odatdagi va kutilayotgan xulq-atvori inobatga olinadi [2].",
+        "Boshqa barcha o'yinchoq va o'yin materiallari uchun chegaralar majburiy. Birorta ko'rsatkichga nomuvofiqlik o'yinchoqni nomuvofiq deb topish va tadqiqotni to'xtatish uchun asos bo'ladi [1]."
+      ]
+    },
+    {
+      "heading": "Amaliy ahamiyati",
+      "content": [
+        "Sanitariya vrachi o'yinchoqlar ekspertizasida jadvaldagi eng yuqori miqdorlarni laboratoriya natijalari bilan solishtiradi. Ayniqsa bolalar og'ziga tushadigan yoki teriga surtiladigan materiallar (plastilin, barmoq bo'yoqlari) uchun chegaralarni alohida nazorat qiladi [1].",
+        "Natijalar chegaradan oshganda mahsulot sotuvga chiqarilmaydi yoki sotuvdan olib tashlanadi."
+      ]
+    },
+    {
+      "heading": "Toksikologik talablar bilan bog'liqlik",
+      "content": [
+        "Metallar chegarasi bilan birga o'yinchoqlar toksiklik indeksi bo'yicha ham baholanadi: suv muhitida 70-120 %, havo muhitida 80-120 %. Uch yoshgacha bo'lgan bolalar o'yinchoqlari shilliq qavatga bezovta qiluvchi ta'sir ko'rsatmasligi kerak [1].",
+        "Shu sababli metall miqdori normada bo'lgan o'yinchoq ham toksikologik tekshiruvdan o'tishi lozim, chunki metallar chegarasi ajralayotgan barcha moddalarning faqat bir qismini qamrab oladi, qolganlari esa alohida ko'rsatkichlar bo'yicha nazorat qilinadi [1]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "O'yinchoq massasidan ajraladigan og'ir metallar bo'yicha 1 kg materialga bariy 1000, kadmiy 75, margimush 25, simob 60, qo'rg'oshin 90 va xrom 60 mg dan oshmasligi kerak. Shakllanadigan massalar va barmoq bo'yoqlari uchun chegaralar qattiqroq (bariy 250, kadmiy 50, simob 25, xrom 25 mg). Nazorat distillangan suv va kislotali modelli muhit yordamida amalga oshiriladi [1]."
+      ]
+    }
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. Bolalar uchun o'yinchoqlar (o'yinlar) xavfsizligiga qo'yiladigan gigiyenik talablar: SanPiN № 0354-18 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 752. 2018.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. O'yinchoqlar (o'yinlar) xavfsizligiga qo'yiladigan sanitariya-gigiyenik talablar: SanPiN № 0287-10 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 686. 2010.",
+    "Kuchma V.R. Bolalar va o'smirlar gigiyenasi: o'quv qo'llanma (rus tilida). xayrullokomilov.uz/kutubxona, material ID 2301. 2010."
+  ]
+}

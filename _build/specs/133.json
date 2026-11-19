@@ -1,0 +1,107 @@
+{
+  "number": 133,
+  "title": "133. O'yinchoqlar va ularning detallari tarkibiy qismlari xavfsizligiga qanday talablar qo'yilgan?",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "O'yinchoq va uning detallari bola uchun xavfsiz bo'lishi uchun mexanik, jismoniy, yonuvchanlik, kimyoviy, elektr, radiatsion va mikrobiologik xavf jihatidan talablarga javob beradi. Talablar bolaning yoshiga mos bo'lishi shart [1].",
+        "Ushbu mavzuda o'yinchoqni loyihalash va tayyorlashga qo'yiladigan umumiy xavfsizlik talablari, mexanik va jismoniy xossalar, yonuvchanlik, kimyoviy va elektr xavfsizlik hamda detallar o'lchamlariga talablar bayon etiladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Umumiy xavfsizlik talabi",
+      "content": [
+        "O'yinchoq ishlab chiqilgan va tayyorlangan bo'lishi kerakki, uni vazifasi bo'yicha ishlatishda bolalar va ularga qarovchilar hayoti va sog'lig'iga xavf tug'dirmasin. Xavf konstruksiyadan, ishlatilgan materiallardan va o'yinchoqdan foydalanishdan kelib chiqishi mumkin [1].",
+        "O'yinchoqdan foydalanishda xavf bolalarning yosh xususiyatlariga mos bo'lishi shart. Uch yoshgacha bo'lgan bolalar o'yinchoqlarining ajraladigan detallari yuqori nafas yo'llariga tushmaydigan o'lchamlarga ega bo'lishi kerak [1]."
+      ]
+    },
+    {
+      "heading": "Mexanik mustahkamlik",
+      "content": [
+        "O'yinchoq va uning tarkibiy qismlari, shu jumladan mahkamlagich detallar o'yinchoqdan vazifasi bo'yicha foydalanishda yuzaga keladigan mexanik yuklamalarga bardosh berishi lozim. Shu bilan birga o'yinchoq buzilmasligi va iste'mol xususiyatlarini saqlashi kerak [1].",
+        "O'yinchoqdan burun, ovoz qurilmasi kabi detallar ajralmasligi uchun ularning mahkamlanish mustahkamligiga talab bor: bunday detallar 10 kg kuch ta'sirida uzilmasligi kerak, bola kuchi buning uchun yetarli bo'lmaydi [2]."
+      ]
+    },
+    {
+      "heading": "Jarohat xavfi",
+      "content": [
+        "O'yinchoqning ochiq qirralari, o'tkir uchlari, qattiq detallari, prujinalari, mahkamlagichlari, tirqishlari, burchaklari, chiqib turgan qismlari, shnurlari, arqonlari va biriktirgichlari bolani jarohatlash xavfini istisno qilishi kerak [1].",
+        "Yuzada zadiralar, yoriqlar va sinish joylari bo'lmaydi, funksional bo'lmagan o'tkir qirralar va burchaklar to'mtoqlashtiriladi yoki berkitiladi. O'yinchoqdan suyuq to'ldiruvchi oqib chiqishiga yo'l qo'yilmaydi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Harakatlanuvchi qismlar",
+      "content": [
+        "O'yinchoqning harakatlanuvchi tarkibiy qismlari bolalarni jarohatlash xavfini istisno qilishi shart. Yuritgich mexanizmlar bolaga ochiq bo'lmasligi kerak [1].",
+        "Bola tanasi og'irligini ko'taradigan va minish uchun mo'ljallangan o'yinchoq mustahkam va turg'un bo'lishi kerak. Mexanik yoki elektr yuritmali, erkin yurish mexanizmi bor o'yinchoqlarda tormoz qurilmasi bo'ladi, zanjirli uzatmali o'yinchoqlar himoya qalqonlari bilan jihozlanadi [1]."
+      ]
+    },
+    {
+      "heading": "Bo'g'ilish xavfi",
+      "content": [
+        "O'yinchoq va uning tarkibiy qismlari bolaning bo'g'ilish xavfini istisno qilishi kerak. Uch yoshgacha bo'lgan bolalar o'yinchoqlari va ularning ajraladigan detallari, shuningdek oziq-ovqatga bevosita mahkamlanadigan o'yinchoqlar yuqori nafas yo'llariga tushmaydigan o'lchamga ega bo'lishi shart [1].",
+        "Havo o'tkazmaydigan materialdan tayyorlangan, bosh to'liq yopiladigan niqoblar va dubulg'alar yetarli shamollatilmasligi natijasida bo'g'ilish xavfi tug'dirmasligi uchun loyihalanadi. Bola sig'adigan yopiq o'yinchoqda ichkaridan oson ochiladigan chiqish teshigi va shamollatish teshiklari bo'ladi [1]."
+      ]
+    },
+    {
+      "heading": "O'lchamlarga talablar",
+      "content": [
+        "Uch yoshgacha bo'lgan bolalar uchun yig'iladigan o'yinchoqlarda (piramida, halqa to'plami, sharchalar) diametri 32 mm dan kichik detallar bo'lmasligi lozim. Shaqildoq to'ldiruvchilari diametri kamida 5 mm bo'ladi [2].",
+        "Metall o'yinchoqlar («miltiq», «to'pponcha», «kamon») snaryadlari uchlari yumshoq rezina yoki so'rg'ich bilan himoyalanadi, ularning diametri kamida 20 mm bo'ladi. Sovuq qurolni taqlid qiluvchi o'yinchoqlar o'tkir uchlar va kesuvchi qirralarga ega bo'lmasligi kerak [2]."
+      ]
+    },
+    {
+      "heading": "Maxsus o'yinchoq turlari",
+      "content": [
+        "Suvda tanani ushlab turishga mo'ljallangan o'yinchoq germetik va mustahkam bo'ladi. Snaryad otuvchi mexanizmli o'yinchoqlar va kinetik energiyali snaryadlar bolani yoki qarovchi shaxsni jarohatlash xavfini minimallashtiradi [1].",
+        "Optik o'yinchoq bolaning ko'rishini tuzatish xavfini minimallashtirishi, yorug'lik diodlari ishlatilgan o'yinchoq ko'rish a'zolariga salbiy ta'sir ko'rsatmasligi kerak. Barcha turdagi lazer tizimlarini ishlatish taqiqlanadi [1]."
+      ]
+    },
+    {
+      "heading": "Yonuvchanlik",
+      "content": [
+        "Yumshoq to'ldirilgan o'yinchoqlar, karnaval kostyumlari va buyumlari hamda ichiga bola sig'adigan o'yinchoqlar yong'in jihatidan xavfsiz bo'lishi kerak. O'yinchoq portlovchi bo'lmasligi, qo'llanishda portlovchi bo'lib qoladigan qismlar (modda, material) tarkibida bo'lmasligi shart [1].",
+        "Kimyoviy o'yinchoqlar va kimyoviy moddali o'yin to'plamlarida isitishda yoki oksidlovchilar bilan birikishda portlovchi aralashma hosil qiladigan hamda havo bilan yonuvchan yoki portlovchi bug' aralashmasi hosil qiladigan moddalar va reaktivlar bo'lmasligi kerak [1]."
+      ]
+    },
+    {
+      "heading": "Kimyoviy xavfsizlik",
+      "content": [
+        "O'yinchoqdan foydalanishda kimyoviy moddalarning nafas yo'llariga, teriga, shilliq qavatlarga, ko'zga yoki oshqozonga tushishidan sog'liqqa zarar yetkazish xavfi minimal bo'lishi kerak. Zararli moddalar migratsiyasi va ajralishi gigiyenik xavfsizlik talablariga mos bo'ladi [1].",
+        "Kimyoviy o'yinchoqlarda va kimyoviy moddali o'yin to'plamlarida moddalar yoki reaktivlar har bir modda uchun belgilangan eng yuqori miqdordan oshmasa, qo'llanishi mumkin. Isitish elementli o'yinchoqlarning tegib turiladigan yuzalari harorati kuyishga olib kelmasligi kerak [1]."
+      ]
+    },
+    {
+      "heading": "Elektr xavfsizlik",
+      "content": [
+        "Elektr o'yinchoqda, shuningdek uning biror tarkibiy qismida nominal kuchlanish 24 V dan oshmasligi kerak. Elektr manbai bilan tegadigan yoki tegishi mumkin bo'lgan detallar, kabellar va simlar izolyatsiyalanadi va mexanik himoya qilinadi [1].",
+        "Radio boshqariladigan, elektron va elektrotexnik o'yinchoqlarning elektrostatik, elektromagnit va elektr maydon kuchlanganligi darajalari belgilangan talablarga mos bo'ladi. Elektrostatik maydon kuchlanganligi o'yinchoq sirtida 15 kV/m dan oshmasligi kerak [1]."
+      ]
+    },
+    {
+      "heading": "Ovoz, tebranish va nurlanish",
+      "content": [
+        "Ovozli o'yinchoqlarning ekvivalent tovush darajasi uch yoshgacha 60 dBA, 3-6 yosh uchun 65 dBA, 6 yoshdan katta bolalar uchun 70 dBA dan oshmasligi kerak. Ochiq havoda o'ynaladigan o'yinchoqlar uchun u 75 dBA gacha [1].",
+        "Tebranish manbali o'yinchoqlarda mahalliy tebranish darajasi 8 va 16 Gts oktava polosalarida 63 dB dan, 1000 Gts da 99 dB gacha chegaralanadi. Tabiiy materiallardan tayyorlangan o'yinchoqlarda tabiiy radionuklidlarning solishtirma samarali faolligi 370 Bk/kg dan oshmasligi kerak [1]."
+      ]
+    },
+    {
+      "heading": "Qoplama va grafik talablar",
+      "content": [
+        "Bo'yalgan o'yinchoqlarning himoya-bezak qoplamasi nam ishlovga, so'lak va terga chidamli bo'lishi lozim. Qog'oz va kartondagi bo'yoqlarning ketishi (otmarivaniye) ruxsat etilmaydi [1].",
+        "Stol-bosma o'yinchoqlarda matn va rasmlar aniq va asosiy fonga nisbatan kontrastli bo'lishi shart. Bola o'qiydigan stol-bosma o'yinlarda harflar balandligi 10 yoshgacha kamida 2,3 mm, undan katta bolalar uchun kamida 1,75 mm bo'ladi [2]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "O'yinchoq va uning detallarining xavfsizligiga talablar mexanik, jismoniy, yonuvchanlik, kimyoviy, elektr, radiatsion va mikrobiologik jihatlarni qamrab oladi. Eng muhimlari: jarohat va bo'g'ilish xavfini istisno qilish, detallarning mustahkam mahkamlanishi, 24 V dan oshmaydigan kuchlanish hamda ovoz, tebranish va nurlanish darajalarining chegaralanganligi [1, 2]."
+      ]
+    }
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. Bolalar uchun o'yinchoqlar (o'yinlar) xavfsizligiga qo'yiladigan gigiyenik talablar: SanPiN № 0354-18 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 752. 2018.",
+    "Kuchma V.R. Bolalar va o'smirlar gigiyenasi: o'quv qo'llanma (rus tilida). xayrullokomilov.uz/kutubxona, material ID 2301. 2010."
+  ]
+}
