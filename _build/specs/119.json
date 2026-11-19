@@ -1,0 +1,65 @@
+{
+  "number": 119,
+  "title": "119. Trikotaj polotnoda kimyoviy xom ashyoning qaysi turlari birikmasi va qanday nisbatda ishlatishga ruxsat etiladi?",
+  "sections": [
+    { "heading": "Kirish", "content": [
+      "Bolalar trikotaj buyumlari teriga eng yaqin turadigan kiyim turi hisoblanadi. Shu sababli trikotaj polotnoda tabiiy va kimyoviy tolalarning birikmasi hamda ularning massa ulushi sanitariya talablari bilan qat'iy tartibga solinadi [1, 2].",
+      "Ushbu mavzuda trikotaj polotnoda ruxsat etiladigan tolalar birikmalari, ikki va undan ko'p turdagi xom ashyoni aralashtirish qoidalari, ichki va ustki kiyim hamda paypoq-naski buyumlari uchun ulushlar, istisnolar va hisoblash tartibi bayon etiladi [1]."
+    ]},
+    { "heading": "Hisoblash tamoyillari", "content": [
+      "Trikotaj polotnoda ishlatiladigan kimyoviy xom ashyoning eng yuqori massa ulushi buyum turi, o'lchami va yosh guruhiga qarab belgilanadi. O'lchamlar ko'krak qafasi aylanasi bo'yicha ko'rsatiladi, jadvalda yo'q o'lchamlar uchun avvalgi yosh guruhi talablari qo'llanadi [1].",
+      "Viskoza saqlovchi sun'iy tolalar (viskoza, siblon) kimyoviy tolalar ulushini aniqlashda tabiiy xom ashyo hisoblanadi. Tabiiy xom ashyo va viskoza saqlovchi sun'iy tolalar hamda ularning birikmalari barcha buyumlar uchun cheklanmaydi [1]."
+    ]},
+    { "heading": "Ikki turdagi xom ashyo birikmasi", "content": [
+      "Tabiiy va kimyoviy xom ashyodan iborat ikki turdagi birikmada kimyoviy tolaning eng yuqori massa ulushi jadvallar bo'yicha aniqlanadi. Bunda tolalar poliefir (lavsan), poliakrilonitril (nitron), poliamid (kapron), viskoza va atsetatga ajratiladi [1].",
+      "Masalan, ichki kiyim uchun 28-o'lchamgacha faqat tabiiy tola ishlatiladi. 28-32 o'lchamda tabiiy tola ulushi 70-100 % bo'ladi va 30 % gacha viskoza kiritish mumkin. 32-o'lchamdan boshlab tabiiy tola ulushi 50-100 % gacha pasayadi [1, 2]."
+    ]},
+    { "heading": "Uch va undan ortiq xom ashyo birikmasi", "content": [
+      "Trikotaj polotnoda uch yoki undan ortiq turdagi xom ashyo birikmasi qo'llanganda (masalan, tabiiy, sintetik va yana bir sintetik tola) har bir kimyoviy xom ashyoning massa ulushi o'zi uchun jadvalda ko'rsatilgan qiymat chegarasida bo'lishi shart [1].",
+      "Ularning yig'indisi ishlatilayotgan kimyoviy tolalardan biri uchun ruxsat etilgan eng katta qiymatdan oshmasligi kerak. Agar jadvalda tolaning ruxsat etilgan ulushi 100 % deb berilgan bo'lsa, kimyoviy xom ashyoning turli xillarini istalgan nisbatda birlashtirish mumkin [1]."
+    ]},
+    { "heading": "Ichki kiyimdagi ulushlar", "content": [
+      "Ichki kiyim (1-qatlam) trikotaj polotnosida atsetat iplari ko'p buyumlar uchun 100 % gacha ruxsat etilgan. Poliakrilonitril tolalari ko'pgina buyumlarda 60 % gacha, ayrim sport va cho'milish buyumlarida 20 % gacha chegaralanadi. Boshqa sintetik tolalar (poliefir, poliamid, polipropilen) asosan 40 % gacha ishlatiladi [1].",
+      "Istisnolar ham mavjud: poliamid iplari atsetat iplari bilan 84-o'lchamdan boshlab 40 % gacha, sport ichki kiyimida 64-o'lchamdan va sport trusiklarida 60-o'lchamdan ruxsat etiladi. Poliefir tolalari paxta bilan birikmada 20 % gacha 52-o'lchamdan boshlab ishlatiladi [1]."
+    ]},
+    { "heading": "Ustki kiyimdagi ulushlar", "content": [
+      "Ustki kiyim (2- va 3-qatlam) trikotaj polotnosi uchun yoz kiyimi (ko'ylak, bluzka), sport buyumlari va boshqa turlari bo'yicha alohida ulushlar belgilangan. Atsetat va triatsetat iplari ayrim buyumlar uchun 50-100 % gacha, poliakrilonitril 70-100 % gacha, boshqa sintetik tolalar 20-60 % gacha ruxsat etiladi [1].",
+      "Ko'ylak va bluzkalar uchun poliefir tolalarini tabiiy tolalar bilan 50:50 nisbatda (56-o'lchamdan), yozgi ko'ylaklar uchun 70:30 nisbatda ishlatish mumkin. Sport buyumlarida poliefir va poliamid 60-o'lchamdan boshlab 70-100 % gacha ishlatiladi [1]."
+    ]},
+    { "heading": "Istisno va yengilliklar", "content": [
+      "52-o'lchamdan boshlab jilet, yubka, sarafan, shortik va shim uchun kimyoviy tola, ip va ip-gazlamani 100 % gacha ishlatish ruxsat etiladi. Ustki kiyimdagi bunday yengillik katta bolalarga tegishli [1].",
+      "Nafis ko'ylaklar uchun atsetat va triatsetat iplari (70-80 %) kapron iplari (20-30 %) bilan birgalikda 56-o'lchamdan boshlab ishlatiladi. Ochiq to'qilishdagi ko'ylaklar uchun qisqa muddatli kiyish (4-5 soat) sharti bilan poliakrilonitril ipidan foydalanish mumkin [1]."
+    ]},
+    { "heading": "Jun va ustki kiyim buyumlari", "content": [
+      "Jun trikotaj polotnolarda 32-o'lchamdan boshlab tabiiy tola 50-100 % bo'lishi kerak. Nozik ip raqamlaridan tayyorlangan nafis ochiq to'qilgan ko'ylaklar uchun alohida istisno sifatida to'liq sintetik poliakrilonitril tolasi ruxsat etiladi [1, 2].",
+      "Ustki kiyim (kurtka, palto, kombinezon) uchun 24-30 o'lchamda tabiiy tola ulushi 50-100 %, sintetik tolalar har biri 50 % gacha ruxsat etiladi. 32-o'lchamdan boshlab tabiiy tola 33-100 %, sintetik tola 67 % gacha bo'ladi. «Bolonya» turidagi matolar 100 % sintetikdan bo'lishi mumkin [2]."
+    ]},
+    { "heading": "Paypoq-naski, qo'lqop va bosh kiyim", "content": [
+      "Paypoq-naski buyumlarida 12-16 o'lchamda faqat tabiiy tola ishlatiladi, 18-o'lchamdan boshlab tabiiy tola 60-100 %, poliefir va poliamid 40 % gacha bo'ladi. Qo'lqop, bosh kiyim va sharflar uchun jadval alohida ulushlar belgilaydi [1, 2].",
+      "Sovuq mavsum uchun 12-o'lchamdan boshlab yarim junli ip (60 %) paxta ipi (40 %) bilan paypoq-naskida ishlatiladi. Kolgotlar uchun to'qima kapron elastik ip ishlatiladi. Qo'sh to'qilgan qo'lqopning ustki qismida 100 % sintetika bo'lishi mumkin [1]."
+    ]},
+    { "heading": "Yasli yoshdagi bolalar uchun cheklovlar", "content": [
+      "Yasli guruh ichki kiyimida teriga tegadigan bezak qismlari (yoqa baykasi, manjetlar) va tikuv iplari sintetik xom ashyodan bo'lmasligi kerak. Teriga tegmaydigan bezak tikuvlarida sintetik tikuv iplari hamda poliakrilonitril tolali ip ishlatilishi mumkin [1].",
+      "Bunday ichki kiyimda bosma, termobosma, applikatsiya va naqshlar sintetik xom ashyodan bo'lishiga ruxsat beriladi, chunki ular teri bilan tegmaydi. Ko'ylak matolariga 32-o'lchamgacha sintetik tola qo'shish taqiqlanadi [1, 2]."
+    ]},
+    { "heading": "Buyum bo'yicha hisoblash", "content": [
+      "Xom ashyo tarkibi bo'yicha farq qiluvchi polotnolardan tayyorlangan buyumlarda kimyoviy xom ashyoning massa ulushi buyumning umumiy massasiga nisbatan hisoblanadi. U jadvaldagi mos buyum va o'lcham uchun belgilangan chegarada bo'lishi lozim [1].",
+      "Bezak qismlari (yoqadagi bayka, manjet) va sintetik tikuv iplari bu hisobga kiritilmaydi. Bu qoida buyumni tayyorlovchi korxonaga yagona hisoblash usulini beradi va sanitariya vrachiga tarkibni tekshirishni osonlashtiradi [1]."
+    ]},
+    { "heading": "Gigiyenik talablar", "content": [
+      "Kimyoviy tolalar ulushi cheklanishining asosiy sababi gigiyenik ko'rsatkichlarni ta'minlash. Ichki kiyim polotnosi kamida 14 % gigroskopiklik va yuqori havo o'tkazuvchanlikka ega bo'lishi kerak, elektrlanish esa 2-4,5 kV/m dan oshmasligi lozim [2].",
+      "Bu ko'rsatkichlar bola terisidagi bug' va terni tashqariga chiqarishni ta'minlaydi. Trikotaj polotnoning gigroskopikligi nisbiy namlik 65 % da va 100 % da alohida o'lchanadi, optimal talablarga tabiiy tolalar (zig'ir, paxta) va viskoza javob beradi [2]."
+    ]},
+    { "heading": "Nazorat tartibi", "content": [
+      "Trikotaj mahsulotining tola tarkibi akkreditatsiyadan o'tgan sinov laboratoriyalarida aniqlanadi, natija jadvaldagi qiymatlar bilan solishtiriladi [1, 2].",
+      "Talablarga javob bermagan mahsulot sotuvga chiqarilmaydi. Ro'yxatda yo'q yangi turdagi polotnolar faqat sanitariya-gigiyenik baholashdan keyin ruxsat oladi, buning uchun 3 m² material va 10 dona buyum namunasi taqdim etiladi [1]."
+    ]},
+    { "heading": "Xulosa", "content": [
+      "Trikotaj polotnoda kimyoviy xom ashyo turlarining birikmasi va ulushi buyum turi, o'lcham va yosh guruhiga qarab jadvallar asosida belgilanadi: chaqaloq va yasli yoshdagi bolalarda tabiiy tola ustun, katta bolalarda ulush yuqoriroq. Uch va undan ko'p tolali birikmada har bir tola o'z chegarasida bo'ladi, yig'indi esa eng katta ruxsat etilgan qiymatdan oshmaydi [1, 2]."
+    ]}
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Bosh davlat sanitariya vrachi. Bolalar kiyimi va poyabzali materiallariga kimyoviy tolalarni ularning gigiyenik ko'rsatkichlariga muvofiq qo'shish: SanPiN № 0238-07 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 616. 2007.",
+    "O'zbekiston Respublikasi Bosh davlat sanitariya vrachi. Bolalar va o'smirlar kiyimiga qo'yiladigan gigiyenik talablar: SanPiN № 0235-07 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 614. 2007."
+  ]
+}

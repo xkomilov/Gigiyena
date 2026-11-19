@@ -1,0 +1,66 @@
+{
+  "number": 118,
+  "title": "118. Bolalar kiyim-kechagi va poyabzali materiallariga kimyoviy tolalar qo'shilishiga oid talablar.",
+  "sections": [
+    { "heading": "Kirish", "content": [
+      "Bolalar organizmida issiqlik almashinuvi kattalarga qaraganda oson buziladi, bola tezroq qizib ketadi yoki sovqotadi. Shu sababli kiyim va poyabzal materialining tarkibi, ayniqsa unga kiritiladigan kimyoviy tola miqdori bolalar salomatligini muhofaza qilishda muhim ahamiyatga ega [1, 2].",
+      "Ushbu mavzuda kimyoviy tolalarni bolalar kiyimi va poyabzali materiallariga kiritishning umumiy tamoyillari, ruxsat etilgan va cheklangan tolalar, yosh guruhlari bo'yicha cheklovlar, qo'shimcha materiallarga qo'yiladigan talablar hamda gigiyenik baholash tartibi bayon etiladi [1, 2, 3]."
+    ]},
+    { "heading": "Huquqiy asos va qamrov", "content": [
+      "Kimyoviy tolalarni bolalar kiyimi va poyabzali materiallariga kiritish masalalari 2007-yilda tasdiqlangan 0238-07-son SanPiN bilan tartibga solinadi. U bolalarning trikotaj, jun, ko'ylak-kostyum, palto, paypoq-naski buyumlarida kimyoviy xom ashyoning massa ulushiga tatbiq etiladi [1].",
+      "Bolalar kiyimiga umumiy gigiyenik talablar 0235-07-son SanPiN, bolalar poyabzaliga talablar 0237-07-son SanPiN bilan belgilanadi. Bu qoidalar Sanitariya nazorati to'g'risidagi qonunga asoslangan, ularni buzish intizomiy va ma'muriy javobgarlikka olib keladi [2, 3]."
+    ]},
+    { "heading": "Cheklash zarurligining sabablari", "content": [
+      "Ichki kiyim va yengil ko'ylak matolari teriga yaqin turadi, shu sababli ular havo va bug' o'tkazuvchanligi yuqori hamda gigroskopik bo'lishi kerak. Aks holda karbonat angidrid, ter va teri ajratadigan boshqa moddalar kiyim ostidagi bo'shliqdan chiqib keta olmaydi [2].",
+      "Kimyoviy tolalardan tayyorlangan matolardan teriga zararli moddalar migratsiyasi va elektrlanish xavfi bor. Shuning uchun bolaning yoshi kichik bo'lgan sari terisi bilan to'g'ridan-to'g'ri tegadigan buyumlarda kimyoviy tola ulushi qattiq cheklanadi [1, 2]."
+    ]},
+    { "heading": "Tabiiy va sun'iy tolalar", "content": [
+      "Tabiiy tola, ip va iplardan tayyorlangan hamda viskoza saqlovchi sun'iy tolalar (viskoza, siblon va boshqalar) ishlatilishi barcha buyumlar uchun cheklanmaydi. Viskoza saqlovchi sun'iy xom ashyo kimyoviy tolalar massa ulushini hisoblashda tabiiy xom ashyo sifatida qaraladi [1].",
+      "Sintetik tolalar va sun'iy atsetat hamda triatsetat tolalarini ishlatish buyumning vazifasi, turi va o'lchamiga qarab cheklanadi. Buyum o'lchamlari ko'krak qafasi aylanasi bo'yicha ko'rsatiladi, jadvalda ko'rsatilmagan o'lchamlar uchun avvalgi yosh guruhining talablari qabul qilinadi [1]."
+    ]},
+    { "heading": "Sintetik tolalar turlari", "content": [
+      "Bolalar buyumlarida poliefir (lavsan), poliakrilonitril (nitron), poliamid (kapron) sintetik tolalari, viskoza va atsetat sun'iy tolalari ishlatiladi. Har bir tola uchun buyum turi va o'lchamiga qarab eng ko'p ruxsat etiladigan ulush belgilanadi [1].",
+      "Ichki kiyim uchun 28-o'lchamgacha 100 % tabiiy tola talab qilinadi. 28-32 o'lchamda tabiiy tola 70-100 %, qo'shimcha ravishda 30 % gacha viskoza ruxsat etiladi. Paypoq-naski buyumlarida 12-16 o'lchamda faqat tabiiy tola ishlatiladi [1, 2]."
+    ]},
+    { "heading": "Yosh guruhlari bo'yicha cheklovlar", "content": [
+      "Yasli yoshdagi (32-o'lchamgacha) bolalarning ko'ylak matolariga sintetik tola va ip kiritilmaydi. Tug'ilgandan keyingi dastlabki 28 kun, shu jumladan muddatidan oldin tug'ilgan chaqaloqlar uchun buyumlar faqat tabiiy mato, polotno va trikotajdan tayyorlanadi, tikuvlarda paxta ipi ishlatiladi [1, 2].",
+      "Teriga tegadigan kiyimlarda yasli, maktabgacha va kichik maktab yoshidagi (40-o'lchamgacha) bolalar uchun sintetik tikuv iplari ishlatilmaydi. Ichki kiyimda yasli, maktabgacha va erta yoshdagi bolalar uchun appret va shimdirish moddalari taqiqlanadi [1]."
+    ]},
+    { "heading": "Aralash tarkibli matolar", "content": [
+      "Ikki xil xom ashyo (tabiiy va kimyoviy) birikmasidan tayyorlangan trikotaj polotnoda kimyoviy xom ashyoning ruxsat etilgan eng yuqori massa ulushi jadvallarda berilgan. Bunday ulush buyum turi, o'lchami va yosh guruhiga qarab o'zgaradi [1].",
+      "Uch va undan ortiq xil xom ashyo birikmasida har bir kimyoviy tolaning massa ulushi o'z jadval qiymati chegarasida bo'lishi kerak. Ularning umumiy yig'indisi ishlatilgan kimyoviy tolalardan biri uchun ruxsat etilgan eng katta qiymatdan oshmasligi lozim [1]."
+    ]},
+    { "heading": "Tikuv va bezak qismlari", "content": [
+      "Bezak qismlari, masalan, yoqadagi bayka va manjetlar, shuningdek sintetik tikuv iplari buyumdagi kimyoviy xom ashyo ulushini aniqlashda hisobga olinmaydi. Ular ruxsat etilgan hajmda ishlatilsa ham, teriga tegadigan o'rinlarda yasli yoshdagi bolalar uchun sintetikdan qilinmasligi kerak [1].",
+      "Yasli guruh ichki kiyimida bosma, termobosma, applikatsiya va naqsh sintetik xom ashyodan bo'lishi mumkin, chunki ular teriga tegmaydi. Trusik va cho'milish kiyimlari 56-64 o'lchamlarda kimyoviy xom ashyo bo'lsa, ichki tomondan paxta yoki paxta-siblon gazlamali tagliklar bilan tayyorlanadi [1]."
+    ]},
+    { "heading": "Sun'iy mo'yna va issiqlik saqlagichlar", "content": [
+      "Bolalar kiyimining boshqa buyumlari uchun sun'iy mo'yna va sintetik issiqlik saqlagichlar (yelimlangan, hajmli va igna bilan teshilgan) ishlatilishi mumkin. Yasli guruhdagi bolalar uchun ular O'zbekiston Respublikasi Sog'liqni saqlash vazirligining ijobiy xulosasi bo'lgandagina qo'llanadi [1].",
+      "Yangi materialdan foydalanishdan oldin uning sanitariya-gigiyenik bahosi talab etiladi. Shu sababli bunday materiallar yasli yoshdagi bolalar uchun cheklangan [1]."
+    ]},
+    { "heading": "Poyabzal materiallari", "content": [
+      "Bolalar poyabzali uchun tabiiy teri bilan birga faqat gigiyenik baho olgan va Sog'liqni saqlash vazirligi ruxsat bergan polimer materiallar ishlatiladi. Ularga «Malish» va «Depora» g'ovak rezinalari, poliuretan, flover-lak, nayrit va poliuretan yelimlari kiradi [1, 3].",
+      "G'ovak rezina issiqlik saqlash xususiyati bo'yicha tabiiy teri va monolit rezinadan ustun. Namlik oshganda tabiiy teri va junning issiqlik yo'qotishi ortadi, g'ovak rezinada esa o'zgarmaydi. Shu sababli bolalar poyabzali tagligida ular afzal ko'riladi [3]."
+    ]},
+    { "heading": "Ro'yxatda yo'q materiallar", "content": [
+      "Normativ hujjatda sanab o'tilmagan barcha materiallar bolalar kiyimi va poyabzali ishlab chiqarishga faqat sanitariya-gigiyenik baholashdan so'ng hamda hududiy sanitariya-epidemiologiya xizmati organlari ruxsati bilan qo'yiladi [1].",
+      "Baholash uchun tadqiq qiluvchi muassasaga materialdagi kimyoviy tola foizini aniqlovchi ilmiy-texnik ma'lumotlar to'plami, barcha yordamchi kimyoviy moddalarni qamrovchi texnologik jarayon tavsifi, tekshirish uchun 3 m² material va buyumlarning 10 dona namunasi topshiriladi [1]."
+    ]},
+    { "heading": "Gigiyenik ko'rsatkichlarni baholash", "content": [
+      "Kiyim matolari gigroskopiklik, havo o'tkazuvchanlik, elektrlanish va kimyoviy moddalar migratsiyasi bo'yicha tekshiriladi. I sinf buyumlar uchun trikotaj polotnoda gigroskopiklik kamida 14 % bo'lishi, elektrlanish 2 kV/m dan oshmasligi kerak [2].",
+      "Sanitariya-kimyoviy ko'rsatkichlar tolalar turiga qarab belgilanadi: sun'iy tolalardan uglerod sulfidi, poliefirdan etilenglikol, poliamiddan kaprolaktam, poliakrilonitrildan akrilonitril ajralishi me'yorlashtiriladi. Toksiklik indeksi 70-120 % oralig'ida bo'lishi shart [2]."
+    ]},
+    { "heading": "Sanitariya vrachining vazifasi", "content": [
+      "Sanitariya vrachi ishlab chiqarish va savdo korxonalarida bolalar buyumlari tarkibining sanitariya talablariga mosligini, yorliqdagi ma'lumot va sanitariya-gigiyenik sertifikat mavjudligini tekshiradi. Bolalar kiyimi sertifikatsiz sotuvga chiqarilmaydi [2].",
+      "Shuningdek, vrach laboratoriya tekshiruvi uchun namunalarni belgilangan tartibda oladi, natijalarni talablar bilan solishtiradi va qoidabuzarliklarni bartaraf etish choralarini ko'radi. Bu ish bolalar salomatligiga zararli buyumlarning bozorga tushishini oldini oladi [1, 2]."
+    ]},
+    { "heading": "Xulosa", "content": [
+      "Bolalar kiyimi va poyabzali materiallariga kimyoviy tolalar bola yoshiga, buyum turiga va teri bilan tegish darajasiga qarab cheklab kiritiladi. Eng kichik yoshdagi bolalar uchun ichki kiyim tabiiy tolalardan, yasli yoshdagilar uchun ko'ylak matolari sintetiksiz bo'lishi shart. Yangi materiallar faqat gigiyenik baholashdan keyin qo'llanadi [1, 2, 3]."
+    ]}
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Bosh davlat sanitariya vrachi. Bolalar kiyimi va poyabzali materiallariga kimyoviy tolalarni ularning gigiyenik ko'rsatkichlariga muvofiq qo'shish: SanPiN № 0238-07 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 616. 2007.",
+    "O'zbekiston Respublikasi Bosh davlat sanitariya vrachi. Bolalar va o'smirlar kiyimiga qo'yiladigan gigiyenik talablar: SanPiN № 0235-07 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 614. 2007.",
+    "O'zbekiston Respublikasi Bosh davlat sanitariya vrachi. Bolalar poyabzaliga qo'yiladigan gigiyenik talablar: SanPiN № 0237-07 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 615. 2007."
+  ]
+}

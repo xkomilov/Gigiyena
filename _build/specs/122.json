@@ -1,0 +1,70 @@
+{
+  "number": 122,
+  "title": "122. Materiallar va buyumlarni gigiyenik baholashni olib borishda muassasa tomonidan qanday hujjatlar topshirilishi kerak?",
+  "sections": [
+    { "heading": "Kirish", "content": [
+      "Bolalar kiyimi, poyabzali va ular uchun ishlatiladigan yangi materiallar sotuvga chiqarilishidan oldin sanitariya-gigiyenik baholashdan o'tadi. Baholashni o'tkazadigan tadqiqot muassasasi tekshiruvni boshlash uchun ishlab chiqaruvchidan to'liq ma'lumotlar to'plamini talab qiladi [1, 2].",
+      "Ushbu mavzuda baholash uchun topshiriladigan texnik ma'lumotlar, material va buyum namunalari, tekshiruv turlari, laboratoriyaga qo'yiladigan talablar va natijani rasmiylashtirish tartibi bayon etiladi [1, 2]."
+    ]},
+    { "heading": "Baholash zarurligi", "content": [
+      "Bolalar kiyimi va poyabzali uchun tabiiy teri va tolalardan tashqari kimyoviy tolalar, sun'iy mo'yna va polimer materiallar ham ishlatiladi. Sanitariya normalarida sanab o'tilmagan barcha materiallar faqat sanitariya-gigiyenik baholashdan keyin ruxsat oladi [1, 3].",
+      "Baholash natijasida hududiy sanitariya-epidemiologiya xizmati organlari belgilangan tartibda ruxsat beradi. Ruxsatsiz bolalar buyumlarini ishlab chiqarish va sotish mumkin emas, chunki ular bolalar salomatligiga zarar yetkazishi mumkin [1, 2]."
+    ]},
+    { "heading": "Texnik-ilmiy ma'lumotlar", "content": [
+      "Muassasa tekshiriladigan material bo'yicha ilmiy-texnik ma'lumotlar to'plamini taqdim etadi. Unda materialdagi kimyoviy tolaning foiz miqdori aniq ifodalanishi shart, chunki ularni tahlil qilish bolalar buyumida ruxsat etilgan ulush bilan solishtirishga asos bo'ladi [1].",
+      "Bu ma'lumotlar materialning xom ashyo tarkibi va turini, ishlab chiqarish texnologiyasini, mo'ljallangan buyum turi va foydalanuvchi yoshini qamrab oladi. Ular tadqiqotchiga qaysi sinov turlari va qaysi talablar qo'llanishini aniqlashga yordam beradi [1, 2]."
+    ]},
+    { "heading": "Texnologik jarayon tavsifi", "content": [
+      "Texnologik jarayon tavsifida ishlatiladigan barcha to'qimachilik yordamchi kimyoviy moddalar ko'rsatilishi kerak. Bularga appretlar, shimdirish moddalari, antistatiklar va boshqa ishlov beruvchi vositalar kiradi [1].",
+      "Bolalar ichki kiyimida erta, yasli va maktabgacha yoshdagilar uchun appret va shimdirish moddalari ishlatilmaydi, teri bilan tegadigan kiyim materiallarida ularni qo'llash Sog'liqni saqlash vazirligi bilan kelishiladi. Shu sababli bu ma'lumotlar toksikologik baholash uchun muhim [1]."
+    ]},
+    { "heading": "Material va buyum namunalari", "content": [
+      "Sanitariya-kimyoviy, fizik-gigiyenik va toksikologik tekshiruvlar uchun tadqiqot muassasasiga 3 m² hajmdagi material topshiriladi.",
+      "Fizik-gigiyenik tadqiqotlar uchun tayyor buyumlardan 10 dona namuna beriladi."
+    ]},
+    { "heading": "Poyabzalga oid ma'lumotlar", "content": [
+      "Bolalar poyabzali baholanayotganda tegishli ilmiy-texnik ma'lumotlarga poyabzalning turi (gusarik, maktabgacha, maktab), o'lchami va to'liqligi, qo'llangan yuqori, taglik, astar va yelim materiallari kiradi. Polimer materiallar faqat gigiyenik baho olgan bo'lishi kerak [3].",
+      "Poyabzal sifatini baholash uchun ishlab chiqaruvchi korxonada chiqarilayotgan assortiment tegishli standartlar va texnik shartlarga mosligi hamda asosiy gigiyenik talablarga rioya etilishi tekshiriladi. [3]."
+    ]},
+    { "heading": "Buyumni sinflash", "content": [
+      "Sinov dasturi buyumning sinfiga bog'liq. Sinf uchta ko'rsatkich bo'yicha aniqlanadi: teri bilan tegish maydoni, foydalanuvchi yoshi va uzluksiz kiyish davomiyligi. Har bir ko'rsatkichga ball beriladi, ballar yig'indisidan sinflovchi ko'rsatkich (SK) hisoblanadi [2].",
+      "SK qiymati 0,38-0,55 bo'lsa buyum I sinfga, 0,56-0,70 bo'lsa II sinfga, 0,71-0,92 bo'lsa III sinfga, 0,93-1,25 bo'lsa IV sinfga kiritiladi. Yosh qanchalik kichik bo'lsa va teri bilan tegish maydoni qanchalik katta bo'lsa, buyum shunchalik qattiq talablarga bo'ysunadi [2]."
+    ]},
+    { "heading": "Chaqaloq buyumlari uchun qo'shimcha talablar", "content": [
+      "Yangi tug'ilgan (dastlabki 28 kun), shu jumladan muddatidan oldin tug'ilgan bolalar buyumlari faqat tabiiy mato, polotno va trikotajdan tayyorlanadi, tikuvlar paxta ipi bilan bajariladi. Barcha biriktiruvchi tikuvlar yuz tomoniga chiqarilishi lozim [2].",
+      "Muddatidan oldin tug'ilganlar buyumlarida tikuv va tugunlar, tanaga tegadigan tugma va knopkalar bo'lmasligi, bosh orqali kiyiladigan buyumlar ishlab chiqarilmasligi kerak. Yorliqda «Oldindan yuvish shart» yozuvi bo'lishi talab etiladi [2]."
+    ]},
+    { "heading": "Tekshiruv turlari", "content": [
+      "Bolalar kiyimi va materiallari to'rt guruh ko'rsatkichlar bo'yicha baholanadi: organoleptik, fizik-gigiyenik, sanitariya-kimyoviy va toksikologik. Organoleptik tekshiruvda modelli suv ajratmasining hid intensivligi ballarda aniqlanadi [2].",
+      "Fizik-gigiyenik ko'rsatkichlarga gigroskopiklik, havo o'tkazuvchanlik va elektrlanish kiradi. Sanitariya-kimyoviy tekshiruvda tola turiga qarab ajraluvchi moddalar, shuningdek og'ir metallar va formaldegid migratsiyasi suv va havo muhitida aniqlanadi [2]."
+    ]},
+    { "heading": "Toksikologik baho", "content": [
+      "Toksiko-gigiyenik baholash mahsulotning toksiklik indeksi bo'yicha o'tkaziladi, u kimyoviy moddalar migratsiyasi darajasini aniqlaydi. Indeks 70-120 % oralig'ida bo'lishi lozim [2].",
+      "Bolalar tagliklari (podguzniklar) klinik sinovdan o'tmagan bo'lsa, sotuvga ruxsat etilmaydi. Yangi tug'ilgan chaqaloqlar uchun kiyim ham maxsus talablarga javob beradi, etiketkada «Oldindan yuvish shart» yozuvi bo'lishi kerak [2]."
+    ]},
+    { "heading": "Laboratoriya talablari", "content": [
+      "Ko'rsatkichlar tegishli sinov laboratoriyalarida belgilangan tartibda aniqlanadi. Laboratoriya amaldagi normativlarga muvofiq sanitariya-epidemiologik baholash huquqiga akkreditatsiyadan o'tgan bo'lishi shart [2].",
+      "Sanitariya vrachi laboratoriya natijasini tahlil qiladi va uni sinflarga qo'yilgan talablar bilan taqqoslaydi."
+    ]},
+    { "heading": "Sanitariya-gigiyenik sertifikat", "content": [
+      "Bolalar kiyimi sotuvga faqat sanitariya-gigiyenik sertifikat bo'lganda ruxsat etiladi. Sertifikat buyumning sanitariya qoidalariga muvofiqligini tasdiqlaydi va uni ishlab chiqarish, olib kirish hamda sotish bilan shug'ullanuvchi subyektlar olishi shart [2].",
+      "Talablar O'zbekiston hududida ishlab chiqariladigan, olib kiriladigan va sotiladigan kiyimga tatbiq etiladi. Shu sababli ishlab chiqaruvchi ham, importyor ham baholash uchun bir xil ma'lumotlar to'plamini taqdim etadi [2]."
+    ]},
+    { "heading": "Javobgarlik", "content": [
+      "Sanitariya normalarini buzish intizomiy va ma'muriy javobgarlikka olib keladi. Sanitariya huquqbuzarligiga yo'l qo'ygan mansabdor shaxslar intizomiy, ma'muriy va jinoiy javobgarlikka tortilishi mumkin [2].",
+      "Korxona rahbarlari obyektlarni loyihalash, qurish va texnik qayta jihozlashda sanitariya normalariga rioya qilishi shart. Bolalar uchun mahsulot ishlab chiqaruvchi korxonalar mahsulot sifati va xavfsizligi uchun mas'uldir [2]."
+    ]},
+    { "heading": "Sanitariya vrachining ishi", "content": [
+      "Sanitariya vrachi baholash uchun taqdim etilgan ma'lumotlarning to'liqligini tekshiradi: kimyoviy tola tarkibi, yordamchi moddalar, material va buyum namunalari bo'lishi kerak. Yangi turdagi material uchun ijobiy xulosa bo'lgandagina u bolalar buyumlari ishlab chiqarishga kiritiladi [1].",
+      "Natijalar tegishli sinflar uchun belgilangan jadval talablari bilan taqqoslanadi. Shundan keyin bolalar kiyimi uchun sanitariya-gigiyenik sertifikat beriladi, ishlab chiqarish va sotuv jarayonida esa tekshiruvlar davom ettiriladi [1, 2]."
+    ]},
+    { "heading": "Xulosa", "content": [
+      "Materiallar va buyumlarni gigiyenik baholash uchun muassasa ilmiy-texnik ma'lumotlar (kimyoviy tola foizi bilan), yordamchi kimyoviy moddalarni qamrovchi texnologik jarayon tavsifi, 3 m² material va 10 dona buyum namunasini topshiradi. Natijalar asosida sanitariya-gigiyenik sertifikat beriladi, shundan keyingina mahsulot sotuvga chiqariladi [1, 2]."
+    ]}
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Bosh davlat sanitariya vrachi. Bolalar kiyimi va poyabzali materiallariga kimyoviy tolalarni ularning gigiyenik ko'rsatkichlariga muvofiq qo'shish: SanPiN № 0238-07 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 616. 2007.",
+    "O'zbekiston Respublikasi Bosh davlat sanitariya vrachi. Bolalar va o'smirlar kiyimiga qo'yiladigan gigiyenik talablar: SanPiN № 0235-07 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 614. 2007.",
+    "O'zbekiston Respublikasi Bosh davlat sanitariya vrachi. Bolalar poyabzaliga qo'yiladigan gigiyenik talablar: SanPiN № 0237-07 (rus tilida). Toshkent. xayrullokomilov.uz/kutubxona, material ID 615. 2007."
+  ]
+}
